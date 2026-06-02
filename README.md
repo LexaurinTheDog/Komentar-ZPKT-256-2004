@@ -40,6 +40,7 @@ Zákon vynechává řadu čísel paragrafů (zrušená ustanovení) a obsahuje r
 ## Upozornění
 
 Materiál slouží odbornému a vzdělávacímu účelu. Vychází z konsolidovaného znění k 11. 1. 2026; pozdější změny nemusí být zohledněny. Nejde o právní službu ani závazné právní stanovisko.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
