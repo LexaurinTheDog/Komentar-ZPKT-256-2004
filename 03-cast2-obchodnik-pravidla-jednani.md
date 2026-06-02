@@ -802,7 +802,6 @@ Desetiletá archivační lhůta odpovídá obecné praxi pro regulatorní eviden
 
 § 14h je souhrnná delegační norma pro prováděcí vyhlášku k celému systému odbornosti (§§ 14b–14f). Rozsah delegace je věcně vymezen — prováděcí předpis nesmí rozšiřovat nebo zužovat zákonné podmínky odborné způsobilosti, pouze je technicky rozvést.
 
-
 ---
 
 ## Oddíl 5 — Jednání obchodníka s cennými papíry se zákazníky
@@ -897,6 +896,11 @@ Zákon neříká, co se musí stát s nepřijatelnými pobídkami při nezávisl
 > *(6) Požadavky na informace pro účely odstavce 1 upravuje čl. 44 nařízení Komise v přenesené pravomoci (EU) 2017/565.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 3695/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F144C7CF5F110B7BC1257F48004C7819?openDocument) — 27. 10. 2015, kat. A
+  > „Nedohodnou-li si zákazník a investiční zprostředkovatel zvláštní povinnost investičního zprostředkovatele informovat zákazníka o možném vývoji na trhu s investičním nástrojem v době od nákupu investičního nástroje do jeho případného prodeje, neodpovídá investiční zprostředkovatel zákazníkovi za možnou ztrátu z prodeje investičního nástroje"
 
 #### Zásada srozumitelnosti a pravdivosti komunikace
 
@@ -1223,6 +1227,11 @@ Klíčové prvky:
 > *(8) Další podrobnosti pro účely odstavců 1 až 3 upravují čl. 54 a 55 nařízení Komise v přenesené pravomoci (EU) 2017/565.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 3695/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F144C7CF5F110B7BC1257F48004C7819?openDocument) — 27. 10. 2015, kat. A
+  > „Nedohodnou-li si zákazník a investiční zprostředkovatel zvláštní povinnost investičního zprostředkovatele informovat zákazníka o možném vývoji na trhu s investičním nástrojem v době od nákupu investičního nástroje do jeho případného prodeje, neodpovídá investiční zprostředkovatel zákazníkovi za možnou ztrátu z prodeje investičního nástroje"
 
 #### Test vhodnosti (suitability test) — ústřední nástroj ochrany zákazníka
 

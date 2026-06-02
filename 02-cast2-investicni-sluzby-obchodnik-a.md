@@ -164,6 +164,11 @@ Odst. 8 odkazuje na nařízení Komise 2017/565, které upřesňuje hraniční p
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 3695/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F144C7CF5F110B7BC1257F48004C7819?openDocument) — 27. 10. 2015, kat. A
+  > „Nedohodnou-li si zákazník a investiční zprostředkovatel zvláštní povinnost investičního zprostředkovatele informovat zákazníka o možném vývoji na trhu s investičním nástrojem v době od nákupu investičního nástroje do jeho případného prodeje, neodpovídá investiční zprostředkovatel zákazníkovi za možnou ztrátu z prodeje investičního nástroje"
+
 #### Funkce § 4 — vymezení předmětu regulace
 
 § 4 je komplementárním definičním blokem k § 3: zatímco § 3 vymezuje objekty (investiční nástroje), § 4 vymezuje **aktivity** (investiční služby), jejichž podnikatelský výkon vyžaduje povolení. Katalog přejímá Přílohu I oddíl A (hlavní investiční služby) a oddíl B (doplňkové investiční služby) MiFID II.
@@ -215,7 +220,6 @@ Odst. 5 rozšiřuje custody o vedení evidencí dle §§ 92–93 ZPKT — tzv. n
 § 4a zakotvuje **obecný zákaz poskytování hlavních investičních služeb a custody bez povolení** (prohibition with authorisation exception). Zákaz je absolutní, nestanoví-li zákon nebo jiný předpis jinak — výjimky jsou taxativně v § 4b. Porušení zakládá správní delikt dle § 157 ZPKT. Povolení vydává ČNB; podmínky pro jeho udělení jsou v § 6.
 
 ---
-
 
 ### § 4b — Výjimky z povolení k poskytování hlavních investičních služeb
 
@@ -308,7 +312,6 @@ Odst. 5 rozšiřuje custody o vedení evidencí dle §§ 92–93 ZPKT — tzv. n
 Vzájemné odkazování na zákon o bankách (§§ 25–34, 38c–39 aj. zákona č. 21/1992 Sb.) pro investiční podniky a systémově významné obchodníky zajišťuje, že tito podléhají pravidlům konsolidace, ozdravných postupů a krizového řízení srovnatelným s bankami.
 
 ---
-
 
 ### § 5a — Pravomoc ČNB rozhodnout o použití požadavků nařízení CRR na některé obchodníky
 
@@ -407,7 +410,6 @@ Podmínky povolení nejsou „vstupní branou", kterou stačí jednou projít �
 Obchodník musí oznamovat každou **významnou změnu** ve skutečnostech, na jejichž základě povolení získal. Zákon nestanoví, co je „významná změna" — z povahy věci jde o změny, které by při podání nové žádosti ovlivnily výsledek povolení. Změny, které zákon podmiňuje samostatným souhlasem (např. nabytí kvalifikované účasti dle § 10b) oznamovací povinnost nenahrazují, ale naopak podléhají přísnějšímu režimu předchozího souhlasu.
 
 ---
-
 
 ### § 6a — Další podnikatelská činnost nebankovního obchodníka s cennými papíry
 
@@ -509,7 +511,6 @@ Registrace vedlejší činnosti (na rozdíl od povolení) je procesně jednoduš
 
 ---
 
-
 ### § 6c — Odnětí povolení k činnosti systémově významného obchodníka
 
 > **§ 6c**
@@ -597,7 +598,6 @@ Odst. 2 zajišťuje, že pouhé dočasné utlumení bankovní činnosti (přijí
 § 7b je krizová výjimka z normálního povolení. Umožňuje urychleně zřídit překlenovací instituci (bridge institution) v rámci nástrojů řešení krize dle zákona č. 374/2015 Sb. (ZRPKT) — instituci, která přebírá životaschopnou část selhávajícího obchodníka. Podmínky povolení dle § 6 mohou být dočasně prominuty, aby byl zajištěn plynulý přechod a ochrana zákazníků. Jde o implementaci čl. 40 a 41 směrnice BRRD (2014/59/EU).
 
 ---
-
 
 ### § 8a — Počáteční kapitál obchodníka s cennými papíry
 
@@ -715,7 +715,6 @@ Výčet v odst. 3 tvoří skupinu kolektivních a individuálních požadavků:
 
 ---
 
-
 ### § 10a — Posouzení vhodnosti osoby pro výkon funkce člena vedoucího orgánu
 
 > **§ 10a**
@@ -799,7 +798,6 @@ Výčet v odst. 3 tvoří skupinu kolektivních a individuálních požadavků:
 Odst. 4 a 5 zakotvují spolupráci s orgány AML/CFT — ČNB může konzultovat FAÚ nebo zahraniční AML orgán a nově i přistupovat k databázi AMLA (nařízení (EU) 2024/1620 o zřízení Orgánu pro boj proti praní peněz). Jde o koordinaci dohledu nad způsobilostí s opatřeními proti praní peněz, protože informace o osobách mohou být klíčové pro posouzení důvěryhodnosti.
 
 ---
-
 
 ### § 10b — Stanovení a výpočet kvalifikované účasti
 
@@ -930,7 +928,6 @@ Banky, které jsou současně obchodníky s cennými papíry, podléhají režim
 Střety zájmů mezi zákazníky navzájem (odst. 1 in fine) jsou specificky relevantní pro portfolio management a obchodní systémy, kde obchodník páruje nebo provádí pokyny více zákazníků.
 
 ---
-
 
 ### § 12 — Systém správy a řízení k zajištění účinného a obezřetného řízení
 

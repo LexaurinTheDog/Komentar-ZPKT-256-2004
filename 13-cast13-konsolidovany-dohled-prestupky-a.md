@@ -1242,10 +1242,3 @@ Zákon u akreditované osoby nestanoví alternativu 10 % obratu ani 2× prospěc
 
 ---
 
-
-
-
-
-
-
-

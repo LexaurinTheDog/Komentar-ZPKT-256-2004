@@ -217,6 +217,11 @@ Rozsah povinností je záměrně zúžen oproti plnému režimu OCP se sídlem v
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2084/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/20072B33B0E62979C12585AB002F1D2C?openDocument) — 26. 5. 2020, kat. A
+  > „Při výkladu pojmu „zaměřování činnosti" ve smyslu čl. 17 odst. 1 písm. c) nařízení Brusel I bis je třeba přihlédnout i k tomu, že zahraniční podnikatel, který poskytl investiční služby spotřebiteli s bydlištěm v České republice a nemá na území České republiky zřízenu svou pobočku, k poskytování takových služeb přistoupil poté, kdy byly splněny podmínky stanovené v § 25 odst. 1 a 2 zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu"
+
 #### Dočasné vs. trvalé přeshraniční poskytování
 
 Zákon rozlišuje dva režimy přeshraničního poskytování bez pobočky:
@@ -475,6 +480,11 @@ Roční report ČNB obsahuje jak kvantitativní (obrat, aktiva, expozice), tak k
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 3695/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F144C7CF5F110B7BC1257F48004C7819?openDocument) — 27. 10. 2015, kat. A
+  > „Nedohodnou-li si zákazník a investiční zprostředkovatel zvláštní povinnost investičního zprostředkovatele informovat zákazníka o možném vývoji na trhu s investičním nástrojem v době od nákupu investičního nástroje do jeho případného prodeje, neodpovídá investiční zprostředkovatel zákazníkovi za možnou ztrátu z prodeje investičního nástroje"
+
 #### Vymezení investičního zprostředkovatele
 
 Investiční zprostředkovatel (IZ) je specificky český typ subjektu, který nemá přímý protějšek v MiFID II, ačkoli MiFID II kategorii zprostředkovatelů zná jako „tied agents" (vázané zástupce). IZ není vázaným zástupcem — je to **samostatně licencovaný subjekt** s vlastním povolením ČNB. Zákon jej omezuje na dvě hlavní investiční služby:
@@ -711,6 +721,11 @@ Limity jsou stanoveny v absolutní výši (Kč), nikoli odkazem na unijní nař�
 > *(7) Prováděcí právní předpis stanoví náležitosti a způsob vedení evidence podle odstavce 4.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 3695/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F144C7CF5F110B7BC1257F48004C7819?openDocument) — 27. 10. 2015, kat. A
+  > „Nedohodnou-li si zákazník a investiční zprostředkovatel zvláštní povinnost investičního zprostředkovatele informovat zákazníka o možném vývoji na trhu s investičním nástrojem v době od nákupu investičního nástroje do jeho případného prodeje, neodpovídá investiční zprostředkovatel zákazníkovi za možnou ztrátu z prodeje investičního nástroje"
 
 #### Systém přiměřeného použití povinností OCP
 
