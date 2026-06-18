@@ -419,6 +419,11 @@ Odstavec 7 výslovně uvádí, že pojmy investičního poradenství (písm. f))
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Afs 272/2023 - 60](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/737341) — 11. 12. 2024
+  > „…konkrétně definované osoby, u nichž se předpokládá či bylo prověřeno dostatečné finanční zázemí a odborné povědomí a zkušenosti s obchody na kapitálovém trhu; mj. se jedná o podnikající právnické osoby, plnící alespoň dvě ze tří následujících podmínek: vlastní kapitál ve výši alespoň 2 mil. €, aktiva alespoň 20 mil. € či roční úhrn čistého obratu alespoň 40 mil. € [srov. … § 2a odst. 2 písm. a) zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu…]"
+
 #### Systém klasifikace zákazníků — třístupňová ochrana
 
 ZPKT přejímá třístupňový model ochrany zákazníků z MiFID II (čl. 4 odst. 1 bod 10 a Příloha II MiFID II). Zákazníci se dělí na:

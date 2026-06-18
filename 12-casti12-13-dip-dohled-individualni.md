@@ -1001,6 +1001,13 @@ Technicky se změna rozsahu provádí vydáním **nového rozhodnutí, které zr
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 Af 30/2010 - 133](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/562812) — 25. 11. 2011
+  > „(…) znaky opakovanosti a závažnosti nemusejí být ve smyslu § 145 odst. 2 písm. d) zákona naplněny kumulativně, ale postačí splnění i jen jednoho z nich. (…) Zatímco při úvahách o „opakovaném“ porušení je třeba zkoumat, zda byla v minulosti splněna požadovaná formálně procesní podmínka (tedy zda žalovaná rozhodnutím vyslovila, že účastník porušil zákon), porušení „závažné“ je absolutní hmotněprávní kvalitou, nevázanou na předchozí splnění procesních podmínek. (…)"
+- *NSS* [16 A 42/2019 - 36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/706633) — 9. 11. 2022
+  > „Znaky opakovanosti a závažnosti porušení zákona o podnikání na kapitálovém trhu totiž nemusejí být ve smyslu § 145 odst. 2 písm. d) tohoto zákona splněny kumulativně k tomu, aby Česká národní banka odejmula osobě, která podléhá jejímu dohledu, povolení k činnosti, které jí udělila. (…) I ustanovení § 145 odst. 2 písm. d) umožňuje České národní bance sankcionovat osobu, která podléhá jejímu dohledu pouze za to, že opakovaně porušil zákon o podnikání na kapitálovém trhu"
+
 #### Systematika odnětí povolení — obligatorní vs. fakultativní
 
 § 145 tvoří dvě soustavy: **obligatorní odnětí** (odst. 1 — ČNB **odejme**, bez diskrece) a **fakultativní odnětí** (odst. 2 — ČNB **může** odejmout).

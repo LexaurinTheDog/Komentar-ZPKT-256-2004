@@ -631,6 +631,13 @@ Odkazovaným předpisem je nař. Evropského parlamentu a Rady (EU) č. 909/2014
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Afs 170/2024 - 59](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/745029) — 9. 9. 2025
+  > „Nejvyšší správní soud se rovněž neztotožnil se stěžovatelkou prezentovaným výkladem pojmu „co nejdříve“, s nímž operuje čl. 17 odst. 1 věta první MAR, podle níž emitent je povinen co nejdříve informovat veřejnost o vnitřních informacích, jež se tohoto emitenta přímo týkají. Při úvahách o obsahu tohoto neurčitého právního pojmu je podle NSS třeba mít na paměti účel, k jehož dosažení právě citovaný článek nařízení MAR směřuje. Tímto účelem je řádné a transparentní fungování finančního trhu v EU včetně zajištění důvěry investorů v emitenty působící na tomto trhu [viz např. body 2, 49, 55 odůvodnění (considérants) nařízení MAR]. Konkrétně jde o dosažení co možná největšího zkrácení nežádoucího stavu, přímo ohrožujícího právě uvedené hodnoty, který spočívá v rozdílné úrovni informovanosti investorské veřejnosti a „zasvěcených osob“ a trvá až do okamžiku zveřejnění vnitřní informace"
+- *NSS* [10 A 153/2023 - 177](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/723989) — 27. 6. 2024
+  > „Naproti tomu cílem MAR je zajistit integritu finančních trhů Evropské unie a zvýšit důvěru investorů v tyto trhy, přičemž tato důvěra spočívá zejména ve skutečnosti, že investoři mají stejné postavení a budou chráněni proti neoprávněnému používání důvěrných informací (rozsudek SDEU ve věci C-628/13 a rozhodnutí citovaná v jeho bodě 21). Zatímco cíle směrnice 2007/36/ES je třeba dosáhnout u všech akciových společností, cíl MAR se vztahuje výhradně na veřejně obchodované společnosti"
+
 #### Nařízení MAR (EU) č. 596/2014 — Market Abuse Regulation
 
 MAR je přímo použitelným nařízením zakazujícím zneužívání trhu. Paragraf 177 je nejpodrobněji diferencovaným přestupkovým ustanovením Dílu 4 — sedm odstavců sazeb pro tři skupiny skutkových podstat a dva typy pachatelů.
@@ -697,6 +704,11 @@ Sazba odst. 2 je symetrická se sazbou § 168 odst. 5 (150 000 000 Kč / 10 % / 
 > *- b) výše dvojnásobku neoprávněného prospěchu získaného spácháním tohoto přestupku, je-li možné výši neoprávněného prospěchu zjistit.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Afs 251/2022 - 108](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/780608) — 19. 3. 2026
+  > „Skutková podstata prvního přestupku je vymezena v § 179 odst. 1 ZPKT, podle něhož se právnická nebo podnikající fyzická osoba dopustí přestupku tím, že nesplní některou z povinností nebo poruší některý ze zákazů podle čl. 5 odst. 1, čl. 6, čl. 7, čl. 8 odst. 1 až 3, čl. 9, čl. 10 odst. 1, čl. 13 odst. 1, 3 nebo 4, čl. 14 nebo čl. 19 nařízení PRIIPs. Smyslem celého tohoto nařízení je zajistit, aby tvůrci produktů s investiční složkou (tedy v nyní posuzované věci stěžovatelka) poskytovali klíčové informace retailovým investorům s cílem umožnit retailovým investorům pochopit hlavní rysy produktu s investiční složkou a rizika s ním spojená (čl. 1 nařízení PRIIPs). Jednotlivé články nařízení pro tyto účely stanoví konkrétní formát a obsah sdělení klíčových informací"
 
 #### Nařízení PRIIPs (EU) č. 1286/2014
 
@@ -872,6 +884,11 @@ Pevná sazba 126 650 000 Kč (= cca 5 000 000 EUR dle čl. 32 SECR) je stejná p
 > *- b) výše dvojnásobku neoprávněného prospěchu získaného spácháním tohoto přestupku, je-li možné výši neoprávněného prospěchu zjistit.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Af 23/2024 - 55](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/746648) — 10. 9. 2025
+  > „Prospekt je základním nástrojem ochrany investorů na kapitálovém trhu. Jeho účelem je poskytnout investorům úplné, pravdivé a srozumitelné informace o emitentovi, nabízených cenných papírech a rizicích s nimi spojených, aby mohli učinit informované investiční rozhodnutí. Uveřejnění prospektu tak zajišťuje transparentnost trhu, posiluje důvěru investorů a umožňuje efektivní výkon dohledu ze strany příslušných orgánů. Jinak vyjádřeno, prospekt plní informační a ochrannou funkci – má zabránit tomu, aby investoři činili rozhodnutí na základě neúplných, zavádějících nebo klamavých informací. … Uveřejnění prospektu je nezbytnou podmínkou zákonnosti veřejné nabídky. Pokud emitent nebo jiná osoba činí veřejnou nabídku bez uveřejnění schváleného prospektu, dopouští se porušení právní povinnosti, které může být kvalifikováno právě jako přestupek podle § 183 zákona o podnikání na kapitálovém trhu"
 
 #### Nařízení Prospektus (EU) 2017/1129
 

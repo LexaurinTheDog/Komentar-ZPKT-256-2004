@@ -1085,6 +1085,11 @@ Odstavec 2 vyjmenovává tři kategorické výjimky: odměňování vedení (aby
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 A 104/2019 - 134](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/413543) — 22. 10. 2020
+  > „Oznamovací povinnost podle § 122 odst. 1 ZPKT nemůže být splněna zasláním chybných, resp. nesprávných údajů. Takové „naplnění“ oznamovací povinnosti jde přímo proti účelu sledovanému zákonem, totiž aby byla zajištěna transparence vlastnické struktury u kótovaných společností, což zahrnuje nejen poskytnutí včasných, správných a úplných informací o struktuře hlasovacích práv povinnými osobami, ale také pravdivou a úplnou informaci o identitě osob, které tato práva drží, a o změnách v této struktuře"
+
 #### Systém prahových hodnot (odst. 1)
 
 Zákon implementuje čl. 9 TD a stanoví diferenciovaný systém prahových hodnot pro oznamovací povinnost. U emitentů s velkým základním kapitálem (nad 500 mil. Kč) se povinnost spouští již od 1 % podílu, u středně velkých emitentů (nad 100 mil. Kč) od 3 %. Pro všechny emitenty platí poté prahové hodnoty 5, 10, 15, 20, 25, 30, 40, 50 a 75 %. Oznamovací povinnost vzniká jak při dosažení nebo překročení, tak při poklesu pod každou z uvedených hranic. Tzv. „přijetí k obchodování trigger" v poslední větě odst. 1 zajišťuje, že každý investor s prahově relevantním podílem oznámí svou pozici bezprostředně po kótaci CP emitenta.

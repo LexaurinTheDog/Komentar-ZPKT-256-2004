@@ -844,6 +844,11 @@ Desetiletá archivační lhůta odpovídá obecné praxi pro regulatorní eviden
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 Afs 168/2016 - 163](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/645908) — 10. 4. 2018
+  > „kontrola nad účtem může být i nepřímá a manifestována je jednáním zákazníka, jenž činí takové úkony, které ve svém následku vedou k nadměrnému obchodování, jehož cílem není nejlepší zájem příslušného zákazníka (tedy vytváření zisku z obchodování, což je smysl účasti zákazníka na kapitálovém trhu), ale jen a pouze míra obchodování, která sama o sobě generuje zisk nikoliv zákazníka, ale obchodníka s cennými papíry, přičemž tento zisk není výsledkem zájmu zákazníka (tedy ziskovostí jeho obchodů), ale výsledkem počtu obchodů a z toho plynoucích poplatků za provedené obchody"
+
 #### Odborná péče a nejlepší zájem zákazníka (odst. 1) — ústřední standard conduct of business
 
 § 15 odst. 1 je základním normativním standardem pro veškeré vztahy obchodníka se zákazníkem — odpovídá čl. 24 odst. 1 MiFID II. Trias „kvalifikovaně, čestně a spravedlivě" přejímá tradiční anglosaskou formulaci *professionally, honestly and fairly* a doplňuje ji klíčovým závazkem jednat **v nejlepším zájmu zákazníka** (best interest standard).
@@ -899,7 +904,7 @@ Zákon neříká, co se musí stát s nepřijatelnými pobídkami při nezávisl
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 3695/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F144C7CF5F110B7BC1257F48004C7819?openDocument) — 27. 10. 2015, kat. A
+- *NS* [23 Cdo 3695/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F144C7CF5F110B7BC1257F48004C7819?openDocument) — kat. A, 27. 10. 2015
   > „Nedohodnou-li si zákazník a investiční zprostředkovatel zvláštní povinnost investičního zprostředkovatele informovat zákazníka o možném vývoji na trhu s investičním nástrojem v době od nákupu investičního nástroje do jeho případného prodeje, neodpovídá investiční zprostředkovatel zákazníkovi za možnou ztrátu z prodeje investičního nástroje"
 
 #### Zásada srozumitelnosti a pravdivosti komunikace
@@ -1230,7 +1235,7 @@ Klíčové prvky:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 3695/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F144C7CF5F110B7BC1257F48004C7819?openDocument) — 27. 10. 2015, kat. A
+- *NS* [23 Cdo 3695/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F144C7CF5F110B7BC1257F48004C7819?openDocument) — kat. A, 27. 10. 2015
   > „Nedohodnou-li si zákazník a investiční zprostředkovatel zvláštní povinnost investičního zprostředkovatele informovat zákazníka o možném vývoji na trhu s investičním nástrojem v době od nákupu investičního nástroje do jeho případného prodeje, neodpovídá investiční zprostředkovatel zákazníkovi za možnou ztrátu z prodeje investičního nástroje"
 
 #### Test vhodnosti (suitability test) — ústřední nástroj ochrany zákazníka

@@ -482,7 +482,7 @@ Roční report ČNB obsahuje jak kvantitativní (obrat, aktiva, expozice), tak k
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 3695/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F144C7CF5F110B7BC1257F48004C7819?openDocument) — 27. 10. 2015, kat. A
+- *NS* [23 Cdo 3695/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F144C7CF5F110B7BC1257F48004C7819?openDocument) — kat. A, 27. 10. 2015
   > „Nedohodnou-li si zákazník a investiční zprostředkovatel zvláštní povinnost investičního zprostředkovatele informovat zákazníka o možném vývoji na trhu s investičním nástrojem v době od nákupu investičního nástroje do jeho případného prodeje, neodpovídá investiční zprostředkovatel zákazníkovi za možnou ztrátu z prodeje investičního nástroje"
 
 #### Vymezení investičního zprostředkovatele
@@ -724,8 +724,10 @@ Limity jsou stanoveny v absolutní výši (Kč), nikoli odkazem na unijní nař�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 3695/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F144C7CF5F110B7BC1257F48004C7819?openDocument) — 27. 10. 2015, kat. A
+- *NS* [23 Cdo 3695/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F144C7CF5F110B7BC1257F48004C7819?openDocument) — kat. A, 27. 10. 2015
   > „Nedohodnou-li si zákazník a investiční zprostředkovatel zvláštní povinnost investičního zprostředkovatele informovat zákazníka o možném vývoji na trhu s investičním nástrojem v době od nákupu investičního nástroje do jeho případného prodeje, neodpovídá investiční zprostředkovatel zákazníkovi za možnou ztrátu z prodeje investičního nástroje"
+- *NSS* [3 As 149/2015 - 49](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/640861) — 28. 12. 2016
+  > „Nejvyšší správní soud považuje za potřebné na tomto místě poznamenat, že základním smyslem a účelem povinnosti investičního zprostředkovatele informovat zákazníka o konkrétních údajích a skutečnostech (blíže viz § 15d odst. 1 ve spojení s § 32 odst. 3 ZPKT, resp. též § 19 odst. 1 vyhlášky č. 303/2010 Sb.) je poskytnout zákazníkovi základní přehled o poskytovaných investičních službách, jakož i o rizicích s nimi spojenými, a částečně mu tak napomoct učinit příslušné investiční rozhodnutí"
 
 #### Systém přiměřeného použití povinností OCP
 

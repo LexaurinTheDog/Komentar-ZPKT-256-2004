@@ -760,6 +760,11 @@ Nejvyšší základní strop 150 mil. Kč (odst. 2 písm. a) odpovídá MAR čl.
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [18 A 45/2021 - 218](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/723407) — 19. 6. 2024
+  > „Jinými slovy řečeno, pod pojem neoprávněného výkonu činnosti ve smyslu § 162 odst. 1 písm. a) ZPKT lze podřadit veškerá jednání, jež neodpovídají udělené licenci (či jinému druhu povolení)"
+
 #### Paralela s § 157 a zásadní odlišnost ve výši sazby
 
 § 162 je funkčním ekvivalentem § 157 pro **právnické a podnikající fyzické osoby**. Skutkové podstaty odst. 1 jsou téměř totožné s § 157 odst. 1, avšak sankční sazba pro právnické osoby je výrazně přísnější — vedle základní sazby 150 mil. Kč zákon pro PO přidává alternativu **10 % celkového ročního obratu** (§ 162 odst. 6 písm. b). Tato varianta není dostupná pro fyzické osoby, neboť ty zpravidla nedisponují obratem srovnatelným s regulovanými subjekty.
