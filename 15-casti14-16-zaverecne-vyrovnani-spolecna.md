@@ -85,6 +85,42 @@ Toto konstruktivní napětí mezi nezávislostí ČNB (ústavně garantovanou dl
 
 Porušení povinností stanovených přímo použitelnými předpisy EU, k jejichž dohledu je ČNB příslušná podle § 192a, je součástí přestupkové agendy ČNB — viz [14-cast13-prestupky-b.md](14-cast13-prestupky-b.md), kde jsou systematicky popsány skutkové podstaty přestupků za porušení povinností dle nařízení EU a odpovídající sankce.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ČNB hodlá za napjaté situace na trhu se státními dluhopisy ČR vydat podle nařízení SSR (č. 236/2012) dočasné rozhodnutí omezující otevírání nekrytých krátkých pozic v těchto dluhopisech a v CDS na ně (čl. 20 SSR). Účastníky jsou ČNB (orgán dohledu), ministerstvo financí (správce veřejného dluhu) a obchodníci s cennými papíry, kteří v daných instrumentech obchodují. Jako důkazy by bylo třeba obstarat: analýzu tržní situace odůvodňující zásah (volatilita, výnosy, objemy), interní podklad ČNB o naplnění podmínek čl. 20 SSR a doklad o úkonu vůči MF (žádost o souhlas).
+
+**2. Právní otázka.** Může ČNB platně uplatnit pravomoc podle čl. 20 SSR ve vztahu ke státním dluhopisům ČR bez předchozího souhlasu ministerstva financí podle § 192a odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 192a odst. 1 písm. b) (ČNB jako příslušný orgán dle SSR) a odst. 2 (předchozí souhlas MF u čl. 13 odst. 3, čl. 14 odst. 2 a čl. 20–24 SSR ve vztahu ke státním dluhopisům ČR a CDS na ně).
+- *Související ustanovení téhož zákona:* část třináctá (přestupky za porušení nařízení EU); § 135 a násl. (dohledové pravomoci ČNB).
+- *Související předpisy:* nařízení SSR č. 236/2012 (přímo použitelné); čl. 98 Ústavy (nezávislost ČNB); čl. 2 odst. 3 Ústavy (zákonnost veřejné moci).
+- *Judikatura:* k mezím národní úpravy doplňující pravomoci podle přímo použitelného nařízení nosně judikatura SDEU, podle níž členský stát nesmí měnit obsah nařízení, ale smí upravit procesní výkon pravomocí příslušného orgánu; česky ÚS opakovaně potvrzuje, že nezávislost ČNB nevylučuje zákonem stanovenou součinnost s vládou tam, kde jde o výsostné fiskální zájmy.
+
+**4. Subsumpce.** Pravomoc plyne přímo ze SSR (znak „příslušný orgán" = ČNB dle písm. b)). Zásah cílí na státní dluhopisy ČR a CDS na ně a opírá se o čl. 20 SSR — tedy spadá přesně do výčtu odst. 2. Tím je naplněn znak vyžadující předchozí souhlas MF. Sporné může být jen to, zda souhlas byl udělen (skutkové zjištění), nikoli zda je vyžadován.
+
+**5. Řešení.** ČNB musí před vydáním rozhodnutí získat předchozí souhlas MF; bez něj by zásah trpěl vadou (nedostatek zákonné podmínky výkonu pravomoci) a mohl by být zrušen. Procesně: ČNB doloží žádost o souhlas a jeho udělení do spisu, teprve poté rozhodne. Riziko: časová tíseň krizového zásahu vs. nutnost součinnosti MF; v praxi se primárně využívají koordinované postupy na úrovni ESMA, kde souhlas MF nebývá rozhodující brzdou.
+
+**6. Varianty.** (a) Pokud by zásah směřoval nikoli ke státním dluhopisům ČR, ale k akciím soukromého emitenta, souhlas MF se nevyžaduje (odst. 2 dopadá jen na státní dluhopisy a CDS na ně) — ČNB rozhodne samostatně. (b) Pokud by ČNB uplatnila jinou pravomoc SSR než čl. 13 odst. 3, 14 odst. 2 či 20–24 (např. pouze oznamovací povinnost dle čl. 5–8), souhlas MF se rovněž nevyžaduje.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka rozporu s nezávislostí ČNB (čl. 98 Ústavy):* lze argumentovat, že souhlas MF podřizuje dohledovou pravomoc ČNB exekutivě. Neutralizace: ČNB svou pravomoc stále vykonává a rozhoduje sama; souhlas MF je zákonem stanovenou podmínkou odůvodněnou výlučným fiskálním zájmem státu jako emitenta, nikoli pokynem k obsahu rozhodnutí.
+- *Námitka rozporu s předností nařízení:* odst. 2 nesmí fakticky znemožnit výkon pravomoci dle SSR. Neutralizace: SSR sám předvídá součinnost s úřadem odpovědným za veřejný dluh; forma předchozího souhlasu je přípustnou procesní modalitou národního práva.
+- *Slabé místo:* ustanovení neřeší výslovně postup při nečinnosti MF (neudělení ani neodepření souhlasu); chybí lhůta — riziko paralýzy v krizi. V praxi se řeší koordinací a unijními nástroji.
+
+#### H. Praktický závěr
+
+§ 192a jednoznačně označuje ČNB jako příslušný orgán pro 14 unijních nařízení a jako jediné dohledatelné vnitrostátní zakotvení těchto pravomocí; v oblasti SSR pro státní dluhopisy ČR navíc podmiňuje tři skupiny pravomocí předchozím souhlasem MF.
+
+**Checklist (advokát / soud / ČNB / dohlížený subjekt):**
+- [ ] Identifikovat, podle kterého z písmen a)–n) § 192a odst. 1 ČNB jedná, a dohledat odpovídající nařízení EU.
+- [ ] U zásahů dle SSR ověřit, zda jde o státní dluhopisy ČR / CDS na ně a o pravomoc dle čl. 13 odst. 3, 14 odst. 2 nebo 20–24 — pak je nutný předchozí souhlas MF.
+- [ ] Doložit existenci souhlasu MF do spisu před vydáním rozhodnutí.
+- [ ] Zkontrolovat, zda porušení dotčeného nařízení EU spadá do přestupkové agendy (část třináctá).
+
+**Typicky rozhodné důkazy / podklady:** text příslušného nařízení EU a poznámky pod čarou ZPKT identifikující nařízení; interní odůvodnění naplnění podmínek zásahu; žádost ČNB o souhlas MF a jeho udělení; tržní analýza.
+
 ---
 
 ### § 192b — Ministerstvo financí jako příslušné ministerstvo pro ozdravné postupy ústředních protistran
@@ -105,6 +141,41 @@ Nařízení č. 2021/23 (CCPRRR) rozlišuje dvě různé kategorie orgánů:
 § 192b tedy v souběhu s § 192a odst. 1 písm. m) buduje **duální institucionální rámec** pro případ krize ústřední protistrany v ČR: ČNB jako výkonný krizový orgán, MF jako garant fiskálního dohledu nad použitím veřejných prostředků. Analogický model existuje v oblasti bank a investičních podniků, kde Rada pro řešení krize (resp. ČNB jako rezoluční orgán) spolupracuje s MF.
 
 Praktická relevance § 192b je dosud omezená — Česká republika zatím neprovozuje ani nemá domovský příslušný orgán pro žádnou ústřední protistranu ve smyslu CSDR/EMIR. Ustanovení má tedy zejména **preventivní a kompetenční charakter** pro případ budoucího vzniku takové entity nebo přeshraniční krizové situace, kdy je ČNB pověřena jako krizový orgán i pro zahraniční CCP.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zahraniční ústřední protistrana (CCP) s pobočkou nebo systémově významnou činností dotčenou v ČR se ocitá v krizi a unijní kolegium zvažuje aplikaci nástrojů řešení krize dle CCPRRR (nař. 2021/23), jejichž použití může zatížit veřejné finance (např. dočasná veřejná podpora). Účastníky jsou ČNB (příslušný orgán k řešení krize dle § 192a odst. 1 písm. m)), ministerstvo financí (příslušné ministerstvo dle § 192b) a samotná CCP. Důkazy: podklad ČNB o naplnění podmínek pro nástroj řešení krize, kvantifikace fiskálního dopadu, doklad o vyžádání souhlasu MF.
+
+**2. Právní otázka.** Může ČNB jako orgán k řešení krize uplatnit nástroj dle CCPRRR s přímým dopadem na veřejné finance bez souhlasu ministerstva financí jako příslušného ministerstva?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 192b (MF jako příslušné ministerstvo dle CCPRRR).
+- *Související ustanovení téhož zákona:* § 192a odst. 1 písm. m) (ČNB jako orgán k řešení krize); § 193 odst. 4 (vztah závěrečného vyrovnání ke krizovým opatřením dle CCPRRR).
+- *Související předpisy:* nař. 2021/23 (CCPRRR), zejm. čl. 8 odst. 1 (souhlas příslušného ministerstva při dopadu na veřejné finance); EMIR a CSDR (autorizace CCP).
+- *Judikatura:* k duálnímu modelu orgán dohledu vs. ministerstvo není ustálená národní judikatura (institut je nový); nosně lze odkázat na obecný princip, že rozhodnutí s fiskálním dopadem vyžadují demokratickou legitimizaci výkonné moci.
+
+**4. Subsumpce.** Nástroj řešení krize uplatňuje ČNB (orgán k řešení krize). Má-li nástroj přímý dopad na veřejné finance, aktivuje se role MF jako příslušného ministerstva (znak „dopad na veřejné finance" dle čl. 8 CCPRRR). MF tu nevykonává dohled, nýbrž fiskální kontrolu — souhlas je podmínkou použití nástroje.
+
+**5. Řešení.** ČNB musí získat souhlas MF, pokud nástroj zatěžuje veřejné finance; bez souhlasu nelze takový nástroj použít. Procesní krok: vyžádání a doložení souhlasu MF. Riziko: dosud chybí praktická aplikace (ČR neprovozuje domácí CCP), proto je ustanovení převážně preventivní a kompetenční; reálně by se ČR zapojila do přeshraničního kolegia.
+
+**6. Varianty.** (a) Nemá-li nástroj řešení krize dopad na veřejné finance, souhlas MF se nevyžaduje a ČNB rozhodne v rámci své rezoluční pravomoci. (b) Jde-li o ozdravnou (nikoli krizovou) fázi řízenou samotnou CCP a jejím ozdravným plánem, role MF dle § 192b se neaktivuje.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka duplicity s § 192a písm. m):* lze namítat, že rozdělení rolí je formalismem. Neutralizace: jde o dvě odlišné funkce — exekutivní (ČNB) a fiskálně-kontrolní (MF) — což odpovídá architektuře CCPRRR a obdobnému modelu u bank.
+- *Námitka praktické bezvýznamnosti:* ČR nemá domácí CCP. Neutralizace: ustanovení má kompetenční a preventivní hodnotu pro přeshraniční krize a budoucí vznik entity; absence okamžité aplikace nezpochybňuje jeho platnost.
+- *Slabé místo:* § 192b sám neupravuje procesní detaily součinnosti ČNB a MF — ty plynou přímo z CCPRRR, což klade nároky na přímou aplikaci unijního nařízení.
+
+#### H. Praktický závěr
+
+§ 192b doplňuje § 192a a vytváří duální institucionální rámec pro krizi ústřední protistrany: ČNB jako výkonný orgán k řešení krize, MF jako garant fiskálního dohledu. Význam je dosud preventivní.
+
+**Checklist (advokát / soud / ČNB / MF):**
+- [ ] Rozlišit, zda v dané situaci jedná ČNB (řešení krize) nebo MF (souhlas při fiskálním dopadu).
+- [ ] U nástroje s dopadem na veřejné finance vyžádat a doložit souhlas MF dle čl. 8 CCPRRR.
+- [ ] Ověřit, zda jde o přeshraniční CCP a jaká je role ČR v kolegiu.
+
+**Typicky rozhodné důkazy / podklady:** text CCPRRR (čl. 8); kvantifikace fiskálního dopadu nástroje; doklad o udělení souhlasu MF; rezoluční plán CCP.
 
 ---
 
@@ -195,6 +266,43 @@ Zákon výslovně deklaruje, že „vyloučení těchto účinků upravují jin�
 
 Závěrečné vyrovnání má přímý dopad na výpočet **obezřetnostních požadavků** obchodníků s cennými papíry a bank: uznání close-out nettingového ujednání pro účely CRR (nařízení č. 575/2013) umožňuje měřit **čistou expozici** (net exposure) namísto hrubé, což snižuje kapitálové požadavky. ČNB jako příslušný orgán ověřuje, zda nettingové dohody splňují podmínky pro toto uznání (čl. 295–298 CRR).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Banka A a obchodník B uzavřeli rámcovou smlouvu (typu ISDA Master Agreement) zahrnující ujednání o závěrečném vyrovnání; pod ní mají otevřeno 12 derivátových kontraktů. U šesti je v kladné pozici A (souhrnně +80 mil. Kč z pohledu A), u šesti je v záporné pozici A (souhrnně −50 mil. Kč). Vůči B je zahájeno insolvenční řízení. Účastníky jsou A (zdravá strana), B (úpadce) a insolvenční správce B. Důkazy: rámcová smlouva a její příloha o závěrečném vyrovnání, konfirmace jednotlivých obchodů, doklad o sjednané spouštěcí události, ocenění kontraktů k okamžiku close-out, doklad o době uzavření ujednání před zahájením insolvence.
+
+**2. Právní otázka.** Zaniknou vzájemné pohledávky a dluhy z otevřených kontraktů automaticky závěrečným vyrovnáním do jediné čisté pohledávky (30 mil. Kč ve prospěch A), nebo může insolvenční správce B uplatnit cherry-picking — vymáhat plnění z kontraktů, kde je B v plusu, a A odkázat na přihlášku pohledávky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 193 odst. 1 (definice a tři kumulativní znaky — forma, předmět, mechanismus zániku/zápočtu do jediné pohledávky), odst. 2 (povinný obsah — ocenění, okamžik, plnění), odst. 3 (imunita vůči sanačním rozhodnutím), odst. 4 (výjimky — insolvence, likvidace, nucená správa, ZOPRK, CCPRRR).
+- *Související ustanovení téhož zákona:* § 192a (ČNB jako příslušný orgán); pravidla obezřetnosti (netting pro účely kapitálových požadavků).
+- *Související předpisy:* zákon č. 408/2010 Sb. o finančním zajištění (§ 2 písm. a), § 6 odst. 1 — zajistitelnost pohledávek); InsZ č. 182/2006 Sb. (§ 183 a násl. — neúčinnost/odporovatelnost, ochrana finančního zajištění); OZ (§ 1902–1907 novace, § 1982 a násl. zápočet, § 1908 a násl. zánik závazků); ZOPRK č. 374/2015 Sb.; nař. 575/2013 (CRR, čl. 295–298); směrnice 2002/47/ES (čl. 7 a 8).
+- *Judikatura:* nosně judikatura potvrzující, že close-out netting a finanční zajištění mají před insolvenčními účinky zvláštní ochranu, byla-li sjednána v zákonné době; obecně uznávaný závěr, že cherry-picking ze strany insolvenčního správce je u řádně sjednaného nettingu vyloučen.
+
+**4. Subsumpce.** (a) *Forma* — rámcová smlouva ISDA je písemná, znak písm. a) splněn. (b) *Předmět* — pohledávky z derivátů jsou zajistitelné finančním zajištěním dle zák. č. 408/2010 Sb., znak písm. b) splněn. (c) *Mechanismus* — ujednání předvídá zánik dluhů a započtení i nesplatných pohledávek do jediné čisté pohledávky, znak písm. c) splněn. (d) Ujednání obsahuje metodiku ocenění, okamžik a způsob plnění (odst. 2). (e) Bylo uzavřeno před zahájením insolvence; spouštěcí událostí je samo zahájení insolvenčního řízení — proto se uplatní výjimka dle odst. 4 a režim ochrany určuje InsZ, který close-out netting chrání před odporovatelností.
+
+**5. Řešení.** Pohledávky se k okamžiku spouštěcí události automaticky ocení, započtou a nahradí jedinou čistou pohledávkou A vůči B ve výši 30 mil. Kč; tu A přihlásí do insolvence jako jednu pohledávku. Cherry-picking insolvenčního správce je vyloučen — nettingové ujednání je dle InsZ chráněno. Procesní kroky A: doložit okamžik a metodiku ocenění dle smlouvy, prokázat sjednání ujednání v zákonné době, přihlásit čistou pohledávku. Riziko: napadnutelnost ocenění (správce může tvrdit, že metodika nebyla v souladu se zvyklostmi trhu dle odst. 2) — proto je nutná auditní stopa ocenění.
+
+**6. Varianty.** (a) Pokud by ujednání bylo uzavřeno až po zahájení insolvenčního řízení (nebo v zákonem vyloučené době před ním), ochrana by odpadla a správce by mohl namítat neúčinnost. (b) Pokud by oceňovací metodika hrubě favorizovala A v rozporu se zvyklostmi trhu (odst. 2), mohlo by být ujednání v této části zpochybněno pro rozpor se zákonem a čistá pohledávka přepočtena.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka porušení rovnosti věřitelů (par condicio creditorum):* netting zvýhodňuje protistranu oproti ostatním věřitelům. Neutralizace: jde o zákonem (a směrnicí 2002/47/ES) aprobovanou výjimku chránící systémovou stabilitu; čistá pohledávka odráží skutečnou ekonomickou expozici, nikoli umělé zvýhodnění.
+- *Námitka odporovatelnosti dle § 235 a násl. InsZ:* správce může tvrdit, že netting je neúčinné jednání. Neutralizace: § 183 a násl. InsZ ve spojení se zák. č. 408/2010 Sb. vylučuje odporovatelnost u řádně a včas sjednaného závěrečného vyrovnání.
+- *Slabé místo:* spornost ocenění — chybí-li jednoznačná metodika a auditní stopa, otevírá se prostor pro zpochybnění výsledné částky; rozpor metodiky se zvyklostmi trhu (odst. 2) může vést k částečné neplatnosti.
+
+#### H. Praktický závěr
+
+Závěrečné vyrovnání je smluvní nástroj snižování kreditního rizika protistrany: nastane-li spouštěcí událost, otevřené kontrakty se ukončí, ocení, započtou a nahradí jedinou čistou pohledávkou. Vůči individuálním sanačním rozhodnutím požívá imunity (odst. 3), avšak vůči insolvenci, likvidaci, nucené správě a krizovým opatřením dle ZOPRK/CCPRRR se režim řídí těmito zvláštními zákony (odst. 4).
+
+**Checklist (advokát / soud / insolvenční správce / smluvní strana):**
+- [ ] Ověřit naplnění všech tří kumulativních znaků odst. 1 (forma, zajistitelný předmět, mechanismus jediné čisté pohledávky).
+- [ ] Zkontrolovat povinný obsah dle odst. 2 (metodika ocenění, okamžik, způsob a doba plnění) a jeho soulad se zvyklostmi trhu.
+- [ ] Zjistit, zda spouštěcí událostí je sanační zásah (imunita dle odst. 3) nebo insolvence/likvidace/nucená správa/ZOPRK/CCPRRR (režim dle odst. 4 a InsZ).
+- [ ] Doložit okamžik uzavření ujednání ve vztahu k zahájení insolvenčního řízení a vyloučit odporovatelnost dle InsZ.
+- [ ] Pro účely CRR posoudit uznatelnost nettingu (čl. 295–298) pro výpočet čisté expozice.
+
+**Typicky rozhodné důkazy / podklady:** rámcová smlouva a příloha o závěrečném vyrovnání; konfirmace jednotlivých obchodů; doklad o spouštěcí události; ocenění kontraktů k okamžiku close-out s auditní stopou; doklad o době uzavření ujednání; podklady o finančním zajištění.
+
 ---
 
 ## Část šestnáctá — Ustanovení společná, přechodná a závěrečná
@@ -215,6 +323,41 @@ Závěrečné vyrovnání má přímý dopad na výpočet **obezřetnostních po
 
 Zaknihované cenné papíry jsou definovány v § 92 ZPKT a obecně v OZ (§ 525 a násl. OZ). Jejich zvláštností je, že neexistují fyzicky — právo z nich je nerozlučně spjato se zápisem v evidenci (SCP historicky, nyní centrální depozitář nebo samostatná evidence). Tato odlišnost může v konkrétním kontextu (např. předání, vinkulace, indosace) vylučovat použití ustanovení určeného pro listinné cenné papíry.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Ustanovení ZPKT upravuje určitou povinnost ohledně „cenných papírů" (např. způsob vinkulace, předání nebo evidence). Emitent vydal akcie výhradně v zaknihované podobě evidované v centrálním depozitáři. Účastníky jsou emitent, vlastník zaknihované akcie a centrální depozitář. Otázkou je, zda se na zaknihovanou akcii dané pravidlo vůbec použije a v jaké modifikaci. Důkazy: doklad o podobě cenného papíru (zaknihovaný), výpis z evidence centrálního depozitáře.
+
+**2. Právní otázka.** Aplikuje se ustanovení ZPKT formulované pro „cenné papíry" i na zaknihované cenné papíry, jestliže jeho doslovné znění míří na fyzickou listinu (např. fyzické předání)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 194 (ustanovení o cenných papírech se použijí i na zaknihované, ledaže to vylučuje jejich povaha nebo zákon).
+- *Související ustanovení téhož zákona:* § 92 ZPKT (vymezení zaknihovaných cenných papírů); ustanovení o evidenci investičních nástrojů (§ 93 a násl.).
+- *Související předpisy:* OZ (§ 525 a násl. — zaknihované cenné papíry; obecná úprava cenných papírů).
+- *Judikatura:* nosně judikatura dovozující, že u zaknihovaných cenných papírů nahrazuje fyzické úkony (předání, indosaci) zápis v evidenci; pravidla určená výlučně pro listinu se aplikují přiměřeně nebo se neaplikují, vylučuje-li to povaha věci.
+
+**4. Subsumpce.** Východiskem je pravidlo ekvivalence: každé ustanovení o „cenných papírech" dopadá i na zaknihované, ledaže (a) to vylučuje jejich povaha (fyzická manipulace s listinou u nehmotného zápisu) nebo (b) výslovná zákonná výjimka. Míří-li norma na úkon nahraditelný zápisem v evidenci, aplikuje se v modifikované podobě; míří-li na ryze fyzickou vlastnost listiny, povaha věci aplikaci vylučuje.
+
+**5. Řešení.** Pravidlo se na zaknihovanou akcii použije, lze-li jeho účel naplnit zápisem v evidenci (vinkulace = zápis pozastavení nakládání; převod = zápis na majetkový účet). Vyžaduje-li norma fyzické předání listiny, na zaknihovaný cenný papír se nepoužije pro rozpor s jeho povahou a uplatní se evidenční ekvivalent dle § 92 a násl. Postup: posoudit účel normy a zda jej lze splnit zápisem.
+
+**6. Varianty.** (a) Pokud zákon u konkrétního institutu výslovně stanoví výjimku pro zaknihované cenné papíry, použije se tato výjimka bez ohledu na obecnou ekvivalenci. (b) Pokud by šlo o imobilizovaný (nikoli zaknihovaný) cenný papír, fyzická listina existuje a je uložena u schovatele — režim se blíží listinnému s evidenčními prvky.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka mezery při doslovném výkladu:* lze tvrdit, že chybí výslovné pravidlo pro zaknihovaný cenný papír. Neutralizace: § 194 právě tuto mezeru zaplňuje generální klauzulí ekvivalence — zdvojené formulace nejsou nutné.
+- *Námitka nejistoty „povahy věci":* hranice mezi aplikovatelným a nepoužitelným ustanovením je neostrá. Neutralizace: rozhoduje účel normy — lze-li jej naplnit zápisem v evidenci, ustanovení se použije.
+- *Slabé místo:* generální klauzule přenáší výkladovou zátěž na aplikační praxi; u sporných institutů je vhodné vyžádat stanovisko nebo postupovat dle ustálené evidenční praxe centrálního depozitáře.
+
+#### H. Praktický závěr
+
+§ 194 je průřezové interpretační pravidlo: kde zákon hovoří o cenných papírech, dopadá i na zaknihované, ledaže to vylučuje jejich povaha nebo zákon. Ušetří zdvojené formulace, avšak vyžaduje účelový výklad u institutů vázaných na fyzickou listinu.
+
+**Checklist (advokát / soud / emitent / centrální depozitář):**
+- [ ] Zjistit podobu cenného papíru (listinný / zaknihovaný / imobilizovaný).
+- [ ] Posoudit, zda účel konkrétní normy lze naplnit zápisem v evidenci (pak se použije) nebo zda vyžaduje fyzickou listinu (pak povaha věci aplikaci vylučuje).
+- [ ] Ověřit, zda zákon u daného institutu nestanoví výslovnou výjimku pro zaknihované cenné papíry.
+
+**Typicky rozhodné důkazy / podklady:** doklad o podobě cenného papíru; výpis z evidence centrálního depozitáře / samostatné evidence; text dotčeného ustanovení a jeho účel.
+
 ---
 
 ### § 194a — Rozšíření klíčových pravidel na strukturované vklady
@@ -233,6 +376,42 @@ Směrnice MiFID II (2014/65/EU) nicméně v čl. 1 odst. 4 explicitně rozšiřu
 
 Tím je zajištěno, že zákazník, kterému je nabízen strukturovaný vklad místo strukturovaného produktu (PRIIP), není zbaven ochrany jen proto, že produkt formálně nemá povahu investičního nástroje.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Banka nabízí retailovému klientovi „strukturovaný vklad" s garantovanou jistinou a výnosem vázaným na akciový index, aniž by provedla test vhodnosti, řádně informovala o nákladech a střetech zájmů a vedla záznamy komunikace tak, jak vyžaduje ZPKT u investičních služeb. Účastníky jsou banka (prodejce), retailový klient a ČNB (dohled). Důkazy: smluvní dokumentace strukturovaného vkladu, marketingové materiály, záznamy jednání s klientem (či jejich absence), interní záznam o posouzení vhodnosti.
+
+**2. Právní otázka.** Vztahují se na prodej strukturovaného vkladu a poradenství k němu pravidla jednání, informování a evidence dle ZPKT (§§ 12 až 12bb, 15 až 15k, 15o až 15r, 17 odst. 1, 128 až 192), přestože strukturovaný vklad není investičním nástrojem dle § 3 ZPKT?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 194a (rozšíření taxativně vyjmenovaných ustanovení ZPKT na prodej strukturovaných vkladů a poradenství o nich).
+- *Související ustanovení téhož zákona:* § 3 ZPKT (vymezení investičních nástrojů — strukturovaný vklad jím není); § 10 odst. 3 písm. e); §§ 12 až 12bb, 15 až 15k, 15o až 15r, 17 odst. 1, 128 až 192 (pravidla jednání, informování, sankce).
+- *Související předpisy:* směrnice MiFID II 2014/65/EU (čl. 1 odst. 4 — extenze na strukturované vklady); nař. PRIIPs č. 1286/2014 (KID pro produkty s investiční složkou).
+- *Judikatura:* k cíli rovné ochrany spotřebitele bez ohledu na formální právní kvalifikaci produktu nosně judikatura zdůrazňující materiální (nikoli formální) přístup k ochraně investora/klienta.
+
+**4. Subsumpce.** Produkt je strukturovaný vklad (depozitum s výnosem vázaným na referenční ukazatel, garantovaná jistina) — tedy nikoli investiční nástroj dle § 3, ale přesně předmět, na který § 194a rozšiřuje vybraná ustanovení. Banka jej „prodává" a „poskytuje poradenství" — naplněny obě alternativy hypotézy § 194a. Tím se aktivují pravidla jednání, informování a evidence; jejich nedodržení zakládá porušení povinností postižitelné dle §§ 128 a násl.
+
+**5. Řešení.** Banka byla povinna postupovat jako u investiční služby: posoudit vhodnost/přiměřenost, informovat o nákladech a střetech zájmů, vést záznamy. Jejich absence je porušením a může vést k opatření k nápravě či sankci ČNB. Procesní kroky dohledu: vyžádat smluvní a marketingovou dokumentaci a záznamy, posoudit naplnění informačních a evidenčních povinností. Riziko pro banku: sankce a nároky klienta z vadného poradenství.
+
+**6. Varianty.** (a) Pokud by produkt byl běžným spořicím účtem bez vazby výnosu na referenční ukazatel (nikoli strukturovaný vklad), § 194a se neuplatní a režim ZPKT nedopadá. (b) Pokud by šlo o PRIIP (strukturovaný retailový investiční produkt), nešlo by o strukturovaný vklad dle § 194a, nýbrž o režim PRIIPs/MiFID II přímo — ochrana klienta je však obdobná.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka, že vklad není investiční nástroj:* banka tvrdí, že ZPKT nedopadá, protože jistina je garantovaná. Neutralizace: § 194a výslovně rozšiřuje vybraná ustanovení i na strukturované vklady právě proto, aby ochrana nebyla obcházena formou produktu.
+- *Námitka rozsahu rozšíření:* spornost, která konkrétní ustanovení dopadají. Neutralizace: § 194a obsahuje taxativní výčet — mimo něj se ZPKT neaplikuje; nutno postupovat dle seznamu.
+- *Slabé místo:* hranice mezi strukturovaným vkladem a běžným vkladem může být v marketingu zastřena — riziko chybné kvalifikace; rozhoduje materiální povaha výnosové konstrukce.
+
+#### H. Praktický závěr
+
+§ 194a uzavírá regulatorní mezeru: na prodej strukturovaných vkladů a poradenství o nich se použijí taxativně vyjmenovaná ochranná pravidla ZPKT, ač produkt formálně není investičním nástrojem. Klient tak požívá srovnatelné ochrany jako u investičních služeb.
+
+**Checklist (advokát / soud / ČNB / banka):**
+- [ ] Kvalifikovat produkt — jde o strukturovaný vklad (výnos vázaný na referenční ukazatel, garantovaná jistina)?
+- [ ] Ověřit, zda subjekt produkt „prodává" nebo k němu poskytuje „poradenství" (hypotéza § 194a).
+- [ ] Projít taxativní výčet ustanovení (§§ 12 až 12bb, 15 až 15k, 15o až 15r, 17/1, 128 až 192) a zkontrolovat jejich dodržení.
+- [ ] Posoudit splnění informačních, evidenčních a střetových povinností a případnou sankční odpovědnost.
+
+**Typicky rozhodné důkazy / podklady:** smluvní dokumentace strukturovaného vkladu; marketingové materiály; záznamy jednání a komunikace s klientem; doklady o posouzení vhodnosti/přiměřenosti a o informování.
+
 ---
 
 ### § 195 — Definice členského státu EU
@@ -248,6 +427,41 @@ Tím je zajištěno, že zákazník, kterému je nabízen strukturovaný vklad m
 Zákon standardně odkazuje na „členský stát Evropské unie". § 195 stanoví, že tento pojem zahrnuje i **státy Evropského hospodářského prostoru** (EHP), které nejsou členy EU — Norsko, Island a Lichtenštejnsko. Tyto státy jsou smluvními stranami Dohody o EHP a implementují acquis communautaire v oblasti finančních trhů prostřednictvím zapracování do přílohy IX Dohody o EHP.
 
 Praktický dopad: obchodníci s cennými papíry, burzy a jiné subjekty z Norska, Islandu a Lichtenštejnska mají práva a povinnosti srovnatelná s EU subjekty (single passport), přeshraniční notifikace a dohledová spolupráce fungují analogicky. ČNB zachází s příslušnými orgány těchto států jako s orgány dohledu členského státu EU.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník s cennými papíry se sídlem v Norsku, oprávněný norským orgánem dohledu, hodlá poskytovat investiční služby v ČR na základě jednotného evropského pasu (notifikace). ČNB zvažuje, zda s ním zacházet jako se subjektem z členského státu EU, ač Norsko není členem EU. Účastníky jsou norský obchodník, ČNB a norský orgán dohledu. Důkazy: norské povolení, notifikace přeshraniční činnosti, doklad o členství Norska v EHP.
+
+**2. Právní otázka.** Rozumí se „členským státem Evropské unie" ve smyslu ZPKT i Norsko (resp. Island, Lichtenštejnsko) jako stát EHP, takže norskému obchodníkovi svědčí práva srovnatelná s obchodníky z EU?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 195 (pojem „členský stát EU" zahrnuje i další státy EHP).
+- *Související ustanovení téhož zákona:* ustanovení o přeshraničním poskytování služeb a notifikacích (§ 24 a násl., § 28a); ustanovení odkazující na „členský stát EU".
+- *Související předpisy:* Dohoda o EHP (příloha IX — finanční služby); směrnice MiFID II (jednotný pas); příslušná unijní nařízení v rozsahu zapracování do EHP.
+- *Judikatura:* nosně závěr, že státy EHP přejímají acquis v oblasti finančních trhů a požívají jednotného pasu; orgány dohledu EHP se v dohledové spolupráci postaví naroveň orgánům členských států EU.
+
+**4. Subsumpce.** Norsko je smluvní stranou Dohody o EHP a implementuje acquis v oblasti finančních trhů. Znak „další státy tvořící EHP" dle § 195 je naplněn. Tím se na norského obchodníka vztahují ustanovení ZPKT odkazující na „členský stát EU" — včetně jednotného pasu, přeshraniční notifikace a dohledové spolupráce.
+
+**5. Řešení.** ČNB zachází s norským obchodníkem jako se subjektem z členského státu EU: akceptuje notifikaci, umožní přeshraniční poskytování služeb a s norským orgánem spolupracuje jako s orgánem dohledu členského státu. Postup: ověřit norské povolení a notifikaci, zařadit subjekt do režimu jednotného pasu. Riziko: odlišnosti v rozsahu zapracování konkrétního aktu do přílohy IX Dohody o EHP — nutno ověřit, zda dané pravidlo je pro EHP účinné.
+
+**6. Varianty.** (a) Pokud by šlo o subjekt ze třetího státu mimo EU i EHP (např. Švýcarsko), § 195 by se neuplatnil a aplikoval by se režim třetích zemí (equivalence/pobočka). (b) Pokud by konkrétní unijní akt nebyl dosud zapracován do přílohy IX Dohody o EHP, jeho aplikace na subjekt EHP by byla sporná.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka doslovného znění „EU":* lze tvrdit, že zákon hovoří jen o EU, nikoli o EHP. Neutralizace: § 195 je legální definicí, která pojem výslovně rozšiřuje na státy EHP — doslovné lpění na „EU" je nesprávné.
+- *Námitka neúplného zapracování acquis:* ne každý unijní akt je pro EHP účinný ve stejném okamžiku. Neutralizace: nutno případ od případu ověřit přílohu IX Dohody o EHP; obecná ekvivalence platí, dílčí zpoždění se řeší výkladem.
+- *Slabé místo:* § 195 neřeší přechodné rozdíly v účinnosti aktů mezi EU a EHP — riziko nejednotné aplikace u nově přijatých předpisů.
+
+#### H. Praktický závěr
+
+§ 195 staví naroveň členské státy EU a státy EHP (Norsko, Island, Lichtenštejnsko): kde zákon hovoří o „členském státě EU", míní i tyto státy. Subjekty z EHP požívají jednotného pasu a dohledové spolupráce jako subjekty z EU.
+
+**Checklist (advokát / soud / ČNB / přeshraniční subjekt):**
+- [ ] Určit, zda jde o stát EU, stát EHP (Norsko/Island/Lichtenštejnsko), nebo třetí stát.
+- [ ] U subjektu EHP aplikovat ustanovení odkazující na „členský stát EU" (jednotný pas, notifikace).
+- [ ] Ověřit, zda je konkrétní unijní akt zapracován do přílohy IX Dohody o EHP a účinný pro EHP.
+
+**Typicky rozhodné důkazy / podklady:** povolení domovského orgánu; notifikace přeshraniční činnosti; doklad o členství státu v EHP; relevantní část přílohy IX Dohody o EHP.
 
 ---
 
@@ -281,6 +495,42 @@ Zákon explicitně vylučuje aplikaci:
 
 Výjimka platí jen dispozitivně: strany si mohou použití vyloučených ustanovení OZ sjednat zpět.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník s cennými papíry obhospodařuje portfolio zákazníka na základě smlouvy o obhospodařování. Při realizaci pokynů využívá sub-custodiana a clearingovou banku. Zákazník následně namítá, že obchodník měl jednat výlučně osobně (§ 1415 odst. 1 OZ) a měl po skončení správy provést závěrečné vyúčtování dle §§ 1432–1437 OZ; obchodník naopak postupoval podle ZPKT a smlouvy. Účastníky jsou zákazník a obchodník. Důkazy: smlouva o obhospodařování, doklady o zapojení sub-custodiana, výpisy a vyúčtování dle podmínek smlouvy.
+
+**2. Právní otázka.** Použijí se na investiční službu obhospodařování portfolia ustanovení OZ o správě cizího majetku (§ 1401, § 1415 odst. 1, §§ 1432–1437), nebo je vylučuje § 195a odst. 2 a 3 ZPKT?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 195a odst. 2 (přednost ZPKT a jeho prováděcích předpisů před OZ v oblasti správy cizího majetku), odst. 3 (vyloučení § 1401, § 1415 odst. 1 a §§ 1432–1437 OZ pro činnosti investiční služby, ledaže si strany ujednaly jinak); odst. 1 (historické přechodné pravidlo pro emise nad 50 000 EUR).
+- *Související ustanovení téhož zákona:* §§ 119c, 120c, 127c (informační povinnosti emitentů — odst. 1); ustanovení o obhospodařování majetku zákazníka.
+- *Související předpisy:* OZ (§ 1400 a násl. — správa cizího majetku, zejm. § 1401, § 1415 odst. 1, §§ 1432–1437); směrnice 2010/73/EU (k odst. 1); MiFID II.
+- *Judikatura:* nosně zásada lex specialis derogat legi generali; k investičním službám platí, že zvláštní úprava ZPKT a smluvní ujednání mají přednost před obecnou úpravou správy cizího majetku.
+
+**4. Subsumpce.** Obhospodařování portfolia je „činnost, kterou zahrnuje investiční služba". Tím se aktivuje odst. 3: § 1401 (odmítnutí pokynu), § 1415 odst. 1 (osobní výkon) a §§ 1432–1437 (závěrečné vyúčtování) se nepoužijí, ledaže si strany ujednaly jinak. Odst. 2 navíc stanoví přednost ZPKT a prováděcích předpisů, odchylují-li se od OZ. Zapojení sub-custodiana je tedy přípustné a vyúčtování se řídí ZPKT a smlouvou.
+
+**5. Řešení.** Námitky zákazníka opřené o §§ 1415 odst. 1 a 1432–1437 OZ neobstojí — tato ustanovení jsou pro investiční službu vyloučena (odst. 3), pokud si strany výslovně nesjednaly jejich použití. Obchodník postupoval správně dle ZPKT a smlouvy. Postup obrany: doložit povahu vztahu jako investiční služby, odkázat na vyloučení v odst. 3 a na přednost ZPKT v odst. 2. Riziko: existence odchylného smluvního ujednání „zpět" k OZ — nutno prověřit smlouvu.
+
+**6. Varianty.** (a) Pokud by si strany ve smlouvě výslovně sjednaly použití §§ 1432–1437 OZ, vyloučení dle odst. 3 by se neuplatnilo (dispozitivnost) a obchodník by byl vázán režimem OZ. (b) Pokud by nešlo o investiční službu, nýbrž o obecnou správu majetku mimo ZPKT, vyloučení dle odst. 3 by nedopadalo a aplikoval by se plně OZ.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka ochrany beneficienta dle OZ:* zákazník tvrdí, že vyloučení §§ 1401, 1415, 1432–1437 OZ jej zbavuje ochrany. Neutralizace: ochranu poskytuje sám ZPKT (informační, evidenční a střetové povinnosti, best execution), jenž je pro investiční služby specializovanější.
+- *Námitka rozsahu vyloučení:* spornost, které „činnosti investiční služby" odst. 3 pokrývá. Neutralizace: vyloučení dopadá na jednotlivé činnosti, jež investiční služba zahrnuje; rozhoduje funkční souvislost s poskytováním služby.
+- *Slabé místo:* odst. 1 je historicky konzumovaný (lhůty 2011/2012), avšak zůstává v textu — riziko mylné aplikace na současné emise; nutno jej číst jako neaktivní.
+
+#### H. Praktický závěr
+
+§ 195a potvrzuje přednost ZPKT před OZ v oblasti správy cizího majetku (odst. 2) a pro investiční služby vylučuje § 1401, § 1415 odst. 1 a §§ 1432–1437 OZ, není-li ujednáno jinak (odst. 3). Odst. 1 je historický (emise nad 50 000 EUR do 2011/2012).
+
+**Checklist (advokát / soud / obchodník / zákazník):**
+- [ ] Kvalifikovat vztah jako „činnost, kterou zahrnuje investiční služba" (pak se aktivuje vyloučení dle odst. 3).
+- [ ] Ověřit, zda smlouva nesjednala použití vyloučených ustanovení OZ „zpět" (dispozitivnost).
+- [ ] U kolize s OZ ve správě cizího majetku aplikovat ZPKT a prováděcí předpisy (odst. 2).
+- [ ] Odst. 1 posuzovat jako historicky konzumovaný — neaplikovat na současné emise.
+
+**Typicky rozhodné důkazy / podklady:** smlouva o obhospodařování / poskytování investiční služby; doklady o zapojení sub-custodiana či clearingové banky; vyúčtování a výpisy dle smlouvy; případné výslovné ujednání odkazující na OZ.
+
 ---
 
 ### § 195b — Výjimka z clearingové povinnosti pro deriváty z uhlí a ropy
@@ -302,6 +552,41 @@ Výjimka platí jen dispozitivně: strany si mohou použití vyloučených ustan
 § 195b byl vložen do ZPKT jako **přechodné implementační opatření** k čl. 89 EMIR v původním znění. Komoditní deriváty na uhlí a ropu fyzicky vypořádané (deliverable) jsou specifická kategorie, u níž legislativci EU původně uznali, že trhy nejsou technicky připraveny na povinný centrální clearing. EMIR proto připustil, aby národní orgány dohledu udělily časově omezenou výjimku.
 
 Zákonná maximální platnost výjimky byla stanovena do **3. ledna 2021** — k tomuto datu tedy tato výjimka ze zákona vypršela. § 195b je nyní historicky vyčerpaný a nemá pro praxi aktivní normativní obsah. Zákon jej nevypustil, protože by bylo nutné řešit přechodnou platnost vydaných výjimek; jejich zachování do data platnosti je právně dostatečné.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Nefinanční smluvní strana obchodující s fyzicky vypořádanými deriváty na ropu v organizovaném obchodním systému požádala v roce 2019 ČNB o výjimku z clearingové povinnosti dle čl. 4 EMIR a z technik zmírňování rizika dle čl. 11 odst. 3 EMIR podle § 195b. Účastníky jsou žadatel (nefinanční smluvní strana), ČNB a ESMA (notifikace). Důkazy: žádost s vymezením derivátů dle § 3 odst. 1 písm. h) týkajících se ropy, doklad o splnění podmínek čl. 10 odst. 1 EMIR, doklad o obchodování v OOS a o fyzickém vypořádání.
+
+**2. Právní otázka.** Lze v současnosti (po 3. lednu 2021) udělit nebo prodloužit výjimku z clearingové povinnosti pro komoditní deriváty z uhlí/ropy podle § 195b?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 195b odst. 1–4 (udělení výjimky ČNB, maximální platnost do 3. 1. 2021, řízení na žádost, notifikace ESMA, nezapočtení do pozic dle čl. 10 EMIR).
+- *Související ustanovení téhož zákona:* § 3 odst. 1 písm. h) (deriváty na emise / komoditní deriváty); § 192a (ČNB jako příslušný orgán dle EMIR).
+- *Související předpisy:* nař. EMIR č. 648/2012 (čl. 4, čl. 10 odst. 1, čl. 11 odst. 3, čl. 89 v původním znění).
+- *Judikatura:* relevantní spíše výkladová praxe ESMA k přechodnému režimu čl. 89 EMIR než soudní judikatura; nosně platí zásada, že časově omezené výjimky po uplynutí lhůty pozbývají účinnosti.
+
+**4. Subsumpce.** Žádost se opírá o § 195b a EMIR; produkt (fyzicky vypořádané deriváty na ropu v OOS) odpovídá věcnému rozsahu. Klíčový je však znak času: odst. 2 omezuje platnost výjimky nejdéle do 3. 1. 2021. Po tomto datu chybí zákonný podklad k udělení i k prodloužení — hypotéza již nemůže být naplněna.
+
+**5. Řešení.** ČNB by dnes žádost zamítla, resp. řízení by bylo bezpředmětné — § 195b je historicky vyčerpaný a nemá aktivní normativní obsah; clearingová povinnost dle EMIR se na dané deriváty uplatní v plném rozsahu. Postup: konstatovat zánik výjimky uplynutím zákonné lhůty. Pro výklad starších vztahů platí, že výjimky udělené do 3. 1. 2021 byly účinné jen do tohoto data.
+
+**6. Varianty.** (a) Kdyby žádost byla podána a vyřízena před 3. 1. 2021, výjimka by platila do tohoto data včetně notifikace ESMA. (b) Pro jiné komoditní deriváty nebo aktuální výjimky z clearingu je nutné vyjít z platného znění EMIR a jeho prováděcích aktů, nikoli z § 195b.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka přetrvávající platnosti:* lze mylně argumentovat, že ustanovení je v zákoně, tedy účinné. Neutralizace: odst. 2 časově ohraničuje platnost výjimky do 3. 1. 2021; zachování textu je jen legislativní technikou.
+- *Námitka legitimního očekávání:* subjekt s dřívější výjimkou by namítal její trvání. Neutralizace: výjimka byla od počátku časově limitována; po 3. 1. 2021 nelze očekávat její pokračování.
+- *Slabé místo:* ponechání vyčerpaného ustanovení v textu zákona může mást adresáty — riziko chybné aplikace; nutno je číst jako neaktivní.
+
+#### H. Praktický závěr
+
+§ 195b byl přechodnou sektorovou výjimkou z clearingové povinnosti EMIR pro fyzicky vypořádané deriváty z uhlí a ropy; jeho platnost skončila 3. 1. 2021. Dnes nemá aktivní normativní obsah a clearingová povinnost se uplatní bez výjimky.
+
+**Checklist (advokát / soud / ČNB / nefinanční smluvní strana):**
+- [ ] Ověřit datum — po 3. 1. 2021 nelze výjimku dle § 195b udělit ani prodloužit.
+- [ ] Pro aktuální clearingovou povinnost vyjít z platného znění EMIR, nikoli z § 195b.
+- [ ] U historických vztahů zohlednit, že udělené výjimky platily nejdéle do 3. 1. 2021 a byly notifikovány ESMA.
+
+**Typicky rozhodné důkazy / podklady:** žádost a rozhodnutí o výjimce (je-li z období do 3. 1. 2021); doklad o povaze derivátů dle § 3 odst. 1 písm. h); notifikace ESMA; platné znění EMIR.
 
 ---
 
@@ -355,6 +640,42 @@ Výchozí pravidlo je: dokumenty v cizím jazyce se ČNB předkládají v origin
 
 V praxi ČNB tuto pravomoc využívá: na svých stránkách průběžně publikuje sdělení, pro které typy dokumentů přijímá anglický originál bez překladu (typicky dokumenty dle standardizovaných formulářů ESMA, audit reports v angličtině, smlouvy se zahraniční protistranou).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Emitent dluhopisů určených převážně zahraničním kvalifikovaným investorům požádá ČNB o povolení uveřejnit některé povinné informace na území ČR pouze v angličtině a předkládá ČNB dokumenty v cizím jazyce bez úředního překladu. Účastníky jsou emitent a ČNB. Důkazy: žádost s odůvodněním (struktura investorů), předkládané dokumenty v cizím jazyce, případné úřední sdělení ČNB o přípustnosti angličtiny.
+
+**2. Právní otázka.** Může emitent uveřejnit informace na území ČR v angličtině a předložit ČNB cizojazyčné dokumenty bez úředně ověřeného překladu, nebo platí bezvýjimečně čeština a překlad?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 196 odst. 1 (čeština jako výchozí jazyk uveřejnění; povolení angličtiny na žádost po posouzení okolností), odst. 2 (min. 3 roky na webu), odst. 3 (čestné prohlášení místo přílohy / dispense), odst. 4 (cizojazyčné písemnosti s úředním překladem; možnost ČNB připustit originál/angličtinu plošně úředním sdělením).
+- *Související ustanovení téhož zákona:* ustanovení o uveřejňování informací emitenty a o licenčních řízeních.
+- *Související předpisy:* nař. o prospektu č. 2017/1129 (čl. 27 — jazyk; čl. 21 odst. 4 — dostupnost); správní řád.
+- *Judikatura:* nosně princip, že jazykový režim slouží přístupnosti informací adresátům; výjimky pro angličtinu jsou přípustné, je-li zachována ochrana cílové skupiny investorů.
+
+**4. Subsumpce.** Výchozím pravidlem je čeština (odst. 1) a překlad cizojazyčných písemností (odst. 4). ČNB však může na žádost po posouzení okolností povolit angličtinu (odst. 1) a plošně úředním sdělením připustit cizojazyčný originál či angličtinu bez překladu (odst. 4). Naplnění znaku „konkrétní okolnosti" (zahraniční báze investorů) odůvodňuje výjimku.
+
+**5. Řešení.** ČNB může vyhovět: povolit uveřejnění v angličtině (individuálně dle odst. 1) a přijmout cizojazyčné dokumenty bez překladu, existuje-li její úřední sdělení dle odst. 4 nebo individuální souhlas. Informace musí zůstat na webu nejméně 3 roky (odst. 2). Postup: podat odůvodněnou žádost; ověřit aktuální úřední sdělení ČNB o přípustných jazycích. Riziko: bez povolení/sdělení platí čeština a úřední překlad — jinak vada uveřejnění/podání.
+
+**6. Varianty.** (a) Jsou-li informace určeny retailovým českým investorům, ČNB angličtinu spíše nepovolí — převáží přístupnost pro českojazyčné adresáty. (b) Existuje-li úřední sdělení ČNB připouštějící daný typ dokumentu v angličtině pro neurčitý okruh, individuální žádost není třeba — postačí postupovat dle sdělení.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka nepřístupnosti pro českého investora:* angličtina znevýhodňuje retail. Neutralizace: výjimka se uděluje po posouzení okolností (typicky sofistikovaní/zahraniční investoři); u retailu se neuplatní.
+- *Námitka nejistoty rozsahu plošného sdělení:* spornost, na které dokumenty se sdělení ČNB vztahuje. Neutralizace: rozsah určuje samo úřední sdělení na webu ČNB — nutno z něj vyjít.
+- *Slabé místo:* dispense od příloh a čestné prohlášení (odst. 3) jsou podmíněny tím, že nebude ohroženo ověření předpokladů — při pochybnostech ČNB přílohu vyžádá; riziko pro žadatele, spoléhá-li na automatické upuštění.
+
+#### H. Praktický závěr
+
+§ 196 stanoví češtinu jako výchozí jazyk uveřejnění a vyžaduje úřední překlad cizojazyčných písemností, avšak dává ČNB nástroje zjednodušení: povolení angličtiny (individuální i plošné úřední sdělení), čestné prohlášení místo přílohy a dispense. Informace na webu musí zůstat min. 3 roky.
+
+**Checklist (advokát / soud / ČNB / emitent / žadatel):**
+- [ ] Určit, zda informace cílí na české retailové, nebo na zahraniční/kvalifikované investory (vliv na povolení angličtiny).
+- [ ] Ověřit aktuální úřední sdělení ČNB o tom, jaké dokumenty lze předkládat v angličtině bez překladu (odst. 4).
+- [ ] Při absenci povolení zajistit češtinu a úředně ověřený překlad.
+- [ ] Zajistit dostupnost informací na webu nejméně 3 roky (odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** žádost o povolení angličtiny s odůvodněním; úřední sdělení ČNB o přípustných jazycích; doklad o struktuře cílových investorů; doklad o době uveřejnění na webu.
+
 ---
 
 ### § 197 — Standard důvěryhodnosti
@@ -377,6 +698,41 @@ Zákon používá otevřenou formulaci — kritériem je, zda dosavadní činnos
 - Etickým aspektům — závažné majetkové delikty, podvody, disciplinární řízení stavovských komor.
 
 Zákon záměrně nekonkretizuje podmínky taxativně — ČNB rozhoduje v každém případě individuálně (správní uvážení). Toto pojetí odpovídá unijní úpravě: směrnice MiFID II (čl. 9) vyžaduje hodnocení „fit and proper", které zahrnuje důvěryhodnost i odbornost, avšak ponechává konkrétní kritéria na příslušném orgánu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Kandidát na vedoucí osobu obchodníka s cennými papíry byl před třemi lety odvolán z funkce v jiné finanční instituci pro závažné porušení povinností a má v zahraničí uloženou sankci orgánu dohledu; jeho odsouzení za majetkový delikt bylo později zahlazeno. ČNB posuzuje jeho důvěryhodnost při udělování souhlasu s výkonem funkce. Účastníky jsou kandidát, dohlížený obchodník a ČNB. Důkazy: výpis z evidence trestů (i zahlazená odsouzení relevantní pro kapitálový trh), doklady o předchozím odvolání z funkce, rozhodnutí zahraničního regulátora o sankci.
+
+**2. Právní otázka.** Splňuje kandidát standard důvěryhodnosti dle § 197 — tj. dává jeho dosavadní činnost předpoklad řádného výkonu funkce — navzdory odvolání z funkce, zahraniční sankci a (zahlazenému) odsouzení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 197 (důvěryhodná je osoba, jejíž dosavadní činnost dává předpoklad řádného výkonu činnosti dle ZPKT).
+- *Související ustanovení téhož zákona:* ustanovení vyžadující důvěryhodnost (vedoucí osoby, členové orgánů organizátora RT, nucení správci dle § 198 odst. 2).
+- *Související předpisy:* směrnice MiFID II (čl. 9 — hodnocení „fit and proper"); OZ (svéprávnost); předpisy o evidenci trestů.
+- *Judikatura:* nosně závěr, že posouzení důvěryhodnosti je správním uvážením v mezích zákona; ČNB přihlíží k celkovému obrazu dosavadní činnosti, nikoli k jediné izolované skutečnosti, a může zohlednit i zahlazená odsouzení, jsou-li relevantní.
+
+**4. Subsumpce.** Standard je otevřený — rozhoduje, zda dosavadní činnost dává předpoklad řádného výkonu. Odvolání z funkce pro závažné porušení a sankce zahraničního regulátora jsou skutečnosti svědčící proti naplnění předpokladu; zahlazené odsouzení lze zohlednit, je-li relevantní pro kapitálový trh. ČNB váží tyto okolnosti v jejich souhrnu (správní uvážení).
+
+**5. Řešení.** ČNB pravděpodobně shledá nedostatek důvěryhodnosti, převáží-li negativní skutečnosti (odvolání pro závažné pochybení + regulatorní sankce) nad případnými polehčujícími okolnostmi; souhlas s výkonem funkce neudělí. Postup: provést individuální posouzení celkového obrazu, odůvodnit závěr. Riziko pro kandidáta: zamítavé rozhodnutí; pro obchodníka: nutnost nalézt jinou vedoucí osobu.
+
+**6. Varianty.** (a) Pokud by negativní skutečnosti byly bagatelní a dávno minulé a kandidát by od té doby dlouhodobě řádně působil, ČNB by mohla důvěryhodnost dovodit. (b) Pokud by odsouzení bylo za delikt zcela bez vztahu ke kapitálovému trhu a navíc zahlazené, jeho váha by byla výrazně nižší.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka přílišné neurčitosti standardu:* otevřená formulace § 197 prý umožňuje libovůli. Neutralizace: jde o aprobované správní uvážení odpovídající unijnímu „fit and proper"; ČNB je vázána zásadou individuálního a odůvodněného posouzení.
+- *Námitka zohlednění zahlazeného odsouzení:* kandidát namítá, že k zahlazenému odsouzení nelze přihlížet. Neutralizace: pro účely důvěryhodnosti na kapitálovém trhu lze zohlednit i zahlazená odsouzení, jsou-li relevantní; jde o jiný účel než trestní bezúhonnost stricto sensu.
+- *Slabé místo:* zákon nestanoví taxativní kritéria — riziko nejednotnosti rozhodování; mitigováno ustálenou praxí ČNB a odůvodněním.
+
+#### H. Praktický závěr
+
+§ 197 podává obecnou definici důvěryhodnosti pro celý ZPKT: důvěryhodná je osoba, jejíž dosavadní činnost dává předpoklad řádného výkonu. ČNB posuzuje individuálně (správní uvážení) a přihlíží k bezúhonnosti, předchozímu výkonu funkce, regulatorní historii a etickým aspektům.
+
+**Checklist (advokát / soud / ČNB / kandidát na funkci):**
+- [ ] Shromáždit celkový obraz dosavadní činnosti (bezúhonnost, předchozí funkce, sankce, etické aspekty).
+- [ ] Posoudit relevanci zahlazených odsouzení a zahraničních sankcí pro kapitálový trh.
+- [ ] Vážit okolnosti v souhrnu, nikoli izolovaně, a rozhodnutí řádně odůvodnit.
+
+**Typicky rozhodné důkazy / podklady:** výpis z evidence trestů; doklady o předchozím výkonu a případném odvolání z funkce; rozhodnutí orgánů dohledu (ČNB/ESMA/zahraniční); doklady o disciplinárních řízeních.
 
 ---
 
@@ -440,6 +796,42 @@ Odst. 6 odkazuje na zákon o volném pohybu služeb a umožňuje, aby osobám z 
 
 Vyškrtnutí nastane jak na žádost (odst. 7 písm. d), v případě smrti (písm. e), tak z moci úřední při závažném disciplinárním pochybení (písm. a, b) nebo nesplnění podmínek (písm. c). Bezdůvodné vzdání se funkce a závažné nebo opakované porušení povinností v průběhu jmenování jsou mimořádně závažné — stát nemůže spoléhat na osoby, které selžou v kritickém okamžiku.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Fyzická osoba zapsaná v seznamu nucených správců byla ČNB jmenována nuceným správcem obchodníka s cennými papíry, avšak bez závažných důvodů se funkce krátce po jmenování vzdala, čímž ohrozila průběh nucené správy. Jiný uchazeč žádá o nový zápis do seznamu, byl však z téhož seznamu vyškrtnut před třemi lety. Účastníky jsou oba kandidáti/správci a ČNB. Důkazy: rozhodnutí o jmenování, doklad o vzdání se funkce a jeho (ne)odůvodnění, záznam o předchozím vyškrtnutí a jeho datu.
+
+**2. Právní otázka.** (i) Lze osobu, která se bez závažných důvodů vzdala funkce nuceného správce, vyškrtnout ze seznamu? (ii) Lze zapsat uchazeče, který byl ze seznamu vyškrtnut před méně než 5 lety?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 198 odst. 2 (podmínky zápisu: svéprávnost, důvěryhodnost, odbornost, blokace 5 let po vyškrtnutí), odst. 3 (povinné elektronické podání), odst. 6 (vznik oprávnění marným uplynutím lhůty dle zákona o volném pohybu služeb), odst. 7 písm. a) a b) (vyškrtnutí při bezdůvodném vzdání se funkce nebo závažném/opakovaném porušení), odst. 8 (správní rozhodnutí).
+- *Související ustanovení téhož zákona:* § 197 (důvěryhodnost); § 139 a násl. (nucená správa); § 199 odst. 2 ve spojení s § 198 odst. 5 (prováděcí vyhláška).
+- *Související předpisy:* OZ (§ 15 — svéprávnost); zákon o volném pohybu služeb (§ 28–30); směrnice 2006/123/ES.
+- *Judikatura:* nosně princip, že stát nemůže spoléhat na osoby selhávající v kritickém okamžiku; blokační lhůty a sankční vyškrtnutí jsou legitimním nástrojem zajištění spolehlivosti registru.
+
+**4. Subsumpce.** (i) Bezdůvodné vzdání se funkce naplňuje znak odst. 7 písm. a) — ČNB osobu ze seznamu vyškrtne rozhodnutím (odst. 8). (ii) U druhého uchazeče není splněna podmínka odst. 2 („nebyla v posledních 5 letech z tohoto seznamu vyškrtnuta") — od vyškrtnutí uplynuly jen 3 roky, blokační lhůta běží.
+
+**5. Řešení.** (i) ČNB vydá rozhodnutí o vyškrtnutí osoby, jež se bez závažných důvodů vzdala funkce. (ii) Žádost druhého uchazeče ČNB zamítne rozhodnutím — blokace 5 let dosud trvá. Postup: ověřit datum předchozího vyškrtnutí a důvody vzdání se funkce. Riziko: posouzení „závažných důvodů" vzdání se funkce je hodnotící — nutné řádné odůvodnění.
+
+**6. Varianty.** (a) Pokud by se osoba vzdala funkce ze závažných důvodů (např. vážná nemoc, střet zájmů), znak odst. 7 písm. a) by nebyl naplněn a důvod k vyškrtnutí by odpadl. (b) Pokud by od vyškrtnutí druhého uchazeče uplynulo více než 5 let a splňoval ostatní podmínky, zápis by byl možný.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka tvrdosti blokace 5 let:* uchazeč namítá nepřiměřenost. Neutralizace: blokace chrání spolehlivost registru osob pro krizové funkce; je zákonnou podmínkou s pevnou lhůtou, nikoli uvážením.
+- *Námitka k povinné elektronické formě (odst. 3):* podání v listinné podobě bylo odmítnuto. Neutralizace: zákon výslovně předepisuje elektronické podání — listinná forma je nepřípustná.
+- *Slabé místo:* pojem „závažné důvody" vzdání se funkce a „odborné znalosti, dovednosti a zkušenosti" nejsou v zákoně konkretizovány — riziko sporu; mitigováno prováděcí vyhláškou (§ 198 odst. 5) a odůvodněním.
+
+#### H. Praktický závěr
+
+§ 198 buduje preventivní registr osob způsobilých k výkonu nucené správy a likvidace institucí kapitálového trhu. Zápis vyžaduje svéprávnost, důvěryhodnost a odbornost, podání je výlučně elektronické; vyškrtnutí (i sankční) a blokace 5 let zajišťují spolehlivost seznamu.
+
+**Checklist (advokát / soud / ČNB / kandidát na správce):**
+- [ ] Ověřit splnění podmínek zápisu dle odst. 2 (svéprávnost, důvěryhodnost dle § 197, odbornost, absence vyškrtnutí v posledních 5 letech).
+- [ ] Podat žádost výlučně elektronicky s doklady dle prováděcí vyhlášky (odst. 4 a 5).
+- [ ] U vyškrtnutí posoudit naplnění některého z důvodů odst. 7 (a–e) a vydat správní rozhodnutí (odst. 8).
+- [ ] U zahraniční osoby ověřit oprávnění jiného státu EHP, případně režim marného uplynutí lhůty (odst. 6).
+
+**Typicky rozhodné důkazy / podklady:** elektronická žádost a doklady o splnění podmínek; rozhodnutí o jmenování a o případném vzdání se funkce; záznam o předchozím vyškrtnutí a jeho datu; doklad o oprávnění zahraniční osoby.
+
 ---
 
 ### § 198a — Informace uveřejňované Českou národní bankou
@@ -472,6 +864,41 @@ Ad písm. b): Unijní nařízení a směrnice v oblasti obezřetnostní regulace
 
 Ad písm. c): Zásada přiměřenosti je klíčová pro dohled nad malými a středními obchodníky s cennými papíry (tzv. class 3 IF dle IFD/IFR) — ČNB uveřejňuje svůj přístup, aby podniky věděly, jakou dohledovou intenzitu mohou očekávat.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník s cennými papíry zařazený do třídy 3 (malý investiční podnik dle IFD/IFR) si stěžuje, že ČNB vůči němu uplatňuje stejně intenzivní dohled jako vůči velkým subjektům, ač zásada přiměřenosti měla vést k mírnějšímu režimu; namítá, že ČNB neuveřejnila svůj přístup a kritéria uplatňování přiměřenosti. Účastníky jsou obchodník a ČNB. Důkazy: obsah internetových stránek ČNB (zda jsou uveřejněny informace dle § 198a odst. 1), korespondence o dohledových požadavcích.
+
+**2. Právní otázka.** Je ČNB povinna uveřejnit svůj přístup a kritéria pro uplatňování zásady přiměřenosti při dohledu a informace o využití national discretions, a může se obchodník této transparentnosti dovolávat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 198a odst. 1 písm. a)–d) (uveřejňování aktualizovaných předpisů, využití opcí a uvážení, přístupu a kritérií přiměřenosti dle § 135b, statistik o opatřeních a sankcích), odst. 2 (srovnatelný formát napříč EU a pravidelná aktualizace).
+- *Související ustanovení téhož zákona:* § 135b (výkon dohledu a zásada přiměřenosti); ustanovení o obezřetnostních pravidlech.
+- *Související předpisy:* směrnice IFD 2019/2034 (čl. 11 odst. 1 a 2); směrnice CRD IV 2013/36/EU (čl. 143); nař. IFR/CRR.
+- *Judikatura:* nosně princip transparentnosti dohledu a srovnatelnosti napříč EU koordinované ESMA; povinnost uveřejnění slouží právní jistotě a demokratické odpovědnosti.
+
+**4. Subsumpce.** ČNB je příslušným orgánem a povinným subjektem dle § 198a. Znak „přístup a metody, včetně kritérií pro uplatňování zásady přiměřenosti" (odst. 1 písm. c)) i „využití opcí a uvážení" (písm. b)) zakládají povinnost ČNB tyto informace uveřejnit. Neuveřejnění by bylo porušením transparentní povinnosti; obchodník se může přiměřenosti dovolávat při výkonu dohledu dle § 135b.
+
+**5. Řešení.** ČNB má povinnost uveřejnit informace dle § 198a, a to ve formátu srovnatelném s jinými orgány EU (odst. 2). Obchodník třídy 3 se může dovolávat zásady přiměřenosti dle § 135b; uveřejněný přístup ČNB je vodítkem očekávané intenzity dohledu. Postup: ověřit, zda ČNB informace uveřejnila, a poměřit dohledový postup s deklarovaným přístupem. Riziko: § 198a sám nezakládá subjektivní právo na konkrétní mírnější zacházení — to plyne z hmotných pravidel (IFR/IFD, § 135b).
+
+**6. Varianty.** (a) Pokud by šlo o velký subjekt (třída 1), zásada přiměřenosti by režim nezmírňovala ve stejné míře a intenzivnější dohled by byl namístě. (b) Pokud by ČNB přístup uveřejnila a postupovala v souladu s ním, námitka netransparentnosti by neobstála.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka, že § 198a je jen informační:* ČNB tvrdí, že nezakládá nárok subjektu. Neutralizace: byť jde primárně o transparentní povinnost, neuveřejnění oslabuje legitimitu dohledu a zásadu přiměřenosti lze uplatnit přes § 135b.
+- *Námitka rozsahu uveřejňovaných statistik:* spornost detailu statistik o sankcích (písm. d)). Neutralizace: rozsah určuje zákon a koordinace ESMA pro srovnatelnost; jde o souhrnné, nikoli individualizované údaje.
+- *Slabé místo:* § 198a neukládá konkrétní formu ani sankci za neuveřejnění — vynucení je spíše institucionální (dohled ESMA) než individuálně žalovatelné.
+
+#### H. Praktický závěr
+
+§ 198a ukládá ČNB uveřejňovat aktualizovaná znění předpisů, využití national discretions, přístup a kritéria přiměřenosti při dohledu a souhrnné statistiky o sankcích, a to ve formátu srovnatelném napříč EU. Slouží právní jistotě, srovnatelnosti a demokratické odpovědnosti.
+
+**Checklist (advokát / soud / ČNB / dohlížený subjekt):**
+- [ ] Ověřit, zda ČNB na webu uveřejnila informace dle § 198a odst. 1 písm. a)–d).
+- [ ] U subjektu třídy 3 zohlednit deklarovaný přístup ČNB k zásadě přiměřenosti (§ 135b) při posuzování intenzity dohledu.
+- [ ] Posoudit využití national discretions ČNB relevantní pro daný subjekt (písm. b)).
+
+**Typicky rozhodné důkazy / podklady:** obsah internetových stránek ČNB (uveřejněné předpisy, opce, přístup k přiměřenosti, statistiky); zařazení subjektu do třídy dle IFD/IFR; korespondence o dohledových požadavcích.
+
 ---
 
 ### § 198b — Komoditní burza jako organizátor regulovaného trhu
@@ -501,6 +928,42 @@ Komoditní burza nemusí mít základní kapitál ve smyslu OZ (jde o specificko
 #### Koordinace dohledu (odst. 4)
 
 Komoditní burzy podléhají dohledu Ministerstva zemědělství (§ 18 zákona č. 229/1992 Sb.). ČNB a toto ministerstvo musí licenční a dohledové úkony koordinovat a povolení vydávají po vzájemné dohodě — tím se zabraňuje kompetenčním kolizím při vykonávání smíšené regulované aktivity.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Komoditní burza, dosud regulovaná podle zákona č. 229/1992 Sb. o komoditních burzách a dohlížená Ministerstvem zemědělství, hodlá organizovat regulovaný trh pro komoditní deriváty a deriváty na emise. Požádá ČNB o povolení organizátora regulovaného trhu; současně chce na témže trhu obchodovat i s akciemi. Účastníky jsou komoditní burza, ČNB a Ministerstvo zemědělství. Důkazy: žádost o povolení, statut komoditní burzy, doklad o vkladech zakladatelů/členů (fikce základního kapitálu), podklady o splnění předpokladů ZPKT.
+
+**2. Právní otázka.** Může komoditní burza získat povolení organizátora regulovaného trhu, a pokud ano, v jakém věcném rozsahu — vztahuje se i na akcie, nebo jen na komoditní deriváty, deriváty na emise a finanční rozdílové smlouvy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 198b odst. 1 (povolení ORT pro nástroje dle § 3 odst. 1 písm. g)–i); fikce základního kapitálu z vkladů zakladatelů/členů; obdobné pravidlo pro dozorčí radu), odst. 2 (pravidla trhu nejsou obsahem statutu), odst. 3 (registrace činnosti dle § 38 bez návrhu; další činnost dle § 39), odst. 4 (koordinace dohledu a vydání povolení po vzájemné dohodě).
+- *Související ustanovení téhož zákona:* § 3 odst. 1 písm. g)–i) (komoditní deriváty, deriváty na emise, finanční rozdílové smlouvy); §§ 38, 39 (registrace činností); ustanovení o povolení organizátora RT.
+- *Související předpisy:* zákon č. 229/1992 Sb. o komoditních burzách (§ 18 — dohled Ministerstva zemědělství); MiFID II (kategorie obchodních systémů).
+- *Judikatura:* nosně princip zamezení kompetenčních kolizí mezi orgány dohledu; specializace platformy odpovídá jejímu tradičnímu zaměření.
+
+**4. Subsumpce.** Komoditní burza splňuje předpoklady ZPKT a žádá o povolení ORT. Znak věcného rozsahu dle § 198b odst. 1 omezuje povolení jen na nástroje dle § 3 odst. 1 písm. g)–i) — akcie mezi ně nepatří. Pro základní kapitál se uplatní fikce (vklady zakladatelů/členů). Povolení vydávají ČNB a Ministerstvo zemědělství po vzájemné dohodě (odst. 4).
+
+**5. Řešení.** ČNB může komoditní burze udělit povolení ORT pouze pro komoditní deriváty, deriváty na emise a finanční rozdílové smlouvy; pro akcie nikoli — v tom rozsahu by žádost zamítla. Činnost zaregistruje dle § 38 bez návrhu ke dni právní moci povolení. Postup: koordinace s Ministerstvem zemědělství, vydání povolení po vzájemné dohodě. Riziko: pravidla trhu nesmějí být součástí statutu (odst. 2) — jinak vada.
+
+**6. Varianty.** (a) Pokud by komoditní burza žádala povolení i pro dluhopisy nebo akcie, ČNB by je v této části zamítla pro překročení věcného rozsahu dle § 198b odst. 1. (b) Pokud by Ministerstvo zemědělství nesouhlasilo, povolení by nebylo možné vydat — odst. 4 vyžaduje vzájemnou dohodu.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka rovného postavení s ostatními ORT:* komoditní burza žádá plnohodnotné povolení. Neutralizace: § 198b věcný rozsah záměrně omezuje na tři kategorie derivátů odpovídající tradičnímu zaměření burzy.
+- *Námitka chybějícího základního kapitálu:* komoditní burza nemá základní kapitál dle OZ. Neutralizace: odst. 1 stanoví fikci — za základní kapitál se považují vklady a prostředky zakladatelů/členů.
+- *Slabé místo:* dvojkolejnost dohledu (ČNB + Ministerstvo zemědělství) může vést ke kompetenčním třením; mitigováno povinností koordinace a vydání povolení po vzájemné dohodě (odst. 4).
+
+#### H. Praktický závěr
+
+§ 198b umožňuje komoditní burze získat povolení organizátora regulovaného trhu (či provozovat MOS/OOS), avšak jen pro komoditní deriváty, deriváty na emise a finanční rozdílové smlouvy. Základní kapitál nahrazuje fikce vkladů zakladatelů/členů; pravidla trhu nejsou součástí statutu; dohled koordinuje ČNB s Ministerstvem zemědělství.
+
+**Checklist (advokát / soud / ČNB / komoditní burza):**
+- [ ] Vymezit věcný rozsah žádosti — pouze nástroje dle § 3 odst. 1 písm. g)–i)?
+- [ ] Doložit fikci základního kapitálu (vklady a prostředky zakladatelů/členů) a obdobné pravidlo pro dozorčí radu.
+- [ ] Oddělit pravidla obchodování/přijímání/přístupu od statutu (odst. 2).
+- [ ] Zajistit koordinaci a vzájemnou dohodu ČNB a Ministerstva zemědělství (odst. 4) a registraci dle § 38/§ 39.
+
+**Typicky rozhodné důkazy / podklady:** žádost o povolení ORT; statut komoditní burzy; doklad o vkladech zakladatelů/členů; podklady o splnění předpokladů ZPKT; stanovisko Ministerstva zemědělství.
 
 ---
 
@@ -598,6 +1061,42 @@ Odst. 5 stanoví, že návrhy i finální OOP ČNB zveřejňuje **pouze na webu*
 
 Odst. 6 zavádí **zrychlenou proceduru** pro konkrétní kategorie OOP (§ 134a, 134b, 134d, § 136 odst. 6 a § 137 — makroobezřetnostní a systémová opatření, kapitálové polštáře): vydávají se bez standardního řízení o návrhu a mohou nabýt účinnosti **okamžikem zveřejnění**. Ratio legis: systémová finanční rizika vyžadují rychlé opatření a prodlení způsobené standardním správním řízením o návrhu by mohlo zmařit účel opatření.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ČNB hodlá vyhláškou podle § 199 odst. 2 (na základě zmocnění v § 132 odst. 5 — pravidla pro výkon dohledu) stanovit periodicitu reportingu obchodníků s cennými papíry čtvrtletně, ačkoli přímo použitelné nařízení EU (IFR/MiFIR) pro daný typ hlášení stanoví periodicitu pololetní. Současně chce vydat makroobezřetnostní opatření obecné povahy dle § 134a s okamžitou účinností. Účastníky jsou ČNB (normotvůrce) a dohlížení obchodníci. Důkazy: návrh vyhlášky, příslušné nařízení EU stanovící periodicitu, návrh OOP a doklad o jeho zveřejnění.
+
+**2. Právní otázka.** (i) Může ČNB vyhláškou dle § 199 stanovit přísnější (kratší) periodicitu, než vyplývá z přímo použitelného předpisu EU? (ii) Může makroobezřetnostní OOP dle § 134a nabýt účinnosti okamžikem zveřejnění bez řízení o návrhu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 199 odst. 1 (vyhlášky MF — § 115 odst. 5, § 129b odst. 3), odst. 2 (vyhlášky ČNB — 40+ zmocnění), odst. 3 (lhůty/periodicita v rozsahu potřebném pro dohled; výjimka tam, kde je stanoví právo EU), odst. 4–6 (OOP ČNB k IFR/MiFIR; zveřejnění jen dálkovým přístupem; zrychlená procedura pro § 134a, 134b, 134d, § 136 odst. 6, § 137 s účinností od zveřejnění).
+- *Související ustanovení téhož zákona:* jednotlivá zmocnění odkazovaná v odst. 2; § 134a a násl. (makroobezřetnostní opatření).
+- *Související předpisy:* nař. IFR č. 2019/2033 a MiFIR č. 600/2014; čl. 2 odst. 3 a čl. 79 Ústavy (zákonný základ a meze podzákonné normotvorby).
+- *Judikatura:* nosně princip přednosti přímo použitelného nařízení EU před vnitrostátní podzákonnou úpravou; podzákonný předpis se musí držet v mezích zákonného zmocnění (secundum et intra legem).
+
+**4. Subsumpce.** (i) Odst. 3 dovoluje ČNB stanovit lhůty/periodicitu v rozsahu potřebném pro dohled, avšak výslovně vylučuje měnit lhůty/periodicitu stanovené právem EU. Stanoví-li nařízení pololetní periodicitu, ČNB ji nemůže vyhláškou zkrátit. (ii) § 134a patří do výčtu odst. 6 — OOP se vydává bez řízení o návrhu a může nabýt účinnosti okamžikem zveřejnění.
+
+**5. Řešení.** (i) ČNB nesmí vyhláškou zkrátit periodicitu stanovenou nařízením EU; mohla by zpřísnit jen tam, kde periodicitu určuje národní právo. (ii) Makroobezřetnostní OOP dle § 134a může nabýt účinnosti okamžikem zveřejnění a bez řízení o návrhu (odst. 6), neboť systémová rizika vyžadují rychlé opatření. Postup: ověřit, zda periodicitu určuje nařízení EU (pak je neměnná), a u OOP zařazení do výčtu odst. 6. Riziko: překročení mezí zmocnění činí vyhlášku/OOP nezákonným.
+
+**6. Varianty.** (a) Pokud by periodicita reportingu nebyla stanovena právem EU, nýbrž ponechána národnímu orgánu, ČNB by ji vyhláškou mohla stanovit dle potřeby dohledu (odst. 3). (b) Pokud by OOP nespadalo do výčtu odst. 6 (např. běžné OOP dle odst. 4), uplatnilo by se standardní řízení o návrhu opatření obecné povahy a účinnost by nenastala okamžikem zveřejnění.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka přílišné šíře delegace:* odst. 2 odkazuje na 40+ zmocnění. Neutralizace: každé jednotlivé zmocnění je konkrétně vymezeno v příslušném ustanovení ZPKT; § 199 je jen jejich souhrnem — meze plynou z jednotlivých zmocňovacích norem.
+- *Námitka proti okamžité účinnosti OOP:* dohlížený namítá porušení práva na projednání návrhu. Neutralizace: odst. 6 zrychlenou proceduru výslovně připouští u taxativně vymezených systémových opatření, kde prodlení maří účel.
+- *Slabé místo:* hranice „rozsahu potřebného pro výkon účinného dohledu" (odst. 3) je hodnotící — riziko sporu o přiměřenost stanovené periodicity tam, kde ji neurčuje právo EU.
+
+#### H. Praktický závěr
+
+§ 199 je souhrnné zmocňovací ustanovení: dvě zmocnění pro vyhlášky MF, přes 40 pro vyhlášky ČNB, a pravomoc ČNB vydávat OOP k IFR/MiFIR. Lhůty a periodicitu nelze vyhláškou měnit tam, kde je stanoví právo EU; makroobezřetnostní OOP dle výčtu odst. 6 lze vydat bez řízení o návrhu s účinností od zveřejnění.
+
+**Checklist (advokát / soud / ČNB / MF / dohlížený subjekt):**
+- [ ] U vyhlášky identifikovat konkrétní zmocňovací ustanovení (odst. 1 pro MF, odst. 2 pro ČNB) a ověřit, že se předpis drží v jeho mezích.
+- [ ] U lhůt/periodicity zjistit, zda je nestanoví přímo použitelné právo EU (pak je vyhláškou neměnitelné).
+- [ ] U OOP rozlišit standardní režim (odst. 4–5) a zrychlený režim dle výčtu odst. 6 (§ 134a, 134b, 134d, § 136 odst. 6, § 137).
+- [ ] Ověřit zveřejnění OOP způsobem umožňujícím dálkový přístup (odst. 5).
+
+**Typicky rozhodné důkazy / podklady:** text vyhlášky/OOP a odpovídajícího zmocnění; příslušné nařízení EU stanovící lhůty/periodicitu; doklad o zveřejnění OOP dálkovým přístupem; odůvodnění rozsahu stanovených lhůt.
+
 ---
 
 ### Ustanovení přechodná a závěrečná
@@ -656,6 +1155,42 @@ Přehled konverzí je systematicky uspořádán — povolení k obchodu s CP, po
 
 Zvláštní pozornost si zaslouží odst. 10 (zánik povolení SCP ke dni přechodu evidence na centrální depozitář) a odst. 12 (povinnost požádat o souhlas s výkonem funkce vedoucí osoby do 6 měsíců — lhůta se vyčerpala v roce 2004, ustanovení je historické). Odst. 19 řeší terminologickou změnu: „registrované cenné papíry" z dosavadního zákona se považují za „kótované" dle ZPKT.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V archivním sporu (např. o platnost úkonu z roku 2005) je třeba určit, zda subjekt, který v roce 2003 získal povolení obchodníka s cennými papíry podle zákona č. 591/1992 Sb., byl po 1. 5. 2004 oprávněn poskytovat investiční služby, aniž by žádal o nové povolení dle ZPKT. Současně se řeší, zda „registrovaný cenný papír" emitenta z roku 2003 je „kótovaným" dle ZPKT. Účastníky jsou tehdejší obchodník/emitent, protistrana a (historicky) Komise pro cenné papíry. Důkazy: původní povolení dle dosavadního zákona, doklad o rozsahu investičních služeb v povolení, evidenční záznamy.
+
+**2. Právní otázka.** Považuje se povolení a další oprávnění udělená podle zákona č. 591/1992 Sb. automaticky za odpovídající povolení dle ZPKT, a v jakém rozsahu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 200 odst. 1–19 (automatická konverze povolení obchodníka, pobočky, makléře, organizátora trhu, burzy, vypořádacího systému, registrace zprostředkovatele, souhlasů s vedoucí osobou a účastí, prospektů, nucené správy; odst. 10 — zánik povolení SCP; odst. 12 — lhůta 6 měsíců pro souhlas s funkcí; odst. 19 — registrované = kótované CP).
+- *Související ustanovení téhož zákona:* § 203 (intertemporální pravidla pro probíhající řízení); § 202 (přechod evidence SCP).
+- *Související předpisy:* zákon č. 591/1992 Sb. o cenných papírech (a jeho novely vyjmenované v odst. 1).
+- *Judikatura:* nosně princip kontinuity oprávnění a ochrany nabytých práv při změně zákonné úpravy; automatická konverze nevyžaduje nové správní řízení.
+
+**4. Subsumpce.** Povolení obchodníka z roku 2003 dle dosavadního zákona naplňuje hypotézu odst. 1 — „se považuje za povolení k činnosti obchodníka s cennými papíry podle tohoto zákona, v rozsahu investičních služeb uvedených v povolení". Konverze nastává ze zákona, bez nového řízení. „Registrovaný cenný papír" se dle odst. 19 považuje za „kótovaný".
+
+**5. Řízení/řešení.** Subjekt byl po 1. 5. 2004 oprávněn poskytovat investiční služby v rozsahu uvedeném v původním povolení bez nutnosti nové žádosti; výjimkou byla povinnost vedoucích osob požádat o souhlas do 6 měsíců (odst. 12 — dnes historicky vyčerpané). Postup pro výklad: zjistit rozsah služeb v původním povolení a aplikovat konverzi dle příslušného odstavce. Riziko: rozsah konverze je omezen rozsahem původního povolení — nové činnosti jím pokryty nejsou.
+
+**6. Varianty.** (a) Pokud by vedoucí osoba dle odst. 12 nepožádala o souhlas v šestiměsíční lhůtě, oprávnění k výkonu funkce by zaniklo. (b) Pokud by šlo o povolení SCP, dle odst. 10 zaniklo dnem převzetí evidence centrálním depozitářem (rok 2010).
+
+#### G. Protiargumenty a rizika
+
+- *Námitka nutnosti nového povolení:* protistrana tvrdí, že po 1. 5. 2004 bylo třeba nové povolení dle ZPKT. Neutralizace: § 200 zavádí automatickou konverzi — nové řízení se nevyžadovalo.
+- *Námitka rozsahu konverze:* spor, zda konvertované povolení pokrývá i činnosti nově upravené ZPKT. Neutralizace: konverze platí jen v rozsahu uvedeném v původním povolení; širší rozsah by vyžadoval nové povolení.
+- *Slabé místo:* většina odstavců (zejm. odst. 12 — lhůta 2004, odst. 10 — přechod SCP 2010) je historicky konzumována — riziko mylné aplikace na současné vztahy; nutno číst jako přechodná pravidla.
+
+#### H. Praktický závěr
+
+§ 200 zajistil kontinuitu při přechodu ze zákona č. 591/1992 Sb. na ZPKT automatickou konverzí 19 kategorií povolení, registrací a souhlasů — bez nutnosti nových řízení, v rozsahu původních aktů. Pro současnou praxi je relevantní zejména jako výkladové východisko historických oprávnění.
+
+**Checklist (advokát / soud / ČNB):**
+- [ ] Identifikovat původní oprávnění dle zákona č. 591/1992 Sb. a přiřadit odpovídající odstavec § 200.
+- [ ] Ověřit rozsah konvertovaného oprávnění (omezen rozsahem původního povolení).
+- [ ] U vedoucích osob zohlednit historickou lhůtu dle odst. 12; u SCP zánik povolení dle odst. 10 (2010).
+- [ ] U terminologie aplikovat odst. 19 (registrované = kótované CP).
+
+**Typicky rozhodné důkazy / podklady:** původní povolení/registrace/souhlas dle dosavadního zákona; doklad o rozsahu investičních služeb; evidenční záznamy z přechodného období; doklad o datu převzetí evidence centrálním depozitářem.
+
 ---
 
 ### § 201 — Lhůty pro uvedení do souladu s ZPKT
@@ -677,6 +1212,41 @@ Zvláštní pozornost si zaslouží odst. 10 (zánik povolení SCP ke dni přech
 **Výklad:**
 
 § 201 stanoví **adaptační lhůty**, v nichž musely regulované subjekty uvést svou situaci do souladu s novým ZPKT. Všechny lhůty z odst. 1–5 (2004, 2005, 2006) se vyčerpaly. Odst. 6 s lhůtou 1. 9. 2014 je rovněž historický — vyhláška o zveřejňování informací o odměňování (MiFID I implementace) se uplatnila poprvé za účetní rok 2013. Ke dni konsolidace (2026) jsou veškerá tato přechodná pravidla historicky konzumována.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V roce 2026 vznikne spor, zda obchodník s cennými papíry splnil svou povinnost uvést postavení do souladu se ZPKT; protistrana namítá, že obchodník v roce 2005 nebyl plně compliant. Současně se posuzuje, zda informace o odměňování dle § 16a odst. 5 měly být uveřejněny již dříve. Účastníky jsou obchodník, protistrana a ČNB. Důkazy: doklady o uvedení do souladu do 31. 12. 2004, doklad o prvním uveřejnění informací o odměňování za rok 2013.
+
+**2. Právní otázka.** Mají adaptační lhůty § 201 (2004, 2005, 2006, 2014) dnes ještě normativní význam, nebo jsou historicky konzumovány?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 201 odst. 1–5 (lhůty pro obchodníka, burzu, organizátora mimoburzovního trhu, vypořádací systém a konsolidovanou kapitálovou přiměřenost — 2004/2005/2006), odst. 6 (první uveřejnění údajů dle § 16a odst. 5 do 1. 9. 2014).
+- *Související ustanovení téhož zákona:* § 16a (informace o odměňování); § 200 (konverze povolení); § 203 (intertemporální pravidla).
+- *Související předpisy:* MiFID I (implementace); CRD ohledně konsolidované kapitálové přiměřenosti.
+- *Judikatura:* nosně princip, že přechodné lhůty po svém uplynutí pozbývají normativní funkce a slouží již jen jako výkladové východisko pro posouzení tehdejšího stavu.
+
+**4. Subsumpce.** Všechny lhůty § 201 odkazují na pevná data v minulosti (nejpozději 1. 9. 2014). Jejich hypotéza („uvést do souladu do …") je naplnitelná jen ve vztahu k tehdejšímu stavu; ke dni konsolidace (2026) jsou konzumovány.
+
+**5. Řešení.** Pro spor o stav v roce 2005 se § 201 použije jako měřítko tehdejší povinnosti (do souladu do 31. 12. 2004); pro současnost ustanovení neukládá žádnou aktivní povinnost. Postup: posoudit splnění povinnosti k tehdejšímu rozhodnému datu. Riziko: záměna historického a aktuálního významu — ustanovení nelze aplikovat na dnešní vztahy jako živou povinnost.
+
+**6. Varianty.** (a) U sporu o stav k roku 2005 je rozhodným datem 31. 12. 2004 (odst. 1). (b) U sporu o uveřejnění odměňování je rozhodné první uveřejnění do 1. 9. 2014 za rok 2013 (odst. 6).
+
+#### G. Protiargumenty a rizika
+
+- *Námitka přetrvávající povinnosti:* lze mylně dovozovat aktuální povinnost z textu § 201. Neutralizace: lhůty jsou pevně datované do minulosti — dnes nemají aktivní obsah.
+- *Námitka zpětného posouzení:* spor o tehdejší stav. Neutralizace: § 201 slouží jako měřítko stavu k rozhodnému datu, nikoli jako dnešní příkaz.
+- *Slabé místo:* zachování vyčerpaných lhůt v textu zákona může mást — nutno je číst jako historická přechodná pravidla.
+
+#### H. Praktický závěr
+
+§ 201 stanovil adaptační lhůty (2004, 2005, 2006) a první uveřejnění informací o odměňování (2014). Všechny jsou historicky konzumovány; dnes mají význam pouze jako výkladové východisko pro posouzení stavu k tehdejším rozhodným datům.
+
+**Checklist (advokát / soud / ČNB):**
+- [ ] Posoudit § 201 jako historicky konzumovaný — neaplikovat jako živou povinnost.
+- [ ] U historických sporů určit rozhodné datum (31. 12. 2004 / 30. 6. 2005 / 31. 12. 2006 / 1. 9. 2014) podle typu subjektu/povinnosti.
+- [ ] Odlišit § 201 (adaptační lhůty) od § 200 (konverze povolení) a § 203 (probíhající řízení).
+
+**Typicky rozhodné důkazy / podklady:** doklady o uvedení do souladu k rozhodnému datu; doklad o prvním uveřejnění informací o odměňování za rok 2013.
 
 ---
 
@@ -727,6 +1297,42 @@ Klíčové principy přechodu, relevantní pro výklad zápisů provedených v p
 - **Povinnost emitenta uzavřít smlouvu s CDCP** (odst. 7): emitenti, kteří tak neučinili, ztratili právo vyžadovat výpisy a zápisy — sankce vedla k prakticky úplné smluvní pokrytosti.
 - **Autonomní evidence podílových listů** (odst. 9–10): open-end fondy mohly zřídit vlastní evidenci mimo CDCP — toto právo bylo využito mnoha správcovskými společnostmi.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V roce 2026 vlastník zjistí, že na jeho účtu převzatém centrálním depozitářem od Střediska cenných papírů (SCP) je chybný zápis počtu akcií, který tam vznikl ještě v evidenci SCP před přechodem v roce 2010. Vlastník se domáhá opravy a náhrady škody. Účastníky jsou vlastník, centrální depozitář (CDCP) a stát (jednající ministerstvem). Důkazy: výpis z evidence CDCP, historické záznamy SCP, doklad o vzniku chyby v evidenci SCP.
+
+**2. Právní otázka.** Kdo opraví chybu převzatou CDCP z evidence SCP a kdo nese odpovědnost za škodu jí způsobenou — CDCP, nebo stát?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 202 odst. 5 (na CDCP nepřecházejí práva, povinnosti ani dluhy SCP), odst. 6 (chybu převzatou od SCP opraví CDCP dle ZPKT; odpovědnost státu za vzniklou škodu tím není dotčena), odst. 7–8 (povinnost emitentů uzavřít smlouvu s CDCP), odst. 9–10 (autonomní evidence podílových listů).
+- *Související ustanovení téhož zákona:* § 94 odst. 9 (smlouva emitenta s CDCP); § 200 odst. 10 (zánik povolení SCP); ustanovení o vedení evidence CDCP.
+- *Související předpisy:* zákon č. 591/1992 Sb. (dosavadní úprava SCP); předpisy o odpovědnosti státu za škodu.
+- *Judikatura:* nosně princip diskontinuity odpovědnosti při přechodu veřejné evidence na soukromý subjekt; oprava zápisu je technickou povinností nového provozovatele, hmotná odpovědnost za historickou chybu zůstává původci.
+
+**4. Subsumpce.** Chyba vznikla v evidenci SCP a byla převzata CDCP. Dle odst. 6 ji CDCP opraví podle ZPKT (technická povinnost provozovatele), avšak odpovědnost státu za škodu tím není dotčena (odst. 5 — dluhy SCP na CDCP nepřešly). Znak „chyba převzatá od SCP" je naplněn; oddělení opravy (CDCP) a odpovědnosti (stát) je výslovné.
+
+**5. Řešení.** CDCP provede opravu zápisu; nárok na náhradu škody způsobené historickou chybou SCP směřuje vůči státu, nikoli vůči CDCP. Postup vlastníka: požádat CDCP o opravu a uplatnit nárok na náhradu škody vůči státu (ministerstvu). Riziko: prokázání, že chyba vznikla v evidenci SCP (před přechodem), nikoli až u CDCP — od toho se odvíjí pasivní legitimace.
+
+**6. Varianty.** (a) Pokud by chyba vznikla až v evidenci CDCP po přechodu, odpovídal by CDCP dle obecných pravidel, nikoli stát. (b) Pokud by šlo o podílové listy převedené do autonomní evidence dle odst. 9–10, evidenci by vedl jiný subjekt a režim opravy by se řídil pravidly samostatné evidence.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka odpovědnosti CDCP:* vlastník směřuje nárok na náhradu vůči CDCP. Neutralizace: odst. 5 vylučuje přechod dluhů SCP na CDCP; odst. 6 výslovně zachovává odpovědnost státu — CDCP odpovídá jen za vlastní pochybení.
+- *Námitka promlčení:* u historických chyb (před 2010) hrozí promlčení nároku. Neutralizace: nutno posoudit běh promlčecí lhůty od okamžiku, kdy se vlastník o chybě dozvěděl; samotné stáří zápisu nárok automaticky neruší, ale riziko promlčení je reálné.
+- *Slabé místo:* dokazování vzniku chyby v éře SCP po mnoha letech je obtížné — chybějící historické podklady oslabují pozici poškozeného.
+
+#### H. Praktický závěr
+
+§ 202 upravil přechod evidence ze SCP na centrální depozitář (proběhl 2010). Klíčové pro dnešní praxi: opravu chyby převzaté od SCP provede CDCP (odst. 6), avšak odpovědnost za škodu nese stát (odst. 5–6); dluhy SCP na CDCP nepřešly. Ostatní pravidla jsou historicky konzumována.
+
+**Checklist (advokát / soud / CDCP / vlastník):**
+- [ ] Určit, zda chyba vznikla v evidenci SCP (před 2010), nebo až u CDCP — od toho závisí odpovědnost.
+- [ ] U historické chyby žádat opravu od CDCP (odst. 6) a náhradu škody vůči státu (odst. 5–6).
+- [ ] Posoudit běh promlčecí lhůty nároku na náhradu škody.
+- [ ] U podílových listů ověřit, zda nebyly převedeny do autonomní evidence dle odst. 9–10.
+
+**Typicky rozhodné důkazy / podklady:** výpis z evidence CDCP; historické záznamy SCP; doklad o okamžiku a původu chyby; doklad o smlouvě emitenta s CDCP dle § 94 odst. 9.
+
 ---
 
 ### § 202a — Přechodná správa účtů bez smluvního vztahu s účastníkem CDCP
@@ -755,6 +1361,42 @@ Klíčové principy přechodu, relevantní pro výklad zápisů provedených v p
 
 § 202a řeší situaci vlastníků, kteří po přechodu evidence ze SCP na CDCP nevyužili standard CDCP a neuzavřeli smlouvu s žádným účastníkem depozitáře. Zákon jim garantuje základní evidenční služby (vedení účtu, výpisy, přechody na jiné účty) přímo od CDCP, za úplatu. CDCP je přitom chráněn zástavním právem k evidovaným nástrojům pro zajištění neuhrazených pohledávek. Toto ustanovení je v praxi relevantní pro drobné investory s historickými portfolii, kteří nikdy nenavázali standardní smluvní vztah s broker-dealerem nebo custodianem.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Drobný investor zdědil v roce 2008 portfolio akcií evidovaných tehdy v SCP, nikdy si však nezřídil účet u žádného obchodníka ani custodiana. Po přechodu evidence na centrální depozitář (CDCP) v roce 2010 chce v roce 2026 získat výpis z evidence a převést akcie na účet vedený standardním účastníkem CDCP. Účastníky jsou investor (majitel účtu bez smluvního vztahu) a CDCP. Důkazy: doklad o vlastnictví/dědictví, identifikace majetkového účtu převzatého od SCP, žádost o výpis a o převod.
+
+**2. Právní otázka.** Je CDCP povinen poskytnout vlastníkovi bez smluvního vztahu s žádným účastníkem základní evidenční služby (vedení účtu, výpis, převod na účet účastníka), a za jakých podmínek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 202a odst. 1 (vedení evidence na majetkovém účtu, výpis na žádost, zápis převodu/přechodu na účet vedený účastníkem), odst. 2 (zápis změn do evidence emise, zástavního práva ze zákona, pozastavení výkonu práva), odst. 3 (služby za úplatu; zástavní právo CDCP k investičním nástrojům k zajištění splatných pohledávek).
+- *Související ustanovení téhož zákona:* § 97 odst. 1 písm. a)–d) (osoby oprávněné dát příkaz k pozastavení); § 202 (přechod evidence ze SCP); ustanovení o vedení evidence CDCP.
+- *Související předpisy:* OZ (zástavní právo); předpisy o evidenci investičních nástrojů.
+- *Judikatura:* nosně princip ochrany vlastníků s historickými portfolii, kteří nikdy nenavázali standardní smluvní vztah; CDCP jako provozovatel evidence zajišťuje minimální servis za úplatu.
+
+**4. Subsumpce.** Investor je vlastníkem, jehož účet CDCP převzal dle § 202 a který neuzavřel smlouvu s žádným účastníkem — přesná hypotéza § 202a odst. 1. Tím vzniká CDCP povinnost poskytnout vyjmenované služby (vedení účtu, výpis, převod na účet účastníka). Služby jsou za úplatu (odst. 3) a CDCP má k zajištění pohledávek zástavní právo k nástrojům na účtu.
+
+**5. Řešení.** CDCP poskytne investorovi výpis a provede zápis převodu na účet vedený účastníkem CDCP; za služby si účtuje úplatu a má zástavní právo k nástrojům pro zajištění splatných pohledávek. Postup investora: doložit vlastnictví a požádat CDCP o výpis a převod, případně si zřídit účet u standardního účastníka. Riziko: neuhrazená úplata může vést k uplatnění zástavního práva CDCP k evidovaným nástrojům.
+
+**6. Varianty.** (a) Pokud by investor uzavřel smlouvu s účastníkem CDCP, vstoupil by do standardního režimu a § 202a (přechodný servis) by se neuplatnil. (b) Jde-li o zápis pozastavení výkonu práva, příkaz může dát jen osoba dle § 97 odst. 1 písm. a)–d) (odst. 2 písm. c)).
+
+#### G. Protiargumenty a rizika
+
+- *Námitka bezúplatnosti služeb:* investor očekává služby zdarma. Neutralizace: odst. 3 výslovně stanoví úplatnost a zástavní právo CDCP — servis není bezplatný.
+- *Námitka rozsahu služeb:* investor žádá plný rozsah služeb jako u smluvního klienta. Neutralizace: § 202a vymezuje taxativně omezený okruh základních služeb; nad jeho rámec je třeba standardní smluvní vztah s účastníkem.
+- *Slabé místo:* uplatnění zástavního práva CDCP k nástrojům na účtu může drobného vlastníka poškodit, neuhradí-li úplatu — riziko ztráty části portfolia.
+
+#### H. Praktický závěr
+
+§ 202a garantuje vlastníkům s účty převzatými od SCP, kteří neuzavřeli smlouvu s žádným účastníkem CDCP, základní evidenční služby (vedení účtu, výpis, převod na účet účastníka, vybrané zápisy) za úplatu; CDCP má k zajištění pohledávek zástavní právo k evidovaným nástrojům. Ustanovení je relevantní pro drobné investory s historickými portfolii.
+
+**Checklist (advokát / soud / CDCP / vlastník):**
+- [ ] Ověřit, že jde o účet převzatý od SCP a že vlastník neuzavřel smlouvu s žádným účastníkem CDCP.
+- [ ] Vymezit požadovanou službu v rámci taxativního výčtu odst. 1 a 2.
+- [ ] Zohlednit úplatnost služeb a zástavní právo CDCP (odst. 3).
+- [ ] U pozastavení výkonu práva ověřit oprávněnost osoby dávající příkaz dle § 97 odst. 1 písm. a)–d).
+
+**Typicky rozhodné důkazy / podklady:** doklad o vlastnictví/dědictví investičních nástrojů; identifikace majetkového účtu převzatého od SCP; žádost o výpis/převod; doklad o úhradě úplaty CDCP.
+
 ---
 
 ### § 202b — Správní delikt Střediska cenných papírů
@@ -770,6 +1412,41 @@ Klíčové principy přechodu, relevantní pro výklad zápisů provedených v p
 **Výklad:**
 
 § 202b upravoval sankci za porušení povinností Střediska cenných papírů v přechodném období jeho fungování. Ke dni konsolidace (2026) je SCP historicky zaniklé a toto ustanovení nemá aktivní normativní obsah. Zachování v zákoně je výsledkem legislativní techniky (zákonodárce dosud nevypustil vyčerpaná přechodná ustanovení).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V archivním přezkumu se posuzuje, zda Středisko cenných papírů (SCP) mohlo být v přechodném období (mezi účinností ZPKT 2004 a převzetím evidence centrálním depozitářem 2010) postiženo pokutou za porušení informačních povinností dle § 202 odst. 1 písm. b). Účastníky jsou (historicky) SCP a Komise/ČNB. Důkazy: doklad o porušení povinnosti SCP v přechodném období, podklady o vedení evidence dle dosavadního zákona.
+
+**2. Právní otázka.** Má § 202b dnes (2026) aktivní normativní obsah, lze podle něj SCP sankcionovat, a jaký režim by se na delikt použil?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 202b odst. 1 (skutková podstata správního deliktu SCP při vedení evidence a plnění informačních povinností dle § 202 odst. 1 písm. b)), odst. 2 (pokuta do 20 000 000 Kč), odst. 3 (obdobné použití § 192 odst. 1–4 a 6).
+- *Související ustanovení téhož zákona:* § 202 odst. 1 písm. b) (povinnosti SCP v přechodném období); § 192 (procesní a hmotná pravidla správního trestání).
+- *Související předpisy:* zákon č. 591/1992 Sb. (povinnosti SCP); předpisy o odpovědnosti za přestupky.
+- *Judikatura:* nosně princip, že sankční ustanovení vázané na neexistující subjekt pozbývá praktické aplikovatelnosti; přechodná sankční ustanovení po zániku adresáta nemají aktivní obsah.
+
+**4. Subsumpce.** Skutková podstata míří výlučně na SCP a na jeho povinnosti dle § 202 odst. 1 písm. b). SCP jako instituce zaniklo s převzetím evidence CDCP (2010). Hypotéza tedy již nemůže být naplněna — chybí adresát i aktuální povinnost.
+
+**5. Řešení.** § 202b nemá ke dni konsolidace (2026) aktivní normativní obsah; SCP nelze sankcionovat, neboť zaniklo. Pro hypotetické posouzení historického deliktu by se použil režim § 192 odst. 1–4 a 6 obdobně a pokuta do 20 mil. Kč. Postup: konstatovat historickou povahu ustanovení. Riziko: záměna s živými přestupkovými ustanoveními ZPKT (část třináctá).
+
+**6. Varianty.** (a) Kdyby řízení o deliktu SCP bylo pravomocně skončeno před zánikem SCP, jeho výsledek by zůstal zachován. (b) Pro porušení povinností současných subjektů (nikoli SCP) se § 202b nepoužije — aplikují se obecná přestupková ustanovení.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka přetrvávající sankční hrozby:* lze mylně dovozovat aplikovatelnost na současné provozovatele evidence. Neutralizace: skutková podstata je vázána výlučně na SCP — na jiné subjekty nedopadá.
+- *Námitka legislativní nadbytečnosti:* ustanovení zůstává v zákoně bez adresáta. Neutralizace: zachování je výsledkem legislativní techniky (nevypuštění vyčerpaných přechodných ustanovení), nikoli projevem živé normy.
+- *Slabé místo:* přítomnost vyčerpaného sankčního ustanovení v textu může mást — nutno je číst jako historické.
+
+#### H. Praktický závěr
+
+§ 202b upravoval sankci za porušení povinností SCP v přechodném období. SCP zaniklo (2010), ustanovení nemá aktivní normativní obsah a slouží již jen jako historický doklad sankčního režimu přechodné fáze.
+
+**Checklist (advokát / soud / ČNB):**
+- [ ] Posoudit § 202b jako historicky konzumovaný — neaplikovat na současné subjekty.
+- [ ] Odlišit jej od živých přestupkových ustanovení ZPKT (část třináctá).
+- [ ] U hypotetického historického deliktu zohlednit obdobné použití § 192 odst. 1–4 a 6 a horní hranici pokuty 20 mil. Kč.
+
+**Typicky rozhodné důkazy / podklady:** doklad o porušení povinnosti SCP v přechodném období; podklady o vedení evidence dle dosavadního zákona; doklad o datu zániku činnosti SCP.
 
 ---
 
@@ -797,6 +1474,42 @@ Klíčové principy přechodu, relevantní pro výklad zápisů provedených v p
 
 **Ratingová řízení** (odst. 4): Řízení o souhlasu s udělením koncese ratingové agentury se ke dni účinnosti ZPKT zastavují. Důvod: rating přešel pod unijní dohled (CRA nařízení č. 1060/2009), resp. kompetence pro udělení souhlasu byla reorganizována. Ke dni konsolidace (2026) jde o historicky uzavřenou věc.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vůči obchodníkovi s cennými papíry bylo v dubnu 2004 (před účinností ZPKT 1. 5. 2004) zahájeno Komisí pro cenné papíry sankční řízení za porušení zákona č. 591/1992 Sb.; řízení nebylo do 1. 5. 2004 skončeno. Současně tentýž subjekt podal před 1. 5. 2004 žádost o povolení, o níž rovněž nebylo rozhodnuto. Účastníky jsou obchodník a Komise/ČNB. Důkazy: doklad o datu zahájení sankčního řízení a řízení o povolení, vymezení vytýkaného jednání.
+
+**2. Právní otázka.** Podle jakého zákona se dokončí (i) sankční řízení a (ii) řízení o povolení zahájená před účinností ZPKT, a co s během lhůt?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 203 odst. 1–2 (sankční řízení a posouzení porušení dle dosavadního zákona), odst. 3 (řízení o povolení/registraci/schválení dle ZPKT; lhůty běží znovu ode dne účinnosti), odst. 4 (zastavení ratingových řízení ke dni účinnosti ZPKT).
+- *Související ustanovení téhož zákona:* § 200 (konverze povolení); § 192a písm. a) (rating přešel pod unijní dohled — CRA).
+- *Související předpisy:* zákon č. 591/1992 Sb.; čl. 40 odst. 6 LZPS a čl. 7 EÚLP (zákaz retroaktivity přísnějšího trestního práva, retroaktivita in mitius); nař. CRA č. 1060/2009.
+- *Judikatura:* nosně zásada, že přísnější sankční úpravu nelze aplikovat zpětně, avšak příznivější úprava se použije (in mitius); u licenčních řízení převažuje aplikace nového zákona v zájmu žadatele.
+
+**4. Subsumpce.** (i) Sankční řízení bylo zahájeno před účinností ZPKT — dle odst. 1–2 se dokončí a posoudí dle dosavadního zákona; tím se chrání zákaz retroaktivity přísnějšího sankčního práva. (ii) Řízení o povolení bylo rovněž zahájeno před účinností — dle odst. 3 se však dokončí dle ZPKT a lhůty běží znovu ode dne účinnosti.
+
+**5. Řešení.** Sankční řízení Komise dokončí dle zákona č. 591/1992 Sb. (s výhradou aplikace příznivější nové úpravy, plyne-li z ústavní zásady in mitius); řízení o povolení dokončí dle ZPKT s novým během lhůt od 1. 5. 2004. Postup: rozlišit povahu řízení (sankční vs. licenční) a přiřadit odpovídající režim. Riziko: nesprávné určení rozhodného práva u hraničních řízení; u ratingových řízení (odst. 4) nutno zohlednit jejich zastavení ke dni účinnosti.
+
+**6. Varianty.** (a) Pokud by nová úprava (ZPKT) byla pro obviněného v sankčním řízení příznivější, aplikovala by se přes ústavní zásadu retroaktivity in mitius, byť ji § 203 výslovně neuvádí. (b) Pokud by šlo o ratingové řízení dle odst. 4, ke dni účinnosti ZPKT by se zastavilo.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka aplikace nového zákona na staré sankce:* dohled by mohl chtít užít ZPKT i na dřívější porušení. Neutralizace: odst. 1–2 a čl. 40 odst. 6 LZPS to vylučují (zákaz retroaktivity přísnějšího práva), nejde-li o úpravu příznivější.
+- *Námitka zachování běhu lhůt:* žadatel namítá pokračování původních lhůt v licenčním řízení. Neutralizace: odst. 3 výslovně stanoví, že lhůty běží znovu ode dne účinnosti ZPKT.
+- *Slabé místo:* § 203 neuvádí výslovně zásadu in mitius — riziko sporu; mitigováno přímou aplikací ústavní zásady.
+
+#### H. Praktický závěr
+
+§ 203 rozdělil intertemporální režim při přechodu ze zákona č. 591/1992 Sb. na ZPKT: sankční řízení a posouzení porušení dle dosavadního zákona (ochrana před retroaktivitou přísnějšího práva), licenční řízení dle ZPKT s novým během lhůt, ratingová řízení zastavena. Pro dnešní praxi jde o historicky uzavřenou, leč výkladově významnou úpravu.
+
+**Checklist (advokát / soud / ČNB):**
+- [ ] Rozlišit povahu řízení zahájeného před účinností ZPKT — sankční (odst. 1–2) vs. licenční (odst. 3) vs. ratingové (odst. 4).
+- [ ] U sankčního řízení aplikovat dosavadní zákon, ledaže je nová úprava příznivější (in mitius).
+- [ ] U licenčního řízení aplikovat ZPKT a počítat lhůty znovu od 1. 5. 2004.
+- [ ] U ratingových řízení zohlednit zastavení ke dni účinnosti a přechod ratingu pod unijní dohled (CRA).
+
+**Typicky rozhodné důkazy / podklady:** doklad o datu zahájení řízení; vymezení vytýkaného jednání; srovnání přísnosti staré a nové úpravy (pro in mitius); podklady o povaze řízení.
+
 ---
 
 ### § 204 — Oznámení regulovaných trhů Evropské komisi
@@ -809,6 +1522,41 @@ Klíčové principy přechodu, relevantní pro výklad zápisů provedených v p
 
 § 204 ukládal Komisi pro cenné papíry (ke dni účinnosti ZPKT) povinnost notifikovat Evropské komisi seznam regulovaných trhů s českým povolením. Tato povinnost je výrazem požadavku jednotného evropského seznamu regulovaných trhů, který vedla Evropská komise a publikovala v Úředním věstníku EU. Ke dni účinnosti ZPKT (1. 5. 2004) Komise tuto notifikaci provedla; povinnost se od té doby vyčerpala a agenda přešla na ČNB jako nástupce Komise.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V roce 2026 se zkoumá, zda byl ke dni vstupu ČR do EU (1. 5. 2004) řádně splněn požadavek notifikace seznamu regulovaných trhů Evropské komisi a kdo dnes tuto agendu vykonává. Účastníky jsou (historicky) Komise pro cenné papíry, nyní ČNB, a Evropská komise. Důkazy: doklad o provedené notifikaci ke dni 1. 5. 2004, příloha s vnitřními předpisy uznaných regulovaných trhů.
+
+**2. Právní otázka.** Má § 204 dnes aktivní obsah, nebo šlo o jednorázovou povinnost vyčerpanou ke dni účinnosti ZPKT, a na koho agenda přešla?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 204 (jednorázová povinnost Komise oznámit Evropské komisi ke dni účinnosti ZPKT seznam regulovaných trhů s českým povolením, s přílohou vnitřních předpisů uznaných RT).
+- *Související ustanovení téhož zákona:* ustanovení o organizátorech regulovaného trhu a o povolení RT; § 192a (ČNB jako příslušný orgán).
+- *Související předpisy:* MiFID I (jednotný evropský seznam regulovaných trhů publikovaný v Úředním věstníku EU).
+- *Judikatura:* nosně princip, že jednorázové notifikační povinnosti vázané na konkrétní okamžik se splněním vyčerpávají; navazující agenda se řídí obecnou úpravou.
+
+**4. Subsumpce.** Povinnost dle § 204 byla vázána na jediný okamžik — den účinnosti ZPKT (1. 5. 2004). Jejím splněním se hypotéza vyčerpala. Agenda jednotného seznamu regulovaných trhů přešla průběžně na ČNB jako nástupkyni Komise pro cenné papíry.
+
+**5. Řešení.** § 204 nemá dnes aktivní normativní obsah — povinnost byla splněna jednorázově ke dni 1. 5. 2004. Aktuální notifikace a aktualizace seznamu regulovaných trhů zajišťuje ČNB v rámci běžné dohledové agendy. Postup: konstatovat historickou povahu ustanovení a identifikovat aktuálního nositele agendy (ČNB). Riziko: minimální — jde o uzavřenou věc.
+
+**6. Varianty.** (a) Pro průběžné změny seznamu regulovaných trhů po 1. 5. 2004 se neuplatní § 204, nýbrž obecná pravidla a postup ČNB/ESMA. (b) Pokud by notifikace ke dni účinnosti nebyla provedena, šlo by o historické pochybení bez vlivu na současnou agendu.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka přetrvávající povinnosti:* lze mylně dovozovat opakovanou notifikaci z § 204. Neutralizace: povinnost je vázána na jediný den (účinnost ZPKT) — je jednorázová.
+- *Námitka přechodu agendy:* spor, kdo dnes notifikuje. Neutralizace: agenda přešla na ČNB jako nástupkyni Komise; běžné aktualizace probíhají dle obecné úpravy a koordinace ESMA.
+- *Slabé místo:* zachování vyčerpaného ustanovení v textu může mást — nutno je číst jako historické.
+
+#### H. Praktický závěr
+
+§ 204 uložil Komisi jednorázově notifikovat Evropské komisi ke dni vstupu ČR do EU (1. 5. 2004) seznam regulovaných trhů s českým povolením. Povinnost byla splněna a vyčerpala se; agenda přešla na ČNB.
+
+**Checklist (advokát / soud / ČNB):**
+- [ ] Posoudit § 204 jako jednorázovou, historicky splněnou povinnost.
+- [ ] Pro aktuální notifikace/aktualizace seznamu regulovaných trhů vyjít z obecné úpravy a postupu ČNB/ESMA.
+- [ ] Identifikovat ČNB jako nositele agendy po Komisi pro cenné papíry.
+
+**Typicky rozhodné důkazy / podklady:** doklad o notifikaci ke dni 1. 5. 2004; příloha s vnitřními předpisy uznaných regulovaných trhů; aktuální evidence regulovaných trhů ČNB.
+
 ---
 
 ### § 204a — Přechodné pravidlo pro uveřejňování informací globálně systémově významných institucí
@@ -820,6 +1568,41 @@ Klíčové principy přechodu, relevantní pro výklad zápisů provedených v p
 **Výklad:**
 
 § 204a je přechodným ustanovením vztahujícím se na implementaci CRD IV / CRR (2013/36/EU a č. 575/2013) ohledně uveřejňování informací globálně systémově významných institucí (G-SII). Poprvé za rok 2013 — do 1. 9. 2014 — poskytly tyto instituce informace dle § 16a odst. 5 písm. d)–f) Evropské komisi v důvěrném režimu. Ke dni konsolidace (2026) jde o historicky konzumované přechodné pravidlo.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V roce 2026 se v souvislosti s historickým auditem zkoumá, zda mezinárodně určená globální systémově významná instituce (G-SII) řádně splnila povinnost poprvé do 1. 9. 2014 poskytnout Evropské komisi v důvěrném režimu údaje dle § 16a odst. 5 písm. d)–f) za rok 2013. Účastníky jsou G-SII a Evropská komise. Důkazy: doklad o poskytnutí údajů do 1. 9. 2014, podklady prokazující důvěrný režim.
+
+**2. Právní otázka.** Má § 204a dnes aktivní normativní obsah, nebo jde o jednorázové, historicky konzumované přechodné pravidlo?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 204a (jednorázové poskytnutí údajů dle § 16a odst. 5 písm. d)–f) G-SII Evropské komisi poprvé do 1. 9. 2014 za předcházející účetní období v režimu důvěrných informací).
+- *Související ustanovení téhož zákona:* § 16a (informace o odměňování a další uveřejňované údaje); § 201 odst. 6 a § 204b (související přechodná pravidla CRD IV).
+- *Související předpisy:* směrnice CRD IV 2013/36/EU a nař. CRR č. 575/2013 (uveřejňování informací G-SII).
+- *Judikatura:* nosně princip, že jednorázové přechodné povinnosti vázané na konkrétní datum se splněním vyčerpávají.
+
+**4. Subsumpce.** Povinnost dle § 204a byla vázána na první poskytnutí údajů do 1. 9. 2014 za rok 2013. Tím se hypotéza jednorázově vyčerpala; navazující uveřejňování G-SII se řídí § 16a a unijní úpravou.
+
+**5. Řešení.** § 204a nemá ke dni konsolidace (2026) aktivní obsah — šlo o jednorázové přechodné pravidlo splněné v roce 2014. Aktuální povinnosti G-SII plynou z § 16a a CRD IV/CRR. Postup: konstatovat historickou povahu ustanovení. Riziko: minimální — uzavřená věc.
+
+**6. Varianty.** (a) Pro běžné průběžné uveřejňování G-SII po roce 2014 se neuplatní § 204a, nýbrž § 16a a unijní úprava. (b) Kdyby G-SII v roce 2014 povinnost nesplnila, šlo by o historické pochybení bez vlivu na současné povinnosti.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka přetrvávající povinnosti:* lze mylně dovozovat opakované poskytování z § 204a. Neutralizace: povinnost je vázána na první poskytnutí do 1. 9. 2014 — je jednorázová.
+- *Námitka rozsahu důvěrnosti:* spornost režimu důvěrných informací. Neutralizace: § 204a sám stanoví důvěrný režim; navazuje na unijní úpravu nakládání s citlivými údaji G-SII.
+- *Slabé místo:* zachování vyčerpaného ustanovení v textu může mást — nutno je číst jako historické.
+
+#### H. Praktický závěr
+
+§ 204a bylo jednorázové přechodné pravidlo CRD IV: G-SII poprvé do 1. 9. 2014 poskytly Evropské komisi v důvěrném režimu údaje dle § 16a odst. 5 písm. d)–f) za rok 2013. Ke dni konsolidace je historicky konzumováno; aktuální povinnosti plynou z § 16a a CRR.
+
+**Checklist (advokát / soud / ČNB / G-SII):**
+- [ ] Posoudit § 204a jako jednorázové, historicky konzumované pravidlo.
+- [ ] Pro aktuální uveřejňování G-SII vyjít z § 16a a CRD IV/CRR.
+- [ ] U historického auditu ověřit poskytnutí údajů do 1. 9. 2014 v důvěrném režimu.
+
+**Typicky rozhodné důkazy / podklady:** doklad o poskytnutí údajů dle § 16a odst. 5 písm. d)–f) Evropské komisi do 1. 9. 2014; podklady o důvěrném režimu.
 
 ---
 
@@ -841,6 +1624,41 @@ Klíčové principy přechodu, relevantní pro výklad zápisů provedených v p
 
 § 204b implementoval přechodné fázování kapitálových rezerv pro globálně systémově významné instituce v souladu se standardem CRD IV. Přechodné sazby se postupně stupňovaly: 25 % v roce 2016, 50 % v roce 2017, 75 % v roce 2018 (a plných 100 % od roku 2019). Ke dni konsolidace (2026) jsou tyto přechodné sazby zcela konzumovány — plná výše kapitálové rezervy se uplatňuje od 1. 1. 2019.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V roce 2026 se v rámci přezkumu kapitálové přiměřenosti za rok 2017 zkoumá, zda globální systémově významná instituce (G-SII) správně aplikovala přechodnou (fázovanou) sazbu kapitálové rezervy ve výši 50 % z plné rezervy dle § 9ar, namísto 100 %. Účastníky jsou G-SII a ČNB. Důkazy: výpočet kapitálové rezervy za rok 2017, podklady o určení instituce jako G-SII.
+
+**2. Právní otázka.** Má § 204b dnes aktivní obsah, nebo jde o historicky konzumované fázování kapitálových rezerv, a jak se aplikoval na jednotlivé roky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 204b odst. 1 (do 31. 12. 2014 sazba 3 % místo 5 % pro účely § 9ag odst. 3 a 4), odst. 2 (kapitálová rezerva G-SII: 25 % v 2016, 50 % v 2017, 75 % v 2018 z rezervy dle § 9ar).
+- *Související ustanovení téhož zákona:* § 9ag, § 9ar (kapitálové rezervy a polštáře); § 204a (související přechodné pravidlo CRD IV).
+- *Související předpisy:* směrnice CRD IV 2013/36/EU (fázování kapitálových rezerv G-SII); nař. CRR č. 575/2013.
+- *Judikatura:* nosně princip, že přechodné fázování po dosažení cílové úrovně pozbývá normativní funkce; pro minulá období slouží jako měřítko tehdejší povinnosti.
+
+**4. Subsumpce.** Sazby § 204b odkazují na konkrétní roky (2014, 2016, 2017, 2018). Pro rok 2017 platila fázovaná sazba 50 % z rezervy dle § 9ar (odst. 2 písm. b)). Od roku 2019 se uplatňuje plná výše (100 %); ke dni konsolidace (2026) je fázování konzumováno.
+
+**5. Řešení.** Pro přezkum roku 2017 byla správná fázovaná sazba 50 % — instituce postupovala v souladu s § 204b odst. 2 písm. b). Pro současnost ustanovení neukládá fázování (plná rezerva od 2019). Postup: přiřadit k rozhodnému roku odpovídající procentní sazbu. Riziko: záměna fázované a plné sazby u historických období.
+
+**6. Varianty.** (a) Pro rok 2016 by platila sazba 25 %, pro rok 2018 sazba 75 % (odst. 2 písm. a) a c)). (b) Pro účely § 9ag do 31. 12. 2014 by se použila sazba 3 % místo 5 % (odst. 1).
+
+#### G. Protiargumenty a rizika
+
+- *Námitka přetrvávajícího fázování:* lze mylně aplikovat sníženou sazbu i po roce 2019. Neutralizace: § 204b váže snížené sazby na konkrétní roky 2016–2018; od 2019 platí plná výše.
+- *Námitka výběru sazby:* spor o správnou sazbu pro daný rok. Neutralizace: odst. 2 přiřazuje sazby jednotlivým rokům taxativně (25 / 50 / 75 %).
+- *Slabé místo:* zachování vyčerpaných sazeb v textu může mást — nutno je číst jako historická přechodná pravidla.
+
+#### H. Praktický závěr
+
+§ 204b stanovil přechodné fázování kapitálových rezerv G-SII (25 % 2016, 50 % 2017, 75 % 2018) a sníženou sazbu 3 % pro § 9ag do konce 2014. Plná výše rezervy platí od 1. 1. 2019; ustanovení je historicky konzumováno a slouží jako měřítko povinností v přechodných letech.
+
+**Checklist (advokát / soud / ČNB / G-SII):**
+- [ ] Posoudit § 204b jako historicky konzumovaný — od 2019 plná výše rezervy.
+- [ ] U přezkumu minulého roku přiřadit odpovídající fázovanou sazbu (25 / 50 / 75 %).
+- [ ] U § 9ag zohlednit sníženou sazbu 3 % místo 5 % do 31. 12. 2014 (odst. 1).
+
+**Typicky rozhodné důkazy / podklady:** výpočet kapitálové rezervy za rozhodný rok; podklady o určení instituce jako G-SII; metodika dle § 9ar a § 9ag.
+
 ---
 
 ### § 204d — Přechodné vyloučení aplikace § 73l
@@ -856,6 +1674,41 @@ Klíčové principy přechodu, relevantní pro výklad zápisů provedených v p
 #### Anomálie — chybějící § 204c
 
 V textu zákona (konsolidace k 11. 1. 2026) absentuje § 204c — zákon přechází přímo z § 204b na § 204d. Jde zřejmě o zákonné číslování vzniklé při novelizacích (§ 204c buď nebyl do zákona vložen, nebo byl zrušen dřívější novelou). Tato mezera v číslování je věrně zachycena.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník s komoditními deriváty namítá, že v roce 2022 nebyl povinen dodržovat limity pozic dle § 73l ZPKT, protože jeho aplikace byla odložena. ČNB posuzuje, zda se § 73l v daném období (např. leden 2023) uplatnil. Účastníky jsou obchodník a ČNB. Důkazy: doklad o datu posuzovaného jednání ve vztahu k 28. 2. 2023, evidence pozic na komoditní deriváty.
+
+**2. Právní otázka.** Od kdy se § 73l ZPKT (limity pozic na komoditní deriváty) uplatňuje, vzhledem k přechodnému odložení dle § 204d do 28. 2. 2023?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 204d (ustanovení § 73l se do 28. 2. 2023 nepoužije).
+- *Související ustanovení téhož zákona:* § 73l (limity pozic na komoditní deriváty); § 73f (související pravidla); § 199 odst. 2 (vyhláška k limitům pozic).
+- *Související předpisy:* MiFID II 2014/65/EU a MiFIR č. 600/2014 (režim limitů pozic; přechodná úprava na úrovni EU).
+- *Judikatura:* nosně princip, že odložené ustanovení se před uplynutím odkladu nepoužije a po něm se plně uplatní; jednání před koncem odkladu nelze poměřovat odloženou normou.
+
+**4. Subsumpce.** § 204d odkládá aplikaci § 73l do 28. 2. 2023. Jednání obchodníka v roce 2022 (před koncem odkladu) tedy nelze poměřovat § 73l; ten se uplatní až od 1. 3. 2023. Znak času je rozhodující.
+
+**5. Řešení.** Pro období do 28. 2. 2023 se § 73l nepoužije — námitka obchodníka pro rok 2022 je důvodná; od 1. 3. 2023 platí limity pozic v plném rozsahu. Postup: určit datum jednání ve vztahu k 28. 2. 2023. Riziko: po uplynutí odkladu je § 204d konzumováno a § 73l se aplikuje bez výjimky — riziko mylného dovozování trvajícího odkladu.
+
+**6. Varianty.** (a) Pro jednání od 1. 3. 2023 dále se § 73l uplatní plně a § 204d již nelze namítat. (b) Pro hraniční jednání těsně před 28. 2. 2023 je nutné přesně určit datum rozhodné události.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka trvajícího odkladu:* obchodník by mohl namítat odklad i po 28. 2. 2023. Neutralizace: § 204d váže odklad na pevné datum — po něm se § 73l plně uplatní.
+- *Námitka retroaktivity:* aplikace § 73l na dřívější jednání. Neutralizace: § 73l se na jednání před koncem odkladu nepoužije; po 1. 3. 2023 jde o řádnou (nikoli zpětnou) aplikaci.
+- *Slabé místo:* zachování konzumovaného § 204d v textu může mást — nutno je číst jako historické přechodné pravidlo; pozornost vyžaduje i anomálie chybějícího § 204c (mezera v číslování).
+
+#### H. Praktický závěr
+
+§ 204d odložil aplikaci § 73l (limity pozic na komoditní deriváty) do 28. 2. 2023 v návaznosti na unijní přechodnou úpravu. Od 1. 3. 2023 se § 73l uplatňuje plně; § 204d je historicky konzumováno. (V číslování zákona chybí § 204c — anomálie z novelizací.)
+
+**Checklist (advokát / soud / ČNB / obchodník):**
+- [ ] Určit datum posuzovaného jednání ve vztahu k 28. 2. 2023 (odklad) a 1. 3. 2023 (plná aplikace § 73l).
+- [ ] Pro jednání do 28. 2. 2023 § 73l neaplikovat; od 1. 3. 2023 aplikovat plně.
+- [ ] Posoudit § 204d jako historicky konzumované a zohlednit anomálii chybějícího § 204c.
+
+**Typicky rozhodné důkazy / podklady:** doklad o datu rozhodného jednání; evidence pozic na komoditní deriváty; vyhláška a unijní úprava k limitům pozic.
 
 ---
 
@@ -905,6 +1758,41 @@ V textu zákona (konsolidace k 11. 1. 2026) absentuje § 204c — zákon přech�
 
 Derogace je úplná — zákon nenechává žádné zrušované předpisy v přechodném provozu (pro konkrétní probíhající věci platí přechodná pravidla §§ 200–203, nikoli rušené předpisy samy o sobě). Kontinuita právní regulace je zajištěna přechodnou konverzí dle § 200 a intertemporálními pravidly § 203.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V archivním sporu z roku 2026 jedna strana argumentuje pravidlem obsaženým ve vyhlášce č. 466/2002 Sb. (vnitřní provoz a jednání obchodníka s CP vůči zákazníkům) ve vztahu k jednání obchodníka z roku 2006. Účastníky jsou obchodník a protistrana. Důkazy: text vyhlášky č. 466/2002 Sb., doklad o datu jednání (2006), navazující vyhláška ČNB nahrazující zrušený předpis.
+
+**2. Právní otázka.** Lze na jednání z roku 2006 aplikovat vyhlášku č. 466/2002 Sb., byla-li tato vyhláška § 205 ZPKT zrušena ke dni 1. 5. 2004?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 205 (zrušení zákona č. 214/1992 Sb., zákona č. 251/2000 Sb. a dvanácti prováděcích vyhlášek ke dni účinnosti ZPKT).
+- *Související ustanovení téhož zákona:* § 199 (zmocnění k novým vyhláškám ČNB nahrazujícím zrušené předpisy); § 200, § 203 (přechodná a intertemporální pravidla).
+- *Související předpisy:* zrušený zákon č. 214/1992 Sb. o burze cenných papírů; zrušené vyhlášky (makléřská zkouška, kapitálová přiměřenost, hlášení obchodů, prospekty, vnitřní provoz).
+- *Judikatura:* nosně princip, že zrušený předpis se na jednání po derogaci nepoužije; kontinuitu regulace zajišťují nové prováděcí předpisy a přechodná pravidla.
+
+**4. Subsumpce.** Vyhláška č. 466/2002 Sb. byla § 205 zrušena ke dni 1. 5. 2004. Jednání z roku 2006 nastalo po derogaci — zrušený předpis se na ně nepoužije. Aplikuje se nová vyhláška ČNB vydaná na základě § 199 ZPKT, která obsah zrušeného předpisu nahradila.
+
+**5. Řešení.** Na jednání z roku 2006 nelze aplikovat zrušenou vyhlášku č. 466/2002 Sb.; rozhodná je nová vyhláška ČNB. Derogace je úplná — zrušené předpisy nezůstaly v přechodném provozu. Postup: identifikovat nový předpis nahrazující zrušený a aplikovat jej. Riziko: záměna zrušeného a navazujícího předpisu u jednání z přechodného období.
+
+**6. Varianty.** (a) Pro jednání před 1. 5. 2004 by se v rámci intertemporálních pravidel (§ 203) mohl uplatnit dosavadní režim. (b) Pokud nová vyhláška ČNB upravuje věc odlišně, rozhoduje její znění, nikoli obsah zrušeného předpisu.
+
+#### G. Protiargumenty a rizika
+
+- *Námitka přetrvávající platnosti zrušeného předpisu:* strana se dovolává zrušené vyhlášky. Neutralizace: § 205 zrušil předpis ke dni 1. 5. 2004 úplně; na pozdější jednání se nepoužije.
+- *Námitka mezery v regulaci:* tvrzení, že zrušením vznikla mezera. Neutralizace: kontinuitu zajišťují nové vyhlášky ČNB dle § 199 a přechodná pravidla § 200/§ 203.
+- *Slabé místo:* u jednání z přechodného období je třeba pečlivě určit, který předpis (zrušený vs. nový) byl v rozhodnou dobu účinný.
+
+#### H. Praktický závěr
+
+§ 205 zrušil ke dni 1. 5. 2004 zákon č. 214/1992 Sb. o burze cenných papírů, jeho novelu a dvanáct prováděcích vyhlášek. Derogace je úplná; obsah byl nahrazen ZPKT a novými vyhláškami ČNB (§ 199). Pro jednání po derogaci se zrušené předpisy nepoužijí.
+
+**Checklist (advokát / soud / ČNB):**
+- [ ] Ověřit, zda dotčený předpis byl § 205 zrušen ke dni 1. 5. 2004.
+- [ ] Pro jednání po derogaci identifikovat a aplikovat navazující vyhlášku ČNB dle § 199.
+- [ ] U jednání z přechodného období určit rozhodné právo dle § 200 a § 203.
+
+**Typicky rozhodné důkazy / podklady:** text zrušeného předpisu a navazující vyhlášky ČNB; doklad o datu rozhodného jednání; přehled zrušených předpisů dle § 205.
+
 ---
 
 ### § 206 — Účinnost
@@ -920,6 +1808,41 @@ Derogace je úplná — zákon nenechává žádné zrušované předpisy v pře
 § 206 je unikátním datem účinnosti v české legislativě: zákon nenabylo účinnosti pevným datem, nýbrž **podmínečně** — dnem vstupu ČR do EU. Tímto dnem byl **1. května 2004** (den vstupu Smlouvy o přistoupení v platnost). ZPKT tak byl propojen s rozhodnou událostí vstupu ČR do EU, přičemž jeho obsahová provázanost s unijními směrnicemi (MiFID I ve znění do 2007, prospektová směrnice, UCITS apod.) by bez tohoto vstupu postrádala normativní smysl.
 
 Tato technika podmínečné účinnosti nebývá v zákoně o podnikání na kapitálovém trhu výjimečná ani v kontextu přistupujících států — zákonodárci EU-15 nevázali svá implementační opatření na vstup ČR do EU, zatímco ČR právě touto technikou zajistila synchronizaci svého vnitrostátního práva s unijním právním řádem od prvního dne členství.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V roce 2026 se v soudním sporu řeší předběžná otázka, od kterého dne nabyl ZPKT účinnosti a zda byl úkon učiněný dne 30. 4. 2004 posuzován ještě podle dosavadního práva. Účastníky jsou strany sporu a soud. Důkazy: úřední doklad o dni vstupu Smlouvy o přistoupení ČR k EU v platnost, doklad o datu posuzovaného úkonu.
+
+**2. Právní otázka.** Kterým dnem nabyl ZPKT účinnosti, je-li účinnost vázána na vstup Smlouvy o přistoupení ČR k EU v platnost?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 206 (účinnost dnem vstupu Smlouvy o přistoupení ČR k EU v platnost).
+- *Související ustanovení téhož zákona:* § 200, § 203, § 205 (přechodná, intertemporální a zrušovací ustanovení vázaná na den účinnosti).
+- *Související předpisy:* Smlouva o přistoupení ČR k EU (vstup v platnost 1. 5. 2004); MiFID I, prospektová směrnice, UCITS (obsahová provázanost ZPKT).
+- *Judikatura:* nosně princip podmíněné účinnosti zákona vázané na budoucí jistou událost; den účinnosti se určí podle dne nastání této události.
+
+**4. Subsumpce.** Účinnost je vázána na vstup Smlouvy o přistoupení v platnost — touto událostí byl 1. květen 2004. Úkon ze dne 30. 4. 2004 nastal před účinností ZPKT; posuzuje se dle dosavadního práva (a intertemporálních pravidel § 203). Znak „den vstupu smlouvy v platnost" je naplněn datem 1. 5. 2004.
+
+**5. Řešení.** ZPKT nabyl účinnosti 1. 5. 2004. Úkon z 30. 4. 2004 spadá ještě pod dosavadní právo; od 1. 5. 2004 se aplikuje ZPKT. Postup: určit datum posuzovaného úkonu a porovnat s 1. 5. 2004; pro hraniční situace užít přechodná pravidla §§ 200–205. Riziko: minimální u jednoznačného data; pozornost u úkonů z přelomu dubna/května 2004.
+
+**6. Varianty.** (a) Úkon z 1. 5. 2004 a později se posuzuje dle ZPKT. (b) Pro probíhající řízení zahájená před 1. 5. 2004 platí intertemporální režim § 203 (sankční dle dosavadního zákona, licenční dle ZPKT).
+
+#### G. Protiargumenty a rizika
+
+- *Námitka neurčitosti data účinnosti:* zákon neuvádí pevné datum. Neutralizace: podmíněná účinnost vázaná na vstup Smlouvy o přistoupení je určitá — událost nastala 1. 5. 2004.
+- *Námitka aplikace ZPKT na dřívější úkony:* snaha aplikovat ZPKT zpětně. Neutralizace: § 206 ve spojení s § 203 vylučuje aplikaci na úkony před 1. 5. 2004.
+- *Slabé místo:* u úkonů z bezprostředního přelomu (30. 4. / 1. 5. 2004) je nutné přesně určit okamžik — drobné riziko sporu o rozhodný den.
+
+#### H. Praktický závěr
+
+§ 206 váže účinnost ZPKT na vstup Smlouvy o přistoupení ČR k EU v platnost — tedy na 1. 5. 2004. Tato technika podmíněné účinnosti zajistila synchronizaci ZPKT s unijním právem od prvního dne členství. Úkony před tímto dnem se řídí dosavadním právem a přechodnými pravidly.
+
+**Checklist (advokát / soud / ČNB):**
+- [ ] Určit den účinnosti ZPKT jako 1. 5. 2004 (den vstupu Smlouvy o přistoupení v platnost).
+- [ ] Porovnat datum posuzovaného úkonu/řízení s 1. 5. 2004.
+- [ ] U úkonů/řízení z přechodného období aplikovat §§ 200–205 (konverze, intertemporální a zrušovací pravidla).
+
+**Typicky rozhodné důkazy / podklady:** úřední doklad o dni vstupu Smlouvy o přistoupení ČR k EU v platnost; doklad o datu posuzovaného úkonu nebo zahájení řízení.
 
 ---
 

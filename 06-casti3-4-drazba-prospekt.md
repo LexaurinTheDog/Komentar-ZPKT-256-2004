@@ -124,6 +124,45 @@ Odst. 10 rozšiřuje věcnou působnost části třetí nad rámec cenných pap�
 
 Přesah je logicky odůvodněn: důvody pro zvláštní úpravu dražby (odborné požadavky na dražebníka, evidenční aspekty, ochrana trhu) platí stejnou měrou i pro deriváty nebo nástroje peněžního trhu, nikoli pouze pro cenné papíry v užším smyslu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zástavní věřitel Banka A, s.r.o., má pohledávku 4 200 000 Kč vůči dlužníku D, zajištěnou zástavním právem k 1 000 ks zaknihovaných investičních akcií emitenta X, a.s., vedených v evidenci Centrálního depozitáře cenných papírů (CDCP). Dlužník je v prodlení se splacením déle než 90 dnů. Banka A jako navrhovatel chce realizovat zástavu nucenou veřejnou dražbou. Osloví společnost OCP Trade, a.s., obchodníka s cennými papíry, který tvrdí, že je oprávněn dražbu organizovat. OCP Trade má povolení k investiční službě podle § 4 odst. 2 písm. a) (přijímání a předávání pokynů), nikoli však písm. b). Vyvolávací cena má činit 3 500 000 Kč. OCP Trade chce dražbu provést bez znaleckého posudku, s odkazem na vlastní interní ocenění. Důkazy: zástavní smlouva s vyznačením vzniku zástavního práva v evidenci CDCP, doklad o prodlení (upomínky, výpis splátek), povolení ČNB udělené OCP Trade (rozsah investičních služeb), schválený dražební řád, doklad o ocenění.
+
+**2. Právní otázka.** Je OCP Trade, a.s., oprávněn organizovat nucenou veřejnou dražbu předmětných cenných papírů a je při vyvolávací ceně 3 500 000 Kč přípustné upustit od znaleckého posudku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 33 ZPKT — okruh dražebníků cenných papírů je limitativní (odst. 1: jen OCP s povolením podle § 4 odst. 2 písm. b); povinnost znaleckého ocenění při vyvolávací ceně nad 100 000 Kč (odst. 5); přípustnost nucené dražby při nesplnění pohledávky zajištěné zástavním právem (odst. 8 písm. b).
+- *Související ustanovení téhož zákona:* § 4 odst. 2 písm. b) ZPKT (vymezení investiční služby provádění pokynů na vlastní účet jako podmínky oprávnění); § 3 ZPKT (vymezení investičních nástrojů — relevantní pro odst. 10).
+- *Související předpisy:* zákon č. 26/2000 Sb., o veřejných dražbách (subsidiárně — průběh dražby, dražební jistota, dražební vyhláška); zákon č. 151/1997 Sb., o oceňování majetku (pojem obvyklé ceny); § 1103–1104 zákona č. 89/2012 Sb., občanský zákoník (přechod vlastnictví — vyloučení dle odst. 6).
+- *Judikatura:* k povaze nucené dražby jako zákonem upraveného způsobu zpeněžení zástavy a k požadavku řádného ocenění předmětu dražby srov. ustálenou rozhodovací praxi Nejvyššího soudu k veřejným dražbám podle z. č. 26/2000 Sb. (neplatnost dražby při podstatném porušení zákona, zejména při ocenění zjevně neodpovídajícím obvyklé ceně); nosný závěr: porušení povinnosti řádně ocenit předmět nucené dražby je vadou způsobilou založit neplatnost dražby. Konkrétní spisové značky nutno ověřit v databázi NS.
+
+**4. Subsumpce.** Znak „dražebník cenných papírů" (odst. 1) NENÍ naplněn: OCP Trade má povolení podle § 4 odst. 2 písm. a), nikoli písm. b); zákon přitom vyžaduje výslovně písm. b). Oprávnění organizovat dražbu tedy chybí — to je vada zakládající nezpůsobilost subjektu. Znak „pohledávka zajištěná zástavním právem k cennému papíru není řádně a včas splněna" (odst. 8 písm. b) je naplněn (prodlení přes 90 dnů). Znak „vyvolávací cena nad 100 000 Kč" (odst. 5) je naplněn (3 500 000 Kč) — proto je obligatorní znalecký posudek; interní ocenění OCP nestačí. Podmínka oprávnění subjektu je nesplněna, podmínka znaleckého ocenění je sporná (resp. by byla porušena).
+
+**5. Řešení.** Banka A nemůže pověřit OCP Trade — dražba organizovaná osobou bez povolení podle § 4 odst. 2 písm. b) by byla stižena vadou (organizace dražby neoprávněnou osobou) a hrozí její neplatnost; vydražitel by navíc nemusel nabýt čistý titul. Správný postup: zadat dražbu skutečnému dražebníku cenných papírů (OCP s povolením podle § 4 odst. 2 písm. b) a schváleným dražebním řádem), zajistit znalecký posudek na obvyklou cenu (vyvolávací cena > 100 000 Kč), uveřejnit posudek na webu dražebníka po dobu nejméně jednoho roku a zaslat dražební vyhlášku s obvyklou cenou ČNB ve lhůtách dle ZVD. Po příklepu se převod vlastnictví k zaknihovaným akciím zaregistruje v CDCP na základě potvrzení o uzavření kupní smlouvy příklepem (odst. 6); ustanovení § 1103 odst. 2 věty druhé OZ (výhrada práv třetích osob) se nepoužije, vydražitel nabývá čistě.
+
+**6. Varianty.** (a) Pokud by vyvolávací cena činila jen 80 000 Kč, postačil by „jiný doklad o ocenění" (nemusí jít o znalecký posudek), rovněž s povinností uveřejnění na webu po dobu min. 1 roku. (b) Pokud by předmětem byly cenné papíry na doručitele, jejichž vlastníky dražebník nezná, odpadla by povinnost zasílat vlastníkům dražební vyhlášku (odst. 7) — o to důsledněji by však bylo nutno splnit publikační povinnosti, neboť vlastník by se o dražbě jinak nedozvěděl.
+
+#### G. Protiargumenty a rizika
+
+- **„Postačí povolení k jakékoli investiční službě, dražba je přece organizační činnost."** Neobstojí: odst. 1 odkazuje výslovně a jen na § 4 odst. 2 písm. b). Jde o taxativní podmínku; jiná investiční služba (písm. a, c–h) oprávnění nezakládá. Neutralizace: ověřit rozsah povolení přímo v seznamu ČNB před zadáním dražby.
+- **„Interní ocenění je dostatečné, znalecký posudek zbytečně prodražuje dražbu."** Neobstojí u vyvolávací ceny nad 100 000 Kč — zákon stanoví znalecký posudek obligatorně (odst. 5 věta druhá). Porušení založí riziko neplatnosti dražby a odpovědnosti dražebníka za škodu vůči vlastníku i vydražiteli. Neutralizace: posudek pořídit vždy, je-li práh překročen, a uveřejnit jej.
+- **Slabé místo argumentace:** ZPKT výslovně neřeší následky organizace dražby neoprávněnou osobou — je nutno dovodit je z obecné úpravy neplatnosti veřejné dražby v ZVD (subsidiarita dle odst. 2) a z neexistence zákonného oprávnění; konkrétní soudní praxe k dražbě cenných papírů podle § 33 je vzhledem k řídkému výskytu těchto dražeb omezená.
+
+#### H. Praktický závěr
+
+Veřejnou dražbu cenných papírů smí organizovat výlučně obchodník s cennými papíry (či zahraniční osoba) s povolením podle § 4 odst. 2 písm. b) a se schváleným dražebním řádem; obecní dražebníci dle ZVD jsou vyloučeni. Při nucené dražbě nad 100 000 Kč vyvolávací ceny je znalecký posudek povinný. ZVD se použije subsidiárně (není-li v ZPKT či z povahy věci jinak).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř, že dražebník má povolení ČNB k investiční službě dle § 4 odst. 2 písm. b) (rozsah povolení v seznamu ČNB).
+- [ ] Ověř existenci a schválení dražebního řádu ČNB (vč. fikce souhlasu po 30 dnech dle odst. 4).
+- [ ] U nucené dražby zajisti ocenění obvyklou cenou; nad 100 000 Kč vyvolávací ceny znalecký posudek.
+- [ ] Uveřejni posudek/doklad o ocenění na webu dražebníka po dobu nejméně 1 roku.
+- [ ] Zašli dražební vyhlášku s obvyklou cenou ČNB ve lhůtách dle ZVD.
+- [ ] U zaknihovaných CP zajisti registraci převodu v CDCP na základě potvrzení o příklepu; u CP na řad rubopis dražebníkem.
+- [ ] U CP na doručitele s neznámými vlastníky zvaž odpadnutí povinnosti individuálního doručování (odst. 7) a o to důslednější publikaci.
+
+**Typicky rozhodné důkazy / podklady:** povolení ČNB s vymezením investičních služeb; schválený dražební řád; doklad o vzniku zástavního práva / prodlení vlastníka; znalecký posudek nebo jiný doklad o ocenění; dražební vyhláška; potvrzení o uzavření kupní smlouvy příklepem; výpis z evidence CDCP.
+
 ---
 
 ## Část čtvrtá — Některá ustanovení týkající se prospektu
@@ -197,6 +236,44 @@ Odst. 4 zavádí legislativní zkratku pro celý ZPKT: pojmem „prospekt" se v�
 
 Tato zkratka má interpretační dosah pro celý zákon: kdekoli ZPKT odkazuje na prospekt (v části o přestupcích, v části o dohledu ČNB apod.), vždy jde o prospekt splňující unijní regulaci. Vnitrostátní dokumenty informačního charakteru, jež nesplňují požadavky ProspektVO, nejsou prospektem ve smyslu ZPKT — nelze je tak např. v dohledovém řízení posuzovat podle části čtvrté.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Emitent Energo Bonds, a.s., uveřejnil prospekt schválený ČNB k veřejné nabídce dluhopisů v objemu 500 mil. Kč. Prospekt sestavila společnost společně s finančním poradcem; oba jsou v prospektu uvedeni jako odpovědné osoby a podepsali responsibility statement. V prospektu byla skupinou X poskytnuta záruka (ručitel uvedený v prospektu, výslovně se zaručil za správnost údajů). Investor I (retailový) upsal dluhopisy za 1 mil. Kč výhradně na základě údaje ve shrnutí prospektu, podle nějž je ukazatel zadluženosti emitenta „nízký"; tento údaj byl ve shrnutí prezentován bez kontextu, ačkoli v rozsáhlé části prospektu (registrační dokument) byla zachycena skutečná, podstatně vyšší míra zadlužení a riziko refinancování. Po šesti měsících emitent vstoupil do úpadku a dluhopisy ztratily hodnotu. Investor I žádá náhradu škody. Důkazy: schválený prospekt vč. shrnutí a registračního dokumentu, responsibility statement, upisovací doklady investora, účetní závěrky emitenta, znalecké posouzení, zda byl údaj ve shrnutí zavádějící při společném výkladu s prospektem.
+
+**2. Právní otázka.** Vůči komu a za jakých podmínek může investor I uplatnit odpovědnost za údaj uvedený výhradně ve shrnutí prospektu, jestliže ostatní části prospektu obsahovaly správné a úplné informace?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34 ZPKT — objektivní odpovědnost sestavitele a ručitele za správnost a úplnost prospektu (odst. 1); omezená odpovědnost za shrnutí jen je-li zavádějící/nepřesné nebo neúplné při společném výkladu s ostatními částmi prospektu (odst. 2); solidarita více sestavitelů (odst. 1 věta druhá).
+- *Související ustanovení téhož zákona:* § 35 ZPKT (mechanismus k hlášení porušení ProspektVO); přestupková ustanovení ZPKT navazující na pojem „prospekt" (legislativní zkratka dle odst. 4); část o dohledu ČNB.
+- *Související předpisy:* nařízení (EU) 2017/1129 (ProspektVO) — čl. 6 (obsah prospektu), čl. 7 (shrnutí, vč. limitace odpovědnosti za shrnutí), čl. 9–10 (registrační a univerzální registrační dokument), čl. 11 (odpovědnost za prospekt, čl. 11 odst. 2 ponechání úpravy národnímu právu); zákon č. 89/2012 Sb., občanský zákoník (náhrada škody, příčinná souvislost, § 2910 an.).
+- *Judikatura:* k odpovědnosti za prospekt a kauzálnímu nexu mezi vadou prospektu a investičním rozhodnutím srov. nosné závěry rozhodovací praxe k odpovědnosti za nesprávné informace na kapitálovém trhu (investor musí prokázat, že na vadný údaj při svém rozhodnutí spoléhal a že mu vznikla škoda v příčinné souvislosti s vadou). Konkrétní spisové značky nutno ověřit; smyšlené neuvádět.
+
+**4. Subsumpce.** Odst. 1 (obecná odpovědnost) je na osoby emitenta a poradce jako společných sestavitelů aplikovatelný — odpovídají solidárně za celý prospekt; ručitel skupina X odpovídá, neboť je v prospektu uveden a zaručil se za správnost. Pro shrnutí však platí zvláštní režim odst. 2: odpovědnost nastoupí pouze, je-li shrnutí (i) zavádějící/nepřesné při společném výkladu s ostatními částmi prospektu, nebo (ii) neúplné při tomtéž společném výkladu. Klíčový sporný znak: „zavádějící při společném výkladu". Pokud registrační dokument správnou míru zadlužení obsahoval a shrnutí jen nedostatečně zdůraznilo riziko, je nutno posoudit, zda shrnutí ve světle celého prospektu vyvolává u rozumného investora mylný dojem — to je skutkově sporné a vyžaduje dokazování (znalecky).
+
+**5. Řešení.** Investor I může uplatnit nárok solidárně vůči sestavitelům (emitent, poradce) i ručiteli za prospekt jako celek (odst. 1). Pokud však vada spočívá výhradně ve shrnutí, odpovědnost je omezena (odst. 2) — investor musí prokázat, že shrnutí bylo zavádějící/nepřesné nebo neúplné při společném výkladu s ostatními částmi prospektu. Bude-li prokázáno, že shrnutí prezentovalo zadlužení jako „nízké" způsobem, který i ve světle celého prospektu vyvolá mylný dojem, odpovědnost vznikne; bude-li naopak shrnutí ve společném výkladu konzistentní s (správným) registračním dokumentem, odpovědnost za shrnutí nenastoupí. Procesně: investor nese důkazní břemeno o zavádějícím charakteru, příčinné souvislosti (spoléhání na vadný údaj) a o výši škody. Riziko: obrana žalovaných spočívající v tom, že informovaný investor měl číst celý prospekt, nikoli jen shrnutí.
+
+**6. Varianty.** (a) Kdyby byl vadný (zavádějící/neúplný) přímo registrační dokument, který je nedílnou součástí schváleného prospektu, odpovídaly by zaň tytéž osoby jako za prospekt (odst. 3) bez limitace platné pro shrnutí — pozice investora by byla silnější. (b) Kdyby se ručitel v prospektu zaručil pouze za splnění závazku z dluhopisů, nikoli za správnost údajů, neodpovídal by podle odst. 1 za obsah prospektu (záruka za správnost údajů je výslovnou podmínkou jeho odpovědnosti).
+
+#### G. Protiargumenty a rizika
+
+- **„Za shrnutí se odpovídá vždy, je to přece část prospektu."** Neobstojí: odst. 2 (odrážející čl. 11 odst. 2 ProspektVO) odpovědnost za shrnutí výslovně omezuje — nastupuje jen při zavádějícím/nepřesném nebo neúplném shrnutí posuzovaném při společném výkladu s celým prospektem. Neutralizace: argumentovat „společným výkladem" a doložit, že shrnutí samostatně i v kontextu vyvolává mylný dojem.
+- **„Investor měl číst celý prospekt, spoléhání jen na shrnutí jde k jeho tíži."** Částečně silný protiargument; neutralizace spočívá v účelu shrnutí (čl. 7 ProspektVO) jako dokumentu cíleného právě na retailové investory, u nichž je rozhodování podle shrnutí předvídatelné a aprobované — proto zákon odpovědnost za zavádějící shrnutí nevylučuje, jen ji podmiňuje testem společného výkladu.
+- **Slabé místo argumentace:** prokázání příčinné souvislosti (kauzálního nexu) mezi vadou shrnutí a investičním rozhodnutím a vyčíslení škody je důkazně náročné; chybějící výslovná úprava výpočtu škody v § 34 odkazuje na obecnou úpravu náhrady škody v OZ a na judikaturu, jež k odpovědnosti za prospekt v ČR není rozsáhlá.
+
+#### H. Praktický závěr
+
+Za prospekt jako celek odpovídá objektivně sestavitel (zpravidla emitent/nabídková strana) a ručitel uvedený v prospektu, který se zaručil za správnost údajů; více sestavitelů odpovídá solidárně za celý obsah. Za shrnutí se odpovídá jen omezeně — pouze je-li zavádějící/nepřesné nebo neúplné při společném výkladu s ostatními částmi prospektu. Za registrační a univerzální registrační dokument se odpovídá jako za prospekt, jsou-li nedílnou součástí schváleného prospektu. Pojem „prospekt" v celém ZPKT znamená prospekt dle nařízení (EU) 2017/1129.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikuj v prospektu osoby odpovědné za obsah (responsibility statement) a ověř, zda je ručitel uveden a zaručil se za správnost údajů.
+- [ ] Urči, ve které části prospektu vada leží (shrnutí vs. registrační/univerzální registrační dokument vs. dokument o cenných papírech) — režim odpovědnosti se liší.
+- [ ] U vady ve shrnutí proveď test „společného výkladu s ostatními částmi prospektu" (zavádějící/nepřesné nebo neúplné).
+- [ ] U více sestavitelů zvaž solidární uplatnění nároku vůči kterékoli z odpovědných osob.
+- [ ] Prokaž příčinnou souvislost (spoléhání investora na vadný údaj) a vyčísli škodu dle obecné úpravy OZ.
+- [ ] Ověř, že posuzovaný dokument je prospektem ve smyslu ProspektVO (schválený příslušným orgánem) — jinak se část čtvrtá ZPKT neuplatní.
+
+**Typicky rozhodné důkazy / podklady:** schválený prospekt vč. shrnutí, registračního a univerzálního registračního dokumentu; responsibility statement; upisovací/nákupní doklady investora; účetní výkazy emitenta; znalecké posouzení zavádějícího charakteru shrnutí při společném výkladu; doklady o příčinné souvislosti a výši škody.
+
 ---
 
 ### § 35 — Mechanismus k hlášení porušení prospektového nařízení
@@ -238,5 +315,43 @@ Odkaz je „**obdobný**" — přiměřeně, nikoli doslovně. To znamená, že:
 - povinné osoby podle § 35 jsou zpravidla menšími subjekty (emitentské společnosti) s menším počtem pracovníků než obchodníci s cennými papíry — princip přiměřenosti umožňuje přizpůsobit složitost kanálu velikosti organizace.
 
 Mechanismus k hlášení je dále upraven zákonem č. 171/2023 Sb., o ochraně oznamovatelů (transpoziční zákon ke směrnici (EU) 2019/1937), který od 1. 8. 2023 stanoví minimální standardy pro whistleblowing napříč sektory. Zákon č. 171/2023 Sb. se vztahuje i na osoby podléhající ProspektVO, pokud dosáhnou zákonných prahových hodnot (od 50 zaměstnanců); § 35 ZPKT je vůči tomuto zákonu lex specialis — požadavky ZPKT se uplatňují vedle obecné úpravy whistleblowingu a nemohou být nahrazeny nebo sníženy.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Emitentská společnost RealEstate Invest, a.s. (32 zaměstnanců), uveřejnila prospekt k veřejné nabídce dluhopisů a podléhá tak povinnostem podle ProspektVO. Není obchodníkem s cennými papíry, organizátorem regulovaného trhu ani poskytovatelem služeb hlášení údajů. Společnost nezavedla žádný interní kanál pro hlášení porušení ProspektVO. Zaměstnankyně finančního oddělení Z zjistí, že vedení do prospektu vědomě uvedlo zkreslené údaje o obsazenosti nemovitostí (porušení informační povinnosti dle ProspektVO), a chce na to upozornit, avšak nemá k dispozici žádný chráněný interní kanál; obává se odvety. Při kontrole ČNB vyjde najevo, že mechanismus k hlášení chybí. Důkazy: schválený prospekt, organizační struktura a počet zaměstnanců emitenta, interní směrnice (či jejich absence), korespondence Z s vedením, doklad o povaze emitenta (že nejde o OCP/organizátora/poskytovatele služeb hlášení údajů).
+
+**2. Právní otázka.** Je RealEstate Invest, a.s., jako emitent podléhající ProspektVO povinen zavést mechanismus k hlášení porušení podle § 35 ZPKT (obdobně dle § 12i odst. 1), ačkoli má méně než 50 zaměstnanců a podle obecného zákona č. 171/2023 Sb. by povinný subjekt být nemusel?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35 ZPKT — povinnost zavést, udržovat a uplatňovat mechanismus k hlášení porušení nebo hrozícího porušení ProspektVO obdobně podle § 12i odst. 1, pro osoby podléhající ProspektVO, jež nejsou OCP, organizátorem regulovaného trhu ani poskytovatelem služeb hlášení údajů.
+- *Související ustanovení téhož zákona:* § 12i odst. 1 ZPKT (obsahový vzor mechanismu k hlášení — zvláštní, nezávislý a samostatný komunikační kanál); § 12i odst. 2 (minimální standardy ochrany oznamovatele, použitelné obdobně); § 34 ZPKT (odpovědnost za prospekt — kontext porušení, jež má být hlášeno); část o přestupcích/dohledu ČNB.
+- *Související předpisy:* nařízení (EU) 2017/1129 (ProspektVO) — věcný rozsah povinností/zákazů, jejichž porušení se hlásí; zákon č. 171/2023 Sb., o ochraně oznamovatelů (obecný whistleblowing, prahová hodnota 50 zaměstnanců); směrnice (EU) 2019/1937.
+- *Judikatura:* k whistleblowingu a ochraně oznamovatele jde o oblast nově judikovanou; nosný výkladový závěr: sektorová povinnost zavést mechanismus k hlášení podle předpisu kapitálového trhu je samostatná a neodvíjí se od prahových hodnot obecného zákona o ochraně oznamovatelů. Konkrétní rozhodnutí soudů ČR jsou zatím ojedinělá; smyšlené spisové značky neuvádět.
+
+**4. Subsumpce.** Znak „osoba, na kterou se vztahují povinnosti nebo zákazy podle ProspektVO" je naplněn — emitent sestavil a uveřejnil prospekt (povinnosti dle ProspektVO). Znak negativního vymezení („nejde o OCP, organizátora regulovaného trhu ani poskytovatele služeb hlášení údajů") je naplněn — RealEstate Invest je emitentská společnost. Tedy obě kumulativní podmínky okruhu povinných osob jsou splněny → povinnost dle § 35 vzniká. Otázka prahu 50 zaměstnanců dle z. č. 171/2023 Sb. je pro vznik povinnosti dle § 35 ZPKT irelevantní: § 35 je lex specialis a prahem zaměstnanců povinnost nepodmiňuje; princip přiměřenosti („obdobně") umožňuje jen přizpůsobit složitost kanálu velikosti organizace, nikoli povinnost vyloučit.
+
+**5. Řešení.** RealEstate Invest je povinen zavést, udržovat a uplatňovat mechanismus k hlášení porušení ProspektVO obdobně podle § 12i odst. 1 — bez ohledu na to, že nedosahuje prahu 50 zaměstnanců dle obecného zákona o ochraně oznamovatelů. Mechanismus musí zajistit zvláštní, nezávislý a samostatný komunikační kanál a minimální standardy ochrany oznamovatele (ochrana před diskriminací, ochrana osobních údajů — § 12i odst. 2 obdobně). Vzhledem k menší velikosti subjektu lze složitost kanálu přiměřeně zjednodušit, povinnost však trvá. Absence mechanismu zakládá porušení ZPKT s rizikem dohledového opatření či sankce ze strany ČNB. Doporučený postup: vydat interní směrnici o hlášení, určit nezávislou příjmovou osobu/útvar, zajistit důvěrnost a ochranu oznamovatele a sladit úpravu s případnými povinnostmi dle z. č. 171/2023 Sb., dosáhne-li subjekt jeho prahů.
+
+**6. Varianty.** (a) Pokud by RealEstate Invest byl obchodníkem s cennými papíry, povinnost by neplynula z § 35, nýbrž přímo z § 12i odst. 1 (na nějž § 35 jen odkazuje) — § 35 dopadá pouze na osoby mimo tři vyjmenované kategorie. (b) Pokud by subjekt měl 120 zaměstnanců, dopadl by na něj souběžně i obecný zákon č. 171/2023 Sb.; § 35 ZPKT zůstává lex specialis a jeho požadavky nelze obecnou úpravou nahradit ani snížit — oba režimy se uplatní vedle sebe.
+
+#### G. Protiargumenty a rizika
+
+- **„Máme méně než 50 zaměstnanců, povinnost zavést whistleblowing se na nás nevztahuje."** Neobstojí: § 35 ZPKT je sektorovou lex specialis a vznik povinnosti nepodmiňuje prahem zaměstnanců (na rozdíl od obecného z. č. 171/2023 Sb.). Neutralizace: doložit, že subjekt podléhá ProspektVO a nepatří mezi tři vyjmenované kategorie → povinnost platí bez ohledu na počet zaměstnanců.
+- **„Odkaz ‚obdobně' znamená, že povinnost je jen doporučená/dispozitivní."** Neobstojí: „obdobně podle § 12i odst. 1" znamená přiměřené použití obsahu (lze přizpůsobit složitost kanálu velikosti subjektu), nikoli oslabení samotné povinnosti zavést mechanismus. Neutralizace: rozlišovat mezi mírou implementace (přiměřenou) a existencí povinnosti (bezvýjimečnou).
+- **Slabé místo argumentace:** zákon výslovně neupravuje sankci za nezavedení mechanismu přímo v § 35 — nutno dovodit ji z přestupkové a dohledové části ZPKT; rovněž vztah souběhu s povinnostmi dle z. č. 171/2023 Sb. (které ustanovení má přednost při kolizi detailů) není v textu výslovně řešen a vyžaduje výklad zásady lex specialis.
+
+#### H. Praktický závěr
+
+Osoby podléhající ProspektVO, které nejsou obchodníkem s cennými papíry, organizátorem regulovaného trhu ani poskytovatelem služeb hlášení údajů (typicky emitentské společnosti a pomocné osoby při sestavování prospektu), musí zavést, udržovat a uplatňovat mechanismus k hlášení porušení ProspektVO obdobně podle § 12i odst. 1. Povinnost není podmíněna prahem zaměstnanců obecného zákona o ochraně oznamovatelů; „obdobně" umožňuje přiměřit jen složitost, nikoli vyloučit povinnost.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověř, zda se na subjekt vztahují povinnosti/zákazy podle ProspektVO (sestavení/uveřejnění prospektu, nabídka, žádost o přijetí k obchodování).
+- [ ] Ověř, že subjekt NENÍ OCP, organizátorem regulovaného trhu ani poskytovatelem služeb hlášení údajů (jinak platí § 12i přímo, ne § 35).
+- [ ] Zaveď zvláštní, nezávislý a samostatný komunikační kanál pro hlášení porušení (obdobně § 12i odst. 1).
+- [ ] Zajisti minimální standardy ochrany oznamovatele (ochrana před diskriminací, ochrana osobních údajů — § 12i odst. 2 obdobně).
+- [ ] Přizpůsob složitost mechanismu velikosti organizace (princip „obdobně"), nikoli však samotnou existenci povinnosti.
+- [ ] Slaď úpravu s povinnostmi dle z. č. 171/2023 Sb., dosáhne-li subjekt jeho prahových hodnot (od 50 zaměstnanců) — režimy se uplatní vedle sebe.
+
+**Typicky rozhodné důkazy / podklady:** doklad o tom, že subjekt podléhá ProspektVO (schválený prospekt, nabídková dokumentace); doklad o povaze subjektu (že nejde o OCP/organizátora/poskytovatele služeb hlášení údajů); interní směrnice o mechanismu k hlášení; popis komunikačního kanálu a opatření k ochraně oznamovatele; údaj o počtu zaměstnanců (pro souběh s z. č. 171/2023 Sb.).
 
 ---

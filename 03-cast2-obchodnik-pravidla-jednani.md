@@ -42,6 +42,43 @@ Spoluúčast nesmí přesáhnout 10 %; tento strop chrání zákazníka tím, ž
 
 Ustanovení §§ 128–134 ZPKT upravují Garanční fond obchodníků s cennými papíry, do nějž jsou povinni přispívat standardní obchodníci s cennými papíry a z nějž jsou hrazeny pohledávky zákazníků v případě úpadku obchodníka. Odstavec 2 tuto povinnost pro malé a nepropojené obchodníky výslovně vylučuje — náhradou je povinné pojištění podle odst. 1. Jde o symetrické řešení: sníženému rizikovému profilu SNI firmy odpovídá odlišný, méně nákladný mechanismus ochrany zákazníka.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost INVEST-SNI a.s. má povolení obchodníka s cennými papíry, poskytuje pouze investiční poradenství a přijímání a předávání pokynů, spravuje aktiva v objemu cca 0,4 mld. EUR a nesplňuje žádné z prahových kritérií plného režimu — kvalifikuje se jako malý a nepropojený obchodník (SNI firm). Při personálním auditu ČNB vyjde najevo, že obchodník uzavřel pojistnou smlouvu odpovědnosti s limitem 10 000 000 Kč na pojistnou událost a se spoluúčastí 15 %. Účastníci: obchodník (pojištěný), pojistitel, ČNB (orgán dohledu), poškozený zákazník (kterému dosud škoda nevznikla). Důkazy: pojistná smlouva a pojistné podmínky, doklad o trvání pojištění, výpočet objemu spravovaných aktiv prokazující status SNI.
+
+**2. Právní otázka.** Splňuje sjednané pojištění zákonné minimální parametry podle § 12ae odst. 1, a jaké důsledky má jejich nesplnění pro postavení obchodníka?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12ae odst. 1 — povinné pojištění SNI obchodníka s minimálním limitem 13 500 000 Kč / 20 250 000 Kč a maximální spoluúčastí 10 %; odst. 2 — vyloučení účasti v Garančním fondu (§§ 128–134).
+- *Související ustanovení téhož zákona:* § 128 až 134 (Garanční fond, jejichž neaplikace je nahrazena pojištěním); § 135 a násl. (opatření k nápravě a sankce ČNB za porušení povinností).
+- *Související předpisy:* směrnice IFD (EU) 2019/2034, čl. 26 (požadavek pojistného krytí 1 000 000 EUR / 1 500 000 EUR); nařízení IFR (EU) 2019/2033 (kritéria SNI firmy); zákon č. 89/2012 Sb., občanský zákoník, § 2758 a násl. (pojistná smlouva).
+- *Judikatura:* specifická judikatura k § 12ae prakticky neexistuje (jde o nové transpoziční ustanovení). Obecně lze odkázat na ustálený přístup správních soudů, podle něhož je trvalé splnění licenčních a obezřetnostních podmínek materiální podmínkou výkonu regulované činnosti, nikoli pouhou formalitou.
+
+**4. Subsumpce.** Status SNI je naplněn (objem aktiv pod prahem). Znak „limit pojistného plnění nejméně 13 500 000 Kč" je porušen — sjednáno pouze 10 000 000 Kč. Znak „spoluúčast ne vyšší než 10 %" je rovněž porušen — sjednáno 15 %. Obě kumulativní podmínky odst. 1 jsou tedy nesplněny; postačuje přitom porušení jediné z nich.
+
+**5. Řešení.** Obchodník porušuje povinnost podle § 12ae odst. 1 a tento stav trvá „po celou dobu činnosti", takže jde o trvající porušení. ČNB uloží opatření k nápravě (povinnost sjednat řádné pojištění ve stanovené lhůtě), případně pokutu; při přetrvávajícím nesplnění hrozí omezení nebo odnětí povolení. Praktické kroky: obchodník bezodkladně sjedná dodatek navyšující limit a snižující spoluúčast pod 10 % a předloží ČNB doklad. Riziko: po dobu podpojištění nese obchodník nekryté riziko náhrady škody zákazníkům přímo z vlastního majetku.
+
+**6. Varianty.** (a) Kdyby obchodník překročil prahové hodnoty IFR a přestal být SNI firmou, přešel by do plného režimu s účastí v Garančním fondu a § 12ae by se neuplatnil. (b) Kdyby sjednal limit 14 mil. Kč a spoluúčast 8 %, podmínky odst. 1 by byly splněny a žádné porušení by nevzniklo, i kdyby pojistné podmínky obsahovaly jiné (zákonem neregulované) výluky.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „kurzový přepočet":* obchodník může namítat, že eurové limity směrnice IFD při aktuálním kurzu vyžadují nižší korunovou částku. Neutralizace: § 12ae odst. 1 stanoví pevné korunové částky přímo v zákoně; tyto částky jsou závazné bez ohledu na aktuální kurz a nelze je výkladově snižovat.
+- *Protiargument „žádná škoda dosud nevznikla":* absence konkrétní pojistné události je irelevantní — povinnost je koncipována jako trvalá a preventivní (ochrana potenciálních budoucích zákazníků), takže porušení vzniká již samotným podpojištěním.
+- *Slabé místo:* spornou může být kvalifikace činnosti jako „významné" pro účely výpočtu prahů SNI; chybějícím podkladem bývá doložení průměrného objemu aktiv za rozhodné období, na němž status SNI závisí.
+
+#### H. Praktický závěr
+
+Pro malého a nepropojeného obchodníka je povinné pojištění odpovědnosti ekvivalentem účasti v Garančním fondu; musí být sjednáno trvale a v plných zákonných parametrech (limity 13,5 / 20,25 mil. Kč, spoluúčast do 10 %).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit status SNI (objem spravovaných aktiv a podrozvahových položek pod prahy IFR).
+- [ ] Zkontrolovat limit pojistného plnění na událost (≥ 13 500 000 Kč) i roční souběh (≥ 20 250 000 Kč).
+- [ ] Zkontrolovat výši spoluúčasti (≤ 10 % z povinné náhrady).
+- [ ] Ověřit nepřetržité trvání pojištění po celou dobu činnosti.
+- [ ] Ověřit, že obchodník není (a nemá být) účastníkem Garančního fondu.
+
+**Typicky rozhodné důkazy / podklady:** pojistná smlouva a pojistné podmínky, doklad o úhradě pojistného a trvání krytí, výpočet objemu spravovaných aktiv, korespondence s ČNB.
+
 ---
 
 ## Oddíl 2b — Product governance
@@ -130,6 +167,45 @@ Producent je povinen poskytnout distributorovi (§ 12bb) veškeré informace o n
 
 Product governance povinnosti producenta se nevztahují na: (a) nástroje nabízené výlučně způsobilým protistranám (jimž zákon přiznává nejvyšší míru autonomie); (b) jednoduché dluhové cenné papíry bez jiného derivátového prvku než opce na předčasné splacení; (c) depozitní poukázky na takové cenné papíry. Výjimky sledují logiku, že sofistikovaní investoři (způsobilé protistrany) nevyžadují product governance ochranu, a jednoduché dluhopisy postrádají komplexitu, jež by ji odůvodňovala.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník PRODUKT a.s. vytváří strukturovaný certifikát s pákovým efektem a vloženým bariérovým derivátem, jehož výnos závisí na vývoji indexu akcií rozvíjejících se trhů. Cílový trh stanoví interně jako „neprofesionální zákazníci s vysokou tolerancí k riziku, zkušenostmi s deriváty a investičním horizontem nad 5 let", certifikát však distribuuje výhradně přes vlastní pobočkovou síť oslovující běžné retailové střadatele. Při kontrole ČNB se zjistí, že schvalovací proces neobsahuje posouzení nákladové struktury (vstupní poplatek 4 %, roční náklad 1,8 %) a že producent nepřezkoumal soulad produktu po prudkém propadu indexu. Účastníci: producent, distribuční pobočky, cíloví i necíloví zákazníci, ČNB. Důkazy: dokumentace schvalovacího procesu, target market statement, kalkulace nákladů, záznamy o monitoringu.
+
+**2. Právní otázka.** Splnil producent povinnosti product governance podle § 12ba, zejména požadavek na soulad prodejní strategie s cílovým trhem (odst. 3) a na vyhodnocení nákladů (odst. 4) a průběžný monitoring (odst. 5)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12ba odst. 1–6 — schvalovací proces, určení cílového trhu, posouzení rizik a nákladů, soulad prodejní strategie, průběžný monitoring, informační tok k distributorovi; odst. 7 — výjimky.
+- *Související ustanovení téhož zákona:* § 12bb (povinnosti distributora); § 15b–15c (product governance na straně distribuce a posouzení vhodnosti); § 12 a násl. (řízení střetu zájmů); § 12j–12l (pravidla odměňování ve vazbě na odst. 4 písm. b).
+- *Související předpisy:* čl. 16 odst. 3 a čl. 24 odst. 2 MiFID II (2014/65/EU); čl. 9–14 nařízení Komise (EU) 2017/565; obecné pokyny ESMA k požadavkům na řízení produktů (ESMA35-43-620).
+- *Judikatura:* k product governance dosud chybí ustálená tuzemská judikatura; nosné jsou rozhodovací praxe ČNB a stanoviska ESMA. Lze odkázat na obecnou zásadu, že obsah povinnosti rozumět produktu a chránit zákazníka je materiální, nikoli formálně dokumentační.
+
+**4. Subsumpce.** Cílový trh byl formálně určen (odst. 3 písm. a). Posouzení rizik existuje, je však sporné u necílových zákazníků. Znak „prodejní strategie odpovídá cílovému trhu" (odst. 3 písm. c) je porušen — distribuce běžným retailovým střadatelům neodpovídá vysoce rizikovému cílovému trhu. Znak „vyhodnocování struktury nákladů a poplatků" (odst. 4 písm. c) je nesplněn — schvalovací proces kalkulaci nákladů neobsahuje. Znak průběžného ověřování (odst. 5) je porušen — po propadu indexu producent nepřezkoumal soulad produktu.
+
+**5. Řešení.** Producent porušil § 12ba v několika bodech. ČNB může uložit opatření k nápravě (doplnění schvalovacího procesu, úprava distribuční strategie, případně dočasné zastavení distribuce) a sankci. Producent musí: doplnit nákladovou analýzu, omezit distribuci na kanály odpovídající cílovému trhu, zavést pravidelný monitoring a po významné události (propad indexu) provést mimořádné přezkoumání. Riziko: souběžná odpovědnost distributora podle § 12bb a § 15c, je-li produkt nabízen mimo cílový trh.
+
+**6. Varianty.** (a) Kdyby byl certifikát nabízen výhradně způsobilým protistranám, povinnosti odst. 1–6 by se podle odst. 7 písm. a) neuplatnily. (b) Kdyby šlo o jednoduchý dluhopis bez vloženého derivátu (jen s doložkou předčasného splacení), uplatnila by se výjimka odst. 7 písm. b) a product governance režim by odpadl.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „cílový trh byl řádně určen":* producent může tvrdit, že splnil odst. 3, neboť formálně vymezil cílový trh. Neutralizace: povinnost zahrnuje i soulad reálné prodejní strategie s tímto trhem (odst. 3 písm. c) a průběžný monitoring (odst. 5); samotné vymezení na papíře nestačí, je-li distribuce vedena mimo cílový trh.
+- *Protiargument „odpovědnost nese distributor":* producent může odpovědnost přenášet na distribuční síť. Neutralizace: jde-li o vlastní pobočkovou síť, splývá role producenta a distributora; nadto producent odpovídá za informační tok a soulad prodejní strategie podle odst. 3 a 6 samostatně.
+- *Slabé místo:* sporná je hranice mezi „pozitivním" a „negativním" cílovým trhem a míra, do níž producent odpovídá za faktické chování nezávislých distributorů; chybějícím podkladem bývá průkazná dokumentace monitoringu.
+
+#### H. Praktický závěr
+
+Producent investičního nástroje musí mít živý, dokumentovaný schvalovací a kontrolní proces pokrývající cílový trh, rizika, náklady, prodejní strategii a průběžné přezkoumání; product governance není jednorázový úkon při uvedení produktu na trh.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje formalizovaný schvalovací proces pro každý nástroj i jeho významné změny?
+- [ ] Je určen cílový trh (pozitivní i negativní) a posouzena rizika pro něj?
+- [ ] Odpovídá zvolená prodejní strategie a distribuční kanály cílovému trhu?
+- [ ] Byla vyhodnocena nákladová a poplatková struktura produktu?
+- [ ] Probíhá průběžný monitoring a mimořádné přezkoumání po významných událostech?
+- [ ] Je distributorovi poskytnut target market statement a potřebné informace (odst. 6)?
+- [ ] Nejde o výjimku podle odst. 7 (způsobilé protistrany, jednoduché dluhopisy)?
+
+**Typicky rozhodné důkazy / podklady:** dokumentace schvalovacího procesu, target market statement, kalkulace nákladů a poplatků, záznamy o průběžném i mimořádném přezkoumání, distribuční smlouvy a interní pokyny k prodeji.
+
 ---
 
 ### § 12bb — Obchodník s cennými papíry nabízející jím nevytvářený investiční nástroj
@@ -157,6 +233,43 @@ Product governance povinnosti producenta se nevztahují na: (a) nástroje nabíz
 3. **Soulad s cílovým trhem při zohlednění informací o zákaznících** — distributor konfrontuje cílový trh určený producentem s vlastními znalostmi o zákaznické základně. Pokud zjistí neshodu (zákazník nespadá do cílového trhu), musí podle § 15c odst. 2 posoudit, zda je nástroj přesto vhodný. Distributor může cílový trh producenta dále upřesňovat, nikoli rozšiřovat za jeho meze.
 
 Vztah § 12bb k § 15c odst. 2: obě ustanovení sledují totéž — zabránit distribuci produktu zákazníkovi, jemuž neodpovídá. § 12bb se zaměřuje na organizační postupy (systémy), § 15c na konkrétní posouzení v rámci individuálního zákaznického vztahu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník DISTRIB a.s. nabízí svým neprofesionálním zákazníkům podílové listy alternativního fondu spravovaného zahraničním správcem ze třetí země, který není obchodníkem s cennými papíry. Distributor převzal pouze marketingovou prezentaci fondu, nevyžádal si od správce target market statement ani podrobné informace o cílovém trhu a fond aktivně doporučuje konzervativním klientům s nízkou tolerancí k riziku. ČNB při kontrole zjišťuje, že distributor nemá zavedeny postupy k získání informací podle § 12ba odst. 6 a že produkt doporučuje mimo cílový trh. Účastníci: distributor, zahraniční správce (producent, který není obchodníkem), zákazníci, ČNB. Důkazy: distribuční dokumentace, KID/prospekt fondu, interní postupy distributora, záznamy o doporučeních.
+
+**2. Právní otázka.** Splnil distributor povinnosti podle § 12bb, zejména povinnost získat informace o cílovém trhu i od osoby, která není obchodníkem (písm. a), a porozumět cílovému trhu při zohlednění informací o zákaznících (písm. c)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12bb písm. a)–c) — postupy k získání informací (i od neobchodníka), porozumění vlastnostem nástroje a cílovému trhu při zohlednění informací o zákaznících.
+- *Související ustanovení téhož zákona:* § 12ba odst. 6 (informační povinnost producenta); § 15c (povinnosti při nabízení/doporučování, posouzení vhodnosti vůči cílovému trhu); § 15h (test vhodnosti).
+- *Související předpisy:* čl. 16 odst. 3 třetí pododstavec MiFID II; čl. 9–10 nařízení (EU) 2017/565; nařízení PRIIPs (EU) 1286/2014 (KID jako náhradní zdroj informací u neobchodníka).
+- *Judikatura:* ustálená tuzemská judikatura k § 12bb chybí; nosné jsou stanoviska ESMA a ČNB k product governance distributora. Obecně platí, že povinnost porozumět produktu je materiální a nelze ji nahradit pouhým převzetím marketingových materiálů.
+
+**4. Subsumpce.** Znak „postupy k získání informací podle § 12ba odst. 6, a to i od osob, které nejsou obchodníkem" (písm. a) je porušen — distributor si od správce ze třetí země nezajistil potřebné informace, ač zákon výslovně počítá s tímto případem. Znak „porozumění cílovému trhu při zohlednění informací o zákaznících" (písm. c) je porušen — distributor doporučuje fond konzervativním klientům, aniž konfrontoval cílový trh producenta s vlastní zákaznickou základnou.
+
+**5. Řešení.** Distributor porušil § 12bb písm. a) a c). Musí zavést postupy pro aktivní získání informací o cílovém trhu (u neobchodníka z prospektu, KID a dalších dostupných zdrojů), zajistit reálné porozumění produktu a konfrontovat cílový trh s informacemi o zákaznících. Při neshodě (zákazník mimo cílový trh) postupuje podle § 15c odst. 2. ČNB může uložit nápravná opatření a sankci. Riziko: souběžné porušení § 15c (doporučení nevhodného nástroje konkrétnímu zákazníkovi).
+
+**6. Varianty.** (a) Kdyby producentem byl obchodník s cennými papíry z EU, distributor by čerpal informace standardně z target market statement podle § 12ba odst. 6 a důraz na náhradní zdroje by odpadl. (b) Kdyby distributor řádně získal informace, porozuměl produktu a doporučoval jej jen zákazníkům v cílovém trhu, povinnosti § 12bb by byly splněny.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „producent neposkytl informace":* distributor může tvrdit, že selhal producent ze třetí země. Neutralizace: § 12bb písm. a) výslovně ukládá získat informace „i od osob, které nejsou obchodníkem", tedy přenáší aktivní povinnost na distributora bez ohledu na pasivitu producenta (lze využít prospekt, KID).
+- *Protiargument „distributor jen předává marketing":* nabízení a doporučování spouští plnou povinnost porozumět nástroji; pasivní převzetí materiálů nestačí.
+- *Slabé místo:* sporné je, jaké minimum informací postačuje u producenta-neobchodníka a kde končí povinnost distributora aktivně je dohledávat; chybějícím podkladem bývá doložení skutečného porozumění produktu (nikoli jen jeho dokumentace).
+
+#### H. Praktický závěr
+
+Distributor musí aktivně získat informace o nástroji a jeho cílovém trhu — i tehdy, není-li producent obchodníkem — produktu reálně porozumět a sladit jej s vlastní znalostí zákazníků; cílový trh smí upřesnit, nikoli rozšířit.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má distributor postupy k získání informací podle § 12ba odst. 6 (i od neobchodníka)?
+- [ ] U producenta-neobchodníka: využity prospekt, KID/KIID a další dostupné zdroje?
+- [ ] Prokáže distributor reálné porozumění vlastnostem nástroje?
+- [ ] Byl cílový trh producenta konfrontován s informacemi o zákaznické základně?
+- [ ] Je při neshodě cílového trhu a zákazníka aplikován § 15c odst. 2?
+
+**Typicky rozhodné důkazy / podklady:** distribuční smlouva, target market statement nebo náhradní informační zdroje (prospekt, KID), interní postupy distributora, záznamy o posouzení vhodnosti a doporučeních zákazníkům.
 
 ---
 
@@ -194,6 +307,43 @@ Vztah § 12bb k § 15c odst. 2: obě ustanovení sledují totéž — zabránit 
 Povinnost vést evidenci slouží primárně **ochraně majetku zákazníka** (§ 12e): bez průkazné evidence by bylo obtížné identifikovat a vrátit zákazníkům jejich majetek v případě úpadku obchodníka. Evidence je rovněž základem pro vedení deníku (§ 13) a pro případné rekonstrukce obchodů pro účely dohledu.
 
 Požadavek elektronické podoby (odst. 2) zajišťuje integritu, dohledatelnost a dostupnost dat pro ČNB při výkonu dohledu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník KUSTODY a.s. eviduje pro zákazníka pana N. portfolio složené ze (i) zaknihovaných tuzemských akcií vedených v navazující evidenci na centrální evidenci CDCP, (ii) listinných dluhopisů převzatých do úschovy a (iii) zahraničních akcií nakoupených na americké burze. Obchodník vede evidenci listinných dluhopisů pouze v papírové kartotéce a zahraniční akcie eviduje jen v interní poznámce u makléře, nikoli v samostatné evidenci investičních nástrojů podle § 93. Po vstupu obchodníka do insolvence vzniká spor o to, které nástroje patří panu N. Účastníci: obchodník (v úpadku), zákazník, insolvenční správce, CDCP, ČNB. Důkazy: evidenční výpisy, smlouva o vedení majetkového účtu, doklady o převzetí listinných cenných papírů a o nákupu zahraničních akcií.
+
+**2. Právní otázka.** Vede obchodník evidence v souladu s § 12c — zejména v předepsané formě (samostatná evidence podle § 93, elektronická podoba) — a jaké jsou důsledky pochybení pro identifikaci majetku zákazníka v úpadku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12c odst. 1 písm. a)–d) (čtyři druhy evidencí podle povahy nástroje); odst. 2 (elektronická podoba).
+- *Související ustanovení téhož zákona:* § 93 (samostatná evidence investičních nástrojů); § 12e (ochrana majetku zákazníka, segregace); § 13 (deník obchodníka).
+- *Související předpisy:* zákon č. 89/2012 Sb., občanský zákoník (úschova, vlastnictví); insolvenční zákon č. 182/2006 Sb. (vyloučení majetku zákazníka z majetkové podstaty); prováděcí vyhlášky ČNB k vedení evidencí.
+- *Judikatura:* nosný je ustálený závěr, že majetek zákazníka, je-li řádně oddělen a evidován, netvoří součást majetkové podstaty obchodníka; průkaznost evidence je přitom rozhodující pro úspěšné vyloučení majetku v insolvenci.
+
+**4. Subsumpce.** Zaknihované akcie [písm. a)] jsou evidovány správně v navazující evidenci. Znak „samostatná evidence investičních nástrojů (§ 93)" pro listinné dluhopisy [písm. b)] je porušen — vedení v papírové kartotéce neodpovídá § 93 ani požadavku elektronické podoby (odst. 2). Znak pro zahraniční akcie [písm. c)] je porušen — interní poznámka u makléře není samostatnou evidencí podle § 93. Požadavek elektronické podoby (odst. 2) je u písm. b) a c) nesplněn.
+
+**5. Řešení.** Obchodník porušil § 12c odst. 1 písm. b), c) a odst. 2. V insolvenci to ohrožuje schopnost zákazníka prokázat vlastnictví a vyloučit nástroje z majetkové podstaty. ČNB by mimo úpadek uložila nápravná opatření a sankci. Praktické kroky správce/zákazníka: rekonstrukce evidence z primárních dokladů (smlouvy, potvrzení o převzetí, výpisy zahraničního custodiana) a uplatnění vylučovací žaloby. Riziko: nedostatečná evidence zvyšuje důkazní břemeno zákazníka a riziko, že majetek bude pojat do podstaty.
+
+**6. Varianty.** (a) Kdyby všechny nástroje byly řádně vedeny v elektronické samostatné evidenci podle § 93, identifikace a vyloučení majetku zákazníka v úpadku by bylo bezproblémové. (b) Kdyby šlo o nástroj, jehož povaha evidenci neumožňuje [mimo rámec písm. d)], povinnost samostatné evidence by se neuplatnila a ochrana by se opírala o jiné doklady.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „evidence existuje, jen v jiné formě":* obchodník může tvrdit, že papírová kartotéka i poznámka u makléře jsou dostatečné. Neutralizace: § 12c odst. 1 písm. b)–d) výslovně vyžaduje samostatnou evidenci podle § 93 a odst. 2 elektronickou podobu; jiná forma zákonný požadavek nesplňuje.
+- *Protiargument „pochybení je formální, vlastnictví je nesporné":* i při faktické nespornosti vlastnictví porušení evidenční povinnosti zakládá dohledové důsledky a zhoršuje důkazní pozici zákazníka v úpadku.
+- *Slabé místo:* u nástrojů podle písm. d) je sporné, zda jejich povaha evidenci umožňuje; chybějícím podkladem bývá kompletní a aktuální elektronická evidence s vazbou na primární doklady.
+
+#### H. Praktický závěr
+
+Obchodník musí vést evidenci nástrojů zákazníka striktně podle jejich povahy ve čtyřech zákonných liniích (navazující evidence vs. samostatná evidence podle § 93) a vždy v elektronické podobě; kvalita evidence rozhoduje o ochraně majetku zákazníka v úpadku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou zaknihované/imobilizované CP v CCP vedeny v navazující evidenci [písm. a)]?
+- [ ] Jsou listinné nástroje v úschově vedeny v samostatné evidenci podle § 93 [písm. b)]?
+- [ ] Jsou zahraniční nástroje vedeny v samostatné evidenci podle § 93 [písm. c)]?
+- [ ] Jsou ostatní nástroje, jejichž povaha to umožňuje, evidovány [písm. d)]?
+- [ ] Jsou všechny evidence vedeny v elektronické podobě (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** evidenční výpisy a sestavy, smlouva o vedení majetkového účtu, potvrzení o převzetí listinných cenných papírů, výpisy zahraničních custodianů, doklady navazující evidence z CDCP.
 
 ---
 
@@ -241,6 +391,43 @@ Trojí kritérium pro „významnou" povahu: (i) ohrožení plynulosti poskytov�
 
 U outsourcingu správy portfolia pro neprofesionální zákazníky do třetích zemí zákon vyžaduje buď (a) povolení + dohoda o spolupráci ČNB s regulátorem cílové země, nebo (b) předchozí oznámení ČNB s dvouměsíčním mlčením regulátora (fikce souhlasu). Zákon výslovně vylučuje opravný prostředek proti zákazu pověření — jde o jedno z mála míst v ZPKT, kde je přípustnost opravného prostředku výslovně vyloučena, což má procesní důsledky pro soudní přezkum (lze se domáhat pouze ochrany před nezákonným zásahem správního orgánu).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník OUTSRC a.s. svěří výkon správy portfolia neprofesionálních zákazníků (hlavní investiční služba podle § 4 odst. 2 písm. d) společnosti se sídlem v třetí zemi. ČNB s orgánem dohledu této země neuzavřela dohodu o spolupráci. Obchodník navíc na téhož poskytovatele přenese i správu klíčových IT systémů a vedení evidencí, aniž zavedl opatření k řízení souvisejících rizik. Po výpadku poskytovatele dojde k přerušení poskytování investičních služeb a vzniká škoda zákazníkům. Účastníci: obchodník, zahraniční poskytovatel, zákazníci, ČNB, orgán dohledu třetí země. Důkazy: smlouva o pověření (outsourcingová smlouva), interní analýza rizik, oznámení ČNB, doklady o povolení a dohledu poskytovatele.
+
+**2. Právní otázka.** Byly splněny podmínky pro outsourcing správy portfolia neprofesionálních zákazníků do třetí země podle § 12d odst. 5–6 a zachoval obchodník odpovědnost a opatření k řízení rizik u významné provozní činnosti (odst. 1–2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12d odst. 1–2 (řízení rizik a zachování odpovědnosti), odst. 3–4 (pojem významné provozní činnosti a negativní vymezení), odst. 5–7 (outsourcing správy portfolia pro neprofesionály do třetích zemí).
+- *Související ustanovení téhož zákona:* § 4 odst. 2 písm. d) (správa portfolia); § 12c (evidence) a § 12e (ochrana majetku) jako outsourcované oblasti; ustanovení o opatřeních k nápravě a dohledu ČNB.
+- *Související předpisy:* čl. 16 odst. 2 a čl. 31 MiFID II; čl. 30–32 nařízení (EU) 2017/565 (požadavky na outsourcing); soudní řád správní č. 150/2002 Sb. (ochrana před nezákonným zásahem — vzhledem k vyloučení opravného prostředku v odst. 6).
+- *Judikatura:* nosný je ustálený přístup správních soudů, podle něhož tam, kde je vyloučen řádný opravný prostředek, se ochrana poskytuje cestou žaloby proti nezákonnému zásahu; odpovědnost regulovaného subjektu nelze smluvně přenést na třetí osobu.
+
+**4. Subsumpce.** Správa portfolia je významnou provozní činností (odst. 3 — výpadek vážně narušil poskytování služeb). Podmínka odst. 5 písm. b) „ČNB uzavřela dohodu o spolupráci" není splněna. Alternativní postup podle odst. 6 (předchozí oznámení ČNB s dvouměsíční fikcí souhlasu) nebyl využit. Znak odst. 1 „opatření k řízení rizik a k vyloučení nepřiměřeného provozního rizika" je porušen — obchodník opatření nezavedl. Odpovědnost vůči zákazníkům podle odst. 2 zůstává zachována bez ohledu na pověření.
+
+**5. Řešení.** Outsourcing byl proveden v rozporu s § 12d odst. 5 i 6 a obchodník porušil i odst. 1. Obchodník odpovídá zákazníkům za škodu (odst. 2 věta druhá) bez ohledu na to, že činnost vykonával poskytovatel. ČNB uloží nápravná opatření (ukončení nebo dorovnání podmínek pověření) a sankci. Praktické kroky: obchodník buď zajistí splnění odst. 5 (dohoda o spolupráci), nebo podá oznámení podle odst. 6 a vyčká uplynutí dvouměsíční lhůty, případně outsourcing ukončí; současně zavede opatření k řízení rizik. Riziko: zákaz pověření podle odst. 6 nelze napadnout opravným prostředkem, pouze zásahovou žalobou.
+
+**6. Varianty.** (a) Kdyby outsourcing zahrnoval jen právní poradenství nebo odběr standardizovaných tržních informací, šlo by podle odst. 4 o nevýznamnou činnost mimo přísný režim. (b) Kdyby zákazníky byli pouze profesionálové, zvláštní podmínky odst. 5–6 pro správu portfolia do třetích zemí by se neuplatnily.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „odpovědnost nese poskytovatel":* obchodník může poukazovat na smluvní přenos odpovědnosti. Neutralizace: odst. 2 věta druhá výslovně zachovává povinnost obchodníka nahradit újmu třetím osobám bez ohledu na pověření — smluvní ujednání mezi obchodníkem a poskytovatelem nemá účinky vůči zákazníkům.
+- *Protiargument „činnost není významná":* obchodník může bagatelizovat povahu činnosti. Neutralizace: kritéria odst. 3 jsou materiální; výpadek, který vážně narušil poskytování služeb, naplňuje znak významnosti bez ohledu na interní klasifikaci.
+- *Slabé místo:* sporná je hranice mezi významnou a nevýznamnou činností u smíšených služeb; procesně problematické je vyloučení opravného prostředku v odst. 6, jež zužuje obranu na zásahovou žalobu.
+
+#### H. Praktický závěr
+
+Outsourcing nepřenáší regulatorní odpovědnost — obchodník zůstává plně odpovědný vůči zákazníkům i ČNB. U významných činností musí zavést řízení rizik; u správy portfolia pro neprofesionály do třetích zemí musí splnit podmínky odst. 5, nebo postupovat oznámením podle odst. 6.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o významnou provozní činnost podle kritérií odst. 3 (a nikoli o výjimku odst. 4)?
+- [ ] Zavedl obchodník opatření k řízení rizik a vyloučení nepřiměřeného provozního rizika (odst. 1)?
+- [ ] Zůstává zachována kvalita správy a řízení a možnost dohledu ČNB (odst. 2)?
+- [ ] U správy portfolia pro neprofesionály do třetí země: má poskytovatel povolení/dohled a existuje dohoda o spolupráci ČNB (odst. 5)?
+- [ ] Není-li dohoda: bylo podáno oznámení ČNB a uplynula dvouměsíční lhůta bez zákazu (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** outsourcingová smlouva, interní analýza a opatření k řízení rizik, doklady o povolení a dohledu poskytovatele, dohoda o spolupráci ČNB nebo oznámení podle odst. 6, korespondence s ČNB.
+
 ---
 
 ## Oddíl 2e — Ochrana majetku zákazníka
@@ -273,6 +460,43 @@ Odst. 2 obdobně chrání peněžní prostředky zákazníka, s důležitou výj
 
 Zákon ukládá povinný každoroční audit auditorskou firmou, jejíž zpráva se poskytuje ČNB. Toto je nadstandard oproti obecným požadavkům MiFID II — zákon zavádí ex ante ověřovací mechanismus dohledu mimo pravidelné inspekce ČNB. Rozsah a náležitosti zprávy auditora jsou delegovány na prováděcí předpis (§ 12f písm. b).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník SEGREG a.s. drží pro zákazníky cenné papíry a peněžní prostředky. Bez výslovného souhlasu zákazníků zapůjčí část jejich akcií třetí osobě v rámci securities lending, aby zlepšil vlastní výnos, a peněžní prostředky zákazníků dočasně použije ke krytí vlastní obchodní pozice. Obchodník není bankou. Zároveň po dva roky nepředložil ČNB roční auditorskou zprávu o přiměřenosti opatření k ochraně majetku zákazníka. Účastníci: obchodník, zákazníci, třetí osoba (vypůjčitel akcií), auditor, ČNB. Důkazy: smlouvy se zákazníky a doložení (ne)existence výslovného souhlasu, záznamy o zápůjčce a o použití peněžních prostředků, auditorské zprávy (resp. doklad o jejich absenci).
+
+**2. Právní otázka.** Porušil obchodník povinnost segregace a zákaz použití majetku zákazníka podle § 12e odst. 1 a 2 a splnil povinnost každoročního auditu podle odst. 3?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12e odst. 1 (ochrana investičních nástrojů, zákaz použití bez výslovného souhlasu), odst. 2 (ochrana peněžních prostředků, výjimka pro banku), odst. 3 (povinný roční audit a zpráva ČNB).
+- *Související ustanovení téhož zákona:* § 12c (evidence nástrojů zákazníka jako podklad segregace); § 12f písm. b) a c) (delegace na náležitosti zprávy a organizační opatření); § 128 a násl. (Garanční fond — komplementární ochrana).
+- *Související předpisy:* čl. 16 odst. 8–10 MiFID II; čl. 2–8 nařízení (EU) 2017/565 (ochrana majetku klienta); zákon č. 93/2009 Sb., o auditorech; zákon o pojištění vkladů (pro bankovní výjimku odst. 2).
+- *Judikatura:* nosný je obecně přijímaný závěr, že majetek zákazníka řádně oddělený od majetku obchodníka netvoří součást majetkové podstaty obchodníka; použití zákaznického majetku bez výslovného souhlasu zakládá odpovědnost obchodníka.
+
+**4. Subsumpce.** Znak „vyloučení použití investičních nástrojů zákazníka k obchodům na vlastní/cizí účet s výjimkou výslovného souhlasu" (odst. 1) je porušen — zápůjčka akcií proběhla bez výslovného souhlasu zákazníků. Znak „vyloučení použití peněžních prostředků" (odst. 2) je porušen — obchodník není bankou, takže bankovní výjimka neplatí, a prostředky použil ke krytí vlastní pozice. Znak „ověření auditorem a roční zpráva ČNB" (odst. 3) je porušen — zpráva nebyla po dva roky předložena.
+
+**5. Řešení.** Obchodník porušil § 12e odst. 1, 2 i 3. Odpovídá zákazníkům za případnou škodu a vystavuje se nápravným opatřením a sankcím ČNB; závažné porušení segregace může vést až k odnětí povolení. Praktické kroky: okamžité ukončení neoprávněného použití majetku, navrácení/dorovnání, zavedení mechanismu výslovných souhlasů (např. samostatné ujednání o securities lending), zajištění a předložení auditorské zprávy. Riziko: při insolvenci by smíšení majetku ohrozilo jeho vyloučení z podstaty.
+
+**6. Varianty.** (a) Kdyby zákazníci udělili předchozí výslovný souhlas se securities lending v samostatném ujednání, zápůjčka akcií by byla v souladu s odst. 1. (b) Kdyby obchodník byl bankou, použití peněžních prostředků formou vkladu by spadalo pod výjimku odst. 2 a podléhalo režimu pojištění vkladů místo segregace.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „konkludentní souhlas postačuje":* obchodník může tvrdit, že obecný smluvní rámec souhlas zahrnoval. Neutralizace: odst. 1 vyžaduje výslovný souhlas; konkludentní či obecné ujednání nestačí — souhlas musí být předchozí a explicitní k danému postupu.
+- *Protiargument „zákazníkům nevznikla škoda":* absence škody nevylučuje porušení — povinnost segregace je preventivní a její porušení samo zakládá dohledové důsledky; audit (odst. 3) je nezávislý na vzniku škody.
+- *Slabé místo:* sporné může být vymezení „použití k obchodům na vlastní účet" u krátkodobých technických operací; chybějícím podkladem bývá průkazná evidence oddělení majetku a doložení výslovných souhlasů.
+
+#### H. Praktický závěr
+
+Majetek zákazníka musí být striktně oddělen a nesmí být použit k obchodům obchodníka ani jiného zákazníka bez výslovného předchozího souhlasu; banky mají u peněžních prostředků výjimku. Přiměřenost ochranných opatření musí každoročně ověřit auditor a zpráva jde ČNB.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou investiční nástroje a peněžní prostředky zákazníka odděleny od majetku obchodníka?
+- [ ] Existuje k použití nástrojů zákazníka (např. securities lending) výslovný předchozí souhlas?
+- [ ] Je obchodník bankou (relevance výjimky u peněžních prostředků v odst. 2)?
+- [ ] Byla zpracována roční auditorská zpráva o přiměřenosti opatření a předložena ČNB (odst. 3)?
+- [ ] Odpovídají organizační opatření prováděcímu předpisu (§ 12f)?
+
+**Typicky rozhodné důkazy / podklady:** smlouvy se zákazníky a samostatná ujednání o souhlasu, evidence oddělení majetku, záznamy o zápůjčkách a pohybech peněžních prostředků, roční auditorské zprávy a doklad o jejich předložení ČNB.
+
 ---
 
 ### § 12f — Prováděcí právní předpis
@@ -290,6 +514,42 @@ Zákon ukládá povinný každoroční audit auditorskou firmou, jejíž zpráva
 **Výklad:**
 
 § 12f je standardní delegační norma zmocňující ČNB (resp. Ministerstvo financí, pokud jde o prováděcí vyhlášku) k upřesnění tří oblastí: (a) product governance požadavků (§§ 12ba–12bb), (b) auditorské zprávy o ochraně majetku (§ 12e odst. 3) a (c) organizačních požadavků na segregaci majetku zákazníka. Relevantní prováděcí vyhláškou je vyhláška ČNB č. 303/2010 Sb. (ve znění pozdějších předpisů) a navazující vyhláška implementující požadavky MiFID II.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník napadne v rámci sporu s ČNB nápravné opatření, jež mu ukládá doplnit náležitosti auditorské zprávy o ochraně majetku zákazníka. Obchodník namítá, že prováděcí vyhláška ČNB jde nad rámec zákonného zmocnění v § 12f, neboť ukládá povinnosti, které zákon výslovně nepředvídá. Účastníci: obchodník, ČNB, případně soud ve správním soudnictví. Důkazy: znění prováděcí vyhlášky, znění § 12f a § 12ba, 12bb a 12e, na něž zmocnění odkazuje.
+
+**2. Právní otázka.** Pohybuje se konkrétní požadavek prováděcí vyhlášky v mezích zákonného zmocnění podle § 12f písm. a)–c), nebo jde o nepřípustné překročení delegace (rozpor se zásadou výhrady zákona)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12f písm. a) (podrobnější požadavky k product governance v mezích § 12ba a 12bb), písm. b) (náležitosti, lhůty a způsob zasílání zpráv auditora podle § 12e odst. 3), písm. c) (organizační uspořádání k ochraně majetku zákazníka).
+- *Související ustanovení téhož zákona:* § 12ba, § 12bb, § 12e odst. 3 (ustanovení, jejichž provedení se zmocnění týká); obecná zmocňovací ustanovení ZPKT pro vyhlášky ČNB.
+- *Související předpisy:* čl. 79 odst. 3 Ústavy (meze sekundární normotvorby — „k provedení zákona a v jeho mezích"); nařízení (EU) 2017/565 a obecné pokyny ESMA, jež rámují obsah prováděcí úpravy.
+- *Judikatura:* nosný je ústavně i správně ustálený závěr, že prováděcí předpis nesmí ukládat povinnosti nad rámec zákona a musí se držet v mezích zmocnění; překročení delegace činí příslušné ustanovení vyhlášky neaplikovatelným.
+
+**4. Subsumpce.** Pokud napadený požadavek vyhlášky upřesňuje náležitosti či lhůty auditorské zprávy, spadá pod zmocnění písm. b). Pokud naopak zavádí zcela novou samostatnou povinnost obchodníka bez opory v § 12e odst. 3, překračuje znak „v mezích" a delegace by nebyla naplněna. Subsumpce tedy závisí na tom, zda jde o provedení (přípustné) nebo o rozšíření (nepřípustné) zákonné povinnosti.
+
+**5. Řešení.** Jde-li o pouhé upřesnění náležitostí zprávy, je vyhláška v souladu s § 12f a námitka obchodníka neobstojí. Jde-li o uložení nové povinnosti nad rámec zákona, soud by k takovému ustanovení vyhlášky nepřihlédl (čl. 95 odst. 1 Ústavy — soudce je vázán zákonem, nikoli podzákonným předpisem odporujícím zákonu). Praktický krok: argumentačně oddělit „provedení" od „rozšíření" a poměřit konkrétní požadavek textem zmocňujícího ustanovení.
+
+**6. Varianty.** (a) Kdyby požadavek směřoval k product governance, posuzoval by se podle písm. a) a mezí § 12ba a 12bb. (b) Kdyby zmocnění v zákoně chybělo úplně, šlo by o nepřípustnou originární normotvorbu ČNB bez ohledu na obsah požadavku.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „vyhláška jen provádí zákon":* ČNB bude tvrdit, že požadavek je v mezích zmocnění. Neutralizace: nutno konfrontovat konkrétní ustanovení vyhlášky s textem § 12f a navazujících ustanovení; rozhoduje, zda povinnost má oporu v zákoně.
+- *Protiargument „technická povaha materie vyžaduje detailní úpravu":* potřeba detailu neospravedlňuje překročení zmocnění; detail musí zůstat v mezích zákonem vymezeného předmětu.
+- *Slabé místo:* hranice mezi přípustným provedením a nepřípustným rozšířením je v praxi neostrá; chybějícím podkladem bývá explicitní rozbor zmocňovacího ustanovení v odůvodnění napadeného opatření.
+
+#### H. Praktický závěr
+
+§ 12f je delegační normou — prováděcí vyhláška ČNB může pouze upřesňovat product governance (§ 12ba, 12bb), náležitosti auditorské zprávy (§ 12e odst. 3) a organizační opatření k ochraně majetku, vždy jen v mezích zákona. Požadavek nad rámec zmocnění je neaplikovatelný.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má napadený požadavek vyhlášky výslovnou oporu v některém z písm. a)–c) § 12f?
+- [ ] Drží se vyhláška „v mezích" zmocňujících ustanovení (§ 12ba, 12bb, 12e odst. 3)?
+- [ ] Nejde o uložení nové samostatné povinnosti bez zákonného základu?
+- [ ] Je úprava v souladu s přímo použitelným nařízením (EU) 2017/565 a pokyny ESMA?
+
+**Typicky rozhodné důkazy / podklady:** znění prováděcí vyhlášky ČNB, znění § 12f a navazujících ustanovení, odůvodnění napadeného opatření ČNB, případně srovnání s unijní úpravou.
 
 ---
 
@@ -315,6 +575,42 @@ Povinnost zřídit výbor pro rizika se váže na splnění kritérií § 12l od
 
 Výbor je tvořen výhradně členy kontrolního orgánu (dozorčí rada, správní rada, je-li dvojstupňová struktura správy). Povinný kvalifikační požadavek (odst. 2) odráží zásadu „fit and proper" z MiFID II: člen výboru musí skutečně rozumět řízení rizik, nepostačuje formální zákonný mandát. Výbor je poradním a informačním orgánem — informuje kontrolní orgán a asistuje mu při dohledu nad vrcholným vedením.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník BIGFIRM a.s. má rozvahová a podrozvahová aktiva v průměru za poslední čtyři roky ve výši 140 mil. EUR, čímž splňuje kritérium § 12l odst. 6 písm. a). Jeho kontrolní orgán (správní rada s dvoustupňovou strukturou) výbor pro rizika nezřídil s odůvodněním, že řízení rizik dostatečně zajišťuje interní útvar. ČNB při kontrole zjišťuje absenci výboru a nadto u jediného člena, který se rizik formálně ujal, chybějící odbornost. Účastníci: obchodník, kontrolní orgán a jeho členové, ČNB. Důkazy: účetní výkazy prokazující objem aktiv, organizační řád a statut výborů, doklady o odbornosti členů.
+
+**2. Právní otázka.** Vznikla obchodníkovi povinnost zřídit výbor pro rizika podle § 12g odst. 1, a splňuje obsazení výboru kvalifikační požadavek odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12g odst. 1 (zřízení výboru při splnění kritérií § 12l odst. 6 písm. a), složení z členů kontrolního orgánu), odst. 2 (kvalifikační požadavky člena), odst. 3 (informační a poradní funkce).
+- *Související ustanovení téhož zákona:* § 12l odst. 6 písm. a) (prahové kritérium 100 mil. EUR); § 12m (výbor pro odměňování — paralelní konstrukce); ustanovení o vedoucím a kontrolním orgánu a o řízení rizik.
+- *Související předpisy:* čl. 28 IFD (výbor pro rizika); čl. 76 CRD IV (vzorová úprava pro banky); obecné pokyny EBA k vnitřnímu řízení.
+- *Judikatura:* specifická judikatura chybí; nosný je obecný princip „fit and proper", podle něhož musí osoby v řídicích a kontrolních funkcích reálně disponovat odborností odpovídající jejich úkolům, nikoli jen formálním mandátem.
+
+**4. Subsumpce.** Znak prahového kritéria (§ 12l odst. 6 písm. a) — aktiva nad 100 mil. EUR) je naplněn (140 mil. EUR), takže povinnost zřídit výbor vznikla. Znak „kontrolní orgán zřídí výbor pro rizika" (odst. 1) je porušen — výbor nebyl zřízen. Znak „přiměřené odborné znalosti, dovednosti a zkušenosti" člena (odst. 2) je rovněž nesplněn — pověřený člen odbornost nemá.
+
+**5. Řešení.** Obchodník porušil § 12g odst. 1 i odst. 2. ČNB uloží nápravné opatření (zřídit výbor a obsadit jej kvalifikovanými členy kontrolního orgánu) a může uložit sankci. Existence interního útvaru řízení rizik povinnost zřídit výbor nenahrazuje — jde o orgán na úrovni kontrolního orgánu s odlišnou funkcí (dohled a poradenství vůči vrcholnému vedení). Praktické kroky: jmenování členů výboru z kontrolního orgánu, ověření a doložení jejich odbornosti, nastavení reportingu podle odst. 3.
+
+**6. Varianty.** (a) Kdyby aktiva obchodníka prahovou hodnotu nepřesahovala, povinnost zřídit výbor by nevznikla a obchodník by jej mohl zřídit jen dobrovolně. (b) Kdyby byl výbor zřízen na úrovni skupiny způsobem pokrývajícím obchodníka (analogicky § 12m), bylo by třeba posoudit, zda tím není povinnost na individuální úrovni naplněna.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „interní útvar řízení rizik postačuje":* obchodník může tvrdit, že řízení rizik je zajištěno jinak. Neutralizace: § 12g odst. 1 váže povinnost na splnění prahu a požaduje výbor složený z členů kontrolního orgánu; útvar výkonné úrovně nemůže nahradit poradní orgán kontrolního orgánu.
+- *Protiargument „formální mandát stačí":* pověření jediného člena bez odbornosti nesplňuje odst. 2 — požadavek odbornosti je materiální (zásada fit and proper).
+- *Slabé místo:* sporné může být započítání podrozvahových aktiv do prahu a okamžik vzniku povinnosti; chybějícím podkladem bývá průkazný výpočet průměru aktiv za čtyřleté období.
+
+#### H. Praktický závěr
+
+Obchodník překračující práh 100 mil. EUR (§ 12l odst. 6 písm. a) musí zřídit výbor pro rizika z členů kontrolního orgánu a obsadit jej osobami se skutečnou odborností; výbor je poradním a dohledovým orgánem, nikoli náhradou interního řízení rizik.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Splňuje obchodník prahové kritérium § 12l odst. 6 písm. a) (aktiva > 100 mil. EUR v průměru za 4 roky)?
+- [ ] Byl zřízen výbor pro rizika z členů kontrolního orgánu (odst. 1)?
+- [ ] Mají členové výboru přiměřené odborné znalosti, dovednosti a zkušenosti (odst. 2)?
+- [ ] Informuje výbor kontrolní orgán o ochotě podstupovat rizika a strategii (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** účetní výkazy a výpočet průměrných aktiv, statut a jednací řád výboru, zápisy z jednání, doklady o odbornosti a zkušenostech členů.
+
 ---
 
 ### § 12h — Dohled České národní banky nad zásadami odměňování
@@ -332,6 +628,42 @@ Výbor je tvořen výhradně členy kontrolního orgánu (dozorčí rada, správ
 **Výklad:**
 
 § 12h zakládá informační povinnosti vůči ČNB v oblasti odměňování. Dvojí účel: (i) ČNB získává podklady pro srovnávací analýzy a benchmarking trendů odměňování, (ii) transparentnost odměn „vysokých příjmů" (threshold 1 mil. EUR) vytváří dohledový tlak na proporcionální odměňování. Povinnost hlásit gender pay gap odráží širší ESG regulatorní agendu v rámci IFD. Detaily formy a způsobu plnění jsou delegovány na prováděcí předpis.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník REPORT a.s. má tři pracovníky, jejichž roční odměna přesahuje 1 000 000 EUR. Za uplynulé účetní období ČNB nepředložil informace o jejich počtu, pracovních povinnostech a složkách odměny ani údaje o rozdílech v odměňování žen a mužů. Na samostatné vyžádání ČNB rovněž neposkytl celkovou výši odměn jednotlivých členů vedoucího orgánu. Účastníci: obchodník, ČNB, dotčení pracovníci (vysoké příjmy). Důkazy: mzdové podklady, interní evidence odměn, výzva ČNB a doklad o (ne)splnění.
+
+**2. Právní otázka.** Splnil obchodník informační povinnosti vůči ČNB v oblasti odměňování podle § 12h odst. 1–3?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12h odst. 1 (shromažďování informací a benchmarking, gender pay gap), odst. 2 (hlášení pracovníků s odměnou ≥ 1 mil. EUR), odst. 3 (na vyžádání odměny členů vedoucího orgánu a vrcholného vedení), odst. 4 (delegace na prováděcí předpis).
+- *Související ustanovení téhož zákona:* § 12j–12l (zásady a struktura odměňování, jejichž kontrolu informace umožňují); § 12m (výbor pro odměňování); ustanovení o dohledu a sankcích ČNB.
+- *Související předpisy:* čl. 51 nařízení IFR (EU) 2019/2033 (zveřejňované informace); čl. 30 a násl. IFD; nařízení o ochraně osobních údajů (GDPR) ve vztahu k údajům o odměnách konkrétních osob.
+- *Judikatura:* specifická judikatura chybí; nosný je obecný závěr, že informační povinnosti vůči orgánu dohledu jsou samostatně vynutitelné a jejich nesplnění zakládá deliktní odpovědnost bez ohledu na to, zda došlo k materiálnímu pochybení v odměňování.
+
+**4. Subsumpce.** Znak „předložit informace o pracovnících s odměnou ≥ 1 mil. EUR" (odst. 2) je porušen — informace nebyly předloženy, ač tři pracovníci práh splňují. Znak „na vyžádání předložit odměny členů vedoucího orgánu" (odst. 3) je porušen — obchodník nereagoval na výzvu. Znak poskytnutí údajů o gender pay gap (odst. 1) je rovněž nesplněn.
+
+**5. Řešení.** Obchodník porušil § 12h odst. 2 a 3 (a v rozsahu gender pay gap i podklad pro odst. 1). ČNB může uložit nápravné opatření a sankci za nesplnění informační povinnosti. Praktické kroky: bezodkladné zpracování a předložení strukturovaných informací podle prováděcího předpisu (odst. 4), nastavení interního procesu pravidelného i ad hoc reportingu. Riziko: opakované nesplnění informačních povinností bývá hodnoceno jako závažné porušení s dopadem na důvěryhodnost vedení.
+
+**6. Varianty.** (a) Kdyby žádný pracovník nedosahoval prahu 1 mil. EUR, povinnost podle odst. 2 by nevznikla, povinnost na vyžádání podle odst. 3 by však trvala. (b) Kdyby ČNB o údaje podle odst. 3 nepožádala, nesplnění by se omezilo na pravidelné povinnosti odst. 1 a 2.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „ochrana osobních údajů brání poskytnutí":* obchodník může namítat GDPR. Neutralizace: poskytnutí ČNB má zákonný základ (§ 12h) a slouží výkonu dohledu — jde o zpracování na základě právní povinnosti, GDPR mu nebrání.
+- *Protiargument „informace jsou interní a citlivé":* citlivost nezbavuje povinnosti vůči orgánu dohledu, který je vázán mlčenlivostí; benchmarking je legitimním účelem podle odst. 1.
+- *Slabé místo:* sporné může být přesné vymezení okruhu hlášených složek odměny a okamžik vzniku povinnosti; chybějícím podkladem bývá strukturovaná evidence odměn podle prováděcího předpisu.
+
+#### H. Praktický závěr
+
+Obchodník musí ČNB pravidelně hlásit pracovníky s odměnou nad 1 mil. EUR a údaje o gender pay gap a na vyžádání poskytnout odměny členů vedoucího orgánu a vrcholného vedení; nesplnění informační povinnosti je samostatně sankcionovatelné.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikoval obchodník pracovníky s odměnou ≥ 1 mil. EUR a předložil o nich strukturované informace (odst. 2)?
+- [ ] Poskytl na vyžádání ČNB odměny členů vedoucího orgánu a vrcholného vedení (odst. 3)?
+- [ ] Poskytl údaje o rozdílech v odměňování žen a mužů (odst. 1)?
+- [ ] Odpovídá forma a struktura plnění prováděcímu předpisu (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** mzdové a personální podklady, interní evidence složek odměn, výzva ČNB a doklad o splnění, reporting podle prováděcího předpisu.
 
 ---
 
@@ -356,6 +688,43 @@ Výbor je tvořen výhradně členy kontrolního orgánu (dozorčí rada, správ
 #### Whistleblowing v regulaci kapitálového trhu
 
 § 12i transponuje čl. 22 MiFID II (whistleblowing povinnosti). Zákon vyžaduje interní whistleblowingový kanál, jehož základními atributy jsou: nezávislost od hierarchie (pracovník musí moci hlásit i porušení ze strany nadřízených), ochrana oznamovatele před odvetou a anonymita / ochrana osobních údajů. Od 1. srpna 2023 je tato úprava doplněna zákonem č. 171/2023 Sb., o ochraně oznamovatelů (transpozice směrnice EU 2019/1937 — Whistleblower Directive), který se vztahuje na obchodníky s cennými papíry jako povinné subjekty — ten stanoví minimální standardy pro interní oznamovací systémy a zavádí povinnost jmenovat příslušnou osobu pro přijímání a vyřizování oznámení.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pracovník compliance obchodníka WHISTLE a.s. zjistí, že obchodní útvar systematicky obchází pravidla best execution. Nahlásí to interním kanálem, který však ústí přímo u vedoucího obchodního útvaru (tedy u osoby zodpovědné za vytýkané jednání), nikoli nezávisle. Krátce po oznámení je pracovník přeřazen na méně významnou pozici a je mu snížena odměna. Obchodník nezavedl ochranu oznamovatele před odvetou ani ochranu jeho osobních údajů. Účastníci: oznamovatel (pracovník compliance), obchodník, vedoucí obchodního útvaru, ČNB, příslušná osoba podle zákona o ochraně oznamovatelů. Důkazy: popis oznamovacího kanálu a jeho nezávislosti, dokumentace o přeřazení a snížení odměny, vnitřní předpis k whistleblowingu.
+
+**2. Právní otázka.** Splňuje zavedený mechanismus k hlášení požadavky § 12i odst. 1 a 2 — zejména nezávislost kanálu a ochranu oznamovatele před nespravedlivým zacházením?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12i odst. 1 (účinný, zvláštní, nezávislý a samostatný komunikační kanál), odst. 2 písm. a)–c) (postupy hlášení, ochrana oznamovatele před diskriminací, ochrana osobních údajů), odst. 3 (delegace na prováděcí předpis).
+- *Související ustanovení téhož zákona:* ustanovení o řízení střetu zájmů a o kontrolních funkcích (compliance); § 15l–15n (best execution, jejíž porušení bylo oznámeno); ustanovení o dohledu ČNB.
+- *Související předpisy:* čl. 22 a čl. 73 MiFID II (whistleblowing); zákon č. 171/2023 Sb., o ochraně oznamovatelů (transpozice směrnice EU 2019/1937), zejména povinnost nezávislého vnitřního oznamovacího systému, příslušné osoby a zákaz odvetných opatření.
+- *Judikatura:* nosný je obecně přijímaný princip zákazu odvetných opatření vůči oznamovateli; přeřazení a snížení odměny v časové i věcné souvislosti s oznámením zakládají vyvratitelnou domněnku odvety, kterou musí vyvrátit zaměstnavatel.
+
+**4. Subsumpce.** Znak „nezávislý a samostatný komunikační kanál" (odst. 1) je porušen — kanál ústí u osoby odpovědné za vytýkané jednání, není tedy nezávislý. Znak „ochrana před diskriminací a dalšími druhy nespravedlivého zacházení" (odst. 2 písm. b) je porušen — pracovník byl přeřazen a byla mu snížena odměna v souvislosti s oznámením (odvetné opatření). Znak ochrany osobních údajů oznamovatele (odst. 2 písm. c) není zaveden.
+
+**5. Řešení.** Obchodník porušil § 12i odst. 1 a 2 i navazující zákon o ochraně oznamovatelů. Musí zavést skutečně nezávislý kanál (mimo hierarchii dotčeného útvaru, typicky s příslušnou osobou), odvetná opatření zrušit a oznamovatele odškodnit a zajistit ochranu jeho údajů. ČNB může uložit nápravná opatření a sankci; oznamovatel se může domáhat ochrany podle zákona o ochraně oznamovatelů. Praktické kroky: revize vnitřního předpisu, jmenování příslušné osoby, zavedení anonymního kanálu a evidence oznámení.
+
+**6. Varianty.** (a) Kdyby kanál byl veden nezávisle (např. přímo ke kontrolnímu orgánu nebo příslušné osobě) a oznamovatel nebyl postižen, mechanismus by požadavkům odst. 1 a 2 vyhověl. (b) Kdyby mechanismus stanovili sociální partneři při zajištění stejné míry ochrany (odst. 1 věta druhá), bylo by to přípustné.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „přeřazení nesouvisí s oznámením":* obchodník může tvrdit, že personální změna měla jiný důvod. Neutralizace: časová a věcná souvislost zakládá domněnku odvety; důkazní břemeno o jiném legitimním důvodu nese zaměstnavatel.
+- *Protiargument „kanál existuje, byť v rámci útvaru":* existence kanálu nestačí — odst. 1 vyžaduje nezávislost a samostatnost; kanál ústící u osoby odpovědné za pochybení je z podstaty nefunkční.
+- *Slabé místo:* sporné může být souběžné použití § 12i a zákona o ochraně oznamovatelů a rozsah ochrany u externích oznámení; chybějícím podkladem bývá průkazná evidence o nezávislosti kanálu a o vyřízení oznámení.
+
+#### H. Praktický závěr
+
+Obchodník musí zavést účinný, nezávislý a samostatný oznamovací kanál a chránit oznamovatele před odvetou i co do osobních údajů; úprava se prolíná se zákonem č. 171/2023 Sb. o ochraně oznamovatelů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je oznamovací kanál zvláštní, nezávislý a samostatný (mimo hierarchii dotčeného útvaru)?
+- [ ] Existují postupy pro hlášení a vyhodnocování oznámení (odst. 2 písm. a)?
+- [ ] Je oznamovatel chráněn před diskriminací a nespravedlivým zacházením (odst. 2 písm. b)?
+- [ ] Jsou chráněny osobní údaje oznamovatele i údajně odpovědné osoby (odst. 2 písm. c)?
+- [ ] Je zajištěn soulad se zákonem o ochraně oznamovatelů (příslušná osoba, evidence)?
+
+**Typicky rozhodné důkazy / podklady:** vnitřní předpis k whistleblowingu a popis kanálu, evidence oznámení a jejich vyřízení, dokumentace personálních opatření vůči oznamovateli, doklad o jmenování příslušné osoby.
 
 ---
 
@@ -408,6 +777,43 @@ Výbor je tvořen výhradně členy kontrolního orgánu (dozorčí rada, správ
 
 Fixní versus variabilní složka (písm. j–k, odst. 2): zákon nevymezuje přesný poměr, ale požaduje, aby pevná složka tvořila dostatečnou část, která umožní vyplatit pohyblivou složku jako nulovou. Tím se zabraňuje faktickému garantování variabilní složky.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník PAY a.s. zavedl bonusový systém, podle něhož je makléřům vyplácena pohyblivá složka odměny výhradně podle objemu zprostředkovaných obchodů za jednotlivý kvartál, bez ohledu na rizikový profil obchodů a bez zapojení kontrolního orgánu do schvalování zásad. Pracovníci compliance jsou odměňováni podle zisku obchodního útvaru, který kontrolují. ČNB při kontrole zjišťuje, že zásady odměňování nejsou písemně zdokumentovány a neobsahují opatření proti střetu zájmů. Účastníci: obchodník, kontrolní orgán, makléři, pracovníci compliance, ČNB. Důkazy: vnitřní předpis o odměňování, bonusové výpočty, doklady o nezávislosti kontrolních funkcí, zápisy kontrolního orgánu.
+
+**2. Právní otázka.** Odpovídají zásady odměňování požadavkům § 12j odst. 1 — zejména dokumentaci a proporcionalitě (písm. a), souladu s řízením rizik (písm. c–e), nezávislosti odměňování kontrolních funkcí (písm. h) a schválení kontrolním orgánem (písm. f)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12j odst. 1 písm. a)–k) (katalog zásad odměňování), odst. 2 (poměr pohyblivé a pevné složky), odst. 3 (vymezení rizikových pracovníků unijním předpisem).
+- *Související ustanovení téhož zákona:* § 12l (struktura pohyblivé složky); § 12m (výbor pro odměňování); § 15c odst. 3 (zákaz prodejních cílů vedoucích k nevhodným doporučením); § 12 a násl. (řízení střetu zájmů).
+- *Související předpisy:* čl. 30 IFD (EU) 2019/2034; čl. 92 CRD IV (vzorová úprava); zákoník práce § 110 (stejná odměna za stejnou práci) k písm. b); přímo použitelný předpis doplňující čl. 30 IFD (vymezení rizikových pracovníků).
+- *Judikatura:* specifická judikatura chybí; nosný je obecný regulatorní závěr, že pobídkové systémy nesmějí motivovat k nadměrnému podstupování rizik a že nezávislost kontrolních funkcí je materiální podmínkou jejich účinnosti.
+
+**4. Subsumpce.** Znak „jasně zdokumentované a přiměřené zásady" (písm. a) je porušen — zásady nejsou písemně zdokumentovány. Znak „soulad s řízením rizik a opatření proti střetu zájmů" (písm. c–e) je porušen — bonus odměňuje výhradně objem bez ohledu na rizika. Znak „nezávislost odměňování kontrolních funkcí" (písm. h) je porušen — compliance je odměňována podle výsledku kontrolovaného útvaru. Znak „přijetí a přezkum kontrolním orgánem" (písm. f) je porušen — kontrolní orgán zásady neschválil.
+
+**5. Řešení.** Obchodník porušil § 12j odst. 1 ve více bodech. ČNB může uložit nápravná opatření (přepracování zásad, oddělení odměňování kontrolních funkcí, zapojení kontrolního orgánu) a sankci. Praktické kroky: písemně zpracovat zásady přiměřené velikosti obchodníka, navázat pohyblivou složku na finanční i nefinanční kritéria a na rizikový profil, zajistit nezávislé odměňování compliance/řízení rizik/interního auditu, předložit zásady kontrolnímu orgánu k přijetí a každoročnímu přezkumu. Riziko: pobídkový systém vázaný čistě na objem může současně vést k porušení § 15c odst. 3.
+
+**6. Varianty.** (a) Kdyby šlo o malého obchodníka s jednoduchou činností, proporcionalita (písm. a) by připustila jednodušší, ale stále zdokumentovaný systém. (b) Kdyby kontrolní funkce byly odměňovány nezávisle a zásady schválil kontrolní orgán, hlavní pochybení by odpadla i při zachování bonusové složky.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „proporcionalita umožňuje jednodušší úpravu":* obchodník může tvrdit, že jeho velikost nevyžaduje detailní systém. Neutralizace: proporcionalita (písm. a) zjednodušuje, ale neruší jádrové požadavky — dokumentaci, soulad s řízením rizik, nezávislost kontrolních funkcí a schválení kontrolním orgánem.
+- *Protiargument „bonus za objem je běžná praxe":* běžnost praxe nevylučuje rozpor se zákonem; písm. c)–e) výslovně vyžadují soulad s řízením rizik a opatření proti střetu zájmů.
+- *Slabé místo:* sporné je vymezení okruhu rizikových pracovníků (odst. 3) a hranice proporcionality; chybějícím podkladem bývá zdokumentovaná a kontrolním orgánem schválená politika odměňování.
+
+#### H. Praktický závěr
+
+Zásady odměňování musí být zdokumentované, přiměřené, v souladu s řízením rizik a strategií, s genderovou rovností a s nezávislým odměňováním kontrolních funkcí; přijímá a přezkoumává je kontrolní orgán. Zákon nestanoví výši odměn, ale jejich strukturu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou zásady odměňování písemně zdokumentovány a přiměřené velikosti a složitosti obchodníka (písm. a)?
+- [ ] Podporují náležité řízení rizik a obsahují opatření proti střetu zájmů (písm. c–e)?
+- [ ] Jsou kontrolní funkce odměňovány nezávisle na výsledcích kontrolovaných útvarů (písm. h)?
+- [ ] Přijal a pravidelně přezkoumává zásady kontrolní orgán (písm. f) a probíhá nezávislý interní přezkum (písm. g)?
+- [ ] Tvoří pevná složka dostatečnou část umožňující nulovou pohyblivou složku (písm. k, odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** vnitřní předpis o zásadách odměňování, bonusové výpočty a kritéria, doklady o nezávislosti odměňování kontrolních funkcí, zápisy kontrolního orgánu o přijetí a přezkumu, zprávy z interního přezkumu.
+
 ---
 
 ---
@@ -425,6 +831,42 @@ Fixní versus variabilní složka (písm. j–k, odst. 2): zákon nevymezuje př
 **Výklad:**
 
 § 12k zavádí zvláštní omezení odměňování po dobu, kdy obchodník čerpá mimořádnou veřejnou finanční podporu (státní záchranná pomoc, rekapitalizace z veřejných zdrojů). Logika ustanovení odpovídá obecnému veřejnému zájmu: podpora daňových poplatníků by neměla nepřímo financovat bonusy vedoucích pracovníků. Zákaz pohyblivé složky pro členy vedoucího orgánu je absolutní; omezení pro ostatní pracovníky se uplatní pouze tehdy, kdyby výplata bránila obnově kapitálové základny nebo včasnému splacení podpory.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník RESCUE a.s. se dostal do potíží a čerpá mimořádnou veřejnou finanční podporu ve formě rekapitalizace z veřejných zdrojů podle zákona o ozdravných postupech a řešení krize na finančním trhu. Přesto za dané období přiznal členům představenstva pohyblivou složku odměny (bonusy) a ostatním pracovníkům vyplatil bonusy v plné výši, ačkoli to zpomaluje obnovu kapitálového základu a oddaluje splacení podpory. Účastníci: obchodník, členové vedoucího orgánu, ostatní pracovníci, ČNB, orgán poskytující podporu. Důkazy: rozhodnutí o poskytnutí mimořádné veřejné finanční podpory, usnesení o přiznání bonusů, kapitálové výkazy, plán splacení podpory.
+
+**2. Právní otázka.** Smí obchodník čerpající mimořádnou veřejnou finanční podporu vyplatit pohyblivou složku odměny členům vedoucího orgánu a ostatním pracovníkům podle § 12k písm. a) a b)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12k písm. a) (zákaz pohyblivé složky členům vedoucího orgánu), písm. b) (omezení pohyblivé složky ostatním pracovníkům ve vazbě na kapitálový základ a splacení podpory).
+- *Související ustanovení téhož zákona:* § 12j a § 12l (obecná pravidla odměňování a struktura pohyblivé složky); § 12m (výbor pro odměňování).
+- *Související předpisy:* § 2 odst. 1 písm. s) zákona č. 374/2015 Sb., o ozdravných postupech a řešení krize na finančním trhu (definice mimořádné veřejné finanční podpory); čl. 30 a 35 IFD; pravidla veřejné podpory EU.
+- *Judikatura:* specifická judikatura chybí; nosný je veřejnoprávní princip, že veřejná pomoc nesmí nepřímo financovat pohyblivé odměny vedení a že omezení odměn po dobu čerpání podpory je proporcionálním zásahem odůvodněným ochranou veřejných prostředků a finanční stability.
+
+**4. Subsumpce.** Znak „obchodník využívá mimořádnou veřejnou finanční podporu podle § 2 odst. 1 písm. s)" je naplněn (rekapitalizace z veřejných zdrojů). Znak „nevyplácí členům vedoucího orgánu pohyblivou složku odměny" (písm. a) je porušen — bonusy členům představenstva byly přiznány; zákaz je přitom absolutní. Znak „omezení pohyblivé složky ostatním pracovníkům, brání-li obnově kapitálu/splacení podpory" (písm. b) je porušen — bonusy byly vyplaceny v plné výši přesto, že zpomalují obnovu kapitálu.
+
+**5. Řešení.** Obchodník porušil § 12k písm. a) i b). Bonusy členům vedoucího orgánu nesměly být přiznány vůbec; bonusy ostatním pracovníkům měly být omezeny na část čistých příjmů slučitelnou s obnovou kapitálu a včasným splacením podpory. ČNB může uložit nápravná opatření (zrušení/krácení bonusů, případně clawback podle § 12l písm. m) a sankci. Praktické kroky: zastavit výplatu pohyblivých složek vedení, přehodnotit bonusy ostatních pracovníků podle dopadu na kapitál a splacení podpory.
+
+**6. Varianty.** (a) Kdyby obchodník mimořádnou veřejnou finanční podporu nečerpal, uplatnila by se jen obecná pravidla § 12j a 12l a absolutní zákaz podle § 12k by se neaktivoval. (b) Kdyby výplata bonusů ostatním pracovníkům neohrožovala kapitálový základ ani splacení podpory, písm. b) by ji nezakazovalo (na rozdíl od absolutního zákazu pro vedoucí orgán).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „bonusy byly smluvně nárokové":* obchodník může tvrdit, že vznikl smluvní nárok. Neutralizace: § 12k písm. a) stanoví absolutní zákaz výplaty pohyblivé složky vedoucímu orgánu po dobu čerpání podpory; veřejnoprávní zákaz má přednost a § 12l písm. e) navíc zapovídá garantované bonusy.
+- *Protiargument „výplata neohrozila kapitál":* u členů vedoucího orgánu je zákaz absolutní a na dopad do kapitálu nevázaný; argument se může týkat jen ostatních pracovníků podle písm. b).
+- *Slabé místo:* sporné může být přesné určení okamžiku „využívání" podpory a okruhu „členů vedoucího orgánu"; chybějícím podkladem bývá doklad o dopadu bonusů na kapitálový základ a plán splacení podpory.
+
+#### H. Praktický závěr
+
+Po dobu čerpání mimořádné veřejné finanční podpory nesmí obchodník vyplácet členům vedoucího orgánu žádnou pohyblivou složku odměny a u ostatních pracovníků ji musí omezit tak, aby neohrozila obnovu kapitálu a včasné splacení podpory.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Čerpá obchodník mimořádnou veřejnou finanční podporu podle § 2 odst. 1 písm. s) zákona o ozdravných postupech?
+- [ ] Byla zastavena výplata jakékoli pohyblivé složky členům vedoucího orgánu (písm. a)?
+- [ ] Je pohyblivá složka ostatních pracovníků omezena s ohledem na kapitálový základ a splacení podpory (písm. b)?
+- [ ] Jsou nastaveny malus/clawback (§ 12l písm. m) pro již přiznané složky?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o poskytnutí podpory, usnesení o přiznání odměn, kapitálové výkazy, plán splacení podpory, vnitřní předpis o odměňování.
 
 ---
 
@@ -516,6 +958,43 @@ Fixní versus variabilní složka (písm. j–k, odst. 2): zákon nevymezuje př
 
 Požadavky na instrumentovou složku (písm. j), odloženou výplatu (písm. l) a penzijní podmínky (odst. 5) se uplatní pouze u velkých obchodníků (průměrná aktiva nad 100 mil. EUR za 4 roky) a u pracovníků s ročním variabilním příjmem nad 50 000 EUR nebo tvořícím více než čtvrtinu celkové odměny.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník VARPAY a.s. s aktivy v průměru 160 mil. EUR za poslední čtyři roky přizná klíčovému obchodníkovi (rizikovému pracovníkovi) roční pohyblivou složku 200 000 EUR. Vyplatí ji celou ihned a výhradně v hotovosti, bez jakéhokoli odkladu a bez instrumentové složky. Pracovník navíc uzavřel zajišťovací (hedgingovou) transakci, kterou se pojistil proti případnému budoucímu krácení bonusu. Účastníci: obchodník, rizikový pracovník, ČNB. Důkazy: smlouva o odměňování, doklad o výplatě (forma a okamžik), údaj o objemu aktiv obchodníka, doklad o osobní zajišťovací strategii pracovníka.
+
+**2. Právní otázka.** Splňuje výplata pohyblivé složky požadavky § 12l — zejména instrumentovou složku (odst. 1 písm. j), odklad výplaty (písm. l) a zákaz osobních zajišťovacích strategií (odst. 2) — s ohledem na prahovou podmínku odst. 6?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12l odst. 1 písm. a)–n) (požadavky na pohyblivou složku — třísložkové hodnocení, víceleté období, zákaz garantovaných bonusů, malus/clawback, instrumentová a odložená složka), odst. 2 (zákaz osobních zajišťovacích strategií), odst. 6 (prahová podmínka pro písm. j, l a odst. 5).
+- *Související ustanovení téhož zákona:* § 12j (obecné zásady odměňování); § 12k (omezení při veřejné podpoře); § 12m (výbor pro odměňování).
+- *Související předpisy:* čl. 32 IFD (EU) 2019/2034; nařízení IFR (EU) 2019/2033 (kapitál a likvidita ve vazbě na písm. h); přímo použitelný předpis doplňující čl. 32 IFD (třídy nástrojů a alternativní způsoby).
+- *Judikatura:* specifická judikatura chybí; nosný je regulatorní princip sladění pobídek pracovníka s dlouhodobými zájmy obchodníka, věřitelů a zákazníků, jemuž odporuje okamžitá hotovostní výplata a obcházení krácení zajišťovací transakcí.
+
+**4. Subsumpce.** Prahová podmínka odst. 6 je naplněna — aktiva nad 100 mil. EUR (160 mil. EUR) a pohyblivá složka nad 50 000 EUR (200 000 EUR). Znak „alespoň 50 % v nástrojích podle písm. j)" je porušen — výplata proběhla výhradně v hotovosti. Znak „alespoň 40 % odloženo na 3–5 let (písm. l)" je porušen — celá částka vyplacena ihned. Znak „zákaz osobních zajišťovacích strategií" (odst. 2) je porušen — pracovník se proti krácení pojistil hedgingem.
+
+**5. Řešení.** Obchodník porušil § 12l odst. 1 písm. j) a l) a odst. 2. ČNB může uložit nápravná opatření (úprava struktury výplaty, vymáhání nesouladných částek, zákaz dalších takových výplat) a sankci. Praktické kroky: nastavit výplatu tak, aby ≥ 50 % tvořily nástroje podle písm. j) a ≥ 40 % (resp. 60 % u obzvláště vysokých složek) bylo odloženo na 3–5 let, zavést malus/clawback a zakázat osobní zajišťovací strategie. Riziko: nesouladné výplaty může ČNB napadnout a požadovat jejich vrácení.
+
+**6. Varianty.** (a) Kdyby roční pohyblivá složka nepřesahovala 50 000 EUR ani čtvrtinu celkové odměny a obchodník byl pod prahem aktiv (odst. 6), požadavky na instrumentovou a odloženou složku by se neuplatnily. (b) Kdyby obchodník nevydával žádné nástroje podle písm. j), mohla by ČNB podle písm. k) schválit alternativní způsob plnění stejných cílů.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „pracovník nespadá do rizikové kategorie":* obchodník může tvrdit, že na pracovníka se odst. 1 nevztahuje. Neutralizace: kategorie rizikových pracovníků se určuje podle § 12j odst. 1 a unijního předpisu (odst. 3); klíčový obchodník s podstatným dopadem na rizikový profil do ní zpravidla spadá.
+- *Protiargument „okamžitá výplata je pro pracovníka výhodnější":* výhodnost pro pracovníka nemůže převážit kogentní požadavky odst. 1 písm. j) a l), jejichž účelem je sladění pobídek s dlouhodobými zájmy a riziky.
+- *Slabé místo:* sporné je započtení podrozvahových aktiv do prahu (odst. 6) a vymezení „obzvláště vysoké" složky pro 60% odklad; chybějícím podkladem bývá doklad o struktuře a načasování výplaty a o retenční politice (odst. 4).
+
+#### H. Praktický závěr
+
+U velkých obchodníků (práh dle odst. 6) musí pohyblivá složka rizikových pracovníků z alespoň 50 % tvořit nástroje podle písm. j) a z alespoň 40 % (60 % u obzvláště vysokých složek) být odložena na 3–5 let; jsou povinné malus/clawback a zakázány osobní zajišťovací strategie.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá pracovník do kategorie podle § 12j odst. 1 a je naplněna prahová podmínka odst. 6?
+- [ ] Tvoří alespoň 50 % pohyblivé složky nástroje podle písm. j) (akcie a rovnocenné nástroje)?
+- [ ] Je alespoň 40 % (resp. 60 %) odloženo na 3–5 let (písm. l)?
+- [ ] Jsou nastaveny malus a clawback (písm. m) a vyloučeny garantované bonusy (písm. e)?
+- [ ] Je vyloučeno použití osobních zajišťovacích strategií a obcházejících nástrojů (odst. 2 a 3)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o odměňování a vnitřní předpis, doklady o formě a načasování výplaty, výpočet objemu aktiv pro práh odst. 6, retenční politika, doklady o (ne)existenci osobních zajišťovacích strategií.
+
 ---
 
 ### § 12m — Výbor pro odměňování
@@ -538,6 +1017,43 @@ Požadavky na instrumentovou složku (písm. j), odloženou výplatu (písm. l) 
 
 Výbor pro odměňování je poradním orgánem kontrolního orgánu (nikoli výkonným). Zákon výslovně požaduje genderovou vyváženost (odst. 3 písm. a) — jde o jedno z mála explicitních zákonných požadavků na složení výborů mimo bankovní regulaci. Výbor může být zřízen na úrovni skupiny, čímž zákon uznává realitu konsolidovaných skupin.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník COMMITTEE a.s. s aktivy v průměru 180 mil. EUR za poslední čtyři roky (splňuje § 12l odst. 6 písm. a) výbor pro odměňování nezřídil a tvrdí, že agendu odměňování vyřizuje celý kontrolní orgán ad hoc. Současně není výbor pro odměňování zřízen ani na úrovni skupiny. Pokud by jej obchodník zřizoval, jeho navrhované složení by tvořili výhradně muži a nebyl by mezi nimi člen kontrolního orgánu zvolený zaměstnanci, ačkoli zákon volbu člena zaměstnanci vyžaduje. Účastníci: obchodník, kontrolní orgán, zaměstnanci, ČNB. Důkazy: objem aktiv, organizační řád, statut výborů, doklad o (ne)existenci skupinového výboru, údaje o složení a o volbě člena zaměstnanci.
+
+**2. Právní otázka.** Vznikla obchodníkovi povinnost zřídit výbor pro odměňování podle § 12m odst. 1, a splňuje zamýšlené složení požadavky odst. 2 (člen volený zaměstnanci) a odst. 3 písm. a) (genderová vyváženost)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12m odst. 1 (zřízení výboru při splnění § 12l odst. 6 písm. a, výjimka při zřízení na úrovni skupiny), odst. 2 (jmenování členů, účast člena voleného zaměstnanci), odst. 3 (genderová vyváženost a kvalifikované nezávislé posuzování), odst. 4 (příprava rozhodnutí o odměňování).
+- *Související ustanovení téhož zákona:* § 12l odst. 6 písm. a) (prahové kritérium); § 12g (výbor pro rizika — paralelní konstrukce); § 12j a § 12i (zásady odměňování, dohled výboru podle § 12j odst. 1 písm. i).
+- *Související předpisy:* čl. 33 IFD (EU) 2019/2034 (výbor pro odměňování); čl. 95 CRD IV (vzorová úprava); úprava účasti zaměstnanců v orgánech (zákon o obchodních korporacích).
+- *Judikatura:* specifická judikatura chybí; nosný je obecný princip, že povinné složení a nezávislost výborů jsou materiální podmínkou jejich funkce a nelze je nahradit ad hoc projednáním v plénu kontrolního orgánu.
+
+**4. Subsumpce.** Prahové kritérium § 12l odst. 6 písm. a) je naplněno (180 mil. EUR), výjimka pro skupinový výbor se neuplatní (výbor na úrovni skupiny neexistuje). Znak „kontrolní orgán zřídí výbor pro odměňování" (odst. 1) je tedy porušen — výbor nebyl zřízen. Znak „člen kontrolního orgánu zvolený zaměstnanci" (odst. 2) by nebyl splněn. Znak „vyvážené zastoupení mužů a žen" (odst. 3 písm. a) by rovněž nebyl naplněn.
+
+**5. Řešení.** Obchodník porušil § 12m odst. 1 a při zamýšleném složení by porušil i odst. 2 a 3 písm. a). ČNB může uložit nápravná opatření (zřídit výbor v souladu se zákonem) a sankci. Ad hoc projednávání v plénu kontrolního orgánu povinnost nenahrazuje. Praktické kroky: zřídit výbor pro odměňování z členů kontrolního orgánu, zajistit účast člena voleného zaměstnanci a genderovou vyváženost, vymezit jeho působnost při přípravě rozhodnutí o odměňování (odst. 4) a dohledu podle § 12j odst. 1 písm. i).
+
+**6. Varianty.** (a) Kdyby byl výbor pro odměňování zřízen na úrovni skupiny pokrývající obchodníka, povinnost zřídit jej individuálně by podle odst. 1 odpadla. (b) Kdyby obchodník nedosahoval prahu aktiv, výbor by nemusel zřizovat povinně.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „celý kontrolní orgán agendu zvládá":* obchodník může tvrdit, že samostatný výbor je nadbytečný. Neutralizace: odst. 1 ukládá při splnění prahu výbor zřídit; jeho funkce (kvalifikované a nezávislé posuzování, příprava rozhodnutí) nelze nahradit ad hoc projednáním v plénu.
+- *Protiargument „genderová vyváženost je jen doporučení":* odst. 3 písm. a) je závazným zákonným požadavkem na složení, nikoli pouhým doporučením.
+- *Slabé místo:* sporné může být splnění výjimky „výbor zřízen na úrovni skupiny" (rozsah a reálné pokrytí obchodníka) a aplikace pravidla o voleném členovi; chybějícím podkladem bývá statut výboru a doklad o jeho složení.
+
+#### H. Praktický závěr
+
+Obchodník nad prahem 100 mil. EUR musí zřídit výbor pro odměňování z členů kontrolního orgánu (nezřizuje-li jej skupina), zajistit jeho genderovou vyváženost a účast člena voleného zaměstnanci; výbor je poradním orgánem připravujícím rozhodnutí o odměňování.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Splňuje obchodník práh § 12l odst. 6 písm. a) a není výbor zřízen na úrovni skupiny?
+- [ ] Je výbor pro odměňování zřízen z členů kontrolního orgánu (odst. 1)?
+- [ ] Je členem alespoň jeden člen kontrolního orgánu zvolený zaměstnanci, vyžaduje-li zákon jejich volbu (odst. 2)?
+- [ ] Je složení genderově vyvážené (odst. 3 písm. a) a posuzuje výbor odměňování kvalifikovaně a nezávisle (odst. 3 písm. b)?
+- [ ] Připravuje výbor rozhodnutí o odměňování se zohledněním dlouhodobých zájmů (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** výpočet objemu aktiv, statut a jednací řád výboru, doklad o (ne)existenci skupinového výboru, údaje o složení výboru a o volbě člena zaměstnanci, zápisy z jednání výboru.
+
 ---
 
 ## Oddíl 3 — Deník obchodníka s cennými papíry
@@ -556,6 +1072,43 @@ Výbor pro odměňování je poradním orgánem kontrolního orgánu (nikoli vý
 
 Deník obchodníka je základním evidence-keeping nástrojem pro účely dohledu a rekonstrukce obchodů. Zahrnuje: (i) přijaté pokyny od zákazníků, (ii) obchody provedené na základě pokynů a (iii) obchody na vlastní účet. Tím deník sleduje celý tok pokynu od přijetí po realizaci (order lifecycle), umožňuje ČNB ověřit dodržování povinností best execution (§§ 15l–15n). Oprávnění vést rodná čísla účastníků (odst. 2) je zákonnou výjimkou z obecného omezení zpracování rodných čísel.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zákazník pan K. tvrdí, že zadal obchodníkovi DENIK a.s. telefonicky pokyn k prodeji akcií při dosažení určité ceny, pokyn však nebyl proveden a zákazníkovi vznikla ztráta. Obchodník existenci pokynu popírá. Při kontrole ČNB se zjistí, že deník obchodníka neobsahuje úplný záznam přijatého pokynu a navazujícího obchodu a je veden zčásti v papírové podobě. Účastníci: zákazník, obchodník, ČNB, případně soud v civilním sporu o náhradu škody. Důkazy: deník obchodníka, záznam telefonické komunikace (§ 17), evidence pokynů a obchodů, smluvní dokumentace.
+
+**2. Právní otázka.** Vede obchodník deník v souladu s § 13 (úplnost záznamu pokynů a obchodů, elektronická podoba) a jaký význam má deník pro prokázání přijetí a provedení pokynu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 13 odst. 1 (obsah deníku — přijaté pokyny, navazující obchody, obchody na vlastní účet, dokumenty podle § 17 odst. 6), odst. 2 (elektronická podoba, oprávnění vést rodná čísla), odst. 3 (delegace na prováděcí předpis).
+- *Související ustanovení téhož zákona:* § 17 (zaznamenávání komunikace a dokumentů); § 15l–15n (best execution, jejíž dodržení deník dokládá); § 12c (evidence nástrojů).
+- *Související předpisy:* čl. 16 odst. 6 a 7 MiFID II (vedení záznamů); čl. 72–76 nařízení (EU) 2017/565 (uchovávání záznamů); GDPR ve vztahu k rodným číslům (zákonná výjimka v odst. 2).
+- *Judikatura:* nosný je obecně přijímaný závěr, že povinnost vést řádné záznamy slouží i ochraně zákazníka a že chybějící či neúplná evidence jde k tíži toho, kdo ji byl povinen vést; v civilním sporu se důkazní nouze v důsledku porušení evidenční povinnosti zpravidla projeví v neprospěch obchodníka.
+
+**4. Subsumpce.** Znak „evidence přijatých pokynů a obchodů uzavřených na jejich základě" (odst. 1) je porušen — deník neobsahuje úplný záznam pokynu a navazujícího obchodu. Znak „deník je veden v elektronické podobě" (odst. 2) je rovněž porušen — část deníku je papírová. Tím je narušena schopnost rekonstruovat tok pokynu (order lifecycle) a doložit dodržení best execution.
+
+**5. Řešení.** Obchodník porušil § 13 odst. 1 a 2. ČNB může uložit nápravná opatření (zavedení úplného elektronického deníku) a sankci. V civilním sporu o náhradu škody neúplnost deníku a chybějící záznam komunikace zhoršují důkazní pozici obchodníka — při porušení evidenční povinnosti nese důsledky důkazní nouze zpravidla obchodník. Praktické kroky: zavést úplnou elektronickou evidenci pokynů a obchodů provázanou se záznamy podle § 17, doplnit chybějící údaje z dostupných zdrojů.
+
+**6. Varianty.** (a) Kdyby byl deník veden úplně a elektronicky a obsahoval i záznam telefonického pokynu (§ 17), spor by se rozhodl na základě průkazné evidence. (b) Kdyby šlo výhradně o obchod na vlastní účet obchodníka bez zákaznického pokynu, povinnost evidence by trvala, avšak otázka neprovedení zákaznického pokynu by odpadla.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „papírová evidence je rovnocenná":* obchodník může tvrdit, že forma deníku je nepodstatná. Neutralizace: odst. 2 výslovně vyžaduje elektronickou podobu; papírová evidence zákonný požadavek nesplňuje a oslabuje dohledatelnost a integritu dat.
+- *Protiargument „pokyn nebyl přijat":* obchodník popírá přijetí pokynu. Neutralizace: právě deník a záznam komunikace mají přijetí pokynu prokázat; jejich absence jde k tíži obchodníka, který je byl povinen vést.
+- *Slabé místo:* sporný může být rozsah údajů, které deník musí obsahovat podle prováděcího předpisu, a vztah deníku k záznamům podle § 17; chybějícím podkladem bývá provázaná elektronická evidence pokynů, obchodů a komunikace.
+
+#### H. Praktický závěr
+
+Deník obchodníka musí v elektronické podobě úplně zachytit tok pokynu od přijetí po realizaci včetně obchodů na vlastní účet; slouží dohledu i ochraně zákazníka a jeho neúplnost jde k tíži obchodníka.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Obsahuje deník přijaté pokyny i obchody uzavřené na jejich základě (odst. 1)?
+- [ ] Jsou evidovány i obchody na vlastní účet a dokumenty podle § 17 odst. 6?
+- [ ] Je deník veden v elektronické podobě (odst. 2)?
+- [ ] Je evidence provázána se záznamy komunikace podle § 17 (rekonstrukce order lifecycle)?
+- [ ] Odpovídají náležitosti deníku prováděcímu předpisu (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z deníku obchodníka, záznamy telefonické a elektronické komunikace (§ 17), evidence pokynů a obchodů, smluvní dokumentace se zákazníkem.
+
 ---
 
 ## Oddíl 4 — Odbornost
@@ -569,6 +1122,42 @@ Deník obchodníka je základním evidence-keeping nástrojem pro účely dohled
 **Výklad:**
 
 Stručné, avšak obsahově závažné ustanovení zavádí zásadu proporcionality personálního zabezpečení. ČNB hodnotí přiměřenost personálních zdrojů při udělování povolení i v průběhu dohledu; nedostatečné personální zdroje mohou být důvodem pro uložení nápravných opatření.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník STAFF a.s. rozšíří činnost o správu portfolií a o poradenství u komplexních derivátů, personální obsazení však ponechá beze změny — útvary řízení rizik a compliance zůstávají obsazeny jediným pracovníkem, který agendu nestíhá. Dochází k opožděnému vyřizování pokynů a k pochybením v kontrolách. ČNB při dohledu shledá, že personální zdroje neodpovídají rozšířenému rozsahu a složitosti činností. Účastníci: obchodník, ČNB, dotčení zákazníci. Důkazy: organizační struktura a počty pracovníků, popis rozsahu a složitosti činností, doklady o pochybeních a prodlevách.
+
+**2. Právní otázka.** Jsou personální zdroje obchodníka přiměřené povaze, rozsahu a složitosti jeho činností ve smyslu § 14?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14 (zásada proporcionality personálního zabezpečení).
+- *Související ustanovení téhož zákona:* § 14a (podmínky činnosti, odborná způsobilost a důvěryhodnost pracovníků); ustanovení o organizačních požadavcích, řízení rizik a compliance; § 12j (proporcionalita rovněž v odměňování).
+- *Související předpisy:* čl. 16 odst. 2 a 5 MiFID II (organizační požadavky); čl. 21–22 nařízení (EU) 2017/565 (obecné organizační požadavky, compliance a řízení rizik); obecné pokyny ESMA/EBA k vnitřnímu řízení.
+- *Judikatura:* specifická judikatura k § 14 chybí; nosný je obecný dohledový princip, že personální vybavení musí reálně umožnit řádný a plynulý výkon všech činností, k nimž má obchodník povolení; jeho nedostatečnost je samostatným důvodem nápravných opatření.
+
+**4. Subsumpce.** Znak „přiměřenost personálních zdrojů povaze, rozsahu a složitosti činností" je nesplněn — po rozšíření o správu portfolií a komplexní deriváty zůstaly kontrolní funkce poddimenzovány, což se projevilo prodlevami a pochybeními. Personální zdroje tedy neodpovídají zvýšenému rozsahu a složitosti.
+
+**5. Řešení.** Obchodník porušil § 14. ČNB může uložit nápravná opatření (posílení personálních zdrojů, zejména kontrolních funkcí) a v krajním případě omezit rozsah povolených činností. Praktické kroky: posílit obsazení řízení rizik a compliance, případně využít přiměřený outsourcing podle § 12d, doložit ČNB přiměřenost personálního zabezpečení. Riziko: trvající poddimenzování může vést k závažnějším porušením (best execution, ochrana zákazníka) a k zpřísnění dohledových opatření.
+
+**6. Varianty.** (a) Kdyby obchodník vykonával jen jednoduché služby v malém rozsahu, dosavadní personální obsazení by mohlo být přiměřené a § 14 by porušen nebyl. (b) Kdyby kontrolní funkce posílil úměrně rozšíření činností (interně či přiměřeným outsourcingem), zásada proporcionality by byla naplněna.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „personální zdroje jsou věcí podnikatelského uvážení":* obchodník může namítat autonomii v organizaci. Neutralizace: § 14 stanoví zákonnou mez — přiměřenost rozsahu a složitosti činností; podnikatelské uvážení nesmí vést k poddimenzování ohrožujícímu řádný výkon činností.
+- *Protiargument „pochybení jsou ojedinělá":* opakované prodlevy a chyby v kontrolách indikují systémovou nedostatečnost zdrojů, nikoli izolované selhání.
+- *Slabé místo:* „přiměřenost" je neurčitý pojem a jeho naplnění závisí na konkrétním rozsahu činností; chybějícím podkladem bývá doložení vztahu mezi personálním obsazením a reálnou zátěží jednotlivých funkcí.
+
+#### H. Praktický závěr
+
+Personální zdroje musí odpovídat povaze, rozsahu a složitosti činností obchodníka; při rozšíření činností je nutné posílit zejména kontrolní funkce. Nedostatečné personální zabezpečení je samostatným důvodem nápravných opatření ČNB.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Odpovídá počet a kvalifikace pracovníků rozsahu a složitosti poskytovaných služeb?
+- [ ] Jsou dostatečně obsazeny kontrolní funkce (řízení rizik, compliance, interní audit)?
+- [ ] Bylo personální zabezpečení posíleno při rozšíření činností?
+- [ ] Je případný outsourcing podpůrných činností v souladu s § 12d?
+
+**Typicky rozhodné důkazy / podklady:** organizační struktura a počty pracovníků, popis rozsahu a složitosti činností, doklady o prodlevách a pochybeních, hodnocení přiměřenosti zdrojů ze strany ČNB.
 
 ---
 
@@ -587,6 +1176,42 @@ Stručné, avšak obsahově závažné ustanovení zavádí zásadu proporcional
 #### Uzavřený okruh zástupců
 
 Odst. 1 stanoví taxativní výčet zástupců, kteří mohou obchodníka zastupovat při kontaktu se zákazníky. Tím se zabraňuje obcházení regulace prostřednictvím neregulovaných zprostředkovatelů. Podmínky odborné způsobilosti a důvěryhodnosti jsou průběžné (odst. 2) — nestačí je splnit jednorázově. Výjimka z odborné způsobilosti (odst. 3) pro osoby jednající výhradně s profesionálními zákazníky a způsobilými protistranami vychází z předpokladu, že tito zákazníci disponují vlastními odbornostmi.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník AGENT a.s. nechá zákazníky kontaktovat a investiční nástroje nabízet externí marketingovou agenturou (tippery), kteří nejsou jeho pracovníky, vázanými zástupci ani investičními zprostředkovateli. Tito tippeři nesplňují podmínky odborné způsobilosti ani důvěryhodnosti a jednají i s neprofesionálními zákazníky. Účastníci: obchodník, externí agentura/tippeři, zákazníci (mezi nimi neprofesionálové), ČNB. Důkazy: smlouvy s agenturou, doklady o postavení osob jednajících se zákazníky, doklady o odborné způsobilosti a důvěryhodnosti, kategorizace zákazníků.
+
+**2. Právní otázka.** Smí obchodníka při jednání se zákazníky zastupovat externí agentura, a musí osoby jednající se zákazníky splňovat podmínky odborné způsobilosti a důvěryhodnosti podle § 14a?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14a odst. 1 (uzavřený okruh zástupců: pracovník, investiční zprostředkovatel, vázaný zástupce), odst. 2 (trvalé splnění odborné způsobilosti a důvěryhodnosti), odst. 3 (výjimka u jednání výhradně s profesionály a způsobilými protistranami podle § 2a, 2b).
+- *Související ustanovení téhož zákona:* § 14b (odborná způsobilost); § 14f (odborná zkouška a osvědčení); § 2a, § 2b (profesionální zákazník, způsobilá protistrana); ustanovení o vázaných zástupcích a investičních zprostředkovatelích.
+- *Související předpisy:* čl. 24–25 MiFID II (požadavky na osoby jednající se zákazníky); obecné pokyny ESMA k hodnocení znalostí a odbornosti (ESMA35-43-620).
+- *Judikatura:* nosný je obecný princip, že regulaci nelze obcházet využitím neregulovaných třetích osob k činnostem, které zákon svěřuje vymezenému okruhu subjektů; jednání mimo uzavřený okruh zástupců je porušením zákona se sankčními důsledky.
+
+**4. Subsumpce.** Znak „zastoupení pouze pracovníkem, investičním zprostředkovatelem nebo vázaným zástupcem" (odst. 1) je porušen — zákazníky kontaktuje externí agentura mimo tento okruh. Znak „trvalé splnění odborné způsobilosti a důvěryhodnosti" (odst. 2) je rovněž porušen — tippeři tyto podmínky nesplňují. Výjimka odst. 3 se neuplatní, neboť jednají i s neprofesionálními zákazníky.
+
+**5. Řešení.** Obchodník porušil § 14a odst. 1 a 2. ČNB může uložit nápravná opatření (ukončení spolupráce s neoprávněnými osobami, zajištění zastoupení jen oprávněnými zástupci splňujícími podmínky) a sankci. Praktické kroky: jednání se zákazníky svěřit výhradně pracovníkům, vázaným zástupcům nebo investičním zprostředkovatelům, ověřit a průběžně udržovat jejich odbornou způsobilost (§ 14b) a důvěryhodnost. Riziko: jednání neoprávněných osob může vést i k neplatnosti či zpochybnění uzavřených obchodů a k odpovědnosti za škodu zákazníkům.
+
+**6. Varianty.** (a) Kdyby tippeři byli vázanými zástupci obchodníka splňujícími podmínky odborné způsobilosti a důvěryhodnosti, zastoupení by bylo v souladu s odst. 1 a 2. (b) Kdyby jednali výhradně s profesionálními zákazníky a způsobilými protistranami (§ 2a, 2b), uplatnila by se výjimka odst. 3 z odborné způsobilosti (nikoli však z požadavku patřit do okruhu zástupců podle odst. 1).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „agentura jen vyhledává kontakty":* obchodník může tvrdit, že tippeři pouze předávají kontakty. Neutralizace: nabízejí-li investiční nástroje a jednají se zákazníky, jde o zastupování podle odst. 1, které je vyhrazeno uzavřenému okruhu zástupců.
+- *Protiargument „výjimka odst. 3 pokrývá odbornost":* výjimka se týká jen odborné způsobilosti a jen u jednání výhradně s profesionály/způsobilými protistranami; nevztahuje se na okruh oprávněných zástupců (odst. 1) ani na případy jednání s neprofesionály.
+- *Slabé místo:* sporná může být hranice mezi pouhým marketingem a jednáním se zákazníkem ve smyslu odst. 1; chybějícím podkladem bývá doložení postavení osob jednajících se zákazníky a jejich kvalifikace.
+
+#### H. Praktický závěr
+
+Obchodníka smí při jednání se zákazníky zastupovat pouze pracovník, investiční zprostředkovatel nebo vázaný zástupce, kteří trvale splňují odbornou způsobilost a důvěryhodnost; výjimka z odbornosti platí jen u jednání výhradně s profesionály a způsobilými protistranami.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Patří osoby jednající se zákazníky do okruhu podle odst. 1 (pracovník, IZ, vázaný zástupce)?
+- [ ] Splňují trvale podmínky odborné způsobilosti (§ 14b) a důvěryhodnosti (odst. 2)?
+- [ ] Uplatní se výjimka odst. 3 (jednání výhradně s osobami podle § 2a odst. 1 nebo 2 či § 2b)?
+- [ ] Je odbornost a důvěryhodnost průběžně ověřována, nikoli jen jednorázově?
+
+**Typicky rozhodné důkazy / podklady:** smlouvy s osobami jednajícími se zákazníky, doklady o jejich postavení (pracovní smlouva, registrace IZ/vázaného zástupce), osvědčení o odborné zkoušce, doklady o důvěryhodnosti, kategorizace zákazníků.
 
 ---
 
@@ -632,6 +1257,42 @@ Odst. 1 stanoví taxativní výčet zástupců, kteří mohou obchodníka zastup
 
 ZPKT zavádí dvoustupňový model: (i) všeobecné znalosti (maturita nebo vyšší vzdělání) a (ii) odborné znalosti a dovednosti prokázané osvědčením z akreditované zkoušky. Katalog znalostí a dovedností (odst. 4) odpovídá pokynům ESMA k hodnocení znalostí a odbornosti (Guidelines on MiFID II product governance, ESMA35-43-620) a pokrývá šest znalostních oblastí a tři dovednosti včetně praktické způsobilosti doporučit zákazníkovi vhodný produkt.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Makléř pan M. jedná s neprofesionálními zákazníky obchodníka a nabízí jim komplexní investiční nástroje. Doloží středoškolské vzdělání bez maturity (výuční list) a osvědčení o odborné zkoušce nepředloží — místo toho se prokazuje interním školením absolvovaným u obchodníka. ČNB při kontrole zpochybní jeho odbornou způsobilost. Účastníci: makléř, obchodník, ČNB, zákazníci. Důkazy: doklad o vzdělání (maturita vs. výuční list), osvědčení o odborné zkoušce podle § 14f (resp. jeho absence), popis poskytovaných služeb a nástrojů.
+
+**2. Právní otázka.** Splňuje pan M. odbornou způsobilost podle § 14b — tj. všeobecné znalosti (maturita nebo vyšší vzdělání, odst. 2) i odborné znalosti a dovednosti prokázané osvědčením o odborné zkoušce (odst. 3)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14b odst. 1 (skladba odborné způsobilosti), odst. 2 (prokázání všeobecných znalostí maturitou/vyšším vzděláním), odst. 3 (prokázání odborných znalostí osvědčením), odst. 4 (katalog znalostí a dovedností).
+- *Související ustanovení téhož zákona:* § 14a (požadavek trvalého splnění způsobilosti); § 14f (odborná zkouška a osvědčení); § 14c–14e (akreditovaná osoba pořádající zkoušky).
+- *Související předpisy:* čl. 25 odst. 1 MiFID II (znalosti a odbornost osob jednajících se zákazníky); obecné pokyny ESMA k hodnocení znalostí a odbornosti (ESMA35-43-620).
+- *Judikatura:* specifická judikatura chybí; nosný je obecný závěr, že zákonem předepsaný způsob prokázání kvalifikace (formální doklady) nelze nahradit jiným, byť věcně srovnatelným podkladem, není-li zákonem připuštěn.
+
+**4. Subsumpce.** Znak „všeobecné znalosti prokázané maturitou nebo vyšším vzděláním" (odst. 2) je nesplněn — výuční list není maturitním vysvědčením ani dokladem o vyšším vzdělání. Znak „odborné znalosti a dovednosti prokázané osvědčením o odborné zkoušce" (odst. 3) je rovněž nesplněn — osvědčení nebylo předloženo a interní školení je nenahrazuje. Odborná způsobilost podle § 14b tedy není naplněna.
+
+**5. Řešení.** Pan M. nesplňuje odbornou způsobilost podle § 14b a obchodník jím nesmí být při jednání se zákazníky zastoupen (§ 14a odst. 1, 2). ČNB může uložit nápravná opatření a sankci. Praktické kroky: pan M. musí doložit maturitu nebo vyšší vzdělání a úspěšně vykonat odbornou zkoušku u akreditované osoby (§ 14f) a získat osvědčení; do té doby nesmí s (neprofesionálními) zákazníky jednat. Riziko: jednání nezpůsobilé osoby zakládá porušení § 14a a může vést k odpovědnosti obchodníka za škodu.
+
+**6. Varianty.** (a) Kdyby pan M. jednal výhradně s profesionálními zákazníky a způsobilými protistranami, uplatnila by se výjimka § 14a odst. 3 a odborná zkouška by se nevyžadovala. (b) Kdyby doložil maturitu i osvědčení o odborné zkoušce, odborná způsobilost by byla naplněna a jednání se zákazníky by bylo v souladu se zákonem.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „interní školení je rovnocenné":* obchodník může tvrdit, že vlastní školení nahrazuje zkoušku. Neutralizace: odst. 3 vyžaduje osvědčení o úspěšném vykonání odborné zkoušky podle § 14f u akreditované osoby; interní školení tento formální požadavek nesplňuje.
+- *Protiargument „praxe nahrazuje vzdělání":* délka praxe nenahrazuje doklad o všeobecných znalostech (odst. 2) ani osvědčení (odst. 3), nestanoví-li tak zákon.
+- *Slabé místo:* sporné může být uznávání zahraničních dokladů o vzdělání a zkouškách; chybějícím podkladem bývá platné osvědčení a doklad o odpovídajícím stupni vzdělání.
+
+#### H. Praktický závěr
+
+Odborná způsobilost vyžaduje kumulativně všeobecné znalosti (maturita nebo vyšší vzdělání) a odborné znalosti a dovednosti prokázané osvědčením z akreditované odborné zkoušky; interní školení ani praxe je nenahrazují.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Doložil pracovník všeobecné znalosti maturitou nebo dokladem o vyšším vzdělání (odst. 2)?
+- [ ] Předložil platné osvědčení o úspěšném vykonání odborné zkoušky podle § 14f (odst. 3)?
+- [ ] Pokrývá osvědčení poskytované investiční služby a nástroje (katalog odst. 4)?
+- [ ] Není dán případ výjimky podle § 14a odst. 3 (jednání výhradně s profesionály)?
+
+**Typicky rozhodné důkazy / podklady:** maturitní vysvědčení nebo doklad o vyšším vzdělání, osvědčení o odborné zkoušce, popis poskytovaných služeb a nástrojů, kategorizace zákazníků.
+
 ---
 
 ### § 14c — Požadavky na akreditovanou osobu
@@ -664,6 +1325,43 @@ ZPKT zavádí dvoustupňový model: (i) všeobecné znalosti (maturita nebo vyš
 
 Akreditace je povolení udělované ČNB subjektům oprávněným pořádat odborné zkoušky. Podmínky kombinují osobnostní předpoklady (svéprávnost, důvěryhodnost) a organizační způsobilost. Tříměsíční lhůta ČNB pro vyřízení (odst. 6) je prekluzivní lhůtou — nevyhovění v lhůtě zakládá mlčanlivý souhlas. Povinnost oznámit změnu podmínek (odst. 7) zajišťuje průběžný dohled.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vzdělávací společnost AKRED s.r.o. podá ČNB elektronicky žádost o akreditaci k pořádání odborných zkoušek. K žádosti přiloží zkouškový řád a doklady o organizačně-technickém zázemí, neprokáže však důvěryhodnost své ovládající osoby (jediného společníka, který byl v minulosti pravomocně odsouzen za majetkovou trestnou činnost). ČNB ve lhůtě tří měsíců nerozhodne. Společnost má za to, že akreditace byla udělena mlčky. Účastníci: žadatel (AKRED s.r.o.), ovládající osoba, ČNB. Důkazy: žádost a přílohy, zkouškový řád, doklady o důvěryhodnosti a svéprávnosti, výpis z rejstříku trestů ovládající osoby, doklad o doručení žádosti.
+
+**2. Právní otázka.** Vznikl žadateli nárok na akreditaci podle § 14c, byla-li nesplněna podmínka důvěryhodnosti ovládající osoby (odst. 3 písm. a), a jaký je význam tříměsíční lhůty podle odst. 6?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14c odst. 1–2 (akreditovaná osoba a akreditace), odst. 3 písm. a)–d) (podmínky: svéprávnost a důvěryhodnost včetně ovládající osoby, věcné/organizační/personální předpoklady, zkouškový řád, identifikace v základním registru), odst. 4–5 (elektronická žádost a její náležitosti), odst. 6 (tříměsíční lhůta), odst. 7 (oznamovací povinnost).
+- *Související ustanovení téhož zákona:* § 14d (trvání, prodloužení a fikce prodloužení); § 14e (odnětí akreditace); § 14f (zkouška a zkouškový řád); § 14b (odborná způsobilost, jejíž zkoušení akreditovaná osoba zajišťuje).
+- *Související předpisy:* správní řád č. 500/2004 Sb. (náležitosti žádosti, lhůty, řízení); zákon o základních registrech (identifikace žadatele); úprava důvěryhodnosti a beztrestnosti v ZPKT.
+- *Judikatura:* nosný je obecný závěr, že fikce vyhovění (mlčky udělené povolení) nastupuje pouze tehdy, jsou-li splněny hmotněprávní podmínky; nečinnost orgánu nemůže zhojit chybějící zákonný předpoklad, jehož absence brání vyhovění.
+
+**4. Subsumpce.** Znaky organizačně-technických předpokladů (písm. b) a zkouškového řádu (písm. c) jsou splněny. Znak „důvěryhodnost ovládající osoby" (písm. a) je nesplněn — odsouzení za majetkovou trestnou činnost zpravidla vylučuje důvěryhodnost. Protože odst. 6 váže vyhovění na splnění podmínek odst. 3, nelze hovořit o automatickém udělení akreditace přes nesplnění hmotněprávní podmínky.
+
+**5. Řešení.** ČNB měla žádost zamítnout pro nesplnění podmínky důvěryhodnosti ovládající osoby (odst. 3 písm. a). Tříměsíční lhůta (odst. 6) je sice lhůtou pro vyhovění, avšak fikce vyhovění předpokládá splnění podmínek odst. 3; při jejich nesplnění marné uplynutí lhůty akreditaci nezaloží a žadatel se může bránit proti nečinnosti. Praktické kroky: žadatel buď změní ovládající strukturu tak, aby byla podmínka důvěryhodnosti splněna, nebo žádost vezme zpět; ČNB by měla vydat zamítavé rozhodnutí.
+
+**6. Varianty.** (a) Kdyby všechny podmínky odst. 3 byly splněny a ČNB ve lhůtě nerozhodla, povaha lhůty by hrála ve prospěch žadatele (analogicky fikci prodloužení podle § 14d odst. 4). (b) Kdyby žadatel nepodal žádost elektronicky (odst. 4), trpěla by žádost vadou, k jejímuž odstranění by jej ČNB vyzvala.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „uplynutím lhůty byla akreditace udělena":* žadatel může dovozovat mlčky udělené povolení. Neutralizace: § 14c odst. 6 podmiňuje vyhovění splněním podmínek odst. 3; na rozdíl od § 14d odst. 4 zde zákon výslovnou fikci vyhovění při marném uplynutí lhůty nestanoví a nesplněná hmotněprávní podmínka brání udělení.
+- *Protiargument „důvěryhodnost se týká jen žadatele, ne ovládající osoby":* odst. 3 písm. a) výslovně rozšiřuje podmínku důvěryhodnosti i na ovládající osobu právnické osoby.
+- *Slabé místo:* sporná může být povaha tříměsíční lhůty (pořádková vs. propadná s fikcí) a posouzení důvěryhodnosti u starších odsouzení; chybějícím podkladem bývá kompletní doložení důvěryhodnosti a aktuální výpis z rejstříku trestů.
+
+#### H. Praktický závěr
+
+Akreditaci k pořádání odborných zkoušek uděluje ČNB jen při splnění podmínek (svéprávnost a důvěryhodnost žadatele i ovládající osoby, organizační předpoklady, zkouškový řád, identifikace v registru); žádost se podává elektronicky a ČNB rozhoduje ve lhůtě tří měsíců.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je žadatel (a u právnické osoby i ovládající osoba) důvěryhodný a svéprávný (odst. 3 písm. a)?
+- [ ] Má věcné, kvalifikační, organizační a personální předpoklady pro pořádání zkoušek (písm. b)?
+- [ ] Předložil zkouškový řád podle § 14f odst. 2 (písm. c) a umožňují údaje identifikaci v registru (písm. d)?
+- [ ] Byla žádost podána elektronicky s náležitostmi podle odst. 4 a 5?
+- [ ] Rozhodla ČNB ve lhůtě 3 měsíců (odst. 6) a plní akreditovaná osoba oznamovací povinnost (odst. 7)?
+
+**Typicky rozhodné důkazy / podklady:** elektronická žádost a přílohy, zkouškový řád, doklady o důvěryhodnosti a svéprávnosti (výpis z rejstříku trestů žadatele i ovládající osoby), doklady o organizačně-technickém zázemí, doklad o doručení žádosti.
+
 ---
 
 ### § 14d — Trvání, prodloužení a zánik akreditace
@@ -692,6 +1390,42 @@ Akreditace je povolení udělované ČNB subjektům oprávněným pořádat odbo
 
 Akreditace je časově omezené povolení (5 let), opakovaně obnovitelné. Zákon zakotvuje fikci prodloužení (odst. 4 věta druhá) — pokud ČNB nevydá v tříměsíční lhůtě rozhodnutí, akreditace se ze zákona prodlužuje. Tato fikce souhlasu chrání akreditované osoby před průtahy v řízení. Katalog důvodů zániku (odst. 5) je taxativní.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Akreditované osobě ZKOUSKA s.r.o. končí pětiletá akreditace dne 30. června. Žádost o prodloužení podá elektronicky dne 20. května, tedy více než tři měsíce před koncem nestihne — ČNB do uplynutí tří měsíců od doručení žádosti (tj. do 20. srpna) nerozhodne. Mezitím, dne 1. července, akreditovaná osoba uspořádá odbornou zkoušku. Vzniká pochybnost, zda byla v té době akreditace platná. Účastníci: akreditovaná osoba, ČNB, uchazeči o zkoušku. Důkazy: rozhodnutí o původní akreditaci a datum jejího udělení, žádost o prodloužení a doklad o jejím doručení, doklad o (ne)vydání rozhodnutí ve lhůtě, doklad o konání zkoušky.
+
+**2. Právní otázka.** Trvala akreditace ke dni konání zkoušky (1. července), tj. nastoupila fikce prodloužení podle § 14d odst. 4, ačkoli původní pětiletá doba uplynula dříve, než marně uběhla tříměsíční lhůta?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14d odst. 1 (akreditace na 5 let), odst. 2 (opakované prodloužení o 5 let na žádost), odst. 3 (elektronická žádost), odst. 4 (tříměsíční lhůta a fikce prodloužení při nečinnosti), odst. 5 písm. a)–d) (taxativní důvody zániku).
+- *Související ustanovení téhož zákona:* § 14c (podmínky a udělení akreditace); § 14e (odnětí akreditace); § 14f (odborná zkouška a osvědčení).
+- *Související předpisy:* správní řád č. 500/2004 Sb. (lhůty, fikce rozhodnutí, počítání času); obecné zásady právní jistoty a ochrany před průtahy.
+- *Judikatura:* nosný je obecný závěr, že fikce vydání rozhodnutí (zde fikce prodloužení) chrání žadatele před nečinností orgánu a nastupuje ze zákona marným uplynutím lhůty; výklad musí šetřit smysl fikce, tj. zajistit kontinuitu oprávnění při včas podané žádosti.
+
+**4. Subsumpce.** Žádost byla podána včas a elektronicky (odst. 2, 3). ČNB ve tříměsíční lhůtě od doručení (do 20. srpna) nerozhodla, takže nastoupil znak „platí, že akreditace byla prodloužena" (odst. 4 věta druhá). Účelem fikce je kontinuita oprávnění; výklad zachovávající trvání akreditace v mezidobí (po 30. červnu do rozhodnutí, resp. do nastoupení fikce) odpovídá smyslu odst. 4 — jinak by včasná žádost nebyla schopna zabránit přerušení akreditace způsobenému výlučně nečinností ČNB. Důvod zániku „uplynutím doby, nebyla-li akreditace prodloužena" (odst. 5 písm. c) se proto neuplatní.
+
+**5. Řešení.** Při včas podané žádosti a následné nečinnosti ČNB se akreditace prodlužuje fikcí podle § 14d odst. 4; zkouška konaná v mezidobí je kryta trvající akreditací. Praktické kroky: akreditovaná osoba si pro jistotu vyžádá potvrzení o nastoupení fikce prodloužení a žádost podává s dostatečným předstihem (ideálně tak, aby tříměsíční lhůta uplynula před koncem stávající doby). Riziko: podá-li žádost příliš pozdě, může mezi koncem doby a nastoupením fikce vzniknout výkladově sporné období.
+
+**6. Varianty.** (a) Kdyby akreditovaná osoba žádost o prodloužení vůbec nepodala, akreditace by zanikla uplynutím doby podle odst. 5 písm. c) a další zkoušky by pořádat nemohla. (b) Kdyby ČNB ve lhůtě vydala zamítavé rozhodnutí (např. pro nesplnění podmínek), fikce prodloužení by nenastoupila a akreditace by zanikla.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „akreditace zanikla uplynutím pětileté doby":* ČNB či třetí osoba může namítat zánik podle odst. 5 písm. c). Neutralizace: odst. 5 písm. c) výslovně podmiňuje zánik tím, že akreditace „nebyla prodloužena podle odstavce 4"; při včasné žádosti a nečinnosti ČNB nastupuje fikce prodloužení, takže k zániku nedojde.
+- *Protiargument „fikce nepokrývá mezidobí před uplynutím lhůty":* takový výklad by popřel smysl fikce (ochrana před průtahy) a znemožnil kontinuitu oprávnění; je proto nutné jej odmítnout ve prospěch výkladu zachovávajícího trvání akreditace.
+- *Slabé místo:* sporné je překlenutí období mezi koncem pětileté doby a nastoupením fikce, podá-li žadatel žádost pozdě; chybějícím podkladem bývá doklad o datu doručení žádosti a o (ne)vydání rozhodnutí ve lhůtě.
+
+#### H. Praktický závěr
+
+Akreditace trvá 5 let a opakovaně se prodlužuje o dalších 5 let na včas podanou elektronickou žádost; nerozhodne-li ČNB do tří měsíců, akreditace se prodlužuje fikcí. Důvody zániku (smrt, zánik PO, uplynutí doby bez prodloužení, odnětí) jsou taxativní.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla žádost o prodloužení podána včas a elektronicky (odst. 2, 3)?
+- [ ] Uplynula tříměsíční lhůta bez rozhodnutí ČNB (nastoupení fikce prodloužení, odst. 4)?
+- [ ] Je zajištěna kontinuita akreditace ke dni konání zkoušky?
+- [ ] Nenastal některý z taxativních důvodů zániku podle odst. 5 (smrt, zánik PO, uplynutí doby bez prodloužení, odnětí podle § 14e)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o původní akreditaci a datum jejího udělení, žádost o prodloužení a doklad o doručení, doklad o (ne)vydání rozhodnutí ve lhůtě, doklady o konání zkoušek v rozhodném období.
+
 ---
 
 ### § 14e — Odnětí akreditace
@@ -713,6 +1447,43 @@ Akreditace je časově omezené povolení (5 let), opakovaně obnovitelné. Zák
 **Výklad:**
 
 Odnětí na žádost (odst. 1) je obligatorní. Odnětí z moci úřední (odst. 2) je fakultativní a váže se na tři alternativní důvody: nepravdivé podklady, ztrátu podmínek nebo závažné/opakované porušení zákona. Diskrece ČNB podléhá proporcionálnímu hodnocení — odnětí je krajním opatřením.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Akreditovaná osoba A, s. r. o., pořádající odborné zkoušky podle § 14f, opakovaně (ve třech termínech během 14 měsíců) připustila ke komisi člena, který nebyl důvěryhodný (byl pravomocně odsouzen za podvod), a v jednom termínu nezajistila lichý počet členů komise. ČNB při kontrole zjistila i to, že část osvědčení byla vydána osobám, které fakticky neabsolvovaly celý rozsah zkoušky. ČNB zahájí řízení o odnětí akreditace podle § 14e odst. 2 písm. c). Účastníci: ČNB (správní orgán), A, s. r. o. (akreditovaná osoba). Důkazy: kontrolní protokol, zkušební protokoly, seznamy členů komisí, výpis z evidence Rejstříku trestů člena komise, vydaná osvědčení.
+
+**2. Právní otázka.** Jsou zjištěná pochybení „závažným způsobem nebo opakovaně" porušenými povinnostmi ve smyslu § 14e odst. 2 písm. c) tak, aby ospravedlnila fakultativní odnětí akreditace, a obstojí odnětí v testu proporcionality?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14e odst. 2 písm. c) — fakultativní odnětí akreditace pro závažné nebo opakované porušení zákona; odst. 2 písm. b) — ztráta podmínek akreditace.
+- *Související ustanovení téhož zákona:* § 14c (požadavky na akreditovanou osobu, mj. organizační a personální předpoklady), § 14f odst. 3 (lichý počet a důvěryhodnost členů komise), § 14d (trvání a zánik akreditace).
+- *Související předpisy:* zákon č. 500/2004 Sb., správní řád (řízení z moci úřední, zásada přiměřenosti, § 2 odst. 3); prováděcí vyhláška podle § 14h.
+- *Judikatura:* obecná správní judikatura NSS ke korektivu proporcionality při ukládání nejpřísnějších opatření (odnětí oprávnění je krajní prostředek, je-li dosažitelná náprava mírnějším zásahem, je třeba ji volit); k pojmu „závažné porušení" jako neurčitému právnímu pojmu plně přezkoumatelnému soudem.
+
+**4. Subsumpce.** Opakovanost je naplněna (tři termíny). Závažnost je naplněna u připuštění nedůvěryhodného člena komise a u vydání osvědčení osobám, které nesplnily rozsah zkoušky — jde o zásah do samé podstaty veřejné funkce akreditované osoby (garance kvality osvědčení). Pochybení s lichým počtem členů je sporné jako samostatně „závažné", ale ve spojení s ostatními posiluje obraz systémového selhání. Diskrece ČNB („může odejmout") je tak vázána na proporcionální úvahu.
+
+**5. Řešení.** ČNB je oprávněna akreditaci odejmout; musí však v odůvodnění vysvětlit, proč mírnější opatření (např. uložení opatření k nápravě) nepostačuje. Pravděpodobný výsledek: odnětí obstojí, jsou-li pochybení doložena a dotýkají-li se kvality osvědčení. Procesní kroky: řádné dokazování, výzva k vyjádření, odůvodněné rozhodnutí s testem proporcionality. Riziko: zruší-li soud rozhodnutí pro nedostatečné odůvodnění úvahy o přiměřenosti.
+
+**6. Varianty.** (a) Šlo by o jediné, ojedinělé a bezprostředně napravené pochybení (omylem sudý počet členů v jednom termínu) — odnětí by zřejmě neobstálo pro nepřiměřenost. (b) Akreditovaná osoba by sama požádala o odnětí podle odst. 1 — ČNB by akreditaci odejmout musela (obligatorní), aniž by zkoumala důvody.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Pochybení byla formální a nezpůsobila škodu, odnětí je nepřiměřené." Neutralizace: vydání osvědčení osobám bez splnění rozsahu zkoušky poškozuje důvěryhodnost celého systému odbornosti a ohrožuje zákazníky na trhu — jde o materiální, nikoli formální vadu.
+- *Protiargument:* „ČNB nesprávně subsumovala pod písm. c), ač měla postupovat podle písm. b) (ztráta podmínek)." Neutralizace: důvody odnětí podle odst. 2 jsou alternativní; postačí naplnění jednoho. Vhodné je však uvést primární i podpůrný důvod.
+- *Slabé místo:* neurčitý pojem „závažně" vyžaduje pečlivé odůvodnění; bez něj hrozí zrušení pro nepřezkoumatelnost. Chybějící podklad: dokumentace, že mírnější opatření selhalo nebo by zjevně nepostačovalo.
+
+#### H. Praktický závěr
+
+Odnětí na žádost je nárokové a bezpodmínečné (odst. 1, žádost elektronicky dle odst. 3). Odnětí z moci úřední je diskreční a vyžaduje doložení jednoho ze tří důvodů odst. 2 a zdůvodnění přiměřenosti.
+
+**Checklist (advokát / ČNB / akreditovaná osoba):**
+- [ ] Jde o žádost akreditované osoby (obligatorní odnětí), nebo o postup z moci úřední (fakultativní)?
+- [ ] Který z důvodů odst. 2 písm. a)–c) je naplněn a čím je doložen?
+- [ ] Je porušení „závažné" nebo „opakované"? Jak je tento neurčitý pojem v rozhodnutí odůvodněn?
+- [ ] Byla zvážena mírnější opatření a vysvětleno, proč nepostačují?
+- [ ] U žádosti: byla podána elektronicky (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** kontrolní protokol ČNB, zkušební a komisní protokoly, seznamy členů komisí a doklady jejich důvěryhodnosti, vydaná osvědčení, žádost o odnětí, předchozí opatření k nápravě.
 
 ---
 
@@ -756,6 +1527,43 @@ Odnětí na žádost (odst. 1) je obligatorní. Odnětí z moci úřední (odst.
 
 Zákon konstruuje dělbu odpovědnosti: ČNB a MF připravují zkouškové otázky (garantují obsahový standard), akreditovaná osoba zkoušky pořádá a vydává osvědčení (organizační výkon). Osvědčení je veřejnou listinou dokládající splnění zákonné podmínky odborné způsobilosti. Požadavek lichého počtu členů komise (odst. 3) řeší možné hlasovací parity.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pracovník distributora pan N. složil u akreditované osoby písemnou odbornou zkoušku a obdržel osvědčení. Zaměstnavatel později zjistí, že rozsah zkoušky (uvedený v osvědčení podle odst. 6 písm. c) neodpovídá investiční službě, kterou má pan N. vykonávat (osvědčení pokrývá pouze přijímání a předávání pokynů, nikoli investiční poradenství). Současně pan N. namítá, že akreditovaná osoba neuveřejnila zkušební řád ani výši úplaty předem (odst. 4). Účastníci: pan N. (zkoušený), akreditovaná osoba (pořadatel), distributor (zaměstnavatel/povinný zajistit odbornost). Důkazy: osvědčení s uvedeným rozsahem, internetové stránky akreditované osoby (archiv), zkušební protokol, zkušební řád.
+
+**2. Právní otázka.** Jaký je důkazní a věcný význam rozsahu uvedeného v osvědčení (odst. 6 písm. c) pro to, zda je pracovník odborně způsobilý ke konkrétní investiční službě, a jaké jsou důsledky procesních pochybení akreditované osoby podle odst. 4?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14f odst. 6 (povinné náležitosti osvědčení, zejm. písm. c — rozsah zkoušky), odst. 4 (povinnost předem uveřejnit termín, kapacitu, úplatu a zkušební řád), odst. 3 (lichá a důvěryhodná komise).
+- *Související ustanovení téhož zákona:* § 14b (odborná způsobilost a její rozsah dle § 14b odst. 4), § 14 (personální zdroje), § 14g (uchovávání dokumentů — důkazní význam), § 14e (sankce vůči akreditované osobě).
+- *Související předpisy:* prováděcí vyhláška podle § 14h písm. f) a h) (standard a průběh zkoušky, zkušební řád); zákon č. 89/2012 Sb. (osvědčení jako listina, § 565 a násl. o veřejných listinách).
+- *Judikatura:* obecné závěry k důkazní síle veřejných listin (presumpce správnosti údajů ve veřejné listině, dokud není prokázán opak).
+
+**4. Subsumpce.** Rozsah uvedený v osvědčení je zákonnou náležitostí a vymezuje, pro jaké činnosti pracovník prokázal odbornost. Pokrývá-li jen přijímání/předávání pokynů, není pan N. způsobilý k poradenství — zaměstnavatel jej k poradenství nesmí nasadit (§ 14, § 14b). Pochybení podle odst. 4 (neuveřejnění zkušebního řádu a úplaty) je porušením povinností akreditované osoby; samo o sobě neplatnost osvědčení neruší, je-li zkouška obsahově řádně vykonána, může však zakládat odpovědnost akreditované osoby a v krajním případě důvod podle § 14e.
+
+**5. Řešení.** Pan N. nesmí poskytovat poradenství, dokud nesloží zkoušku v odpovídajícím rozsahu. Procesní vady podle odst. 4 řeší ČNB vůči akreditované osobě (opatření k nápravě, případně sankce). Praktické kroky: ověřit rozsah v osvědčení, doplnit zkoušku, archivovat doklady (§ 14g). Riziko: nasazení nezpůsobilého pracovníka zakládá porušení povinností distributora s rizikem sankce.
+
+**6. Varianty.** (a) Osvědčení by neobsahovalo údaj o rozsahu (porušení odst. 6 písm. c) — vznikla by pochybnost o jeho průkaznosti a nutnost opravy či nového vydání. (b) Komise by byla sudá nebo s nedůvěryhodným členem (porušení odst. 3) — zpochybnitelná by byla řádnost samotného průběhu zkoušky.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Osvědčení je platné a pan N. je tedy způsobilý ke všemu." Neutralizace: odbornost je vždy vázána na rozsah zkoušky (§ 14b odst. 4, osvědčení odst. 6 písm. c); osvědčení neprokazuje více, než co zkouška pokryla.
+- *Protiargument:* „Neuveřejnění zkušebního řádu je formalita bez následků." Neutralizace: odst. 4 je výslovná zákonná povinnost; její porušení zakládá odpovědnost akreditované osoby a podlamuje transparentnost zkoušky.
+- *Slabé místo:* hranice mezi pouhou procesní vadou (bez vlivu na platnost osvědčení) a vadou zpochybňující obsahovou řádnost zkoušky je neostrá; nutno posuzovat dopad vady na výsledek.
+
+#### H. Praktický závěr
+
+Osvědčení je veřejnou listinou prokazující odbornost v rozsahu, který je v něm uveden. Akreditovaná osoba musí dodržet transparenční povinnosti odst. 4 a personální požadavky odst. 3; ČNB a MF garantují obsah otázek.
+
+**Checklist (distributor / akreditovaná osoba / ČNB):**
+- [ ] Obsahuje osvědčení všechny náležitosti odst. 6 písm. a)–f)?
+- [ ] Odpovídá rozsah zkoušky (písm. c) investiční službě, kterou má pracovník vykonávat?
+- [ ] Byly předem uveřejněny termín, kapacita, úplata a zkušební řád (odst. 4)?
+- [ ] Měla komise lichý počet důvěryhodných členů (odst. 3)?
+- [ ] Byl zkoušený bez zbytečného odkladu informován o výsledku a vydáno osvědčení (odst. 5–6)?
+
+**Typicky rozhodné důkazy / podklady:** osvědčení o vykonání zkoušky, zkušební protokol, archiv internetových stránek akreditované osoby, zkušební řád, seznam členů komise a doklady jejich důvěryhodnosti.
+
 ---
 
 ### § 14g — Uchovávání dokumentů
@@ -773,6 +1581,42 @@ Zákon konstruuje dělbu odpovědnosti: ČNB a MF připravují zkouškové otáz
 **Výklad:**
 
 Desetiletá archivační lhůta odpovídá obecné praxi pro regulatorní evidence. Klíčové je, že povinnost uchovávat dokumenty přetrvává i po odnětí nebo zániku akreditace a zákon ji přenáší na právního nástupce, insolvenčního správce i likvidátora.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Akreditovaná osoba B, a. s., která pořádala odborné zkoušky, vstoupí do likvidace; krátce poté je na ni prohlášen konkurs. Sedm let po jejím posledním zkušebním termínu vznikne spor o platnost osvědčení jednoho z absolventů (zákazník namítá, že poradce nebyl odborně způsobilý). ČNB i soud potřebují zkušební protokol a záznam o vydaném osvědčení. Insolvenční správce tvrdí, že dokumenty „nepřevzal" a nemá povinnost je uchovávat. Účastníci: insolvenční správce B, a. s., ČNB, dotčený absolvent/poradce, poškozený zákazník. Důkazy: spisová dokumentace zkoušek, předávací protokoly, evidence vydaných osvědčení.
+
+**2. Právní otázka.** Stíhá insolvenčního správce (a likvidátora) zákonná povinnost uchovávat dokumenty o zkouškách po zbytek desetileté lhůty i tehdy, vstoupila-li akreditovaná osoba do likvidace či konkursu, a jaké jsou důsledky jejich ztráty?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14g odst. 1 a 2 — desetiletá lhůta a její přechod na právního nástupce, insolvenčního správce a likvidátora.
+- *Související ustanovení téhož zákona:* § 14f (dokumenty vznikající při zkoušce), § 14e (odnětí akreditace), § 14d (zánik akreditace).
+- *Související předpisy:* zákon č. 182/2006 Sb., insolvenční zákon (povinnosti insolvenčního správce, nakládání s dokumentací dlužníka); zákon č. 89/2012 Sb. (likvidace, § 187 a násl.); zákon č. 499/2004 Sb., o archivnictví (pro souběžné archivační režimy).
+- *Judikatura:* obecné závěry k odpovědnosti insolvenčního správce za řádný výkon funkce a za škodu z porušení povinností (§ 37 IZ).
+
+**4. Subsumpce.** § 14g odst. 2 výslovně rozšiřuje okruh povinných osob na insolvenčního správce a likvidátora („to platí i pro…"). Povinnost tedy přechází ze zákona, bez ohledu na to, zda správce dokumenty fakticky „převzal" — je povinen je zajistit. Ztráta dokumentů v desetileté lhůtě je porušením zákonné povinnosti.
+
+**5. Řešení.** Insolvenční správce je povinen dokumenty po zbytek lhůty uchovávat a poskytnout je ČNB i soudu. Tvrzení o nepřevzetí jej nezbavuje povinnosti, je-li dokumentace dohledatelná v majetkové podstatě nebo u dlužníka. Pravděpodobný výsledek: správce odpovídá za zpřístupnění; při zaviněné ztrátě hrozí odpovědnost za škodu. Kroky: zajistit a inventarizovat dokumentaci hned na počátku insolvence/likvidace, vést ji odděleně.
+
+**6. Varianty.** (a) Lhůta 10 let by již uplynula — povinnost by zanikla, neexistence dokumentů by nebyla porušením. (b) Akreditace by nezanikla a osoba dále fungovala — povinnost by stíhala přímo ji, nikoli správce/likvidátora.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Insolvenční správce odpovídá jen za majetkovou podstatu, nikoli za veřejnoprávní archivační povinnosti dlužníka." Neutralizace: § 14g odst. 2 zvláštním ustanovením výslovně přenáší povinnost i na insolvenčního správce; jde o lex specialis.
+- *Protiargument:* „Lhůta běží od konání zkoušky, takže u starých zkoušek už nic uchovávat netřeba." Neutralizace: nutno přesně určit datum každého termínu; lhůta se počítá ke každé zkoušce zvlášť (odst. 2: „ode dne konání odborné zkoušky, jíž se dokumenty týkají").
+- *Slabé místo:* praktická dohledatelnost dokumentů po zániku osoby; chybějící předávací protokoly komplikují prokázání, kdo dokumentaci drží.
+
+#### H. Praktický závěr
+
+Dokumenty o zkouškách se uchovávají nejméně 10 let od konání každé zkoušky. Povinnost nezaniká odnětím ani zánikem akreditace a přechází na právního nástupce, insolvenčního správce a likvidátora.
+
+**Checklist (akreditovaná osoba / insolvenční správce / likvidátor / ČNB):**
+- [ ] Jsou uchovávány záznamy o průběhu a výsledcích zkoušek a o vydaných osvědčeních (odst. 1)?
+- [ ] Je u každého termínu zjištěn počátek běhu 10leté lhůty (datum zkoušky)?
+- [ ] Zaniká/zanikla akreditace? Kdo je nyní nositelem povinnosti (nástupce, správce, likvidátor)?
+- [ ] Byla dokumentace při zániku osoby inventarizována a zajištěna?
+
+**Typicky rozhodné důkazy / podklady:** zkušební a komisní protokoly, evidence vydaných osvědčení, předávací protokoly, doklady o datu konání zkoušek, insolvenční/likvidační spis.
 
 ---
 
@@ -801,6 +1645,42 @@ Desetiletá archivační lhůta odpovídá obecné praxi pro regulatorní eviden
 **Výklad:**
 
 § 14h je souhrnná delegační norma pro prováděcí vyhlášku k celému systému odbornosti (§§ 14b–14f). Rozsah delegace je věcně vymezen — prováděcí předpis nesmí rozšiřovat nebo zužovat zákonné podmínky odborné způsobilosti, pouze je technicky rozvést.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Prováděcí vyhláška vydaná na základě § 14h písm. a) vymezí rozsah odborných znalostí a dovedností (§ 14b odst. 4) tak, že fakticky zavede novou samostatnou „kategorii" odbornosti pro komplexní deriváty, kterou zákon výslovně nezná, a podmíní jí poskytování běžných služeb. Distributor, jehož pracovníci mají osvědčení podle dosavadního rozsahu, namítá, že vyhláška překročila zákonné zmocnění a fakticky zpřísnila zákonné podmínky odbornosti nad rámec § 14b. Účastníci: ČNB (tvůrce vyhlášky), distributor, případně soud v incidenčním přezkumu. Důkazy: text vyhlášky a zákona, důvodová zpráva, zmocňovací ustanovení.
+
+**2. Právní otázka.** Drží se prováděcí vyhláška mezí zákonného zmocnění podle § 14h, nebo jde nad rámec zákona (secundum et intra legem), a lze ji proto v konkrétní věci neaplikovat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14h písm. a)–h) — taxativní výčet otázek svěřených prováděcímu předpisu.
+- *Související ustanovení téhož zákona:* § 14b (odborná způsobilost), § 14c, § 14d, § 14e, § 14f — věcné rámce, které vyhláška jen rozvádí.
+- *Související předpisy:* čl. 79 odst. 3 Ústavy (ministerstva a jiné správní úřady mohou vydávat právní předpisy jen na základě a v mezích zákona); zákon č. 6/1993 Sb., o ČNB (zmocnění k vydávání vyhlášek).
+- *Judikatura:* ustálená judikatura Ústavního soudu k zásadě, že podzákonný předpis nesmí stanovit primární práva a povinnosti nad rámec zákona, nýbrž jen provádět zákonem vymezené meze; soud podzákonný předpis v rozporu se zákonem neaplikuje (čl. 95 odst. 1 Ústavy).
+
+**4. Subsumpce.** § 14h svěřuje vyhlášce pouze technické rozvedení („rozsah", „minimální rozsah požadavků", „podrobnosti náležitostí", „formáty"). Zavede-li vyhláška novou kvalifikační podmínku, kterou zákon nepředvídá, překračuje slovo „rozsah" v písm. a) a koliduje s čl. 79 odst. 3 Ústavy. Naopak pouhé upřesnění tematických okruhů by v mezích zmocnění zůstalo.
+
+**5. Řešení.** Soud i správní orgán jsou povinni posoudit soulad vyhlášky se zákonem; shledá-li soud exces, vyhlášku v dané věci neaplikuje (čl. 95 odst. 1). Pravděpodobný výsledek závisí na tom, zda jde o pouhé zpřesnění (vyhláška obstojí), nebo o novou povinnost (neaplikace). Kroky: argumentačně oddělit „technické rozvedení" od „nové primární povinnosti".
+
+**6. Varianty.** (a) Vyhláška by jen rozčlenila existující okruh znalostí do tematických modulů bez nové podmínky — zůstala by v mezích zmocnění. (b) Zákonodárce by mezitím § 14b sám rozšířil — vyhláška by pak měla oporu přímo v zákoně.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Slovo ‚rozsah' v § 14h písm. a) je dost široké, aby pokrylo i novou kategorii odbornosti." Neutralizace: ‚rozsah znalostí' znamená šíři/hloubku v rámci zákonem daného institutu, nikoli vytvoření nové zákonné podmínky; opačný výklad by obešel čl. 79 odst. 3 Ústavy.
+- *Protiargument:* „Přezkum podzákonného předpisu nepřísluší obecnému soudu." Neutralizace: čl. 95 odst. 1 Ústavy zakládá pravomoc soudu posoudit soulad jiného právního předpisu se zákonem a v dané věci jej neaplikovat.
+- *Slabé místo:* hranice mezi přípustným „technickým rozvedením" a nepřípustným „rozšířením" je hodnotová a v konkrétním případě sporná; vyžaduje pečlivou textovou a teleologickou analýzu.
+
+#### H. Praktický závěr
+
+§ 14h je delegační (zmocňovací) normou; prováděcí vyhláška smí věcně vymezené okruhy (§§ 14b–14f) jen technicky rozvést, nikoli zpřísnit či rozšířit zákonné podmínky odbornosti.
+
+**Checklist (ČNB / distributor / soud):**
+- [ ] Pohybuje se konkrétní ustanovení vyhlášky v mezích některého z písm. a)–h) § 14h?
+- [ ] Nestanoví vyhláška novou primární povinnost nad rámec zákona (čl. 79 odst. 3 Ústavy)?
+- [ ] Jde o pouhé technické/formátové rozvedení, nebo o věcné zpřísnění?
+- [ ] Lze v případě excesu vyhlášku v dané věci neaplikovat (čl. 95 odst. 1 Ústavy)?
+
+**Typicky rozhodné důkazy / podklady:** text vyhlášky a zmocňovacího ustanovení, důvodová zpráva, srovnání se zákonným zněním §§ 14b–14f.
 
 ---
 
@@ -882,6 +1762,43 @@ Pobídky (*inducements*) jsou jednou z nejcitlivějších oblastí regulace cond
 
 Zákon neříká, co se musí stát s nepřijatelnými pobídkami při nezávislém poradenství nebo správě portfolia — ale čl. 24 odst. 8 MiFID II a čl. 11 nařízení 2017/565 ukládají tyto pobídky plně přenést zákazníkovi (pass-through).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník O poskytuje neprofesionálnímu zákazníkovi panu K. službu provádění pokynů na jeho účet. Účet je veden s diskreční „radou", obchodník generuje vysoký počet obchodů (stovky transakcí ročně) s nevýrazným zhodnocením, přičemž inkasuje poplatky za každý obchod. Pan K. po roce zjistí, že portfolio fakticky stagnovalo, zatímco na poplatcích zaplatil neúměrně mnoho. Současně obchodník přijímal od emitentů provize za umístění jejich produktů, aniž by to zlepšovalo kvalitu služby. Účastníci: pan K. (zákazník), obchodník O, ČNB (dohled). Důkazy: výpisy obchodů a poplatků, frekvenční analýza (turnover ratio, cost-to-equity), korespondence, dohody o provizích, nahrávky.
+
+**2. Právní otázka.** Porušil obchodník povinnost jednat s odbornou péčí a v nejlepším zájmu zákazníka (§ 15 odst. 1) nadměrným obchodováním (churning) a přijetím provizí, jež nesplňují podmínky přípustné pobídky (§ 15 odst. 3 a 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15 odst. 1 (odborná péče, jednání čestně, spravedlivě a v nejlepším zájmu zákazníka), odst. 3–4 (zákaz a podmínky přípustnosti pobídek), odst. 5 (zpřísnění u nezávislého poradenství a správy portfolia).
+- *Související ustanovení téhož zákona:* § 11a (řízení střetu zájmů), § 15c odst. 3 (zákaz pobídkových schémat vedoucích k nevhodným doporučením), § 15h–15i (testy vhodnosti/přiměřenosti), § 15e (informace o pobídkách).
+- *Související předpisy:* čl. 24 MiFID II; nařízení 2017/565, zejm. čl. 58, 64, 65 a 67–69 (zde výslovně odkázané v odst. 8), čl. 11–13 (pobídky); zákon č. 89/2012 Sb. (náhrada škody).
+- *Judikatura:* *NSS* 3 Afs 168/2016-163 (10. 4. 2018) — kontrola nad účtem může být i nepřímá; nadměrné obchodování, jehož cílem není nejlepší zájem zákazníka, nýbrž generování poplatků obchodníka, je porušením povinnosti jednat v nejlepším zájmu zákazníka (churning).
+
+**4. Subsumpce.** Vysoký turnover bez ekonomického přínosu pro zákazníka naplňuje znaky churningu ve smyslu citovaného závěru NSS — zisk plyne z počtu obchodů (poplatků), nikoli ze ziskovosti pro zákazníka; to je porušení odst. 1 (nejlepší zájem). Přijaté provize od emitentů jsou pobídkou podle odst. 3; přípustné by byly jen při zlepšení kvality služby a souladu s odst. 1 (odst. 4 písm. a) — což zde naplněno není. Sporné může být subjektivní zavinění a hranice „nadměrnosti", již nutno doložit kvantitativně.
+
+**5. Řešení.** Jednání obchodníka je v rozporu s § 15. ČNB může uložit sankci a opatření k nápravě; zákazník může uplatnit nárok na náhradu škody (rozdíl mezi skutečným a hypotetickým vývojem bez churningu, popř. neoprávněné poplatky). Pravděpodobný výsledek: při doložení frekvenční analýzy a absence přínosu obchodník odpovídá. Kroky: znalecké/expertní vyčíslení turnover ratio a cost-to-equity, prokázání (i nepřímé) kontroly nad účtem.
+
+**6. Varianty.** (a) Obchody by inicioval výlučně sám poučený zákazník (execution-only) na základě vlastních pokynů a obchodník nad účtem neměl kontrolu — churning by se prokazoval obtížně. (b) Provize by byla doložitelně spojena s reálným zlepšením služby (např. přístup k prémiové analytice využité ve prospěch zákazníka) a byla by transparentně sdělena (§ 15e) — mohla by být přípustná podle odst. 4 písm. a).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Každý obchod provedl na pokyn zákazníka, tedy v jeho zájmu." Neutralizace: dle NSS může být kontrola nad účtem nepřímá; rozhodující je, zda objem obchodování generoval zisk obchodníka bez odpovídajícího zájmu zákazníka, nikoli formální existence pokynů.
+- *Protiargument:* „Provize zlepšovaly kvalitu, jsou tedy přípustné (odst. 4 písm. a)." Neutralizace: zlepšení kvality musí obchodník prokázat (odst. 7 písm. c a čl. 11 nařízení 2017/565); pouhé tvrzení nestačí a pobídka nesmí kolidovat s odst. 1.
+- *Slabé místo:* „nadměrnost" je neurčitý pojem vyžadující kvantitativní důkaz (turnover ratio, break-even); bez expertního vyčíslení je závěr o churningu zranitelný.
+
+#### H. Praktický závěr
+
+§ 15 odst. 1 je generální klauzulí conduct of business (odborná péče + nejlepší zájem zákazníka). Pobídky jsou zásadně zakázány (odst. 3) a přípustné jen za podmínek odst. 4; u nezávislého poradenství a správy portfolia platí zpřísnění (odst. 5). Nadměrné obchodování ve prospěch poplatků obchodníka je porušením tohoto standardu.
+
+**Checklist (advokát / soud / ČNB / obchodník):**
+- [ ] Jednal obchodník kvalifikovaně, čestně, spravedlivě a v nejlepším zájmu zákazníka (odst. 1)?
+- [ ] Nejde o churning? Jaký je turnover ratio / cost-to-equity a měl obchodník (byť nepřímou) kontrolu nad účtem?
+- [ ] Jde o pobídku (odst. 3)? Splňuje podmínky přípustnosti (odst. 4 písm. a/b) a je prokázáno zlepšení kvality?
+- [ ] Jde o nezávislé poradenství (§ 4 odst. 2 písm. e) nebo správu portfolia (písm. d)? Pak platí zákaz ponechání pobídek (odst. 5) a pass-through.
+- [ ] Týká se věc inter-dealer obchodu na RM/MTF (výjimka odst. 2), nebo OTF (povinnosti se uplatní)?
+
+**Typicky rozhodné důkazy / podklady:** výpisy obchodů a poplatků, frekvenční a nákladová analýza portfolia, dohody o pobídkách/provizích, předsmluvní informace o pobídkách (§ 15e), nahrávky a korespondence, smlouva o investiční službě.
+
 ---
 
 ### § 15a — Komunikace se zákazníky
@@ -917,6 +1834,43 @@ Odst. 2 zavádí zákaznicky orientovaný standard srozumitelnosti: měřítkem 
 
 Záznamy telefonních hovorů (tzv. call recording) jsou povinnou součástí systému archivace podle čl. 76 nařízení 2017/565. Zákon podmíní zákonnost záznamu předchozím upozorněním zákazníka (odst. 3) a výslovně zakazuje poskytnout telefonicky službu zákazníkovi, který nebyl upozorněn (odst. 4). Zákazník má právo na vydání záznamů týkajících se jeho osoby (odst. 5) — toto právo doplňuje právo zákazníka na přístup k osobním údajům podle GDPR.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník rozeslal e-mailem „investiční výhled", graficky i obsahově koncipovaný jako nezávislá analýza, avšak fakticky propagující jediný strukturovaný produkt, který sám distribuuje; dokument neobsahoval žádné označení, že jde o propagační sdělení, ani upozornění na rizika produktu. Neprofesionální zákazník paní L. následně telefonicky zadala pokyn k nákupu, aniž byla na začátku hovoru upozorněna, že hovor je zaznamenáván. Účastníci: paní L. (zákaznice), obchodník, ČNB. Důkazy: rozeslaný dokument, e-mailová hlavička, záznam hovoru (existuje-li), interní pravidla pro propagaci, doklad o upozornění podle odst. 3.
+
+**2. Právní otázka.** Porušil obchodník odst. 1 tím, že propagační sdělení neoznačil a koncipoval je zavádějícím způsobem, a směl telefonicky přijmout pokyn, aniž zákazníka předem upozornil na nahrávání (odst. 3 a 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15a odst. 1 (zákaz nejasných, nepravdivých, zavádějících a klamavých informací; povinné označení propagačního sdělení), odst. 2 (srozumitelnost), odst. 3–4 (upozornění na nahrávání a zákaz telefonické služby bez upozornění), odst. 5 (právo na vydání záznamů).
+- *Související ustanovení téhož zákona:* § 15 (nejlepší zájem), § 15d a § 15e odst. 1–2 (informace, na něž odkazuje odst. 2), § 17 odst. 2–5 (záznamy), § 15c (povinnost rozumět a posoudit cílový trh).
+- *Související předpisy:* čl. 44 nařízení 2017/565 (požadavky na informace; výslovně odkázán v odst. 6), čl. 76 (uchovávání záznamů hovorů); nařízení (EU) 2016/679 (GDPR) — právo na přístup; zákon č. 89/2012 Sb. (klamavá jednání).
+- *Judikatura:* *NS* 23 Cdo 3695/2013 (kat. A, 27. 10. 2015) — nedohodne-li si zákazník zvláštní povinnost informovat jej o vývoji trhu, neodpovídá zprostředkovatel za ztrátu z prodeje; rozsah informační povinnosti je dán zákonem a smlouvou.
+
+**4. Subsumpce.** Dokument formálně analytický, fakticky reklamní a bez označení propagační povahy porušuje odst. 1 větu druhou; zavádějící prezentace jediného produktu jako „výhledu" naplňuje znak zavádějící/klamavé informace. Telefonické přijetí pokynu bez předchozího upozornění na nahrávání porušuje odst. 4 (zákaz poskytnout službu) a odst. 3 (povinnost upozornit). Sporné může být, zda šlo o „propagační sdělení" — to se posoudí podle obsahu a účelu, nikoli podle nadpisu.
+
+**5. Řešení.** Jednání je v rozporu s § 15a odst. 1 a odst. 3–4. ČNB může uložit sankci a opatření k nápravě. Praktické kroky: zavést povinné označení propagačních sdělení, automatické úvodní upozornění na nahrávání u všech příchozích/odchozích hovorů, blokaci přijetí telefonického pokynu bez doloženého upozornění. Riziko: bez záznamu o upozornění nelze prokázat splnění odst. 3.
+
+**6. Varianty.** (a) Dokument by byl zřetelně označen „Reklama / propagační sdělení" a obsahoval vyvážená upozornění na rizika — odst. 1 by porušen nebyl. (b) Hovor by se týkal pouze obecných dotazů bez přijetí/předání/provedení pokynu — zákaz odst. 4 by se neaplikoval (váže se na pokynové služby).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Šlo o analýzu, ne o reklamu, povinnost označení se neuplatní." Neutralizace: kvalifikace propagačního sdělení je materiální; rozhoduje účel (podpora prodeje konkrétního produktu) a obsah, nikoli formální označení dokumentu.
+- *Protiargument:* „Zákaznice se nahráváním nezabývala, vada je formální." Neutralizace: odst. 4 zakazuje poskytnout telefonicky pokynovou službu bez předchozího upozornění bezpodmínečně; jde o tvrdé pravidlo, jehož porušení nelze zhojit nezájmem zákazníka.
+- *Slabé místo:* prokázání zavádějivosti vyžaduje posouzení celkového dojmu dokumentu vůči neprofesionálnímu zákazníkovi; hranice mezi informováním a propagací bývá sporná.
+
+#### H. Praktický závěr
+
+Komunikace nesmí být nejasná, nepravdivá, zavádějící či klamavá; propagační sdělení musí být jako takové zřetelně označeno (odst. 1). Telefonickou pokynovou službu nelze poskytnout bez předchozího upozornění na nahrávání (odst. 3–4); zákazník má právo na své záznamy (odst. 5).
+
+**Checklist (obchodník / advokát / ČNB):**
+- [ ] Je sdělení vůči neprofesionálnímu zákazníkovi srozumitelné a neobsahuje zavádějící/klamavé prvky (odst. 1–2)?
+- [ ] Je propagační sdělení zřetelně označeno jako propagační?
+- [ ] Byl zákazník alespoň jednou předem upozorněn na nahrávání telefonických hovorů (odst. 3)?
+- [ ] Není telefonicky poskytována pokynová služba zákazníkovi bez tohoto upozornění (odst. 4)?
+- [ ] Je zajištěno vydání záznamů zákazníkovi na jeho žádost (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** propagační/analytické dokumenty a jejich rozesílka, doklad a záznam o úvodním upozornění na nahrávání, nahrávky hovorů (§ 17), interní pravidla pro marketing, žádost zákazníka o vydání záznamů.
+
 ---
 
 ### § 15b — Povinnosti při vytváření investičního nástroje
@@ -940,6 +1894,43 @@ Záznamy telefonních hovorů (tzv. call recording) jsou povinnou součástí sy
 **Výklad:**
 
 § 15b přenáší pravidla product governance z organizační roviny (§ 12ba) do roviny individuálního zákaznického vztahu. Zatímco § 12ba stanoví organizační povinnost zavést postupy, § 15b formuluje substantivní povinnost: nástroj musí být vytvořen způsobem odpovídajícím potřebám cílového trhu a jeho distribuce musí respektovat cílový trh. Odkaz na § 2a až 2d (kategorizace zákazníků) zakotví, že cílový trh musí být vymezen s ohledem na kategorie zákazníků vymezené zákonem. Výjimky (odst. 4) jsou totožné jako u § 12ba odst. 7.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník-tvůrce vytvoří složitý strukturovaný certifikát s pákovým efektem a vloženým derivátem. Cílový trh vymezí jako „retailoví zákazníci s vysokou tolerancí k riziku a krátkým horizontem", avšak distribuční strategii nastaví na plošný online prodej neprofesionálním zákazníkům bez filtru a marketing cílí na konzervativní spořitele. Část certifikátů skončí v portfoliích zákazníků mimo cílový trh. Účastníci: obchodník-tvůrce, distributoři, neprofesionální zákazníci, ČNB. Důkazy: dokumentace cílového trhu, distribuční strategie, marketingové materiály, statistika prodejů podle profilu zákazníků.
+
+**2. Právní otázka.** Splnil tvůrce povinnost vytvořit nástroj odpovídající potřebám cílového trhu a zajistit, aby distribuční strategie a kroky distribuce odpovídaly cílovému trhu (§ 15b odst. 1–3), nebo jde o porušení product governance?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15b odst. 1 (vytvoření nástroje dle potřeb cílového trhu), odst. 2 (strategie nabízení odpovídající cílovému trhu), odst. 3 (přiměřené kroky k nabízení cílovému trhu), odst. 4 (výjimky).
+- *Související ustanovení téhož zákona:* § 12ba odst. 3 písm. a) (určení cílového trhu — výslovně odkazováno), § 12bb (povinnosti distributora nevytvářejícího nástroj), § 2a–2d (kategorizace), § 15c (posouzení cílového trhu ve vztahu k zákazníkovi).
+- *Související předpisy:* čl. 16 odst. 3 a čl. 24 odst. 2 MiFID II; směrnice Komise 2017/593 (product governance); nařízení 2017/565.
+- *Judikatura:* judikatura k product governance je dosud sporá; využitelné jsou obecné závěry o povinnosti jednat v nejlepším zájmu zákazníka (§ 15) a o odpovědnosti za distribuci nevhodných produktů.
+
+**4. Subsumpce.** Vymezení cílového trhu samo o sobě neporušuje odst. 1, je-li produkt konstrukčně určen rizikovějšímu retailu. Porušení nastává u odst. 2 a 3: distribuční strategie (plošný online prodej, marketing na konzervativní spořitele) neodpovídá deklarovanému cílovému trhu, a tvůrce neučinil přiměřené kroky, aby produkt směřoval ke správnému cílovému trhu. Naplnění výjimek odst. 4 (jen způsobilé protistrany apod.) zde nepřichází v úvahu.
+
+**5. Řešení.** Tvůrce porušil odst. 2 a 3. ČNB může uložit opatření k nápravě (úprava distribuční strategie, stažení nevhodného marketingu, revize prodejů) i sankci. Praktické kroky: sladit distribuční strategii s cílovým trhem, nastavit prodejní filtry, monitorovat skutečný profil kupujících (negativní cílový trh). Riziko: odpovědnost tvůrce i distributorů za prodeje mimo cílový trh.
+
+**6. Varianty.** (a) Produkt by byl nabízen pouze způsobilým protistranám (odst. 4 písm. a) — povinnosti odst. 1–3 by se neuplatnily. (b) Šlo by o prostý investiční cenný papír bez vloženého derivátu (odst. 4 písm. b) — rovněž mimo režim § 15b.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Cílový trh byl vymezen správně, za faktický prodej odpovídají distributoři (§ 12bb), ne tvůrce." Neutralizace: odst. 2 a 3 ukládají tvůrci povinnost nastavit strategii a učinit přiměřené kroky k nabízení cílovému trhu; odpovědnost tvůrce a distributora se nevylučují, nýbrž doplňují.
+- *Protiargument:* „Přiměřené kroky‘ jsou splněny předáním informací distributorům." Neutralizace: ‚veškeré přiměřené kroky‘ (odst. 3) zahrnují i monitoring a korekci distribuce, neodpovídá-li skutečný odbyt cílovému trhu.
+- *Slabé místo:* obsah pojmu „přiměřené kroky" je neostrý a judikatorně málo vyjasněný; rozsah povinnosti tvůrce vůči nezávislým distributorům je sporný.
+
+#### H. Praktický závěr
+
+Tvůrce nástroje musí (i) konstruovat produkt podle potřeb cílového trhu, (ii) nastavit distribuční strategii odpovídající cílovému trhu a (iii) učinit veškeré přiměřené kroky, aby produkt směřoval k tomuto trhu. Mimo režim stojí produkty pro způsobilé protistrany a jednoduché nederivátové cenné papíry (odst. 4).
+
+**Checklist (tvůrce / distributor / ČNB):**
+- [ ] Je cílový trh určen podle § 12ba odst. 3 písm. a) s ohledem na kategorie § 2a–2d?
+- [ ] Odpovídá konstrukce nástroje potřebám cílového trhu (odst. 1)?
+- [ ] Odpovídá distribuční strategie cílovému trhu (odst. 2)?
+- [ ] Byly učiněny veškeré přiměřené kroky k nabízení cílovému trhu, včetně monitoringu (odst. 3)?
+- [ ] Nejde o výjimku podle odst. 4 (způsobilé protistrany / nederivátový cenný papír / depozitní poukázka)?
+
+**Typicky rozhodné důkazy / podklady:** dokumentace cílového trhu, distribuční strategie a její sladění, marketingové materiály, statistika prodejů podle profilu zákazníků, komunikace tvůrce s distributory.
 
 ---
 
@@ -981,6 +1972,43 @@ Odst. 3 zakazuje systémy odměňování, které pracovníka nebo vázaného zá
 
 Informuje-li obchodník zákazníka o nezávislosti, musí posoudit dostatečně široký a různorodý výběr produktů. Zákon zavádí negativní vymezení (odst. 5): obchodník nesmí omezit posuzování na produkty vlastní nebo od spřízněných osob. Tím je zachycen typický střet zájmů — preferování vlastních produktů nebo produktů poskytovatelů provizí.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník O deklaruje zákazníkům, že investiční poradenství poskytuje **nezávisle** (§ 4 odst. 2 písm. e). Současně má interní motivační systém s měsíčními prodejními cíli a bonusy navázanými na objem prodeje fondů spravovaných sesterskou společností téhož finančního holdingu; poradci pravidelně doporučují právě tyto fondy, ač na trhu existují srovnatelné levnější alternativy jiných emitentů. Účastníci: obchodník O, jeho poradci/vázaní zástupci, neprofesionální zákazníci, ČNB. Důkazy: deklarace nezávislosti, bonusový/HR předpis, prodejní cíle, statistika doporučení podle emitentů, srovnání produktů a nákladů.
+
+**2. Právní otázka.** Je deklarovaná nezávislost poradenství slučitelná s odměňováním vázaným na prodej spřízněných produktů (§ 15c odst. 3) a se zúžením posuzovaných produktů na spřízněné osoby (§ 15c odst. 4–5)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15c odst. 1 (rozumět produktu), odst. 2 (soulad s cílovým trhem), odst. 3 (zákaz odměňování motivujícího k nevhodným doporučením, výslovně i prodejní cíle), odst. 4–5 (povinnost a meze nezávislého poradenství — zákaz omezení na vlastní/spřízněné produkty).
+- *Související ustanovení téhož zákona:* § 15 odst. 1 a 5 (nejlepší zájem, zákaz pobídek u nezávislého poradenství), § 11a (střet zájmů), § 15d odst. 5 (informace o nezávislosti), § 12ba odst. 3 písm. a) (cílový trh), § 14b (odborná způsobilost).
+- *Související předpisy:* čl. 24 odst. 4 a 7 MiFID II; čl. 27 nařízení 2017/565 (odměňování — odkázán v odst. 6), čl. 53 (posouzení dle odst. 4 — odkázán v odst. 6).
+- *Judikatura:* obecné závěry k povinnosti jednat v nejlepším zájmu zákazníka a k řízení střetu zájmů; navazuje na linii NSS k preferenci vlastního prospěchu obchodníka na úkor zákazníka.
+
+**4. Subsumpce.** Prodejní cíle a bonusy navázané na objem prodeje spřízněných fondů jsou přesně tím typem ujednání, které odst. 3 výslovně zapovídá (motivace doporučit určitý nástroj, ač jiný by lépe vyhovoval cílovému trhu). Deklarace nezávislosti přitom aktivuje odst. 4–5: omezení reálně posuzovaných produktů na spřízněné emitenty (odst. 5 písm. b) je porušením povinnosti posoudit dostatečně různorodý výběr. Sporné může být, zda fakticky šlo o „omezení" — nutno doložit statistikou doporučení.
+
+**5. Řešení.** Jednání porušuje odst. 3 a odst. 4–5; deklarovaná nezávislost je neudržitelná. ČNB může uložit opatření k nápravě (zrušení kolidujících prodejních cílů, rozšíření produktové nabídky, případně zákaz označovat poradenství jako nezávislé) i sankci. Kroky: oddělit odměňování od prodeje konkrétních produktů, doložit šíři a různorodost posuzovaných nástrojů, revidovat doporučení. Riziko: souběžné porušení § 15 odst. 5 (pobídky u nezávislého poradenství) a § 11a.
+
+**6. Varianty.** (a) Obchodník by poradenství výslovně neoznačoval jako nezávislé — odst. 4–5 by se neuplatnily, avšak odst. 3 (zákaz pobídkových schémat) a § 15 by platily dál. (b) Bonusy by byly navázány na kvalitu poradenství a spokojenost zákazníků, nikoli na objem prodeje konkrétních produktů — odst. 3 by porušen nebyl.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Doporučované fondy byly objektivně kvalitní, doporučení tedy bylo v zájmu zákazníka." Neutralizace: odst. 3 zakazuje samotnou strukturu pobídek motivující k preferenci určitého produktu; existence lepší/levnější alternativy pro cílový trh postačuje k porušení bez ohledu na absolutní kvalitu doporučeného produktu.
+- *Protiargument:* „Posoudili jsme i cizí produkty, jen jsme nakonec doporučili vlastní." Neutralizace: odst. 5 vyžaduje reálné, nikoli formální posouzení dostatečně různorodého výběru; rozhodující je doložitelná šíře skutečně zvažovaných nástrojů.
+- *Slabé místo:* prokázání kauzality mezi bonusovým schématem a konkrétními doporučeními vyžaduje data o struktuře doporučení; bez nich je závěr o porušení odst. 3 oslabený.
+
+#### H. Praktický závěr
+
+Obchodník musí produktu rozumět (odst. 1) a posoudit jeho soulad s cílovým trhem zákazníka (odst. 2). Odměňování pracovníků a vázaných zástupců nesmí motivovat k nevhodným doporučením; prodejní cíle jsou výslovně nepřípustné (odst. 3). Deklaruje-li obchodník nezávislost, musí posoudit dostatečně různorodou nabídku a nesmí ji zúžit na vlastní/spřízněné produkty (odst. 4–5).
+
+**Checklist (obchodník / advokát / ČNB):**
+- [ ] Rozumí poradce nabízenému/doporučovanému produktu (odst. 1) a posoudil soulad s cílovým trhem (odst. 2)?
+- [ ] Neobsahuje systém odměňování prodejní cíle či bonusy motivující k nevhodným doporučením (odst. 3)?
+- [ ] Je poradenství deklarováno jako nezávislé? Pokud ano, byl posouzen dostatečně různorodý výběr produktů (odst. 4)?
+- [ ] Není posuzování omezeno na vlastní nebo spřízněné produkty (odst. 5)?
+- [ ] Není souběžně porušen zákaz pobídek u nezávislého poradenství (§ 15 odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** deklarace nezávislosti, HR/bonusové a prodejní cíle, statistika doporučení podle emitentů, srovnání produktů a nákladů, dokumentace posouzení nabídky, záznamy poradenských schůzek.
+
 ---
 
 ### § 15ca — Výzkum ve vztahu ke společnostem s malou a střední tržní kapitalizací
@@ -1010,6 +2038,43 @@ Informuje-li obchodník zákazníka o nezávislosti, musí posoudit dostatečně
 **Výklad:**
 
 § 15ca zavádí výjimku z unbundlingu (oddělení poplatků za výzkum od poplatků za provedení pokynů), a to výhradně pro výzkum týkající se emitentů s tržní kapitalizací pod 1 mld. EUR. Výjimka reaguje na kritiku, že MiFID II unbundling poškodil dostupnost výzkumu pro menší emitenty. Podmínky přípustnosti jsou tři: (i) předchozí dohoda s poskytovatelem o alokaci úplaty, (ii) informování zákazníků o společné úplatě, (iii) prahová hranice tržní kapitalizace. Zákon pamatuje na nelistované emitenty a nahrazuje tržní kapitalizaci hodnotou vlastního kapitálu (odst. 2).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník O hradí brokerovi společnou úplatu zahrnující jak provedení pokynů, tak analytický výzkum. Výzkum se týká zčásti emitentů s tržní kapitalizací kolem 800 mil. EUR a zčásti emitenta s kapitalizací 1,4 mld. EUR. O s brokerem neuzavřel předem dohodu o tom, jaká část úplaty připadá na výzkum, a zákazníky o společné úplatě neinformoval. Při kontrole ČNB posuzuje, zda byl výzkum přijat v souladu se zákazem pobídek. Účastníci: obchodník O, broker (poskytovatel výzkumu), zákazníci, ČNB. Důkazy: smlouva s brokerem, faktury za společnou úplatu, údaje o tržní kapitalizaci emitentů, informování zákazníků.
+
+**2. Právní otázka.** Splnil obchodník podmínky § 15ca odst. 1 tak, aby přijatý výzkum nebyl pobídkou podle § 15 odst. 3, a jak se posoudí výzkum týkající se emitenta nad prahem 1 mld. EUR?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15ca odst. 1 písm. a)–c) (dohoda o alokaci úplaty, informování zákazníků, práh kapitalizace 1 mld. EUR), odst. 2 (nelistovaní emitenti — vlastní kapitál), odst. 3–4 (vymezení výzkumu).
+- *Související ustanovení téhož zákona:* § 15 odst. 3 (zákaz pobídek, výslovně i výzkum), § 15 odst. 5 (zpřísnění u nezávislého poradenství/správy portfolia), § 15e odst. 1 (informování o pobídkách).
+- *Související předpisy:* čl. 24 odst. 9a MiFID II; nařízení 2017/565 (pobídky a výzkum).
+- *Judikatura:* specifická judikatura chybí; využitelné jsou obecné závěry k zákazu pobídek a k řízení střetu zájmů.
+
+**4. Subsumpce.** U emitentů pod 1 mld. EUR podmínka c) splněna je, avšak chybí dohoda o alokaci (písm. a) a informování zákazníků (písm. b) — výjimka se proto neuplatní a výzkum se posuzuje jako pobídka podle § 15 odst. 3. U emitenta nad 1 mld. EUR není splněna podmínka c) bez ohledu na ostatní — výjimka vyloučena. „Výzkum" je naplněn, jde-li o analýzy a vhledy podle odst. 3–4.
+
+**5. Řešení.** Protože nejsou kumulativně splněny podmínky odst. 1 písm. a)–c), nelze výjimku uplatnit; přijatý výzkum je pobídkou a jeho přípustnost se řídí § 15 odst. 3–4 (u nezávislého poradenství/správy portfolia § 15 odst. 5 — zde by byl nepřípustný). Kroky k nápravě: uzavřít s brokerem dohodu o alokaci, informovat zákazníky, oddělit výzkum nad práh. Riziko: kvalifikace plateb jako nepřípustné pobídky a sankce.
+
+**6. Varianty.** (a) O by uzavřel předchozí dohodu o alokaci a zákazníky informoval, výzkum by se týkal jen emitentů pod 1 mld. EUR — výjimka by se uplatnila a výzkum by nebyl pobídkou. (b) Emitent by nebyl listovaný — práh by se posoudil podle vlastního kapitálu (odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Výzkum byl placen společně běžně, formální dohoda není nutná." Neutralizace: písm. a) výslovně vyžaduje předchozí dohodu o tom, která část úplaty se týká výzkumu; bez ní výjimka neplatí.
+- *Protiargument:* „Práh 1 mld. EUR je jen orientační." Neutralizace: jde o tvrdou kvantitativní podmínku vázanou na konec 3 kalendářních let před poskytnutím výzkumu (odst. 1 písm. c); překročení vylučuje výjimku.
+- *Slabé místo:* určení tržní kapitalizace ke správnému okamžiku a u nelistovaných emitentů (vlastní kapitál) může být datově náročné a sporné.
+
+#### H. Praktický závěr
+
+Společně placený výzkum není pobídkou jen při kumulativním splnění tří podmínek (předchozí dohoda o alokaci, informování zákazníků, práh kapitalizace 1 mld. EUR; u nelistovaných emitentů vlastní kapitál). Jinak se výzkum posuzuje jako pobídka podle § 15 odst. 3–5.
+
+**Checklist (obchodník / broker / ČNB):**
+- [ ] Existuje předchozí dohoda s poskytovatelem o alokaci části úplaty na výzkum (písm. a)?
+- [ ] Byli zákazníci informováni o společné úplatě (písm. b)?
+- [ ] Nepřekročila tržní kapitalizace emitenta 1 mld. EUR ke konci 3 kalendářních let před poskytnutím výzkumu (písm. c)?
+- [ ] U nelistovaných emitentů: byla použita hodnota vlastního kapitálu (odst. 2)?
+- [ ] Naplňuje plnění pojem výzkumu podle odst. 3–4?
+
+**Typicky rozhodné důkazy / podklady:** smlouva s poskytovatelem výzkumu, dohoda o alokaci úplaty, faktury za společnou úplatu, údaje o tržní kapitalizaci / vlastním kapitálu emitentů, doklady o informování zákazníků.
 
 ---
 
@@ -1084,6 +2149,43 @@ Informuje-li obchodník zákazníka o nezávislosti, musí posoudit dostatečně
 
 **Informace o nezávislosti poradenství (odst. 5):** Před poskytnutím investičního poradenství musí obchodník zákazníkovi sdělit, zda je poradenství nezávislé, jaký je rozsah analýzy a zda se omezuje na vlastní nebo spřízněné produkty. Tato povinnost koresponduje se zákazem pobídek (§ 15 odst. 5) a s povinnostmi § 15c odst. 4–5.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Neprofesionální zákazník pan M. uzavřel s obchodníkem smlouvu a investoval do podílových fondů. Před uzavřením mu obchodník poskytl jen obecnou brožuru bez vyčíslení celkových nákladů; informaci o veškerých nákladech a souvisejících úplatách souhrnně (s ilustrací dopadu na návratnost) neposkytl. Po dvou letech pan M. zjistí, že průběžné poplatky a vstupní přirážka výrazně snížily výnos, a tvrdí, že kdyby znal celkové náklady předem, neinvestoval by. Účastníci: pan M. (neprofesionální zákazník), obchodník, ČNB. Důkazy: předsmluvní dokumentace, doklad o předání informací a jeho časový předstih, nákladové rozpisy, smlouva.
+
+**2. Právní otázka.** Splnil obchodník předsmluvní informační povinnost o veškerých nákladech a úplatách v dostatečném časovém předstihu a souhrnně s ilustrací dopadu na návratnost (§ 15d odst. 1 písm. e), odst. 3–4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15d odst. 1 (šest kategorií informací, zejm. písm. e — náklady a úplaty), odst. 3 (obsah nákladové informace), odst. 4 (souhrnné vyjádření + položkový rozpis na žádost), odst. 5 (informace o nezávislosti poradenství).
+- *Související ustanovení téhož zákona:* § 15a odst. 2 (srozumitelnost), § 15e (prohlášení o vhodnosti, informace o pobídkách), § 15g odst. 3 (průběžné informace o nákladech alespoň ročně), § 15da (forma poskytnutí), § 15f (vztah k OZ).
+- *Související předpisy:* čl. 24 odst. 4 MiFID II; čl. 45–53, 61 a 65 nařízení 2017/565 (výslovně odkázané v odst. 7); zákon č. 89/2012 Sb. (§ 1843 — viz § 15f).
+- *Judikatura:* obecné závěry k rozsahu informační povinnosti a k tomu, že odpovědnost se odvíjí od zákonem a smlouvou vymezeného rozsahu (srov. NS 23 Cdo 3695/2013 citovaný u § 15a a § 15h).
+
+**4. Subsumpce.** Poskytnutí pouze obecné brožury bez souhrnného vyčíslení nákladů a bez ilustrace jejich dopadu na návratnost nenaplňuje odst. 1 písm. e) ve spojení s odst. 3–4. Podmínka „dostatečného časového předstihu" rovněž není splněna, byla-li informace neúplná. U neprofesionálního zákazníka nelze využít výjimku odst. 1 písm. e) (ta míří jen na profesionální zákazníky u jiných než portfolio/poradenských služeb).
+
+**5. Řešení.** Obchodník porušil předsmluvní informační povinnost. ČNB může uložit sankci a opatření k nápravě. V soukromoprávní rovině může pan M. uplatnit náhradu škody, prokáže-li příčinnou souvislost mezi absencí informace o nákladech a investičním rozhodnutím; alternativně přichází v úvahu argumentace neúplným plněním informační povinnosti dle § 1843 OZ (§ 15f). Kroky: zavést standardizovaný cost-disclosure dokument (ex-ante) s ilustrací dopadu, doklad o jeho předání a předstihu.
+
+**6. Varianty.** (a) Šlo by o profesionálního zákazníka a službu jinou než správa portfolia/poradenství — informace o nákladech podle písm. e) by se nemusela poskytovat (výjimka odst. 1 písm. e). (b) Investiční služba by byla součástí složeného produktu se srovnatelnou informační povinností podle zákona o spotřebitelském úvěru či bankovních předpisů — uplatnila by se výjimka odst. 6.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Náklady byly uvedeny ve statutech fondů, zákazník je měl k dispozici." Neutralizace: odst. 3–4 vyžadují souhrnné vyjádření veškerých nákladů obchodníkem s ilustrací dopadu na návratnost; odkaz na statuty nenahrazuje agregovanou předsmluvní informaci.
+- *Protiargument:* „Zákazník si položkový rozpis nevyžádal." Neutralizace: souhrnné vyjádření je povinné vždy (odst. 4 věta první); položkový rozpis je nadto na žádost, jeho absence nezhojí chybějící souhrn.
+- *Slabé místo:* v soukromoprávním sporu je náročné prokázat příčinnou souvislost mezi neúplnou informací a vznikem škody; dohledové porušení tím však dotčeno není.
+
+#### H. Praktický závěr
+
+Před poskytnutím služby musí obchodník v dostatečném předstihu sdělit šest kategorií informací (odst. 1), zejména souhrnně veškeré náklady a úplaty s ilustrací dopadu na návratnost (odst. 3–4) a u poradenství informaci o (ne)závislosti a rozsahu analýzy (odst. 5). Výjimky platí pro některé profesionální zákazníky a složené produkty s jinou srovnatelnou úpravou.
+
+**Checklist (obchodník / advokát / ČNB):**
+- [ ] Byly poskytnuty všechny relevantní kategorie podle odst. 1 písm. a)–f) v dostatečném předstihu?
+- [ ] Obsahuje informace o nástroji rizika a údaj o cílovém trhu / typu zákazníka (odst. 2)?
+- [ ] Jsou náklady vyjádřeny souhrnně s dopadem na návratnost a je nabídnut položkový rozpis na žádost (odst. 3–4)?
+- [ ] U poradenství: byla sdělena (ne)závislost, rozsah analýzy a omezení na vlastní/spřízněné produkty (odst. 5)?
+- [ ] Neuplatní se výjimka pro profesionálního zákazníka (odst. 1 písm. e) nebo pro složený produkt (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** předsmluvní informační dokument (vč. cost disclosure s ilustrací), doklad o jeho předání a časovém předstihu, informace o nezávislosti poradenství, smlouva, statuty/KID produktů.
+
 ---
 
 ### § 15da — Poskytování informací v elektronické podobě
@@ -1105,6 +2207,43 @@ Informuje-li obchodník zákazníka o nezávislosti, musí posoudit dostatečně
 § 15da upravuje přechod na elektronické doručování informací jako standard — listinná podoba je zachována jako právo zákazníka na jeho žádost. Přechodný mechanismus pro stávající zákazníky (odst. 3–4) zavádí povinné 8týdenní „opt-out okno": obchodník musí zákazníka o změně informovat a dát mu čas požádat o zachování listinné podoby.
 
 Zákonná definice „elektronické podoby" jako trvalého nosiče dat, který není listinou (odst. 5), je terminologicky přesná: zahrnuje e-mail, zabezpečený online prostor (client portal), CD/DVD, USB, ale vylučuje prostou webovou stránku bez možnosti uložení a následného přístupu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník O dosud zasílal neprofesionálnímu zákazníkovi paní P. veškeré informace v listinné podobě. Rozhodne se přejít na elektronické doručování. Sdělení o změně odešle paní P. pouze 3 týdny předem a navíc je formuluje tak, že neobsahuje poučení o možnosti požádat o zachování listinné podoby. Po měsíci přestane paní P. dostávat výpisy poštou; přehlédne e-maily a unikne jí změna ceny ve fondu. Účastníci: paní P. (neprofesionální zákaznice), obchodník O, ČNB. Důkazy: sdělení o změně a jeho datum, doklad o doručení, obsah sdělení, evidence preferencí zákazníka.
+
+**2. Právní otázka.** Splnil obchodník podmínky přechodu na elektronické doručování vůči stávajícímu neprofesionálnímu zákazníkovi (§ 15da odst. 3–4), zejména 8týdenní předstih a poučení o možnosti zachovat listinnou podobu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15da odst. 1 (elektronická podoba jako standard, listinná na žádost bezplatně), odst. 2 (informovat o možnosti listinné podoby), odst. 3 (8týdenní předstih sdělení o přechodu), odst. 4 (obsah sdělení — 8týdenní lhůta pro žádost), odst. 5 (definice elektronické podoby).
+- *Související ustanovení téhož zákona:* § 15a odst. 2 (srozumitelnost), § 15d, § 15e, § 15g (informace, jichž se forma týká), § 2a–2d (kategorizace — neprofesionální zákazník).
+- *Související předpisy:* čl. 24 odst. 5a MiFID II; nařízení 2017/565 (trvalý nosič dat).
+- *Judikatura:* specifická judikatura chybí; využitelné jsou obecné závěry k doručování a k ochraně neprofesionálního (slabšího) zákazníka.
+
+**4. Subsumpce.** Přechod na elektronickou podobu u stávajícího neprofesionálního zákazníka je vázán na dvě kumulativní podmínky odst. 3–4: sdělení nejméně 8 týdnů předem a poučení o právu požádat o listinnou podobu (s 8týdenní lhůtou). Předstih 3 týdnů a absence poučení obě podmínky porušují. Definice elektronické podoby (odst. 5) je splněna, jde-li o e-mail (trvalý nosič) — vada není v médiu, nýbrž v procesu přechodu.
+
+**5. Řešení.** Obchodník porušil odst. 3 a 4; přechod na elektronickou podobu nebyl proveden řádně a paní P. má nadále právo na listinnou podobu. ČNB může uložit opatření k nápravě (opakování řádného procesu přechodu) i sankci. Kroky: nastavit šablonu sdělení s poučením a hlídat 8týdenní předstih i lhůtu pro žádost. Riziko: dvojí běh — opětovné zaslání řádného sdělení a doručování listinně po dobu lhůty.
+
+**6. Varianty.** (a) Zákazník by byl profesionální — povinnosti odst. 2–4 (ochrana neprofesionálního zákazníka) by se neuplatnily a elektronická podoba by byla standardem bez přechodového okna. (b) Sdělení by bylo zasláno 9 týdnů předem s úplným poučením — přechod by byl řádný a po marném uplynutí lhůty by se doručovalo elektronicky.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zákazník e-maily dostával, fakticky byl informován." Neutralizace: odst. 3–4 stanoví formální procesní podmínky přechodu (předstih a poučení); jejich nedodržení nelze zhojit faktickým doručením e-mailů.
+- *Protiargument:* „Poučení o listinné podobě bylo na webu obchodníka." Neutralizace: sdělení podle odst. 4 musí poučení obsahovat adresně vůči zákazníkovi; obecný odkaz na web nestačí.
+- *Slabé místo:* prokázání okamžiku doručení sdělení (počátek běhu 8týdenní lhůty) může být sporné; nutná evidence doručení.
+
+#### H. Praktický závěr
+
+Elektronická podoba je standardem, listinná podoba je právem neprofesionálního zákazníka (bezplatně, na žádost). Přechod stávajícího neprofesionálního zákazníka na elektronickou podobu vyžaduje sdělení nejméně 8 týdnů předem a poučení o možnosti zachovat listinnou podobu ve lhůtě 8 týdnů (odst. 3–4).
+
+**Checklist (obchodník / ČNB):**
+- [ ] Je zákazník profesionální, nebo neprofesionální (ochranný režim odst. 2–4)?
+- [ ] Byl neprofesionální zákazník informován o možnosti listinné podoby (odst. 2)?
+- [ ] U přechodu: bylo sdělení zasláno nejméně 8 týdnů předem (odst. 3)?
+- [ ] Obsahuje sdělení poučení o možnosti požádat o listinnou podobu ve lhůtě 8 týdnů (odst. 4)?
+- [ ] Je zvolené médium trvalým nosičem dat (odst. 5), nikoli prostou webovou stránkou?
+
+**Typicky rozhodné důkazy / podklady:** sdělení o přechodu a doklad o jeho doručení s datem, obsah sdělení (poučení), evidence preference zákazníka (listinná/elektronická), doklady o bezplatném poskytování listinné podoby na žádost.
 
 ---
 
@@ -1162,6 +2301,43 @@ Suitability statement je klíčový dokument pro investiční poradenství (§ 4
 
 Zákon reguluje tzv. tying (vázání) a bundling (balíčkování): obchodník musí zákazníkovi sdělit, zda lze součásti koupit samostatně a jaká je jejich oddělená cena. U neprofesionálních zákazníků musí navíc popsat, jak se rizikový profil balíčku liší od individuálních součástí — s výjimkou, kdy jsou rizika zjevně totožná.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník poskytl neprofesionálnímu zákazníkovi panu R. investiční poradenství (§ 4 odst. 2 písm. e) a doporučil mu konkrétní fond. Smlouvu uzavřeli prostředkem komunikace na dálku (telefonicky/online). Prohlášení o vhodnosti (suitability statement) obchodník poskytl až tři týdny po uzavření smlouvy, přičemž panu R. předem nenabídl možnost odložit uzavření smlouvy, aby prohlášení obdržel ještě před obchodem. Současně byl produkt nabídnut jako součást balíčku s pojištěním, aniž obchodník sdělil, že fond lze sjednat samostatně a za jakou cenu. Účastníci: pan R. (neprofesionální zákazník), obchodník, ČNB. Důkazy: záznam poradenství, prohlášení o vhodnosti a datum jeho doručení, souhlas zákazníka dle odst. 4 písm. a), doklad o nabídce odložení obchodu, popis složeného produktu.
+
+**2. Právní otázka.** Byly splněny podmínky pro odložené poskytnutí prohlášení o vhodnosti při uzavření smlouvy na dálku (§ 15e odst. 3–4) a splnil obchodník informační povinnosti u složeného produktu (odst. 7–8)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15e odst. 1–2 (informace o pobídkách a jejich přenosu), odst. 3 (prohlášení o vhodnosti před obchodem), odst. 4 (výjimka pro smlouvu na dálku — podmínky a)–b), odst. 5 (profesionální zákazník), odst. 6 (odložené informace o nákladech na dálku), odst. 7–8 (složené produkty).
+- *Související ustanovení téhož zákona:* § 15h (test vhodnosti — podklad pro prohlášení), § 15d odst. 1 písm. e) (náklady — viz odst. 6), § 15 odst. 4–5 (pobídky), § 15a odst. 2 (srozumitelnost), § 15g odst. 4 (aktualizované prohlášení).
+- *Související předpisy:* čl. 25 odst. 6 MiFID II; nařízení 2017/565 (suitability report); zákon č. 89/2012 Sb. (§ 1843, § 1845 — smlouvy na dálku, viz § 15f).
+- *Judikatura:* obecné závěry k ochraně neprofesionálního zákazníka a k rozsahu informační povinnosti; navazuje na linii NS 23 Cdo 3695/2013.
+
+**4. Subsumpce.** Odložené poskytnutí prohlášení o vhodnosti je přípustné jen kumulativně při (a) souhlasu zákazníka s pozdějším obdržením a (b) nabídnuté možnosti odložit uzavření smlouvy (odst. 4). Chybí-li nabídka odložení, výjimka se neuplatní a prohlášení mělo být poskytnuto před obchodem (odst. 3) — porušení. U složeného produktu nebyla splněna povinnost sdělit samostatnou sjednatelnost součástí a jejich cenu (odst. 7) a u neprofesionálního zákazníka popsat odlišnost rizik balíčku (odst. 8).
+
+**5. Řešení.** Obchodník porušil odst. 3 (ve spojení s odst. 4) a odst. 7–8. ČNB může uložit sankci a opatření k nápravě. Kroky: do procesu uzavírání na dálku zařadit doložený souhlas dle odst. 4 písm. a) a nabídku odložení dle písm. b); u balíčků automaticky generovat informaci o samostatné sjednatelnosti, ceně součástí a o odlišnosti rizik. Riziko: bez doložené nabídky odložení nelze využít výjimku odst. 4.
+
+**6. Varianty.** (a) Zákazník by byl profesionální — prohlášení o vhodnosti se nevyžaduje, ledaže si je vyžádá (odst. 5). (b) Rizika složeného produktu by byla zjevně totožná s riziky samostatných součástí — povinnost popsat odlišnost rizik (odst. 8) by se neuplatnila.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zákazník souhlasil s pozdějším prohlášením, výjimka odst. 4 je naplněna." Neutralizace: odst. 4 vyžaduje kumulativně i nabídku možnosti odložit uzavření smlouvy (písm. b); samotný souhlas s pozdějším doručením nestačí.
+- *Protiargument:* „U balíčku bylo zřejmé, že fond lze koupit i samostatně." Neutralizace: odst. 7 ukládá výslovně sdělit, které součásti lze sjednat samostatně a jaká je jejich cena; domnělá zřejmost povinnost nenahrazuje.
+- *Slabé místo:* posouzení „zjevné odlišnosti rizik" (odst. 8) je hodnotové; chybné posouzení může vést k opomenutí povinného popisu rizik balíčku.
+
+#### H. Praktický závěr
+
+Při investičním poradenství neprofesionálnímu zákazníkovi se prohlášení o vhodnosti poskytuje zásadně před obchodem (odst. 3); odložení na dálku je možné jen při souhlasu zákazníka a nabídnuté možnosti odklad obchodu (odst. 4). U složených produktů je třeba sdělit samostatnou sjednatelnost a cenu součástí (odst. 7) a u neprofesionálních zákazníků popsat odlišnost rizik balíčku (odst. 8). O pobídkách se informuje předem a kvalifikovaně (odst. 1–2).
+
+**Checklist (obchodník / advokát / ČNB):**
+- [ ] Bylo prohlášení o vhodnosti poskytnuto na trvalém nosiči před obchodem (odst. 3)?
+- [ ] U smlouvy na dálku: souhlasil zákazník s pozdějším doručením A byla mu nabídnuta možnost odložit obchod (odst. 4 písm. a, b)?
+- [ ] Je zákazník profesionální (prohlášení jen na žádost, odst. 5)?
+- [ ] Byl o pobídkách informován jasně, podrobně, přesně a srozumitelně předem (odst. 1) a o přenosu pobídky (odst. 2)?
+- [ ] U složeného produktu: sděleny samostatná sjednatelnost a cena součástí (odst. 7) a u neprofesionála odlišnost rizik (odst. 8)?
+
+**Typicky rozhodné důkazy / podklady:** prohlášení o vhodnosti a doklad o jeho doručení, souhlas zákazníka a nabídka odložení obchodu (odst. 4), informace o pobídkách, popis složeného produktu a cen jeho součástí, záznam poradenství a test vhodnosti.
+
 ---
 
 ### § 15f — Informační povinnosti podle občanského zákoníku
@@ -1173,6 +2349,43 @@ Zákon reguluje tzv. tying (vázání) a bundling (balíčkování): obchodník 
 **Výklad:**
 
 § 15f zakotví vztah ZPKT k občanskému zákoníku v oblasti informačních povinností při uzavírání smluv o finančních službách na dálku. § 1843 OZ ukládá podnikateli předsmluvní informační povinnosti (identifikace, popis služby, celková cena, právo na odstoupení) — tyto povinnosti se kumulují s povinnostmi podle § 15d ZPKT. § 1845 OZ (právo zákazníka na odstoupení od smlouvy uzavřené na dálku) zůstává zachován bez dotčení — obchodník jej nemůže smluvně vyloučit. Zákonem č. 374/2022 Sb. (transpozice směrnice Omnibus) byl tento vztah dále upřesněn.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel pan S. uzavřel s obchodníkem smlouvu o poskytování investiční služby výhradně po telefonu a e-mailem (na dálku). Obchodník mu nesdělil, zda a v jaké lhůtě může od smlouvy odstoupit. Pan S. se po týdnu rozhodne smlouvu zrušit a dovolává se práva na odstoupení podle § 1846–1847 OZ; obchodník namítá, že právo na odstoupení bylo „smluvně vyloučeno" obchodními podmínkami. Účastníci: pan S. (spotřebitel), obchodník, případně soud / finanční arbitr. Důkazy: smlouva a obchodní podmínky, předsmluvní informace, doklad o způsobu uzavření (na dálku), korespondence.
+
+**2. Právní otázka.** Vztahuje se na investiční službu poskytovanou na dálku informační povinnost a právo na odstoupení podle § 1843 a § 1845 OZ i přes úpravu v ZPKT, a lze tato práva smluvně vyloučit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15f — výslovné zachování § 1843 OZ (předsmluvní informace) a nedotčení § 1845 OZ (právo na odstoupení) vedle povinností ZPKT.
+- *Související ustanovení téhož zákona:* § 15d (předsmluvní informace dle ZPKT — kumulace), § 15a odst. 2 (srozumitelnost), § 15e odst. 4 a 6 (uzavírání na dálku), § 15da (forma).
+- *Související předpisy:* zákon č. 89/2012 Sb., § 1841–1851 (finanční služby uzavírané na dálku), zejm. § 1843 (informace), § 1845 a § 1846 (odstoupení); zákon č. 374/2022 Sb. (novela — směrnice Omnibus); zákon č. 634/1992 Sb. (ochrana spotřebitele).
+- *Judikatura:* obecné závěry k ochraně spotřebitele u smluv na dálku a k nemožnosti vyloučit kogentní spotřebitelská práva ujednáním v neprospěch spotřebitele.
+
+**4. Subsumpce.** § 15f výslovně stanoví kumulaci: povinnosti § 1843 OZ se uplatní vedle § 15d ZPKT a § 1845 OZ „není tímto zákonem dotčen". Právo spotřebitele na odstoupení od smlouvy o finanční službě uzavřené na dálku je kogentní; ujednání obchodních podmínek vylučující toto právo je k spotřebiteli nepřihlíženo / neplatné. Obchodníkova námitka o smluvním vyloučení tak neobstojí.
+
+**5. Řešení.** Pan S. má právo odstoupit za podmínek OZ; vyloučení v obchodních podmínkách je neúčinné vůči spotřebiteli. ČNB může absenci informací o právu na odstoupení postihnout jako porušení informačních povinností; spor o odstoupení řeší soud nebo finanční arbitr. Kroky: doplnit do předsmluvní dokumentace poučení o právu na odstoupení dle OZ a sladit obchodní podmínky se zákonem.
+
+**6. Varianty.** (a) Smlouva by nebyla uzavřena na dálku (osobní jednání na pobočce) — režim § 1841 a násl. OZ o smlouvách na dálku by se neuplatnil. (b) Šlo by o jednu z výjimek z práva na odstoupení podle OZ (např. služba zcela splněná s předchozím výslovným souhlasem) — právo na odstoupení by mohlo být vyloučeno zákonem, nikoli však libovolným ujednáním.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „ZPKT je lex specialis a vylučuje obecnou úpravu OZ." Neutralizace: § 15f výslovně stanoví naopak kumulaci a nedotčenost § 1845 OZ; speciální úprava zde obecnou nevytlačuje, nýbrž ji potvrzuje.
+- *Protiargument:* „Strany si odstoupení vyloučily smluvně." Neutralizace: spotřebitelská práva u finančních služeb na dálku jsou kogentní; k ujednáním v neprospěch spotřebitele se nepřihlíží.
+- *Slabé místo:* aplikace závisí na tom, zda byla smlouva skutečně uzavřena „na dálku" a zda nejde o zákonnou výjimku z práva na odstoupení; tyto skutečnosti je třeba prokázat.
+
+#### H. Praktický závěr
+
+Informační povinnosti a právo spotřebitele na odstoupení podle občanského zákoníku (§ 1843, § 1845 OZ) se u investičních služeb uzavíraných na dálku uplatní vedle povinností ZPKT a nelze je smluvně vyloučit v neprospěch spotřebitele.
+
+**Checklist (obchodník / advokát / spotřebitel):**
+- [ ] Byla smlouva uzavřena na dálku (režim § 1841 a násl. OZ)?
+- [ ] Byly splněny předsmluvní povinnosti podle § 1843 OZ vedle § 15d ZPKT?
+- [ ] Byl spotřebitel poučen o právu na odstoupení (§ 1845 a násl. OZ)?
+- [ ] Neobsahují obchodní podmínky neúčinné vyloučení kogentních spotřebitelských práv?
+- [ ] Nejde o zákonnou výjimku z práva na odstoupení?
+
+**Typicky rozhodné důkazy / podklady:** smlouva a obchodní podmínky, předsmluvní informace a poučení o odstoupení, doklad o uzavření na dálku, komunikace se zákazníkem.
 
 ---
 
@@ -1200,6 +2413,43 @@ Klíčové prvky:
 - **Pravidelné reporting nákladů** (odst. 3): zákazník dostává alespoň jednou ročně přehled celkových nákladů, které mu vznikly. Tato povinnost zajišťuje, že zákazník průběžně vidí skutečné náklady a může srovnat je s očekávanými.
 - **Aktualizované suitability review** (odst. 4): při správě portfolia nebo při poradenství s pravidelným vyhodnocováním (§ 15d odst. 5 písm. d) zákazník dostává pravidelně potvrzení, zda jeho investice stále vyhovují jeho profilu. Tím se poradenský vztah stává dynamickým — obchodník musí aktivně sledovat, zda se profil zákazníka nezměnil.
 - Výjimka pro profesionální zákazníky (odst. 5) — shodná logika jako u § 15e odst. 5.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník O spravuje portfolio (§ 4 odst. 2 písm. d) neprofesionálního zákazníka paní T. Po dobu dvou let jí nezasílá žádný pravidelný přehled nákladů ani aktualizované prohlášení o tom, jak investice stále vyhovují jejímu profilu. Profil paní T. se přitom změnil (odešla do důchodu, klesla její schopnost nést ztráty), avšak obchodník dál drží rizikovou strategii. Paní T. se o vysokých kumulovaných nákladech a nevhodné struktuře dozví až při výběru prostředků. Účastníci: paní T. (neprofesionální zákaznice), obchodník O (správce portfolia), ČNB. Důkazy: smlouva o správě portfolia, doklady o (ne)zasílání ročních přehledů nákladů a aktualizovaných prohlášení, vývoj profilu zákaznice, výpisy portfolia.
+
+**2. Právní otázka.** Porušil obchodník postsmluvní (průběžné) informační povinnosti — zejména roční reporting nákladů (odst. 3) a aktualizované prohlášení o vhodnosti při správě portfolia (odst. 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15g odst. 1–2 (přiměřené informace o poskytnutých službách), odst. 3 (informace o nákladech alespoň jednou ročně), odst. 4 (aktualizované prohlášení o vhodnosti u správy portfolia / pravidelného vyhodnocování), odst. 5 (výjimka pro profesionální zákazníky).
+- *Související ustanovení téhož zákona:* § 15d odst. 1 písm. e) (náklady — předmět ročního reportu), § 15h (test vhodnosti — základ pro aktualizované prohlášení), § 15d odst. 5 písm. d) (informace o pravidelném vyhodnocování), § 15e odst. 3 (původní prohlášení o vhodnosti).
+- *Související předpisy:* čl. 25 odst. 6 MiFID II; čl. 59–63 nařízení 2017/565 (výslovně odkázané v odst. 6).
+- *Judikatura:* obecné závěry k povinnosti správce jednat s odbornou péčí a v nejlepším zájmu zákazníka a k dynamické povaze poradenského/správcovského vztahu.
+
+**4. Subsumpce.** U správy portfolia neprofesionálního zákazníka je obchodník povinen poskytovat alespoň jednou ročně informace o nákladech (odst. 3) a aktualizované prohlášení o tom, jak investice vyhovují profilu zákazníka (odst. 4). Dvouletá absence obojího naplňuje porušení odst. 3 a 4. Výjimka odst. 5 se neuplatní (zákaznice je neprofesionální). Změna profilu zákaznice zvýrazňuje, že aktualizované prohlášení mělo věcný význam (a navazuje na povinnost reagovat na změnu vhodnosti).
+
+**5. Řešení.** Obchodník porušil odst. 3 a 4. ČNB může uložit sankci a opatření k nápravě (zavedení ročního reportingu a aktualizovaných prohlášení). V soukromoprávní rovině může absence aktualizovaného prohlášení a setrvání na nevhodné strategii zakládat odpovědnost za škodu. Kroky: nastavit automatický roční cost report a periodické suitability review s reflexí změn profilu. Riziko: souběh s porušením povinnosti jednat v nejlepším zájmu (§ 15) a pravidel testu vhodnosti (§ 15h).
+
+**6. Varianty.** (a) Zákaznice by byla profesionální a nepožádala o plnění těchto povinností — odst. 1, 2 a 4 by se neuplatnily (odst. 5). (b) Šlo by jen o execution-only službu bez správy portfolia a bez poradenství s pravidelným vyhodnocováním — povinnost aktualizovaného prohlášení (odst. 4) by nevznikla, byť roční informace o nákladech (odst. 3) může přicházet v úvahu „tam, kde to přichází v úvahu".
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zákaznice měla přístup do online portálu, informace si mohla zjistit sama." Neutralizace: odst. 1–4 ukládají aktivní poskytování informací na trvalém nosiči; dostupnost dat v portálu sama o sobě nenahrazuje povinný roční report a aktualizované prohlášení.
+- *Protiargument:* „Aktualizované prohlášení je nutné jen na žádost." Neutralizace: u správy portfolia (a u poradenství s pravidelným vyhodnocováním dle § 15d odst. 5 písm. d) je aktualizované prohlášení povinné pravidelně bez žádosti (odst. 4), s výjimkou profesionálních zákazníků (odst. 5).
+- *Slabé místo:* rozsah „přiměřených" informací (odst. 1) a frekvence „tam, kde to přichází v úvahu" (odst. 3) jsou pružné pojmy; jejich konkretizaci doplňují čl. 59–63 nařízení 2017/565.
+
+#### H. Praktický závěr
+
+Po poskytnutí služby musí obchodník zákazníkovi aktivně poskytovat přiměřené informace na trvalém nosiči (odst. 1–2), alespoň jednou ročně informaci o nákladech (odst. 3) a u správy portfolia / pravidelného vyhodnocování aktualizované prohlášení o vhodnosti (odst. 4). Profesionální zákazníci jsou z části povinností vyňati (odst. 5).
+
+**Checklist (obchodník / advokát / ČNB):**
+- [ ] Poskytuje obchodník přiměřené informace o službách na trvalém nosiči (odst. 1–2)?
+- [ ] Je alespoň jednou ročně poskytována informace o nákladech podle § 15d odst. 1 písm. e) (odst. 3)?
+- [ ] Jde o správu portfolia nebo poradenství s pravidelným vyhodnocováním? Je poskytováno aktualizované prohlášení o vhodnosti (odst. 4)?
+- [ ] Reaguje aktualizované prohlášení na změny profilu zákazníka?
+- [ ] Je zákazník profesionální (výjimka odst. 5), nebo trvá na plnění povinností?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o investiční službě/správě portfolia, roční přehledy nákladů a doklady o jejich zaslání, aktualizovaná prohlášení o vhodnosti, dokumentace vývoje profilu zákazníka, výpisy portfolia.
 
 ---
 
@@ -1257,6 +2507,43 @@ Rozsah získávaných informací není zákonně taxativní — obchodník musí
 
 Povinnost cost-benefit analýzy při switching (výměně investičních nástrojů) byla zavedena jako odpověď na praxi tzv. churning — záměrného obchodování za účelem generování provizí bez přínosu pro zákazníka. Při poradenství navíc zákon ukládá zákazníka výslovně informovat, zda přínosy výměny převyšují náklady.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Sedmdesátiletý neprofesionální zákazník pan V. s konzervativním profilem (cíl: ochrana úspor, nízká tolerance k riziku, krátký horizont) přijde za obchodníkem poskytujícím investiční poradenství (§ 4 odst. 2 písm. e). Obchodník provede jen formální dotazník, neověří schopnost nést ztráty ani investiční cíle a doporučí mu pákový strukturovaný produkt s vysokým rizikem. Po poklesu trhu pan V. utrpí významnou ztrátu. Účastníci: pan V. (neprofesionální zákazník), obchodník, ČNB, případně soud / finanční arbitr. Důkazy: vyplněný dotazník vhodnosti, záznam poradenství, doporučení a jeho odůvodnění, prohlášení o vhodnosti (§ 15e), rizikový profil produktu.
+
+**2. Právní otázka.** Splnil obchodník test vhodnosti podle § 15h — získal informace o všech čtyřech dimenzích profilu a doporučil produkt odpovídající finančnímu zázemí, cílům, znalostem a zkušenostem zákazníka, zejména jeho toleranci k riziku a schopnosti nést ztráty?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15h odst. 1 (čtyři dimenze: znalosti, zkušenosti, finanční zázemí vč. schopnosti nést ztráty, cíle vč. tolerance k riziku), odst. 2 (rozsah nezbytný pro posouzení vhodnosti), odst. 4–6 (analýza nákladů a přínosů výměny), odst. 7 (výjimka pro profesionální zákazníky).
+- *Související ustanovení téhož zákona:* § 15e odst. 3 (prohlášení o vhodnosti), § 15g odst. 4 (aktualizované prohlášení), § 15c (cílový trh), § 15i (test přiměřenosti — odlišný režim), § 15 odst. 1 (nejlepší zájem).
+- *Související předpisy:* čl. 25 odst. 2 MiFID II; čl. 54 a 55 nařízení 2017/565 (výslovně odkázané v odst. 8).
+- *Judikatura:* *NS* 23 Cdo 3695/2013 (kat. A, 27. 10. 2015) — rozsah informační a poradenské povinnosti je dán zákonem a smlouvou; bez zvláštního ujednání zprostředkovatel neodpovídá za ztrátu z pouhého vývoje trhu. Zde však jde o porušení zákonné povinnosti testu vhodnosti, nikoli o pouhý tržní vývoj.
+
+**4. Subsumpce.** Test vhodnosti vyžaduje získání všech čtyř dimenzí v rozsahu nezbytném pro posouzení (odst. 1–2). Formální dotazník bez ověření schopnosti nést ztráty a cílů nenaplňuje odst. 1 písm. c) a d). Doporučení vysoce rizikového produktu konzervativnímu zákazníkovi s nízkou tolerancí k riziku je v rozporu s odst. 2 (vhodnost) a s § 15 odst. 1. Naplnění výjimky odst. 7 nepřichází v úvahu (neprofesionální zákazník).
+
+**5. Řešení.** Obchodník porušil § 15h. Na rozdíl od situace v NS 23 Cdo 3695/2013 nejde o pouhý tržní vývoj, nýbrž o porušení zákonné povinnosti — doporučení nevhodného produktu. ČNB může uložit sankci a opatření k nápravě; pan V. může uplatnit náhradu škody (příčinná souvislost mezi porušením testu vhodnosti a vzniklou ztrátou). Kroky: doložit řádné získání a vyhodnocení všech čtyř dimenzí, soulad doporučení s profilem, vydat prohlášení o vhodnosti (§ 15e). Riziko: bez záznamů o získaných informacích nelze prokázat splnění testu.
+
+**6. Varianty.** (a) Zákazník by byl profesionální a nepožádal o plnění (odst. 7) — test vhodnosti by se nemusel provádět v plném rozsahu. (b) Doporučení by zahrnovalo výměnu nástroje — obchodník by musel provést analýzu nákladů a přínosů (odst. 4) a informovat, zda přínosy převyšují náklady (odst. 5), jinak by šlo o další porušení (riziko churningu).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zákazník dotazník podepsal a s doporučením souhlasil, ztráta plyne z vývoje trhu (srov. NS 23 Cdo 3695/2013)." Neutralizace: citovaný judikát se týká absence zvláštního ujednání o informování; zde jde o porušení kogentní zákonné povinnosti testu vhodnosti — souhlas zákazníka s nevhodným doporučením obchodníka nezbavuje odpovědnosti.
+- *Protiargument:* „Rozsah informací není taxativní, postačil zjednodušený dotazník." Neutralizace: rozsah musí být nezbytný pro posouzení vhodnosti (odst. 2); u rizikového produktu a zranitelného zákazníka to vyžaduje ověření schopnosti nést ztráty a cílů.
+- *Slabé místo:* prokázání příčinné souvislosti mezi porušením testu a výší škody je v soukromoprávním sporu náročné; dohledové porušení tím však dotčeno není.
+
+#### H. Praktický závěr
+
+Test vhodnosti (§ 15h) je nejpřísnějším zákaznickým testem; uplatní se u správy portfolia a investičního poradenství. Obchodník musí získat a vyhodnotit všechny čtyři dimenze profilu a doporučit jen produkt odpovídající profilu zákazníka. Při výměně nástroje je nutná analýza nákladů a přínosů (odst. 4–6). Profesionální zákazníci jsou vyňati (odst. 7).
+
+**Checklist (obchodník / advokát / ČNB):**
+- [ ] Byly získány všechny čtyři dimenze: znalosti, zkušenosti, finanční zázemí (vč. schopnosti nést ztráty) a cíle (vč. tolerance k riziku) (odst. 1)?
+- [ ] Je rozsah informací dostatečný pro posouzení vhodnosti (odst. 2)?
+- [ ] Odpovídá doporučený nástroj profilu zákazníka, zejména jeho toleranci k riziku a schopnosti nést ztráty?
+- [ ] U výměny nástroje: byla provedena analýza nákladů a přínosů (odst. 4) a u poradenství sděleno, zda přínosy převyšují náklady (odst. 5)?
+- [ ] Je zákazník profesionální (výjimka odst. 7), nebo trvá na plnění povinností?
+
+**Typicky rozhodné důkazy / podklady:** vyplněný dotazník vhodnosti a záznam získaných informací, záznam poradenství, doporučení a jeho odůvodnění, prohlášení o vhodnosti (§ 15e), analýza nákladů a přínosů výměny, rizikový profil produktu.
+
 ---
 
 ### § 15i — Vyžadování informací od zákazníka — test přiměřenosti
@@ -1297,6 +2584,43 @@ Povinnost cost-benefit analýzy při switching (výměně investičních nástro
 #### Varování při nepřiměřenosti (odst. 3) a odmítnutí spolupráce (odst. 4)
 
 Zákon nezakazuje poskytnout službu, shledá-li obchodník ji nepřiměřenou — ukládá pouze zákazníka **upozornit** na zjištění. Zákazník se pak může informovaně rozhodnout, zda chce přes varování pokračovat. Obdobně při odmítnutí poskytnout informace zákon nevyžaduje odmítnutí služby — ukládá poučit zákazníka o nemožnosti posouzení. Tím zákon chrání zákazníkovu autonomii při zachování informační povinnosti obchodníka.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Neprofesionální zákazník pan Z. chce přes online platformu obchodníka (služba přijímání a předávání pokynů, § 4 odst. 2 písm. a) nakoupit komplexní pákový certifikát. Při registraci odmítne vyplnit dotazník o svých znalostech a zkušenostech s odůvodněním, že „si to chce vyzkoušet". Obchodník mu bez jakéhokoli poučení umožní obchod provést. V jiné variantě zákazník dotazník vyplní, z něj plyne nulová zkušenost s deriváty, avšak obchodník jej na nepřiměřenost neupozorní. Účastníci: pan Z. (neprofesionální zákazník), obchodník (platforma), ČNB. Důkazy: dotazník přiměřenosti (vyplněný/odmítnutý), logy z platformy, doložené varování/poučení, charakteristika nástroje (komplexní vs. nekomplexní).
+
+**2. Právní otázka.** Splnil obchodník povinnosti testu přiměřenosti podle § 15i — vyžádal informace o znalostech a zkušenostech, a v případě nepřiměřenosti zákazníka upozornil (odst. 3), resp. při odmítnutí informací poučil o nemožnosti posouzení (odst. 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15i odst. 1–2 (dvě dimenze — znalosti a zkušenosti — v rozsahu nezbytném pro posouzení), odst. 3 (upozornění při nepřiměřenosti), odst. 4 (poučení při odmítnutí poskytnout informace), odst. 5 (složený produkt jako celek).
+- *Související ustanovení téhož zákona:* § 15h (test vhodnosti — přísnější režim u poradenství a správy portfolia), § 15j (provádění pokynů bez testu — execution-only u nekomplexních nástrojů, pokud zákon tuto výjimku obsahuje), § 4 odst. 2 (vymezení služeb), § 15 odst. 1 (nejlepší zájem).
+- *Související předpisy:* čl. 25 odst. 3 MiFID II; čl. 55 a 56 nařízení 2017/565 (výslovně odkázané v odst. 6).
+- *Judikatura:* obecné závěry k povinnosti chránit neprofesionálního zákazníka a k informačním povinnostem; specifická judikatura k testu přiměřenosti je sporá.
+
+**4. Subsumpce.** Test přiměřenosti se uplatní u ostatních hlavních investičních služeb (mj. přijímání a předávání pokynů). Obchodník je povinen vyžádat informace o znalostech a zkušenostech (odst. 1). Umožní-li obchod bez jakéhokoli poučení při odmítnutí dotazníku, porušuje odst. 4 (povinnost poučit o nemožnosti posouzení). Vyplyne-li z dotazníku nepřiměřenost a obchodník neupozorní, porušuje odst. 3. Test přiměřenosti přitom nezjišťuje finanční zázemí ani cíle (na rozdíl od § 15h).
+
+**5. Řešení.** V obou variantách obchodník porušil § 15i (odst. 4, resp. odst. 3). Zákon nezakazuje obchod provést, ukládá však upozornit/poučit; absence varování je porušením. ČNB může uložit sankci a opatření k nápravě. Kroky: do platformy zařadit povinné varování při nepřiměřenosti a poučení při odmítnutí informací, s doložením (log/zaškrtnutí). Riziko: bez doloženého upozornění nelze prokázat splnění odst. 3–4; u zjevně nevhodného prodeje hrozí i argument porušení § 15 odst. 1.
+
+**6. Varianty.** (a) Šlo by o správu portfolia nebo investiční poradenství (§ 4 odst. 2 písm. d/e) — uplatnil by se přísnější test vhodnosti (§ 15h), nikoli přiměřenosti. (b) Šlo by o nekomplexní nástroj prováděný z podnětu zákazníka (execution-only) za splnění zákonných podmínek — test přiměřenosti by se nemusel provádět (režim § 15j).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zákazník sám odmítl dotazník, nese tedy riziko sám." Neutralizace: odst. 4 ukládá při odmítnutí poučit zákazníka o nemožnosti posouzení; bez tohoto poučení obchodník povinnost poruší bez ohledu na postoj zákazníka.
+- *Protiargument:* „Stačí obecné varování v obchodních podmínkách." Neutralizace: upozornění podle odst. 3 a poučení podle odst. 4 musí být konkrétní a navázané na výsledek/odmítnutí testu, nikoli paušální klauzule v podmínkách.
+- *Slabé místo:* odlišení komplexního a nekomplexního nástroje (a tím možnost execution-only) je technické a sporné; chybná kvalifikace vede k nesprávnému vynechání testu.
+
+#### H. Praktický závěr
+
+Test přiměřenosti (§ 15i) je odlehčený test pro ostatní hlavní investiční služby; zjišťuje pouze znalosti a zkušenosti zákazníka. Při nepřiměřenosti je nutné zákazníka upozornit (odst. 3), při odmítnutí informací poučit o nemožnosti posouzení (odst. 4); službu lze poté i přesto poskytnout. U poradenství a správy portfolia se místo toho uplatní přísnější test vhodnosti (§ 15h).
+
+**Checklist (obchodník / advokát / ČNB):**
+- [ ] Jde o službu, na niž dopadá test přiměřenosti (jiná než § 4 odst. 2 písm. d a e)?
+- [ ] Vyžádal obchodník informace o znalostech a zkušenostech v dostatečném rozsahu (odst. 1–2)?
+- [ ] Při nepřiměřenosti: byl zákazník konkrétně upozorněn na zjištění (odst. 3)?
+- [ ] Při odmítnutí informací: byl zákazník poučen o nemožnosti posouzení (odst. 4)?
+- [ ] U složeného produktu: byl vyhodnocen jako celek (odst. 5)? Nejde naopak o execution-only nekomplexního nástroje?
+
+**Typicky rozhodné důkazy / podklady:** dotazník přiměřenosti (vyplněný či doklad o odmítnutí), logy a potvrzení o zobrazeném upozornění/poučení, charakteristika nástroje (komplexní/nekomplexní), záznam komunikace, obchodní podmínky platformy.
 
 ---
 

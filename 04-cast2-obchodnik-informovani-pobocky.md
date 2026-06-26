@@ -34,6 +34,43 @@ Obdobně jako informace o zákazníkovi lze přenést i **konkrétní doporučen
 
 Přijímající obchodník je povinen zaznamenat, od koho a jaké informace nebo doporučení přejal (§ 17 odst. 1 ZPKT o záznamu), aby byl schopen doložit ČNB zákonný základ svého postupu. Spoléhání se na informace od jiného obchodníka nevylučuje odpovědnost za porušení povinnosti zjistit vhodnost (srov. § 15g ZPKT), pokud přijímající obchodník věděl nebo vědět měl, že informace jsou zastaralé nebo neúplné.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Německý obchodník D (Wertpapierfirma s povolením dle MiFID II) sestavil investiční profil retailového zákazníka K (rezidenta ČR) — vyplnil dotazník odborných znalostí, zkušeností, rizikové tolerance a finanční situace a poskytl K konkrétní doporučení nakoupit podíl ve fondu. K následně tentýž pokyn realizuje přes českého obchodníka O, který je se skupinou D propojen distribuční dohodou. O nepřevedl profil sám, přejal jej elektronicky od D. Devět měsíců po předání se ukáže, že K mezitím odešel do důchodu, jeho rizikový profil se zásadně změnil a doporučený produkt je pro něj nevhodný. Důkazy: distribuční dohoda mezi O a D, předaný klientský profil s datem pořízení, záznam o přejetí (§ 17 odst. 1), komunikace mezi O a K před realizací pokynu, doklad o povolení D dle MiFID II.
+
+**2. Právní otázka.** Může se O zprostit odpovědnosti za nevhodnost (resp. nezjištění přiměřenosti) poukazem na to, že informace a doporučení převzal od D dle § 15j, ačkoli profil byl v době realizace pokynu zastaralý?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15j ZPKT — přenos informací (odst. 1) a doporučení (odst. 2) od jiného evropského obchodníka; výhoda platí jen pro informace v dobré víře přejaté a nezpochybněné.
+- *Související ustanovení téhož zákona:* § 15g (suitability — investiční poradenství/správa portfolia), § 15h a § 15i (přiměřenost a informace o znalostech), § 17 odst. 1 (záznam o přejetí), § 2 odst. 1 písm. a) (definice evropského obchodníka), § 32 (odpovědnost za vázaného zástupce — pro odlišení od subjektu bez statutu obchodníka).
+- *Související předpisy:* čl. 75 nařízení (EU) 2017/565 (podmínka dobré víry a absence důvodu k pochybnostem), čl. 24 odst. 8 a čl. 25 MiFID II.
+- *Judikatura:* k odpovědnosti za nevhodné investiční doporučení a k důkaznímu břemenu obchodníka srov. nosný závěr NS, podle něhož profesionál nese odpovědnost za poskytnutí jasných a aktuálních informací zákazníkovi; v unijní rovině pak výkladová praxe ESMA ke vztahu suitability a přenosu informací (guidelines on suitability). Konkrétní spisové značky neuvádím, opírám se o nosný závěr.
+
+**4. Subsumpce.** § 15j umožňuje O spolehnout se na profil a doporučení od D, protože D je evropský obchodník (znak splněn). Přenos sám o sobě je legální. Sporné je naplnění implicitní podmínky čl. 75 nařízení 2017/565 — dobré víry a absence důvodu k pochybnostem: profil byl při převzetí platný, avšak mezi převzetím a realizací pokynu uplynulo devět měsíců a nastala změna životní situace K. Klíčem je, zda O „věděl nebo vědět měl" o zastarání (poslední věta výkladu) — pokud O s K bezprostředně před realizací komunikoval a vyšla najevo změna, výhoda § 15j zaniká a O nese vlastní odpovědnost dle § 15g/§ 15h.
+
+**5. Řešení.** Spolehnutí na § 15j chrání O jen potud, pokud neměl důvod pochybovat o správnosti a aktuálnosti přejatých informací. Devítiměsíční prodleva sama o sobě výhodu neruší, avšak jakýkoli signál o změně poměrů K (zjištěný z komunikace) zakládá povinnost O profil ověřit. Procesně: O by měl při delším odstupu od pořízení profilu provést alespoň aktualizační dotaz; pokud tak neučinil a změna byla seznatelná, odpovídá za nevhodnost a hrozí mu správní sankce (§ 157 a násl. ZPKT) i odpovědnost za škodu. Alternativní výklad (čistě formální spolehnutí na předaný profil) je neudržitelný, protože § 15j nepřenáší odpovědnost za vědomé ignorování zastaralosti.
+
+**6. Varianty.** (a) Profil by O přejal od subjektu, který není evropským obchodníkem (mimoevropská firma nebo vázaný zástupce bez statutu obchodníka) — výhoda § 15j by vůbec nevznikla a O by musel profil zjistit sám. (b) Pokyn by K realizoval bezprostředně (téhož dne) po vydání doporučení D a bez jakéhokoli kontaktu, z něhož by plynula změna poměrů — O by byl plně kryt § 15j a odpovědnosti za nevhodnost by se zprostil.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „přenos = úplné zproštění odpovědnosti".* O může tvrdit, že § 15j přenáší odpovědnost na D. Neutralizace: zákon i čl. 75 nařízení 2017/565 podmiňují výhodu dobrou vírou a absencí důvodu k pochybnostem; odpovědnost za vlastní vědomost o zastaralosti zůstává na O.
+- *Protiargument „nelze požadovat průběžnou aktualizaci".* Lze namítat, že § 15j neukládá O periodicky ověřovat cizí profil. To je pravda jen do okamžiku, kdy se objeví konkrétní signál změny; pak nastupuje povinnost ověření.
+- *Slabé místo:* spornost je čistě skutková (kdy a co O věděl). Bez záznamu komunikace O–K (§ 17) je důkazní pozice O nejistá — chybějící záznam jde k jeho tíži.
+
+#### H. Praktický závěr
+
+V praxi § 15j umožňuje sdílenou distribuci v rámci skupin: přijímající obchodník nemusí opakovat zjišťování profilu, převzal-li jej od evropského obchodníka. Výhoda však není absolutní — padá, jakmile přijímající obchodník ví nebo má vědět o nesprávnosti či zastaralosti přejatých údajů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je předávající subjekt skutečně evropským obchodníkem dle § 2 odst. 1 písm. a) (povolení MiFID II)?
+- [ ] Existuje záznam (§ 17 odst. 1), od koho a jaké informace/doporučení byly přejaty, a s jakým datem pořízení?
+- [ ] Uplynula od pořízení profilu doba, která sama o sobě vyvolává pochybnost o aktuálnosti?
+- [ ] Vyšel z komunikace se zákazníkem najevo signál změny jeho poměrů (a tedy povinnost ověření)?
+- [ ] Jde o suitability (§ 15g) nebo přiměřenost (§ 15h/§ 15i) — liší se rozsah přejímané odpovědnosti?
+
+**Typicky rozhodné důkazy / podklady:** distribuční dohoda mezi obchodníky, předaný klientský profil s datem, záznam o přejetí, komunikace přijímajícího obchodníka se zákazníkem před realizací pokynu, doklad o povolení předávajícího obchodníka.
+
 ---
 
 ### § 15k — Execution only: výjimka pro jednoduché investiční nástroje
@@ -97,6 +134,43 @@ Výjimka se nepoužije, je-li **současně** poskytována doplňková investičn
 Zákonodárce v odst. 3 taxativně vyjmenovává sedm kategorií jednoduchých nástrojů. Principem je, že jde o nástroje s transparentní cenotvorbou, obchodované na regulovaných trzích nebo MTF, bez embedded derivátů a bez složitých výplatních struktur. Výjimky uvnitř jednotlivých písmen (akcie se zabudovaným derivátem, strukturované UCITS, dluhopisy se složitou strukturou) zrcadlí čl. 57 odst. 6–8 nařízení 2017/565 a judikaturu ESMA v pokynech k posuzování komplexity (ESMA/2012/388).
 
 Anomálie textu: zákon na konci odst. 3 písm. g) odkazuje na „přímo použitelný předpis Komise v přenesené pravomoci (EU), kterým se doplňuje směrnice 2014/65/EU" — tímto předpisem je nařízení 2017/565; odkaz je technicky funkční, ale legislativně nezvyklý (viz obdobnou legislativní techniku u § 15i odst. 6 ZPKT).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Online broker B provozuje webovou platformu. Retailovému zákazníkovi K, který si sám otevřel účet, zašle B e-mailovou kampaň „Tipy měsíce: akcie X přijaté k obchodování na pražské burze". K po přečtení e-mailu zadá pokyn k nákupu akcií X. B pokyn provede bez dotazu na znalosti a zkušenosti K s odkazem na execution only režim (§ 15k). Současně B poskytl K kontokorentní úvěr na nákup. Po poklesu ceny K namítá, že B neposoudil přiměřenost. Důkazy: e-mailová kampaň B, log o otevření účtu z podnětu K, parametry pokynu, smlouva o úvěru, doklad o přijetí akcií X k obchodování na regulovaném trhu.
+
+**2. Právní otázka.** Byly splněny kumulativní podmínky § 15k (zejména „z podnětu zákazníka" a absence úvěrové doplňkové služby), nebo byl B povinen posoudit přiměřenost dle § 15i?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15k odst. 1 (kumulativní podmínky execution only), odst. 2 (výluka při úvěru/zápůjčce dle § 4 odst. 3 písm. b)), odst. 3 (katalog jednoduchých nástrojů).
+- *Související ustanovení téhož zákona:* § 15i (přiměřenost — appropriateness), § 15g (suitability — pro odlišení), § 11a (informace, konflikt zájmů, best execution), § 4 odst. 2 písm. a) a b) (přijetí/předání a provedení pokynu), § 4 odst. 3 písm. b) (úvěr/zápůjčka k obchodu), § 3 odst. 2 (vymezení nástrojů).
+- *Související předpisy:* čl. 25 odst. 4 MiFID II; čl. 57 nařízení (EU) 2017/565 (zejm. „at the initiative of the client" a vymezení non-complex nástrojů); ESMA/2012/388 (posuzování komplexity).
+- *Judikatura:* nosný závěr výkladové praxe — informační či reklamní impuls obchodníka adresovaný konkrétnímu zákazníkovi před podáním pokynu vylučuje znak „z podnětu zákazníka". Konkrétní spisové značky neuvádím; opírám se o nosný výklad čl. 57 nařízení 2017/565.
+
+**4. Subsumpce.** Nástroj (akcie přijaté na regulovaný trh, bez embedded derivátu) naplňuje jednoduchý nástroj dle odst. 3 písm. a) — znak splněn. Sporný je znak „z podnětu zákazníka": adresná e-mailová kampaň B propagující právě akcie X je informačním/reklamním impulsem, který dle čl. 57 odst. 1 nař. 2017/565 znak iniciativy zákazníka ruší. Nezávisle na tom je naplněna negativní podmínka odst. 2 — B současně poskytl úvěr k obchodu (§ 4 odst. 3 písm. b)), což výjimku vylučuje bez ohledu na ostatní znaky (nejde o dříve sjednaný úvěr).
+
+**5. Řešení.** Execution only režim na daný obchod nedopadá ze dvou nezávislých důvodů: (i) pokyn nevzešel výhradně z iniciativy K (předcházel mu adresný marketing X), (ii) byla současně poskytnuta úvěrová doplňková služba (odst. 2). B byl proto povinen posoudit přiměřenost dle § 15i; jeho opomenutí zakládá porušení a riziko sankce (§ 157 a násl. ZPKT) i odpovědnosti za škodu. Procesně B měl buď kampaň nesměřovat ke konkrétnímu nástroji, nebo posoudit přiměřenost a varovat při negativním výsledku. Alternativní výklad (obecná reklama neruší iniciativu) by obstál jen u neadresné, neproduktové komunikace.
+
+**6. Varianty.** (a) B by zaslal jen obecný newsletter bez doporučení konkrétního nástroje a K by si akcie X vyhledal sám — znak iniciativy by byl zachován a (bez úvěru) by execution only platil. (b) Úvěr by byl sjednán dva roky předem jako nevyužitý rámec a nyní by nebyl čerpán k tomuto obchodu — dle odst. 2 se k dříve sjednaným úvěrům nepřihlíží a výjimka by (při splnění iniciativy) obstála.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „reklama není doporučení".* B namítne, že e-mail byl jen informace, ne investiční doporučení dle § 15g. Neutralizace: § 15k nevyžaduje doporučení ve smyslu poradenství — postačí, že impuls obchodníka odňal pokynu povahu „z podnětu zákazníka" (čl. 57 nař. 2017/565).
+- *Protiargument „úvěr nesouvisí s obchodem".* B tvrdí, že kontokorent je nezávislý produkt. Neutralizace: rozhoduje, zda úvěr slouží k obchodu (§ 4 odst. 3 písm. b)); účelové čerpání na nákup X spadá pod odst. 2.
+- *Slabé místo:* hranice mezi neadresnou reklamou a adresným impulsem je skutkově sporná; bez logu kampaně a jejího cílení je závěr nejistý.
+
+#### H. Praktický závěr
+
+§ 15k je úzce vymezená výjimka z posuzování přiměřenosti pro jednoduché nástroje obchodované čistě „execution only". Výjimka vyžaduje současné splnění všech podmínek; jakýkoli adresný produktový impuls obchodníka nebo souběžný úvěr k obchodu ji vylučuje.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o službu dle § 4 odst. 2 písm. a) nebo b) (nikoli poradenství/správa portfolia)?
+- [ ] Vzešel pokyn výhradně z podnětu zákazníka, bez adresného impulsu obchodníka k danému nástroji?
+- [ ] Spadá nástroj do katalogu jednoduchých nástrojů (odst. 3) bez embedded derivátu a složité struktury?
+- [ ] Není současně poskytována úvěrová doplňková služba k tomuto obchodu (odst. 2)?
+- [ ] Byly splněny povinnosti § 11a a informoval obchodník zákazníka, že nemůže posoudit přiměřenost?
+
+**Typicky rozhodné důkazy / podklady:** marketingová/komunikační kampaň a její cílení, log o iniciaci obchodu z účtu zákazníka, parametry pokynu a nástroje, smlouva o úvěru a doklad o jeho čerpání, doklad o přijetí nástroje k obchodování.
 
 ---
 
@@ -168,6 +242,43 @@ Obchodník je povinen pravidelně monitorovat výkonnost execution policy a opra
 
 Pro OTC provedení (mimo regulovaný trh, MTF nebo OTF) zákon vyžaduje **výslovný souhlas** zákazníka — buď obecný (rámcový pro všechny OTC obchody), nebo ad hoc. Tím se odlišuje od obecného souhlasu s execution policy (odst. 4), který může být i konkludentní.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Retailový zákazník K má u obchodníka O rámcovou smlouvu, jejíž součástí jsou pravidla pro provádění pokynů (execution policy) zveřejněná jen odkazem na web. K zadá tržní pokyn k nákupu akcie obchodované jak na pražské burze, tak na zahraničním MTF. O pokyn provede mimo obchodní systém (OTC) proti vlastní knize, aniž k tomu měl od K výslovný souhlas. Výsledná „all-in" cena je horší než dosažitelná na burze. K namítá porušení best execution. Důkazy: rámcová smlouva a doklad o souhlasu K s execution policy, znění execution policy a seznam převodních míst, záznam o způsobu provedení (OTC vs. burza), srovnání total consideration na dostupných místech v daném okamžiku, doklad o výslovném souhlasu s OTC.
+
+**2. Právní otázka.** Provedl O pokyn za nejlepších podmínek dle § 15l, a měl pro provedení mimo obchodní systém výslovný souhlas K dle § 15l odst. 6?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15l odst. 1 (katalog faktorů), odst. 4 (předchozí souhlas s execution policy), odst. 5 (monitoring), odst. 6 (výslovný souhlas s OTC).
+- *Související ustanovení téhož zákona:* § 15n (total consideration pro retail), § 15m (doložení shody), § 15r (informování), § 11a (komunikace), § 157 a násl. (správní delikty).
+- *Související předpisy:* čl. 27 MiFID II; čl. 64–66 nařízení (EU) 2017/565 (relativní význam faktorů a přezkum); regulovaný trh/MTF/OTF dle MiFID II a MiFIR.
+- *Judikatura:* nosný závěr — povinnost jednat s odbornou péčí v nejlepším zájmu zákazníka při volbě místa a způsobu provedení; pro retail je rozhodující celkový výsledek (total consideration). Spisové značky neuvádím, opírám se o nosný výklad čl. 27 MiFID II a § 15n.
+
+**4. Subsumpce.** Pro retailového K je dle § 15n primárním kritériem total consideration (cena + náklady). O sice má diskreci ve volbě faktorů (odst. 1), ale u retailu je vázán výsledkem. Provedení OTC za horší all-in cenu při existenci lepšího výsledku na burze naplňuje porušení odst. 1 ve spojení s § 15n. Nezávisle na tom je porušen odst. 6: pro provedení mimo obchodní systém chyběl výslovný souhlas K (obecný souhlas s execution policy dle odst. 4 nestačí). Souhlas dle odst. 4 mohl být i konkludentní, souhlas dle odst. 6 musí být výslovný — tento rozdíl je nosný.
+
+**5. Řešení.** O porušil best execution povinnost ze dvou důvodů: horší total consideration pro retail a absence výslovného OTC souhlasu. Procesně O odpovídá za správní delikt (§ 157 a násl.) a za škodu ve výši rozdílu mezi dosaženým a dosažitelným výsledkem. K se může dovolat § 15m (doložení shody) a § 15r odst. 4 (sdělení místa provedení). Náprava: O měl porovnat výsledky na všech místech v execution policy (§ 15n odst. 3) a před OTC provedením získat výslovný souhlas. Alternativní výklad (diskrece obchodníka i u retailu) je vyloučen speciální úpravou § 15n.
+
+**6. Varianty.** (a) K by byl profesionálním zákazníkem — váha faktorů by se posunula (rychlost, pravděpodobnost provedení) a horší cena by sama o sobě porušení nezaložila, byl-li jiný faktor relevantní. (b) K by udělil předem obecný výslovný souhlas s OTC provedením (odst. 6) a O by zároveň prokázal nejlepší total consideration — postup by byl souladný.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „cena není vždy prioritní" (odst. 1).* O namítne, že cena je jen jedním z faktorů. Neutralizace: u retailu § 15n výslovně určuje total consideration jako primární kritérium; volnost faktorů platí spíše pro profesionály.
+- *Protiargument „souhlas s policy zahrnuje OTC".* O tvrdí, že K odsouhlasením execution policy souhlasil i s OTC. Neutralizace: odst. 6 vyžaduje zvláštní výslovný souhlas s provedením mimo obchodní systém, oddělený od obecného souhlasu dle odst. 4.
+- *Slabé místo:* prokázání „dosažitelného lepšího výsledku" vyžaduje rekonstrukci tržních dat v okamžiku provedení; bez kvalitních záznamů (§ 17) je důkazní pozice K obtížná.
+
+#### H. Praktický závěr
+
+§ 15l je páteří ochrany zákazníka při exekuci pokynů: obchodník musí mít execution policy s předchozím souhlasem zákazníka, provádět pokyny za nejlepších podmínek (u retailu dle total consideration) a pro OTC mít zvláštní výslovný souhlas.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje execution policy se seznamem převodních míst a s předchozím souhlasem zákazníka (odst. 3 a 4)?
+- [ ] Byl pokyn proveden za nejlepších podmínek; u retailu posouzen total consideration (§ 15n)?
+- [ ] Byl-li dán konkrétní příkaz zákazníka, řídil se jím obchodník jen v jeho mezích (odst. 2)?
+- [ ] Pro OTC provedení existuje samostatný výslovný souhlas (obecný či ad hoc) dle odst. 6?
+- [ ] Provádí obchodník periodický monitoring účinnosti policy (odst. 5, alespoň ročně dle čl. 66 nař. 2017/565)?
+
+**Typicky rozhodné důkazy / podklady:** execution policy a doklad o souhlasu zákazníka, seznam převodních míst, záznam o způsobu a místě provedení, srovnání total consideration na dostupných místech, doklad o výslovném souhlasu s OTC, monitoringové zprávy o přezkumu policy.
+
 ---
 
 ### § 15m — Potvrzení o provedení pokynu v souladu s execution policy
@@ -179,6 +290,43 @@ Pro OTC provedení (mimo regulovaný trh, MTF nebo OTF) zákon vyžaduje **výsl
 **Výklad:**
 
 § 15m zakotvuje právo zákazníka na **ověření shody provedení** s execution policy. Jde o informační právo zákazníka, které doplňuje transparentnostní povinnosti z § 15r ZPKT. Obchodník není povinen zasílat takovéto potvrzení automaticky; je povinen je poskytnout **na žádost**. Forma zákon nestanoví, z povahy věci by mělo jít o trvalý nosič dat (§ 11a odst. 4 ZPKT). Právo zákazníka na doložení slouží i jako podklad pro případnou stížnost nebo soudní spor o náhradu škody způsobené porušením best execution povinnosti.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zákazník K po sérii nákupů, u nichž má podezření na nevýhodné provedení, písemně požádá obchodníka O, aby mu doložil, že jednotlivé pokyny byly provedeny v souladu s execution policy. O reaguje pouze obecným odkazem na zveřejněnou policy bez konkrétních dat k jednotlivým pokynům. K to považuje za nesplnění § 15m a hodlá podat stížnost a žalobu o náhradu škody. Důkazy: písemná žádost K a její doručení, znění execution policy, odpověď O, transakční záznamy o jednotlivých provedeních (§ 17).
+
+**2. Právní otázka.** Splnil O povinnost dle § 15m doložit shodu konkrétních provedení s execution policy, postačí-li obecný odkaz na zveřejněnou policy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15m — povinnost na žádost doložit shodu provádění s pravidly dle § 15l odst. 3.
+- *Související ustanovení téhož zákona:* § 15l odst. 3 (execution policy), § 15r (informování o provádění), § 11a odst. 4 (trvalý nosič dat), § 17 (záznamy jako podklad doložení), § 15n (kritérium total consideration u retailu).
+- *Související předpisy:* čl. 27 odst. 8 MiFID II; čl. 66 nařízení (EU) 2017/565.
+- *Judikatura:* nosný závěr — informační povinnost profesionála musí být splněna konkrétně a ověřitelně, nikoli obecným odkazem; břemeno doložení souladu nese obchodník. Spisové značky neuvádím.
+
+**4. Subsumpce.** § 15m zakládá právo zákazníka na konkrétní doložení shody „jeho pokynu nebo pokynů". Obecný odkaz na zveřejněnou policy neumožňuje ověřit, zda právě tyto pokyny byly provedeny souladně — povinnost tak není splněna materiálně. Doložení musí vycházet z transakčních záznamů (§ 17) a být poskytnuto srozumitelně, zpravidla na trvalém nosiči (§ 11a odst. 4). Splněn je znak „na žádost" (K písemně požádal), nesplněn je znak „doloží" (O nepředložil konkrétní data).
+
+**5. Řešení.** O je povinen na žádost K doložit shodu konkrétních provedení — uvést u dotčených pokynů zvolené převodní místo a důvody souladu s policy. Pouhý odkaz na web nestačí. Nesplnění je porušením § 15m a může zakládat správní odpovědnost (§ 157 a násl.) a posiluje pozici K v případném sporu o náhradu škody dle best execution. Procesně by O měl reagovat individualizovaným doložením z transakčních záznamů. Alternativa (povinnost jen u jednotlivého pokynu) neobstojí — zákon výslovně připouští „pokyn nebo pokyny".
+
+**6. Varianty.** (a) K by požádal jen obecně o popis fungování provádění (nikoli o konkrétní pokyny) — pak by obecnější odpověď mohla postačit, neboť rozsah doložení odpovídá rozsahu žádosti. (b) O by automaticky (bez žádosti) potvrzení nezaslal — to by porušením nebylo, protože povinnost vzniká až na žádost.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „policy je veřejná, doložení netřeba".* O namítne, že K si soulad ověří sám z policy. Neutralizace: § 15m směřuje k doložení shody konkrétního provedení, nikoli k existenci policy; bez transakčních dat ověření nelze provést.
+- *Protiargument „zákon nestanoví formu ani lhůtu".* O tvrdí libovůli ve formě a čase. Neutralizace: z § 11a a čl. 66 nař. 2017/565 plyne požadavek srozumitelnosti a přiměřené lhůty; bezobsažná odpověď standard nesplňuje.
+- *Slabé místo:* rozsah žádosti zákazníka určuje rozsah povinnosti; neurčitá žádost oslabuje nárok na detailní doložení.
+
+#### H. Praktický závěr
+
+§ 15m dává zákazníkovi nástroj kontroly: na žádost musí obchodník konkrétně doložit, že provedl pokyn(y) v souladu s execution policy. Doložení vychází z transakčních záznamů a slouží jako podklad pro stížnost či spor o náhradu škody.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje prokazatelná žádost zákazníka o doložení shody (forma, datum doručení)?
+- [ ] Odpovídá rozsah doložení rozsahu žádosti (konkrétní pokyny vs. obecný popis)?
+- [ ] Vychází doložení z transakčních záznamů (§ 17) a je individualizované k dotčeným pokynům?
+- [ ] Bylo poskytnuto srozumitelně a zpravidla na trvalém nosiči (§ 11a odst. 4)?
+- [ ] Navazuje doložení na informace dle § 15r odst. 4 o místě provedení?
+
+**Typicky rozhodné důkazy / podklady:** žádost zákazníka a doklad o doručení, znění execution policy, odpověď obchodníka, transakční záznamy o jednotlivých provedeních, doklad o formě a lhůtě poskytnutí.
 
 ---
 
@@ -208,6 +356,43 @@ Odst. 2 enumeruje složky přímých nákladů na provedení. Jde o **přímé**
 
 Odst. 3 zavádí povinnost **multi-venue srovnání**: existují-li v execution policy obchodníka dvě nebo více převodních míst schopných pokyn provést, musí obchodník porovnat total consideration na každém z nich, přičemž do porovnání zahrne i **vlastní provize a náklady**. Tím zákon brání selektivnímu výběru převodního místa v neprospěch zákazníka (tzv. payment for order flow problematika).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník O může pokyn retailového zákazníka K provést na dvou převodních místech uvedených v execution policy: na místě A (čistá cena nepatrně lepší, ale vyšší vypořádací poplatek a vyšší vlastní provize O) a na místě B (čistá cena nepatrně horší, ale výrazně nižší celkové náklady). O zvolí místo A, protože zde inkasuje vyšší vlastní provizi. K zjistí, že jeho „all-in" výsledek byl horší než na místě B. Důkazy: execution policy se seznamem míst, nabídkové ceny na A i B v okamžiku provedení, rozpis nákladů (poplatky převodnímu místu, vypořádání, vlastní provize O), záznam o provedení.
+
+**2. Právní otázka.** Splnil O povinnost dle § 15n určit nejlepší podmínky podle total consideration, zohlednil-li jen čistou cenu a nezahrnul-li do porovnání vlastní provize a náklady na obou místech?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15n odst. 1 (total consideration u retailu = cena + náklady), odst. 2 (složky přímých nákladů), odst. 3 (multi-venue srovnání včetně vlastních provizí).
+- *Související ustanovení téhož zákona:* § 15l (obecná best execution povinnost a katalog faktorů), § 2a odst. 1 (neprofesionální zákazník), § 15r odst. 4 (sdělení místa provedení), § 157 a násl. (delikty).
+- *Související předpisy:* čl. 27 odst. 1 MiFID II; čl. 64 nařízení (EU) 2017/565 (relativní význam faktorů, total consideration u retailu).
+- *Judikatura:* nosný závěr — u retailového zákazníka je rozhodující celkový výsledek „all-in", nikoli izolovaná tržní kotace; selektivní volba místa v zájmu vyšší provize obchodníka je porušením. Spisové značky neuvádím.
+
+**4. Subsumpce.** Pro retailového K je dle odst. 1 rozhodující total consideration — součet ceny a přímých nákladů (odst. 2: poplatek převodnímu místu, vypořádání, další úplaty). Odst. 3 ukládá při více dostupných místech porovnat výsledek na každém z nich a zahrnout do porovnání i vlastní provize a náklady O. O porovnal jen čistou cenu a do kalkulace nezahrnul vlastní provize — tím nenaplnil znak řádného multi-venue srovnání. Volba dražšího místa A motivovaná vyšší provizí O je přesně tím selektivním výběrem, jemuž odst. 3 brání.
+
+**5. Řešení.** O porušil § 15n, protože nezohlednil total consideration a vlastní provize při srovnání míst A a B; měl zvolit místo B s nižším celkovým nákladem pro K. Procesně O odpovídá za škodu ve výši rozdílu all-in výsledku a za správní delikt (§ 157 a násl.). Náprava: zavést kalkulační mechanismus zahrnující veškeré přímé náklady i vlastní provize na všech místech policy. Alternativní výklad (porovnání jen čistých cen) odporuje výslovnému znění odst. 2 a 3.
+
+**6. Varianty.** (a) K by byl profesionálním zákazníkem — kritérium total consideration by nebylo primární a O by mohl legitimně upřednostnit jiný faktor (rychlost, jistota provedení). (b) Vlastní provize O by byla na obou místech stejná a místo A by mělo skutečně nejlepší all-in výsledek — volba A by byla souladná, neboť odst. 3 by byl splněn.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rozhodla lepší tržní cena".* O namítne, že místo A mělo lepší kotaci. Neutralizace: u retailu rozhoduje celkový výsledek včetně nákladů (odst. 1 a 2), nikoli izolovaná cena.
+- *Protiargument „vlastní provize se neporovnává".* O tvrdí, že vlastní provize je jeho odměna mimo total consideration. Neutralizace: odst. 3 výslovně ukládá zahrnout vlastní provize a náklady do porovnání mezi místy.
+- *Slabé místo:* prokázání lepšího výsledku na alternativním místě vyžaduje rekonstrukci cen a nákladů v okamžiku provedení; bez záznamů (§ 17) je nárok obtížně doložitelný.
+
+#### H. Praktický závěr
+
+§ 15n konkretizuje best execution pro retail: rozhodující je total consideration (cena + přímé náklady) a při více dostupných místech musí obchodník porovnat výsledek na každém z nich včetně vlastních provizí. Cílem je zabránit selektivní volbě místa v neprospěch zákazníka.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o neprofesionálního zákazníka (§ 2a odst. 1), na nějž dopadá kritérium total consideration?
+- [ ] Zahrnul obchodník do výsledku všechny přímé náklady dle odst. 2 (poplatek místu, vypořádání, další úplaty)?
+- [ ] Bylo provedeno srovnání všech dostupných míst v policy včetně vlastních provizí a nákladů (odst. 3)?
+- [ ] Nebylo místo zvoleno kvůli vyšší provizi obchodníka v neprospěch all-in výsledku zákazníka?
+- [ ] Lze rekonstruovat ceny a náklady na jednotlivých místech v okamžiku provedení (§ 17)?
+
+**Typicky rozhodné důkazy / podklady:** execution policy se seznamem převodních míst, kotace na jednotlivých místech v čase provedení, rozpis přímých nákladů a vlastních provizí, kalkulace total consideration, záznam o provedení a místě.
+
 ---
 
 ### § 15o — Zpracování pokynů zákazníků (order handling)
@@ -234,6 +419,43 @@ Pravidlo **časové priority** (first in, first out pro srovnatelné pokyny) chr
 
 Odst. 1 písm. b) je zvláštní normou pro **limitní pokyny** (pokyny s celovým limitem): pokud limitní pokyn nelze okamžitě provést za převažujících tržních podmínek, musí být buď zveřejněn ostatním účastníkům obchodního systému, nebo předán přímo obchodnímu systému — ledaže zákazník výslovně zakáže zveřejnění. Tímto se zákonodárce snaží minimalizovat informační asymetrii a podpořit likviditu trhu. Opatření obecné povahy ČNB může tuto povinnost za podmínek § 15p ZPKT omezit.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník O (s povolením k provedení pokynů dle § 4 odst. 2 písm. b)) přijme od zákazníka K1 limitní pokyn k prodeji akcie přijaté k obchodování na regulovaném trhu za limitní cenu, kterou trh aktuálně nedosahuje; pokyn proto nelze okamžitě provést. O pokyn nezveřejní ani nepředá obchodnímu systému a ponechá si jej „v šuplíku". Krátce poté přijme od preferovaného zákazníka K2 srovnatelný pokyn, který provede přednostně. K1 namítá porušení časové priority i nezveřejnění limitního pokynu. Důkazy: pravidla pro zpracování pokynů, časová razítka přijetí pokynů K1 a K2, znění limitního pokynu K1 a jeho objem, doklad o (ne)zveřejnění či předání systému, případný pokyn K1 „nezveřejňovat".
+
+**2. Právní otázka.** Porušil O § 15o tím, že (i) provedl srovnatelný pokyn K2 přednostně před dříve přijatým pokynem K1 a (ii) nezveřejnil neproveditelný limitní pokyn K1?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15o odst. 1 písm. a) (časová priorita srovnatelných pokynů), písm. b) (zveřejnění/předání neproveditelného limitního pokynu, ledaže zákazník určí jinak).
+- *Související ustanovení téhož zákona:* § 4 odst. 2 písm. b) (provedení pokynů), § 3 odst. 2 písm. a) (nástroj na regulovaném trhu), § 15p (výjimka pro velké pokyny), § 15l (best execution), § 157 a násl.
+- *Související předpisy:* čl. 28 MiFID II; čl. 67–70 nařízení (EU) 2017/565 (podmínky odchylek a metody zveřejnění limitních pokynů).
+- *Judikatura:* nosný závěr — zákaz upřednostňování vlastních či preferovaných pokynů a povinnost spravedlivého a včasného zpracování; odchylka od časové priority je přípustná jen v zájmu zákazníka. Spisové značky neuvádím.
+
+**4. Subsumpce.** O je adresátem § 15o (má povolení dle § 4 odst. 2 písm. b)). Pokyny K1 a K2 jsou srovnatelné; přednostní provedení K2 před dříve přijatým K1 porušuje časovou prioritu dle písm. a), neboť odchylka nebyla motivována lepší cenou pro K1, nýbrž preferencí zákazníka K2 (čl. 67 odst. 1 nař. 2017/565 odchylku v tomto smyslu nepřipouští). Současně byl naplněn skutkový základ písm. b): limitní pokyn na nástroj na regulovaném trhu nebyl okamžitě proveditelný, a O jej tedy měl zveřejnit nebo předat systému — neučinil-li tak K1 výhradu „nezveřejňovat", jde o porušení.
+
+**5. Řešení.** O porušil § 15o ve dvou ohledech: nerespektoval časovou prioritu a nezveřejnil/nepřеdal neproveditelný limitní pokyn. Procesně O odpovídá za správní delikt (§ 157 a násl.) a za případnou škodu K1 (ušlý lepší výsledek). Náprava: nastavit FIFO zpracování srovnatelných pokynů a automatické zveřejnění/předání neproveditelných limitních pokynů, ledaže zákazník zveřejnění zakáže. Alternativní výklad (volnost obchodníka v pořadí) je vyloučen, nejde-li o odchylku v zájmu zákazníka.
+
+**6. Varianty.** (a) K1 by v pokynu výslovně zakázal zveřejnění — povinnost dle písm. b) by odpadla, avšak časová priorita dle písm. a) by zůstala zachována. (b) Pokyn K1 by měl velký rozsah ve smyslu § 15p (nad threshold MiFIR) a ČNB by aktivovala výjimku — povinnost zveřejnění by se neuplatnila z důvodu ochrany před market impact.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „pokyny nebyly srovnatelné".* O namítne odlišnost pokynů K1 a K2 (objem, typ). Neutralizace: srovnatelnost se posuzuje materiálně; jsou-li parametry obdobné, priorita platí — důkazem jsou časová razítka a parametry pokynů.
+- *Protiargument „odchylka byla v zájmu zákazníka".* O tvrdí, že přednostní provedení K2 přineslo lepší podmínky. Neutralizace: odchylka od priority musí svědčit znevýhodněnému zákazníkovi (K1), ne preferovanému; čl. 67 nař. 2017/565 jiný motiv nepřipouští.
+- *Slabé místo:* prokázání pořadí a srovnatelnosti závisí na přesnosti časových razítek a kvalitě záznamů (§ 17); nepřesná evidence oslabuje obě strany.
+
+#### H. Praktický závěr
+
+§ 15o ukládá obchodníkovi s povolením k provedení pokynů spravedlivé a včasné zpracování: srovnatelné pokyny dle časové priority a neproveditelné limitní pokyny zveřejnit nebo předat systému, ledaže zákazník určí jinak. Odchylky jsou přípustné jen v zájmu zákazníka.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má obchodník povolení k provedení pokynů dle § 4 odst. 2 písm. b) (jen pak § 15o dopadá)?
+- [ ] Existují pravidla pro zpracování pokynů a je dodržena časová priorita srovnatelných pokynů (písm. a))?
+- [ ] Byla případná odchylka od priority odůvodněna výhradně zájmem dotčeného zákazníka (čl. 67 nař. 2017/565)?
+- [ ] Byl neproveditelný limitní pokyn zveřejněn nebo předán systému, ledaže zákazník zveřejnění zakázal (písm. b))?
+- [ ] Nejde o velký limitní pokyn s aktivovanou výjimkou dle § 15p?
+
+**Typicky rozhodné důkazy / podklady:** pravidla pro zpracování pokynů, časová razítka přijetí jednotlivých pokynů, parametry a objem limitního pokynu, doklad o zveřejnění/předání systému nebo o pokynu zákazníka nezveřejňovat, transakční záznamy.
+
 ---
 
 ### § 15p — Výjimka pro velké limitní pokyny
@@ -245,6 +467,43 @@ Odst. 1 písm. b) je zvláštní normou pro **limitní pokyny** (pokyny s celov�
 **Výklad:**
 
 § 15p přebírá čl. 28 odst. 2 MiFID II. Pravidlem je, že obchodník u velkých (blokových) limitních pokynů může být ze zveřejňovací povinnosti (§ 15o odst. 1 písm. b) ZPKT) vyňat, neboť okamžité zveřejnění blokového pokynu by mohlo negativně ovlivnit tržní cenu a poškodit zákazníka (tzv. market impact). Prahová hodnota „velkého rozsahu" je definována nařízením MiFIR (EU) č. 600/2014, čl. 4 — jeho přílohy stanoví threshold value per asset class. ČNB tak opatřením obecné povahy pouze „aktivuje" výjimku, která jinak plyne přímo z MiFIR; zákon ji pro větší právní jistotu zakotvuje výslovně.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník O přijme od institucionálního zákazníka K objemný limitní pokyn k prodeji akcií, jehož velikost výrazně přesahuje obvyklý tržní objem (large in scale dle MiFIR). Pokyn nelze okamžitě provést za limitní cenu. O jej nezveřejní s tím, že okamžité zveřejnění blokového pokynu by srazilo cenu (market impact) v neprospěch K. ČNB k danému typu nástroje vydala opatření obecné povahy aktivující výjimku dle § 15p. Dohledový orgán následně prověřuje, zda O nezveřejněním neporušil § 15o odst. 1 písm. b). Důkazy: objem pokynu, threshold „large in scale" dle čl. 4 MiFIR pro danou třídu aktiv, opatření obecné povahy ČNB, doklad o tržním objemu nástroje.
+
+**2. Právní otázka.** Byl O oprávněn nezveřejnit neproveditelný limitní pokyn K s odkazem na výjimku pro velké pokyny dle § 15p, a byly splněny její podmínky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15p — možnost ČNB opatřením obecné povahy vyloučit povinnost dle § 15o písm. b) u limitního pokynu velkého rozsahu dle čl. 4 MiFIR.
+- *Související ustanovení téhož zákona:* § 15o odst. 1 písm. b) (jinak zveřejňovací povinnost), § 15l (best execution), § 173 a násl. správního řádu k povaze opatření obecné povahy (subsidiárně).
+- *Související předpisy:* čl. 28 odst. 2 MiFID II; čl. 4 nařízení (EU) č. 600/2014 (MiFIR) — prahové hodnoty „large in scale"; navazující RTS.
+- *Judikatura:* nosný závěr — výjimky ze zveřejňovacích (pre-trade transparency) povinností se vykládají v souladu s účelem ochrany před market impact a jen v rozsahu prahových hodnot MiFIR. Spisové značky neuvádím.
+
+**4. Subsumpce.** Podmínkou aplikace § 15p je, že (i) jde o limitní pokyn, (ii) jeho rozsah je „velký" ve srovnání s obvyklým tržním objemem dle čl. 4 MiFIR a (iii) ČNB výjimku opatřením obecné povahy aktivovala. V modelu objem pokynu K threshold „large in scale" přesahuje (znak ii) a opatření ČNB existuje (znak iii); jde o limitní pokyn (znak i). Výjimka tedy dopadá a nezveřejnění není porušením § 15o odst. 1 písm. b). Klíčové je doložit zařazení pokynu nad prahovou hodnotu pro danou třídu aktiv — to je skutkově rozhodné.
+
+**5. Řešení.** Postup O byl souladný: u blokového pokynu nad threshold MiFIR, kde ČNB aktivovala výjimku, povinnost zveřejnění odpadá a O chrání K před nepříznivým market impact. Procesně O musí být schopen doložit, že pokyn skutečně dosahoval „velkého rozsahu" v okamžiku přijetí. Pokud by threshold nebyl dosažen, výjimka by nenastoupila a nezveřejnění by bylo porušením. Alternativní výklad (automatická výjimka bez opatření ČNB) neobstojí — zákon aktivaci váže na opatření obecné povahy.
+
+**6. Varianty.** (a) Objem pokynu by těsně nedosáhl prahové hodnoty „large in scale" — výjimka by neplatila a O by byl povinen pokyn zveřejnit nebo předat systému dle § 15o písm. b). (b) ČNB by pro daný nástroj výjimku opatřením obecné povahy vůbec nevydala — i u velkého pokynu by zveřejňovací povinnost trvala, ledaže by výjimka plynula přímo z MiFIR.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „výjimka platí jen s opatřením ČNB".* Dohled namítne absenci či nepoužitelnost opatření. Neutralizace: doložit existenci a věcný rozsah opatření obecné povahy a zařazení nástroje pod ně.
+- *Protiargument „pokyn nebyl dostatečně velký".* Spornost dosažení thresholdu. Neutralizace: prokázat objem pokynu vůči obvyklému tržnímu objemu dle čl. 4 MiFIR a příslušných RTS pro danou třídu aktiv.
+- *Slabé místo:* prahové hodnoty MiFIR se periodicky kalibrují; použití zastaralé hodnoty může vést k chybnému uplatnění výjimky.
+
+#### H. Praktický závěr
+
+§ 15p umožňuje vyjmout velké (blokové) limitní pokyny ze zveřejňovací povinnosti, aby se zákazník ochránil před market impact. Výjimka se uplatní jen u pokynů nad prahovou hodnotou „large in scale" dle MiFIR a po její aktivaci opatřením obecné povahy ČNB.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde skutečně o limitní pokyn, na nějž by jinak dopadala povinnost dle § 15o písm. b)?
+- [ ] Dosahuje rozsah pokynu prahové hodnoty „large in scale" dle čl. 4 MiFIR pro danou třídu aktiv?
+- [ ] Existuje účinné opatření obecné povahy ČNB aktivující výjimku pro daný nástroj?
+- [ ] Je použita aktuální (kalibrovaná) prahová hodnota MiFIR/RTS?
+- [ ] Je doložen obvyklý tržní objem nástroje a zařazení pokynu nad threshold v okamžiku přijetí?
+
+**Typicky rozhodné důkazy / podklady:** objem a parametry limitního pokynu, prahové hodnoty „large in scale" dle MiFIR/RTS pro danou třídu aktiv, opatření obecné povahy ČNB, podklady o obvyklém tržním objemu nástroje.
 
 ---
 
@@ -277,6 +536,43 @@ Odst. 1 písm. b) je zvláštní normou pro **limitní pokyny** (pokyny s celov�
 3. **Post-trade (odst. 4)**: je-li pokyn zákazníka podřízen obchodní povinnosti dle čl. 23 (akcie) nebo čl. 28 (deriváty) MiFIR, obchodník zákazníkovi bez zbytečného odkladu sdělí, na kterém převodním místě byl pokyn fakticky proveden. Tím zákazník může ex post ověřit, zda obchodník splnil svou best execution povinnost.
 
 Odst. 5 míří na situaci OTC provedení: pokud execution policy počítá s možností provedení mimo obchodní systém, musí zákazník o této možnosti vědět ještě před udělením souhlasu dle § 15l odst. 6 ZPKT.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník O podstatně změní svou execution policy: vypustí dosud používané převodní místo a nově umožní provádění mimo obchodní systém (OTC). O změnu pouze tiše nahraje na web, aniž by zákazníka K na způsob informování o změnách předem upozornil, a aniž by mu sdělil možnost OTC provedení. Pokyn K na nástroj podléhající obchodní povinnosti dle čl. 23 MiFIR pak O provede na jednom z míst, ale K po provedení neinformuje, kde k provedení došlo. K namítá porušení informačních povinností. Důkazy: původní a nová verze execution policy s datem změny, doklad o způsobu sdělení změny K, ujednání o informování přes web, podklad o tom, zda nástroj podléhá obchodní povinnosti dle čl. 23/28 MiFIR, post-trade sdělení o místě provedení.
+
+**2. Právní otázka.** Splnil O informační povinnosti dle § 15r — zejména informování o podstatné změně policy (odst. 3), o možnosti OTC provedení (odst. 5) a post-trade sdělení místa provedení u nástroje s obchodní povinností (odst. 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15r odst. 1 a 2 (ex ante informace o policy), odst. 3 (informování o podstatných změnách), odst. 4 (post-trade sdělení místa u obchodní povinnosti dle čl. 23/28 MiFIR), odst. 5 (informace o možnosti OTC).
+- *Související ustanovení téhož zákona:* § 15l odst. 3 a 6 (execution policy, výslovný souhlas s OTC), § 15m (doložení shody), § 11a (komunikace, trvalý nosič), § 157 a násl.
+- *Související předpisy:* čl. 27 odst. 5 MiFID II; čl. 66 odst. 2–9 nařízení (EU) 2017/565 (rozsah informací, přípustnost informování přes web); čl. 23 a 28 MiFIR (obchodní povinnost).
+- *Judikatura:* nosný závěr — informace o provádění pokynů musí být jasné, dostatečně podrobné a srozumitelné; změny musí být zákazníkovi účinně oznámeny. Spisové značky neuvádím.
+
+**4. Subsumpce.** Odst. 3 ukládá informovat o podstatných změnách policy bez zbytečného odkladu; pouhé tiché nahrání na web postačí jen tehdy, byl-li K předem na tento způsob informování upozorněn (čl. 66 odst. 3 nař. 2017/565). Toto upozornění chybělo — znak řádného informování o změně není naplněn. Odst. 5 vyžaduje informovat o možnosti OTC provedení; absence této informace je porušením, navíc oslabuje platnost souhlasu dle § 15l odst. 6. Odst. 4 ukládá u nástroje s obchodní povinností sdělit místo provedení bez zbytečného odkladu — neučinil-li tak O, jde o samostatné porušení.
+
+**5. Řešení.** O porušil § 15r ve třech bodech (odst. 3, 4 i 5). Procesně O odpovídá za správní delikt (§ 157 a násl.); informační pochybení rovněž posiluje pozici K v případném sporu o best execution (§ 15l, § 15m). Náprava: (i) předem ujednat informování o změnách přes web a změny aktivně oznamovat, (ii) informovat o možnosti OTC před souhlasem dle § 15l odst. 6, (iii) zavést automatické post-trade sdělení místa u nástrojů s obchodní povinností. Alternativní výklad (postačí trvalá dostupnost na webu) obstojí jen při předchozím upozornění zákazníka na tento kanál.
+
+**6. Varianty.** (a) O by K předem prokazatelně upozornil, že změny policy zveřejňuje na webu — pak by webová aktualizace splňovala odst. 3. (b) Nástroj by nepodléhal obchodní povinnosti dle čl. 23/28 MiFIR — post-trade sdělení místa dle odst. 4 by nebylo povinné a v tomto bodě by porušení nevzniklo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „informace jsou na webu".* O namítne trvalou dostupnost policy. Neutralizace: u podstatných změn (odst. 3) je webová forma podmíněna předchozím upozorněním zákazníka na tento způsob informování (čl. 66 odst. 3 nař. 2017/565).
+- *Protiargument „OTC pokrývá souhlas s policy".* O tvrdí, že K věděl o OTC z policy. Neutralizace: odst. 5 ukládá samostatnou informaci o možnosti OTC a § 15l odst. 6 vyžaduje výslovný souhlas — to nelze nahradit obecným textem.
+- *Slabé místo:* prokázání „podstatnosti" změny policy je výkladově sporné; ne každá úprava je podstatná ve smyslu odst. 3.
+
+#### H. Praktický závěr
+
+§ 15r ukládá tři vrstvy informování: ex ante o pravidlech provádění, průběžně o podstatných změnách a post-trade o místě provedení u nástrojů s obchodní povinností. Informace o možnosti OTC musí předcházet souhlasu dle § 15l odst. 6.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Obdržel zákazník před prvním provedením jasné a srozumitelné informace o execution policy (odst. 1 a 2)?
+- [ ] Byly podstatné změny policy bez zbytečného odkladu oznámeny; je-li to přes web, byl zákazník na tento kanál předem upozorněn (odst. 3)?
+- [ ] Byl zákazník informován o možnosti provedení mimo obchodní systém (odst. 5) před souhlasem dle § 15l odst. 6?
+- [ ] Podléhá nástroj obchodní povinnosti dle čl. 23/28 MiFIR — a bylo sděleno místo provedení bez zbytečného odkladu (odst. 4)?
+- [ ] Odpovídá rozsah informací čl. 66 odst. 2–9 nařízení 2017/565?
+
+**Typicky rozhodné důkazy / podklady:** verze execution policy s daty změn, doklad o sdělení změn a o předchozím upozornění na webový kanál, informace o možnosti OTC, podklad o zařazení nástroje pod obchodní povinnost, post-trade sdělení o místě provedení.
 
 ---
 
@@ -367,6 +663,43 @@ Zákon výslovně opravňuje obchodníka k vedení rodných čísel zákazníků
 
 Zákon ukládá bez zbytečného odkladu informovat ČNB o třech okruzích událostí: (a) ztrátě jiného oprávnění (k činnosti zaregistrované podle § 6a), (b) změně vyžadující souhlas ČNB (§ 10b odst. 1 — akvizice kvalifikované účasti), (c) změně oznamované dle § 10e odst. 1 (jiné změny v osobě obchodníka). Tím zákon buduje průběžný informační tok mezi obchodníkem a ČNB mimo periodické výkaznictví.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nebankovní obchodník O má účetní období shodné s kalendářním rokem. Valná hromada O do 30. dubna neschválí účetní závěrku kvůli sporu akcionářů. O navíc opomene v rámci transaction reportingu dle odst. 3 hlásit ČNB sérii uzavřených a později zrušených obchodů a nesplní výkaznictví dle odst. 4. K červnu ČNB zjišťuje informační vakuum. Důkazy: zápis z valné hromady o neschválení závěrky, doklad o předložení/uveřejnění závěrky ČNB a na webu, transakční záznamy o uzavřených a zrušených obchodech (§ 17), reporty dle prováděcí vyhlášky, doklad o (ne)předložení prudenciálních výkazů.
+
+**2. Právní otázka.** Splnil O své povinnosti dle § 16 — zejména postup při neschválení závěrky (odst. 1 a 2), transaction reporting (odst. 3) a prudenciální výkaznictví nebankovního obchodníka (odst. 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 16 odst. 1 a 2 (výroční zpráva, auditovaná závěrka, postup při neschválení), odst. 3 (hlášení obchodů), odst. 4 (prudenciální výkaznictví non-bank), odst. 5 (rodná čísla), odst. 7 (zmocnění k prováděcímu předpisu).
+- *Související ustanovení téhož zákona:* § 129 odst. 1 (základ příspěvku do Garančního fondu), § 9a odst. 1 a 2 (vnitřně stanovený kapitál), § 6a, § 10b, § 10e (adhoc hlášení dle odst. 6), § 17 (záznamy jako podklad hlášení).
+- *Související předpisy:* čl. 26 MiFIR (transaction reporting); čl. 16, 24 a 25 MiFID II; § 21a zákona č. 563/1991 Sb. (lhůta a zveřejnění závěrky); vyhláška ČNB (č. 163/2014 Sb. v rozhodném znění) a RTS dle MiFIR; nařízení IFR (EU) 2019/2033 (malý a nepropojený obchodník).
+- *Judikatura:* nosný závěr — porušení výkaznických a informačních povinností vůči orgánu dohledu zakládá správní odpovědnost bez ohledu na zavinění; rozhodný je objektivní stav splnění. Spisové značky neuvádím.
+
+**4. Subsumpce.** Neschválení závěrky valnou hromadou neprolonguje lhůtu (odst. 1); O byl povinen dle odst. 2 předložit ČNB a uveřejnit neschválenou závěrku s důvody a způsobem řešení připomínek a po schválení bez zbytečného odkladu závěrku znovu — opomenutí naplňuje porušení. Transaction reporting dle odst. 3 zahrnuje i obchody zrušené (písm. a)); jejich nenahlášení je porušením. Prudenciální výkaznictví dle odst. 4 dopadá na O jako nebankovního obchodníka; nesplnění je porušením, ledaže jde o malého a nepropojeného obchodníka v rozsahu výjimky písm. g).
+
+**5. Řešení.** O porušil odst. 2, 3 i 4. Procesně O odpovídá za správní delikt (§ 157 a násl.). Náprava: bezodkladně předložit a uveřejnit neschválenou závěrku s odůvodněním (a po schválení znovu), doplnit hlášení uzavřených i zrušených obchodů a podat prudenciální výkazy. Při využití rodných čísel v hlášení O postupuje dle odst. 5 (zákonné zmocnění). Alternativní výklad (neschválení = posun lhůty) je vyloučen výslovným zněním odst. 2.
+
+**6. Varianty.** (a) O by byl bankou — odst. 4 by se nepoužil (prudenciální výkaznictví dle zákona o bankách a CRD/CRR), takže duplicitní výkaznictví dle ZPKT by odpadlo. (b) O by byl malým a nepropojeným obchodníkem a ČNB by neurčila plnění § 9a odst. 1 a 2 — povinnost dle písm. g) o vnitřně stanoveném kapitálu by se neuplatnila.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „neschválení posouvá lhůtu".* O namítne nemožnost předložit neschválenou závěrku. Neutralizace: odst. 2 výslovně ukládá předložit i neschválenou závěrku s důvody; lhůta se neprodlužuje.
+- *Protiargument „zrušené obchody se nehlásí".* O tvrdí, že hlásí jen realizované obchody. Neutralizace: odst. 3 písm. a) výslovně zahrnuje obchody uzavřené, vypořádané i zrušené.
+- *Slabé místo:* rozsah a forma hlášení jsou určeny prováděcím předpisem a RTS, jež se mění; použití neaktuální verze vyhlášky či RTS je rizikem chybného plnění.
+
+#### H. Praktický závěr
+
+§ 16 je ústřední výkaznicko-informační normou: výroční zpráva a auditovaná závěrka do 4 měsíců (i postup při neschválení), průběžný transaction reporting, prudenciální výkaznictví nebankovních obchodníků a adhoc hlášení změn. Banky plní část povinností podle zákona o bankách.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla výroční zpráva a auditovaná závěrka předložena ČNB a uveřejněna do 4 měsíců, včetně základu pro Garanční fond (§ 129 odst. 1)?
+- [ ] Při neschválení závěrky valnou hromadou: byla neschválená závěrka předložena s důvody a po schválení znovu bez zbytečného odkladu (odst. 2)?
+- [ ] Zahrnuje transaction reporting i obchody zrušené a všechny kategorie dle odst. 3?
+- [ ] Jde o nebankovního obchodníka, na nějž dopadá prudenciální výkaznictví dle odst. 4 (a neuplatní se výjimka pro malého a nepropojeného obchodníka)?
+- [ ] Jsou adhoc změny dle odst. 6 (§ 6a, § 10b, § 10e) hlášeny bez zbytečného odkladu?
+
+**Typicky rozhodné důkazy / podklady:** výroční zpráva a auditovaná účetní závěrka, zápis z valné hromady o (ne)schválení, transakční záznamy o uzavřených i zrušených obchodech, prudenciální výkazy dle vyhlášky a RTS, doklady o adhoc hlášeních dle odst. 6.
+
 ---
 
 ## Oddíl 7 — Uveřejňování údajů obchodníkem s cennými papíry
@@ -401,6 +734,43 @@ Jádrem povinnosti je zveřejnění **engagement policy** — jak obchodník hla
 
 Prahová hodnota v odst. 3 (**5 % hlasovacích práv**) omezuje povinnost na situace skutečného vlivu; drobné portfoliové pozice nepodléhají detailnímu reporting. Výjimka v odst. 2 zohledňuje situaci, kdy obchodník spravuje majetek zákazníků bez hlasovacích práv — v takovém případě není reporting o hlasování smysluplný.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Velký obchodník O splňující kritéria § 12l odst. 6 písm. a) spravuje portfolia, v jejichž rámci drží přes 5 % hlasovacích práv ve společnosti A kotované na evropském regulovaném trhu a 2 % ve společnosti B. O za uplynulé účetní období nezveřejní popis hlasování na valné hromadě A, vysvětlení využití proxy advisora ani pokyny k hlasování. Část akcionářů, jejichž majetek O spravuje, mu přitom dle smlouvy nedala právo hlasovat jejich jménem. Důkazy: doklad o splnění kritérií § 12l odst. 6 písm. a), evidence hlasovacích práv v členění dle států a odvětví, zápisy z valných hromad A, smlouvy s akcionáři o (ne)oprávnění hlasovat, doklad o uveřejnění informací dle čl. 46 nařízení IFR.
+
+**2. Právní otázka.** Byl O povinen dle § 16a zveřejnit engagement informace ohledně společnosti A (nad 5 %) a B (pod 5 %), a uplatní se výjimka odst. 2 pro akcionáře, kteří mu nedali právo hlasovat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 16a odst. 1 (rozsah zveřejnění), odst. 2 (výjimka při absenci práva hlasovat), odst. 3 (práh 5 % a způsob výpočtu), odst. 4 (šablony dle předpisu EU).
+- *Související ustanovení téhož zákona:* § 12l odst. 6 písm. a) (okruh velkých obchodníků), § 16 (obecné výkaznictví), § 17 (záznamy).
+- *Související předpisy:* čl. 3h směrnice 2007/36/ES ve znění směrnice (EU) 2017/828 (SRD II); čl. 46 a čl. 52 nařízení (EU) 2019/2033 (IFR) a navazující předpis EU se šablonami.
+- *Judikatura:* nosný závěr — povinnost transparentnosti angažovanosti institucionálního investora se aktivuje až při dosažení prahové účasti zakládající reálný vliv. Spisové značky neuvádím.
+
+**4. Subsumpce.** O je adresátem § 16a (splňuje kritéria § 12l odst. 6 písm. a)). Dle odst. 3 se povinnost ohledně hlasování (odst. 1 písm. b)) vztahuje jen na společnosti, kde podíl hlasovacích práv překračuje 5 % — to je splněno u A, nikoli u B (2 %). U A tedy O byl povinen zveřejnit popis a vysvětlení hlasování i využití proxy advisora; jejich absence je porušením. Výjimka odst. 2 dopadá jen na ty akcionáře, kteří O nedali právo hlasovat (ledaže udělí výslovné pokyny po obdržení pořadu jednání) — pro zbývající spravované pozice s hlasovacím právem výjimka neplatí.
+
+**5. Řešení.** O porušil § 16a tím, že nezveřejnil engagement informace k A. U B povinnost reportingu hlasování nevznikla (pod 5 %). Pro pozice akcionářů bez práva hlasovat se O může dovolat výjimky odst. 2, ale jen v jejich rozsahu; zbytek povinnosti trvá. Procesně O odpovídá za správní delikt (§ 157 a násl.). Náprava: zveřejnit informace dle čl. 46 IFR ve stanovené šabloně. Alternativní výklad (výjimka odst. 2 pokrývá vše) neobstojí, protože se vztahuje jen na konkrétní akcionáře bez práva hlasovat.
+
+**6. Varianty.** (a) O by ve společnosti A držel jen 4 % — povinnost reportingu hlasování dle odst. 1 písm. b) by nevznikla (pod prahem 5 %). (b) Všichni spravovaní akcionáři by O nedali právo hlasovat a nedali ani výslovné pokyny po pořadu jednání — výjimka odst. 2 by se uplatnila a reporting o hlasování by odpadl.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „pozice jsou jen klientské, ne vlastní".* O namítne, že drží práva za klienty. Neutralizace: odst. 3 počítá s právy přímo i nepřímo drženými; rozhodující je dosažení 5 %, nikoli vlastnictví.
+- *Protiargument „nelze hlasovat = žádný reporting".* O tvrdí plošnou výjimku. Neutralizace: odst. 2 se vztahuje jen na akcionáře bez práva hlasovat a padá, udělí-li výslovné pokyny po obdržení pořadu jednání.
+- *Slabé místo:* výpočet podílu hlasovacích práv (včetně práv, která nelze vykonat) je technicky náročný; chybná agregace ohrožuje správnost reportingu.
+
+#### H. Praktický závěr
+
+§ 16a ukládá velkým obchodníkům zveřejnit engagement policy (hlasování, využití proxy advisorů, pokyny) u kotovaných společností, v nichž drží nad 5 % hlasovacích práv. Reporting o hlasování odpadá u akcionářů, kteří obchodníkovi nedali právo hlasovat.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Splňuje obchodník kritéria § 12l odst. 6 písm. a) (okruh povinných osob)?
+- [ ] Překračuje podíl hlasovacích práv v dané společnosti práh 5 % dle odst. 3 (správný výpočet včetně práv, jež nelze vykonat)?
+- [ ] Byly zveřejněny všechny složky dle odst. 1 (podíl práv, popis hlasování, využití proxy advisorů, pokyny)?
+- [ ] Uplatní se výjimka odst. 2 — a jen vůči akcionářům bez práva hlasovat (bez výslovných pokynů po pořadu jednání)?
+- [ ] Byla použita šablona dle předpisu EU navazujícího na čl. 52 nařízení 2019/2033 (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o splnění kritérií § 12l odst. 6 písm. a), evidence hlasovacích práv v členění dle států a odvětví, zápisy z valných hromad a hlasování, smlouvy s akcionáři o oprávnění hlasovat, doklad o uveřejnění dle čl. 46 IFR.
+
 ---
 
 ### § 16b — Podávání zpráv podle jednotlivých zemí (CbCR)
@@ -432,6 +802,43 @@ Prahová hodnota v odst. 3 (**5 % hlasovacích práv**) omezuje povinnost na sit
 Smyslem CbCR je veřejná kontrola toho, zda finanční skupiny vykazují zisky a daně v zemích odpovídajících jejich skutečné ekonomické aktivitě — nikoli v daňově výhodných jurisdikcích bez ekonomické substance. Povinnost proto zahrnuje i **veřejné podpory** (písm. f)), které jsou z pohledu antisubvenčního práva EU a veřejného zájmu relevantní.
 
 Informace se uveřejňují jako **příloha k (konsolidované) účetní závěrce** — tj. v dokumentu, jenž podléhá auditu a je povinně zveřejňován v obchodním rejstříku dle § 21a zákona o účetnictví.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník O má dceřinou společnost, která je finanční institucí dle čl. 4 odst. 1 bodu 26 nařízení (EU) č. 575/2013, usazenou v jiném členském státě, a pobočku ve třetí zemi. O sestavuje konsolidovanou účetní závěrku, avšak v její příloze neuvede CbCR údaje (činnosti a jejich umístění, čistý obrat, počet pracovníků, zisk/ztrátu před zdaněním, zaplacenou daň, získané veřejné podpory) v členění podle zemí. Dohledový orgán a uživatelé závěrky postrádají geografický rozpad. Důkazy: struktura skupiny a doklad o tom, že dceřiná společnost je finanční institucí dle CRR, konsolidovaná účetní závěrka a její příloha, podklady o obratu, pracovnících, zisku a dani v jednotlivých zemích, přehled získaných veřejných podpor.
+
+**2. Právní otázka.** Byl O povinen dle § 16b zveřejnit CbCR údaje v členění podle zemí v příloze konsolidované účetní závěrky, a v jakém rozsahu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 16b odst. 1 (rozsah CbCR údajů a okruh povinných osob), odst. 2 (uveřejnění v příloze (konsolidované) účetní závěrky).
+- *Související ustanovení téhož zákona:* § 16 odst. 1 (výroční zpráva a auditovaná závěrka), § 17 (záznamy).
+- *Související předpisy:* čl. 89 směrnice 2013/36/EU (CRD IV); čl. 4 odst. 1 bod 26 nařízení (EU) č. 575/2013 (definice finanční instituce); § 36b zákona č. 21/1992 Sb. (obdobná povinnost bank); § 21a zákona č. 563/1991 Sb. (zveřejnění závěrky).
+- *Judikatura:* nosný závěr — účelem CbCR je veřejná kontrola souladu vykazovaných zisků a daní se skutečnou ekonomickou aktivitou v jednotlivých zemích; povinnost dopadá na skupiny s mezinárodní finanční strukturou. Spisové značky neuvádím.
+
+**4. Subsumpce.** O má dceřinou finanční instituci dle CRR v jiném členském státě i pobočku ve třetí zemi — znak „pobočka nebo kontrolovaná osoba, která je finanční institucí" je naplněn. Tím vzniká povinnost zveřejnit údaje dle odst. 1 písm. a)–f) v členění podle zemí. Dle odst. 2 musí být informace v příloze konsolidované účetní závěrky (sestavuje-li se). Jejich vynechání je porušením. Rozsah zahrnuje i získané veřejné podpory (písm. f)), které O opomněl.
+
+**5. Řešení.** O porušil § 16b tím, že do přílohy konsolidované závěrky nezahrnul CbCR údaje v geografickém členění. Procesně O odpovídá za správní delikt (§ 157 a násl.) a vystavuje se výtkám auditora a rejstříkového soudu. Náprava: doplnit do přílohy úplný geografický rozpad včetně veřejných podpor a zajistit jeho auditní ověření. Alternativní výklad (postačí agregované údaje bez členění dle zemí) je vyloučen výslovným zněním odst. 1 („v členění podle … státu").
+
+**6. Varianty.** (a) Dceřiná společnost by nebyla finanční institucí dle čl. 4 odst. 1 bodu 26 CRR (např. nefinanční holding) — povinnost CbCR dle § 16b by nevznikla. (b) O by byl bankou — povinnost CbCR by plnil dle § 36b zákona o bankách (obsahově shodná), nikoli dle ZPKT.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „údaje jsou citlivé/konkurenční".* O namítne obchodní citlivost geografického rozpadu. Neutralizace: zákon ukládá zveřejnění bezpodmínečně; veřejný zájem na daňové transparentnosti převažuje a výjimka pro citlivost není dána.
+- *Protiargument „postačí konsolidovaný souhrn".* O tvrdí dostatečnost agregátu. Neutralizace: odst. 1 výslovně vyžaduje členění podle jednotlivých zemí, nikoli souhrn.
+- *Slabé místo:* správné přiřazení činností, obratu a daní k jednotlivým jurisdikcím je metodicky náročné; chybná alokace zkresluje smysl CbCR.
+
+#### H. Praktický závěr
+
+§ 16b ukládá obchodníkům s mezinárodní finanční strukturou zveřejnit CbCR údaje (činnosti, obrat, pracovníci, zisk/ztráta, daň, veřejné podpory) v členění podle zemí v příloze (konsolidované) účetní závěrky. Cílem je veřejná kontrola souladu zisků a daní se skutečnou aktivitou.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má obchodník pobočku nebo kontrolovanou osobu, která je finanční institucí dle čl. 4 odst. 1 bodu 26 CRR, v jiném státě?
+- [ ] Jsou zveřejněny všechny údaje dle odst. 1 písm. a)–f) včetně získaných veřejných podpor?
+- [ ] Je rozpad proveden v členění podle jednotlivých členských států a třetích zemí (nikoli agregovaně)?
+- [ ] Jsou údaje v příloze (konsolidované) účetní závěrky a podléhají auditu (odst. 2)?
+- [ ] Nejde o banku, na niž dopadá § 36b zákona o bankách namísto § 16b ZPKT?
+
+**Typicky rozhodné důkazy / podklady:** struktura skupiny a doklad o postavení dceřiné osoby jako finanční instituce dle CRR, konsolidovaná účetní závěrka a její příloha, podklady o obratu, pracovnících, zisku a dani po zemích, přehled získaných veřejných podpor.
 
 ---
 
@@ -495,6 +902,43 @@ Oddělený od odst. 5 režim: **smluvní dokumentace** (rámcové smlouvy, podm�
 
 Obdobně jako § 16 odst. 5 i § 17 odst. 7 výslovně opravňuje obchodníka k vedení rodných čísel — zde specificky pro zákazníky a **účastníky obchodu**. Kategorie „účastníků obchodu" je širší než zákazníci: zahrnuje protistrany, agenty, zástupce atp.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Retailový zákazník K v telefonickém hovoru s obchodníkem O zadá pokyn, který nakonec není proveden (cena se mezitím změnila a obchod nevznikl). Část obchodního týmu O navíc komunikuje s klienty o pokynech přes soukromé mobily a aplikace, které O technicky nenahrává. Po 4 letech a 8 měsících od události vznikne spor o obsah původního pokynu a K žádá záznam hovoru; O sděluje, že hovor nebyl nahrán (šlo o soukromé zařízení) a starší smluvní dokumentaci již skartoval. Důkazy: rozsah a kvalita nahrávek telefonátů a elektronické komunikace, IT politika k zákazu soukromých zařízení, doklady o lhůtách uchování, smluvní dokumentace ke vztahu O–K.
+
+**2. Právní otázka.** Porušil O § 17 tím, že (i) nenahrál telefonickou komunikaci o (nakonec neuskutečněném) pokynu, (ii) umožnil služební komunikaci přes nenahrávaná soukromá zařízení a (iii) neuchoval záznamy a smluvní dokumentaci po zákonem stanovenou dobu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 17 odst. 1 (funkční record-keeping), odst. 2 (nahrávání telefonátů/komunikace včetně neuskutečněných obchodů), odst. 3 (alternativní prostředky a rovnocennost), odst. 4 (přiměřené kroky, zákaz nenahrávaných soukromých zařízení), odst. 5 (lhůta 5, výjimečně 7 let), odst. 6 (smluvní dokumentace po dobu trvání smlouvy), odst. 7 (rodná čísla).
+- *Související ustanovení téhož zákona:* § 4 odst. 2 (přijetí/předání a provedení pokynu), § 16 odst. 3 (transaction reporting), § 15l a násl. (best execution — záznamy jako důkaz), § 157 a násl.
+- *Související předpisy:* čl. 16 odst. 6–7 MiFID II; čl. 35, 43, 56, 58 a čl. 72–76 nařízení (EU) 2017/565; nařízení (EU) č. 596/2014 (MAR) — integrita trhu; MiFIR.
+- *Judikatura:* nosný závěr — profesionál nese důkazní břemeno o obsahu pokynu a o splnění svých povinností; absence záznamu jde k jeho tíži. Spisové značky neuvádím.
+
+**4. Subsumpce.** Dle odst. 2 věty druhé je třeba nahrávat i komunikaci, jejímž účelem bylo uzavření obchodu, byť k němu nedošlo — nenahrání hovoru o neuskutečněném pokynu je porušením. Dle odst. 4 písm. b) měl O zabránit služební komunikaci přes soukromá nenahrávaná zařízení; jejich tolerování porušuje povinnost „přiměřených kroků". Dle odst. 5 musí být záznamy uchovány alespoň 5 let (ČNB může prodloužit na 7) — skartace po 4 letech 8 měsících je předčasná. Smluvní dokumentace dle odst. 6 se uchovává po celou dobu trvání smlouvy, nikoli jen 5 let.
+
+**5. Řešení.** O porušil odst. 2, 4 i 5 (a potenciálně odst. 6). Procesně O odpovídá za správní delikt (§ 157 a násl.) a v civilním sporu nese důsledky chybějícího záznamu (důkazní břemeno o obsahu pokynu jde k jeho tíži). Náprava: zavést úplné nahrávání relevantní telefonické a elektronické komunikace (vč. pokusných transakcí), IT politiku zakazující nenahrávaná soukromá zařízení a režim uchování min. 5 let (smluvní dokumentace po dobu trvání smlouvy). Alternativní výklad (stačí nahrávat jen realizované obchody) odporuje výslovnému znění odst. 2.
+
+**6. Varianty.** (a) Pokyn by K zadal e-mailem zachyceným na trvalém nosiči (odst. 3) — povinnost záznamu by byla splněna i bez telefonní nahrávky a obsah pokynu by byl doložitelný. (b) ČNB by v odůvodněném případě (probíhající šetření) rozhodla o prodloužení lhůty na 7 let — skartace i po 5 letech by byla porušením.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „obchod nevznikl, netřeba nahrávat".* O namítne, že nahrávat je třeba jen realizované obchody. Neutralizace: odst. 2 věta druhá výslovně pokrývá i komunikaci směřující k obchodu, který nevznikl.
+- *Protiargument „soukromé zařízení nelze ovládat".* O tvrdí nemožnost kontroly soukromých telefonů. Neutralizace: odst. 4 písm. b) ukládá takové komunikaci zabránit (zákaz BYOD bez možnosti záznamu) — jde o organizační, ne technickou nemožnost.
+- *Slabé místo:* hranice „přiměřených kroků" (odst. 4) je flexibilní; rozsah povinnosti nahrávat se posuzuje dle konkrétních okolností a může být sporný.
+
+#### H. Praktický závěr
+
+§ 17 je páteří record-keepingu: obchodník vede záznamy dostatečné pro dohled, nahrává relevantní telefonickou a elektronickou komunikaci (i u neuskutečněných obchodů), brání nenahrávaným soukromým zařízením, uchovává záznamy min. 5 (výjimečně 7) let a smluvní dokumentaci po dobu trvání smlouvy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou záznamy dostatečné k tomu, aby z nich ČNB rekonstruovala konkrétní obchodní případ (odst. 1)?
+- [ ] Je nahrávána telefonická a elektronická komunikace o pokynech, včetně případů, kdy obchod nevznikl (odst. 2)?
+- [ ] Existuje IT politika bránící služební komunikaci přes nenahrávaná soukromá zařízení (odst. 4)?
+- [ ] Jsou záznamy uchovávány alespoň 5 let (a 7 let, rozhodla-li tak ČNB), smluvní dokumentace po dobu trvání smlouvy (odst. 5 a 6)?
+- [ ] Jsou alternativní pokyny (e-mail, fax, zápis z jednání) zachyceny na trvalém nosiči jako rovnocenné (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** nahrávky telefonátů a archiv elektronické komunikace, zápisy z osobních jednání na trvalém nosiči, IT/komunikační politika a doklad o jejím vynucování, evidence lhůt uchování, smluvní (rámcová) dokumentace ke vztahu se zákazníkem.
+
 ---
 
 ## Oddíl 9 — Systematický internalizátor
@@ -523,6 +967,43 @@ Zákon rozlišuje dvě cesty ke statutu SI:
 
 Zákon výslovně říká „**evropský** obchodník" — statut SI a s ním spojené povinnosti (§ 17b ZPKT, pre-trade transparency dle MiFIR čl. 14–17) se vztahují jen na obchodníky s MiFID II povolením, nikoli na třetí-státní subjekty.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník O obchoduje pravidelně na vlastní účet mimo obchodní systém při provádění pokynů zákazníků v akciích podle čl. 3 odst. 1 MiFIR. Frekvence a objem těchto OTC obchodů dosáhnou prahových hodnot RTS 17 (nařízení 2017/567), avšak O sám sebe za systematického internalizátora nepovažuje a neplní povinnosti pre-trade transparency dle MiFIR. Dohled posuzuje, zda O statut SI naplnil kvantitativním kritériem dle písm. a). Důkazy: data o frekvenci a objemu OTC obchodů na vlastní účet, srovnání s prahovými hodnotami RTS 17, doklad o povolení O dle MiFID II, evidence dotčených nástrojů dle čl. 3 odst. 1 MiFIR.
+
+**2. Právní otázka.** Naplnil O definici systematického internalizátora dle § 17a písm. a) automaticky překročením prahových hodnot, aniž se k režimu dobrovolně přihlásil?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 17a — definice SI; písm. a) kvantitativní kritérium (organizovaně, často a systematicky na vlastní účet mimo obchodní systém), písm. b) dobrovolná volba.
+- *Související ustanovení téhož zákona:* § 17b (oznamovací povinnost), § 2 odst. 1 písm. a) (evropský obchodník), § 4 odst. 2 písm. b) (provedení pokynů), § 73 a násl. (obchodní systémy — pro odlišení).
+- *Související předpisy:* čl. 4 odst. 1 bod 20 MiFID II; čl. 13–18 nařízení (EU) č. 600/2014 (MiFIR), zejm. pre-trade transparency SI; čl. 3 odst. 1 MiFIR (vymezení nástrojů); RTS 17 (nařízení 2017/567) — prahové hodnoty.
+- *Judikatura:* nosný závěr — statut SI plyne ze zákonné definice (objektivní naplnění kvantitativních kritérií), nikoli z rozhodnutí orgánu dohledu; s ním automaticky vznikají transparentnostní povinnosti. Spisové značky neuvádím.
+
+**4. Subsumpce.** Statut SI dle písm. a) vzniká objektivně, je-li obchodování „organizované, časté a systematické" na vlastní účet mimo obchodní systém v nástrojích dle čl. 3 odst. 1 MiFIR a jsou-li dosaženy prahové hodnoty RTS 17. O je evropským obchodníkem (znak splněn) a jeho OTC obchody prahy překročily (znak frekvence/objemu splněn). O se přitom neprovozuje obchodní systém (znak „aniž provozuje trh" splněn). Statut SI tedy vznikl ex lege bez ohledu na sebevnímání O — a s ním povinnosti pre-trade transparency dle MiFIR.
+
+**5. Řešení.** O je systematickým internalizátorem dle písm. a) a měl plnit povinnosti SI (vč. zveřejňování závazných kotací dle MiFIR) a oznámit zahájení činnosti dle § 17b. Jeho nečinnost zakládá porušení a riziko sankce (§ 157 a násl.). Procesně O musí průběžně měřit frekvenci a objem OTC obchodů vůči prahům RTS 17 a při jejich překročení režim SI aktivovat. Alternativní výklad (statut SI až po rozhodnutí ČNB) je vyloučen — zákon i MiFID II váží statut na definici, nikoli na správní akt.
+
+**6. Varianty.** (a) Objem a frekvence OTC obchodů by prahy RTS 17 nedosáhly — statut SI dle písm. a) by nevznikl, ledaže by se O k němu dobrovolně přihlásil dle písm. b). (b) O by byl třetí-státním subjektem bez MiFID II povolení — definice SI by se na něj nevztahovala (zákon vyžaduje „evropského" obchodníka).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nepřihlásil jsem se, nejsem SI".* O namítne absenci dobrovolné volby. Neutralizace: písm. a) zakládá statut objektivně překročením prahů; dobrovolná volba (písm. b)) je jen alternativní cesta.
+- *Protiargument „prahy nebyly dosaženy".* Spornost dosažení kvantitativního kritéria. Neutralizace: doložit data o frekvenci a objemu vůči RTS 17 za rozhodné období.
+- *Slabé místo:* měření „organizovaně, často a systematicky" závisí na kalibraci prahů RTS 17, které se periodicky přepočítávají; zastaralé hodnoty zkreslují posouzení.
+
+#### H. Praktický závěr
+
+§ 17a definuje systematického internalizátora dvojím způsobem: objektivním překročením prahových hodnot OTC obchodování na vlastní účet (písm. a)) nebo dobrovolnou volbou (písm. b)). Statut vzniká ze zákona a aktivuje transparentnostní povinnosti dle MiFIR.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o evropského obchodníka (povolení MiFID II), nikoli třetí-státní subjekt?
+- [ ] Obchoduje na vlastní účet mimo obchodní systém v nástrojích dle čl. 3 odst. 1 MiFIR, aniž provozuje trh?
+- [ ] Dosahuje frekvence a objem OTC obchodů prahových hodnot RTS 17 (nařízení 2017/567)?
+- [ ] Nebyla zvolena dobrovolná cesta dle písm. b) (i bez dosažení prahů)?
+- [ ] Plní obchodník navazující povinnosti SI (pre-trade transparency dle MiFIR a oznámení dle § 17b)?
+
+**Typicky rozhodné důkazy / podklady:** data o frekvenci a objemu OTC obchodů na vlastní účet, srovnání s prahovými hodnotami RTS 17, evidence dotčených nástrojů dle čl. 3 odst. 1 MiFIR, doklad o povolení dle MiFID II, případná volba režimu SI.
+
 ---
 
 ### § 17b — Oznamovací povinnost systematického internalizátora
@@ -534,6 +1015,43 @@ Zákon výslovně říká „**evropský** obchodník" — statut SI a s ním sp
 **Výklad:**
 
 Oznamovací povinnost je průchodní normou: obchodník, který dosáhne prahových hodnot (nebo je naopak podkročí) nebo se dobrovolně zaregistruje/odregistruje, informuje ČNB. Zákon nevyžaduje **souhlas** ČNB, pouze **oznámení** — statut SI plyne ze zákonné definice nebo z volby obchodníka, nikoli z rozhodnutí orgánu dohledu. ČNB pak předává informace ESMA pro centrální registr SI vedený na úrovni EU (MiFIR čl. 18 odst. 9). Přeshraniční aspekty statutu SI popisuje [05-cast2-preshranicni-investicni-zprostredkovatel.md](05-cast2-preshranicni-investicni-zprostredkovatel.md).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník O překročí prahové hodnoty RTS 17 a stane se ze zákona systematickým internalizátorem (§ 17a). O zahájí činnost SI, ale ČNB to neoznámí; oznámení podá až po několika týdnech a navíc pouze telefonicky. O několik měsíců poté klesne pod prahy a činnost SI ukončí, opět bez oznámení. Důkazy: datum dosažení/podkročení prahů a zahájení/ukončení činnosti SI, forma a datum případného oznámení ČNB, doklad o předání informace ESMA do centrálního registru.
+
+**2. Právní otázka.** Splnil O oznamovací povinnost dle § 17b ohledně zahájení i ukončení činnosti SI co do obsahu, formy (písemně) a včasnosti (bez zbytečného odkladu)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 17b — písemné oznámení ČNB o zahájení i ukončení činnosti SI bez zbytečného odkladu.
+- *Související ustanovení téhož zákona:* § 17a (definice SI a vznik statutu ex lege), § 16 odst. 6 (jiná adhoc hlášení), § 157 a násl.
+- *Související předpisy:* čl. 18 odst. 9 nařízení (EU) č. 600/2014 (MiFIR) — centrální registr SI vedený ESMA; čl. 4 odst. 1 bod 20 MiFID II.
+- *Judikatura:* nosný závěr — oznamovací (notifikační) povinnost vůči orgánu dohledu je splněna jen řádnou formou a včas; statut SI nezávisí na souhlasu orgánu, pouze na oznámení. Spisové značky neuvádím.
+
+**4. Subsumpce.** § 17b ukládá oznámit jak zahájení, tak ukončení činnosti SI, a to (i) písemně a (ii) bez zbytečného odkladu. O zahájení oznámil opožděně a navíc telefonicky — není splněna forma (písemně) ani včasnost. Ukončení činnosti O neoznámil vůbec — povinnost dle § 17b se přitom vztahuje i na ukončení. Statut SI vznikl ex lege (§ 17a), oznámení jej nekonstituuje, ale jeho absence/vadnost je samostatným porušením.
+
+**5. Řešení.** O porušil § 17b při zahájení (forma a včasnost) i při ukončení (úplná absence oznámení). Procesně O odpovídá za správní delikt (§ 157 a násl.). Náprava: zavést proces sledování prahů a automatické písemné notifikace ČNB při překročení i podkročení. Důsledkem řádného oznámení je rovněž předání informace ESMA do centrálního registru SI. Alternativní výklad (postačí jakákoli forma oznámení) neobstojí — zákon výslovně žádá písemnou formu.
+
+**6. Varianty.** (a) O by oznámil zahájení i ukončení písemně a bez zbytečného odkladu — povinnost dle § 17b by byla splněna a ČNB by informaci předala ESMA. (b) O by se k režimu SI přihlásil dobrovolně dle § 17a písm. b) — i tehdy by oznamovací povinnost dle § 17b platila (zahájení i ukončení).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „statut SI plyne ze zákona, oznámení netřeba".* O namítne automatičnost statutu. Neutralizace: vznik statutu ex lege nevylučuje samostatnou oznamovací povinnost dle § 17b; jde o dvě různé roviny.
+- *Protiargument „telefonické oznámení postačí".* O tvrdí neformálnost. Neutralizace: § 17b výslovně vyžaduje písemnou formu.
+- *Slabé místo:* určení přesného okamžiku zahájení/ukončení činnosti SI (a tím počátku běhu „bez zbytečného odkladu") je skutkově sporné a závisí na sledování prahů.
+
+#### H. Praktický závěr
+
+§ 17b ukládá obchodníkovi písemně a bez zbytečného odkladu oznámit ČNB zahájení i ukončení činnosti systematického internalizátora. ČNB informaci předává do centrálního registru SI vedeného ESMA. Statut SI nevzniká souhlasem, ale oznámení je samostatnou povinností.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo oznámeno jak zahájení, tak ukončení činnosti SI?
+- [ ] Bylo oznámení učiněno písemně (nikoli jen telefonicky)?
+- [ ] Bylo podáno bez zbytečného odkladu po zahájení/ukončení činnosti?
+- [ ] Existuje proces sledování prahů RTS 17 spouštějící notifikaci?
+- [ ] Byla informace promítnuta do centrálního registru SI (MiFIR čl. 18 odst. 9)?
+
+**Typicky rozhodné důkazy / podklady:** datum dosažení a podkročení prahů, datum zahájení a ukončení činnosti SI, forma a datum oznámení ČNB, doklad o předání informace ESMA.
 
 ---
 
@@ -581,6 +1099,43 @@ Zákon ukládá obchodníkovi provádějícímu algoritmické obchodování pět
 
 Zákon výslovně ukládá povinnost **plánů zachování provozu IKT** (business continuity management) v souladu s čl. 11 DORA. Tím zákon propojuje kontinuitu obchodní činnosti s regulatorním rámcem digitální odolnosti — obchodník musí mít plán nejen pro selhání hardware nebo software, ale i pro kybernetické incidenty.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník O provozuje algoritmickou strategii bez dostatečných prahových hodnot a limitů pro obchodování (odst. 1 písm. b)) a bez funkčního filtru chybných pokynů. V důsledku chyby v parametrizaci („fat finger"/runaway algoritmus) systém vygeneruje záplavu pokynů, které krátkodobě naruší řádné fungování trhu. O navíc nemá plán reakce a obnovy IKT dle čl. 11 DORA a obchodování nelze rychle zastavit. Důkazy: popis algoritmické strategie a její parametrizace, nastavení limitů a prahových hodnot, logy o vygenerovaných pokynech a tržním dopadu, dokumentace testování systému, BCM/BCP plán a doklad o jeho zavedení.
+
+**2. Právní otázka.** Porušil O organizační požadavky dle § 17c (odolnost, limity, prevence chybných pokynů, testování a BCM dle DORA) tím, že jeho systém umožnil narušení trhu a chyběl plán obnovy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 17c odst. 1 písm. a)–e) (systémové požadavky: odolnost/kapacita dle DORA kap. II, limity, prevence chybných pokynů a narušení trhu, soulad s MAR a pravidly systému, testování a sledování dle DORA kap. IV), odst. 2 (BCM/BCP dle čl. 11 DORA), odst. 3 (odkaz na nařízení 2017/589).
+- *Související ustanovení téhož zákona:* § 17d (povinnosti vůči orgánům dohledu), § 17e (HFT), § 17f (tvorba trhu), § 17j (rozšíření na jiné osoby), § 17 (záznamy), § 157 a násl.
+- *Související předpisy:* čl. 17 odst. 1 a 2 MiFID II; nařízení (EU) 2022/2554 (DORA), kap. II (čl. 5–14) a IV (čl. 24–27), čl. 11 (BCM); nařízení (EU) 2017/589 (RTS 6) — organizační požadavky; nařízení (EU) č. 596/2014 (MAR).
+- *Judikatura:* nosný závěr — provozovatel automatizovaného obchodního systému odpovídá za zavedení účinných kontrol rizik bránících narušení trhu; odpovědnost je objektivní a nezávisí na úmyslu. Spisové značky neuvádím.
+
+**4. Subsumpce.** Odst. 1 ukládá pět kumulativních požadavků. O nenaplnil písm. b) (chybějící přiměřené limity/prahy), písm. c) (systém nebránil chybným pokynům a narušení trhu) a písm. e) (nedostatečné testování a sledování dle DORA kap. IV). Současně chybí BCM/BCP dle odst. 2 a čl. 11 DORA. Narušení řádného fungování trhu je přímým projevem absence kontrol dle písm. c). Tím jsou naplněna porušení několika znaků § 17c kumulativně.
+
+**5. Řešení.** O porušil § 17c (odst. 1 písm. b), c), e) a odst. 2). Procesně O odpovídá za správní delikt (§ 157 a násl.) a vystavuje se i odpovědnosti za škodu a opatřením provozovatele obchodního systému (odpojení). Náprava: zavést přiměřené limity a prahy, filtry chybných pokynů, kill-functionality, úplné testování (vč. stress/conformance testů dle RTS 6) a plán reakce a obnovy IKT dle DORA. Alternativní výklad (postačí dílčí kontroly) neobstojí — požadavky odst. 1 jsou kumulativní.
+
+**6. Varianty.** (a) O by měl funkční limity a filtr chybných pokynů, ale algoritmus by selhal navzdory řádnému testování v důsledku externí mimořádné události — odpovědnost by se posuzovala mírněji, prokáže-li O splnění všech požadavků odst. 1 a 2. (b) Osoba by nebyla obchodníkem, ale účastníkem trhu dle § 4b odst. 1 — § 17c by se použil obdobně dle § 17j.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „šlo o ojedinělou softwarovou chybu".* O namítne nahodilost incidentu. Neutralizace: § 17c ukládá preventivní kontroly (limity, filtry, testování); absence kontroly, nikoli samotná chyba, zakládá porušení.
+- *Protiargument „DORA je samostatný předpis, netýká se MiFID transpozice".* O zpochybní provázání. Neutralizace: § 17c odst. 1 písm. a), e) a odst. 2 výslovně odkazují na DORA; jde o přímou aplikaci vedle MiFID II.
+- *Slabé místo:* rozsah „přiměřených" systémů a kontrol je posuzován podle povahy a rozsahu činnosti; hranice přiměřenosti je výkladově sporná.
+
+#### H. Praktický závěr
+
+§ 17c ukládá obchodníkovi provozujícímu algoritmické obchodování zavést účinné systémy a kontroly rizik (odolnost a kapacita dle DORA, limity a prahy, prevenci chybných pokynů a narušení trhu, soulad s MAR, plné testování) a plány zachování provozu IKT dle čl. 11 DORA. Požadavky jsou kumulativní.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou obchodní systémy odolné a kapacitně dostatečné dle DORA kap. II (písm. a))?
+- [ ] Jsou zavedeny přiměřené prahové hodnoty a limity pro obchodování (písm. b))?
+- [ ] Brání systém chybným pokynům a narušení/ohrožení řádného fungování trhu (písm. c)) a souladu s MAR a pravidly systému (písm. d))?
+- [ ] Byl systém plně přezkoušen a je průběžně sledován dle DORA kap. IV (písm. e))?
+- [ ] Existuje plán zachování provozu a reakce a obnovy IKT dle čl. 11 DORA (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** popis algoritmické strategie a parametrizace, nastavení limitů a prahů, logy pokynů a tržního dopadu, dokumentace testování (vč. conformance/stress testů dle RTS 6), BCM/BCP a plán reakce a obnovy IKT.
+
 ---
 
 ### § 17d — Povinnosti vůči orgánům dohledu ve vztahu k algoritmickému obchodování
@@ -615,6 +1170,43 @@ Odst. 3 zakládá **povinnost ČNB sdílet informace** s orgány dohledu jiných
 
 Odst. 4 je zvláštní record-keeping povinností pro oblast algoritmického obchodování — záznamy musí být vedeny ke všem záležitostem § 17c a § 17d odst. 1–2.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník O s povolením ČNB zahájí algoritmické obchodování jako účastník regulovaného trhu provozovaného v jiném členském státě EU. O zahájení obchodování oznámí pouze ČNB, nikoli orgánu dohledu hostitelského státu, který udělil povolení provozovateli daného trhu. Když ČNB i hostitelský orgán následně žádají popis strategií, parametrů a testování (odst. 2), O poskytne jen kusé informace a nevede k těmto záležitostem dostatečné záznamy (odst. 4). Důkazy: doklad o tom, ve kterém systému a státě O algoritmicky obchoduje, oznámení ČNB i hostitelskému orgánu (či jejich absence), poskytnuté popisy strategií/parametrů/testování, záznamy dle odst. 4.
+
+**2. Právní otázka.** Splnil O povinnosti dle § 17d — dvojí oznámení (ČNB i hostitelský orgán dle odst. 1), poskytnutí informací na žádost (odst. 2) a vedení dostatečných záznamů (odst. 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 17d odst. 1 (dvojí oznamovací povinnost), odst. 2 (informace na žádost: strategie, parametry/limity, kontrolní postupy, testování, jiné), odst. 3 (sdílení informací ČNB), odst. 4 (record-keeping k § 17c a odst. 1–2).
+- *Související ustanovení téhož zákona:* § 17c (organizační požadavky), § 17 (obecné záznamy), § 157 a násl.; zákon č. 15/1998 Sb. (dohledová spolupráce ČNB).
+- *Související předpisy:* čl. 17 odst. 2 MiFID II; čl. 79 MiFID II (spolupráce orgánů dohledu); nařízení (EU) 2017/589 (RTS 6).
+- *Judikatura:* nosný závěr — přeshraniční algoritmické obchodování zakládá notifikační povinnost vůči domovskému i hostitelskému orgánu; informační povinnost na žádost je proaktivním dohledovým nástrojem. Spisové značky neuvádím.
+
+**4. Subsumpce.** Odst. 1 ukládá oznámit zahájení algoritmického obchodování ČNB i orgánu dohledu hostitelského státu, jemuž podléhá provozovatel obchodního systému. O oznámil jen ČNB — povinnost dvojího oznámení není splněna. Odst. 2 zakládá povinnost poskytnout na žádost popis strategií, parametrů, kontrolních postupů a testování; kusé informace tuto povinnost nenaplňují. Odst. 4 vyžaduje dostatečné záznamy ke všem těmto záležitostem; jejich absence je samostatným porušením.
+
+**5. Řešení.** O porušil odst. 1, 2 i 4. Procesně O odpovídá za správní delikt (§ 157 a násl.). Náprava: oznámit činnost i hostitelskému orgánu, poskytnout úplné informace dle odst. 2 a zavést record-keeping pokrývající § 17c a § 17d odst. 1–2. ČNB pak dle odst. 3 sdílí získané informace s hostitelským orgánem. Alternativní výklad (postačí oznámení ČNB) je vyloučen výslovným zněním odst. 1.
+
+**6. Varianty.** (a) O by obchodoval algoritmicky výhradně na trhu provozovaném subjektem s povolením ČNB (tuzemský provozovatel) — povinnost oznámit „jinému členskému státu" by se neaktivovala, oznámení ČNB by postačilo. (b) O by sice oznámil oběma orgánům, ale nevedl by záznamy dle odst. 4 — porušení by trvalo jen v rovině record-keepingu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „stačí oznámit domovskému orgánu".* O namítne, že ČNB je jeho dohledem. Neutralizace: odst. 1 výslovně ukládá oznámit i hostitelskému orgánu provozovatele systému.
+- *Protiargument „informace jsou citlivé know-how".* O odmítne sdělit strategie. Neutralizace: odst. 2 zakládá povinnost je poskytnout na žádost; dohledový orgán je vázán mlčenlivostí, ochrana know-how plnění nevylučuje.
+- *Slabé místo:* rozsah „jiných informací" dle odst. 2 písm. e) je otevřený; hranice požadovatelného je výkladově sporná.
+
+#### H. Praktický závěr
+
+§ 17d ukládá obchodníkovi provozujícímu algoritmické obchodování dvojí oznámení (ČNB i hostitelský orgán), poskytování informací o strategiích, parametrech a testování na žádost a vedení dostatečných záznamů. ČNB získané informace sdílí s hostitelským orgánem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo zahájení algoritmického obchodování oznámeno ČNB i orgánu dohledu hostitelského státu provozovatele systému (odst. 1)?
+- [ ] Jsou na žádost poskytnuty popis strategií, parametry/limity, kontrolní postupy a podrobnosti testování (odst. 2)?
+- [ ] Vede obchodník dostatečné záznamy ke všem záležitostem § 17c a § 17d odst. 1–2 (odst. 4)?
+- [ ] Je nastaven mechanismus sdílení informací mezi ČNB a hostitelským orgánem (odst. 3)?
+- [ ] Jsou informace připraveny ve struktuře odpovídající RTS 6 (nařízení 2017/589)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o systému a státě algoritmického obchodování, oznámení ČNB i hostitelskému orgánu, poskytnuté popisy strategií/parametrů/testování, záznamy dle odst. 4.
+
 ---
 
 ### § 17e — Algoritmické obchodování s vysokou frekvencí (HFT)
@@ -630,6 +1222,43 @@ Odst. 4 je zvláštní record-keeping povinností pro oblast algoritmického obc
 **HFT (high-frequency trading)** je podmnožinou algoritmického obchodování charakterizovanou extrémně vysokou rychlostí a objemem pokynů, velmi krátkými holding periods a absencí přenosového rizika přes noc. Pro HFT zákon zavádí **přísnější record-keeping**: záznamy musí být vedeny ve **schválené podobě** (tj. ve formátu schváleném ČNB nebo stanoveném nařízením 2017/589) a musí zachycovat **časové pořadí** každého zadaného, zrušeného i splněného pokynu a kotace.
 
 Smyslem odst. 1 je umožnit ČNB a Finanční analytické jednotce (FAÚ) rekonstruovat každý obchodní příkaz HFT strategie s milisekundovou přesností pro účely šetření možné manipulace trhem (spoofing, layering, quote stuffing — viz nařízení MAR čl. 12). Povinnost poskytnout záznamy „na žádost bez zbytečného odkladu" (odst. 2) zdůrazňuje, že záznamy musí být provozně dostupné ihned — long retrieval time by byl sám o sobě porušením.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník O provozuje HFT strategii a zadává obrovské objemy pokynů a kotací, z nichž velkou část okamžitě ruší. ČNB při šetření podezření na spoofing/layering (MAR čl. 12) požádá O o věrné a časově posloupné záznamy všech zadaných, zrušených i provedených pokynů a kotací. O má záznamy jen částečné, bez přesných časových razítek (sekvence není rekonstruovatelná) a poskytne je až po několika dnech. Důkazy: rozsah a formát HFT záznamů, přesnost časových razítek, doklad o „schválené podobě" záznamů, doba odezvy na žádost ČNB, evidence zadaných/zrušených/provedených pokynů a kotací.
+
+**2. Právní otázka.** Splnil O zpřísněnou record-keeping povinnost dle § 17e — vedení věrných, časově posloupných záznamů ve schválené podobě (odst. 1) a jejich poskytnutí ČNB na žádost bez zbytečného odkladu (odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 17e odst. 1 (věrné a časově posloupné záznamy všech zadaných, zrušených i provedených pokynů a kotací ve schválené podobě), odst. 2 (poskytnutí ČNB na žádost bez zbytečného odkladu).
+- *Související ustanovení téhož zákona:* § 17c (organizační požadavky algoritmického obchodování), § 17 (obecné záznamy), § 17d (informace na žádost), § 157 a násl.
+- *Související předpisy:* čl. 17 odst. 2 MiFID II; nařízení (EU) č. 596/2014 (MAR), zejm. čl. 12 (manipulace trhem — spoofing, layering, quote stuffing); nařízení (EU) 2017/589 (RTS 6) — formát a obsah záznamů HFT; synchronizace času (RTS 25, nařízení 2017/574).
+- *Judikatura:* nosný závěr — u HFT je rekonstruovatelnost sekvence pokynů s časovou přesností podmínkou účinného dohledu nad manipulací trhem; neúplné či opožděně dostupné záznamy maří dohled. Spisové značky neuvádím.
+
+**4. Subsumpce.** Odst. 1 vyžaduje záznamy „věrné a časově posloupné" a „ve schválené podobě" zachycující veškeré zadané, zrušené i provedené pokyny a kotace. Záznamy O bez přesných časových razítek neumožňují rekonstrukci sekvence — znak „časově posloupné" není naplněn; chybí-li schválený formát, není naplněn ani znak „schválené podoby". Odst. 2 žádá poskytnutí „bez zbytečného odkladu"; několikadenní prodleva tento standard nesplňuje (záznamy musí být provozně dostupné ihned).
+
+**5. Řešení.** O porušil § 17e odst. 1 i 2. Procesně O odpovídá za správní delikt (§ 157 a násl.) a oslabuje svou obhajobu v případném šetření manipulace trhem dle MAR. Náprava: zavést záznamový systém se synchronizovaným časem (RTS 25), úplným zachycením order lifecycle a okamžitou dostupností pro ČNB. Alternativní výklad (postačí záznamy realizovaných obchodů) je vyloučen — odst. 1 výslovně zahrnuje i zrušené pokyny a kotace.
+
+**6. Varianty.** (a) O by nebyl HFT obchodníkem, ale „pouze" algoritmickým — platil by mírnější režim § 17c a § 17d, nikoli zpřísněný § 17e. (b) O by měl úplné časově posloupné záznamy ve schváleném formátu a poskytl je ČNB obratem — povinnost by byla splněna a obhajoba proti podezření z manipulace by byla silnější.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „zrušené pokyny nejsou obchody".* O namítne, že vede záznamy o realizovaných obchodech. Neutralizace: odst. 1 výslovně zahrnuje i zrušené pokyny a kotace — právě ony jsou klíčové pro detekci spoofingu/layeringu.
+- *Protiargument „několik dní je přiměřené".* O tvrdí splnění „bez zbytečného odkladu". Neutralizace: u HFT záznamů se vyžaduje okamžitá provozní dostupnost; delší retrieval time je sám o sobě porušením.
+- *Slabé místo:* „schválená podoba" odkazuje na formát dle RTS 6 a synchronizaci času dle RTS 25; technické nedostatky (nepřesné časování) podlomí celý důkazní řetězec.
+
+#### H. Praktický závěr
+
+§ 17e ukládá HFT obchodníkovi zpřísněný record-keeping: věrné a časově posloupné záznamy všech zadaných, zrušených i provedených pokynů a kotací ve schváleném formátu, okamžitě dostupné ČNB. Slouží k rekonstrukci order lifecycle pro účely šetření manipulace trhem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o algoritmické obchodování s vysokou frekvencí (HFT) podléhající zpřísněnému režimu § 17e?
+- [ ] Zachycují záznamy veškeré zadané, zrušené i provedené pokyny a kotace (nikoli jen realizované obchody)?
+- [ ] Jsou záznamy věrné a časově posloupné s přesnou synchronizací času (RTS 25)?
+- [ ] Jsou vedeny ve schválené podobě/formátu dle RTS 6 (nařízení 2017/589)?
+- [ ] Lze je ČNB poskytnout bez zbytečného odkladu, tj. provozně ihned (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** kompletní order lifecycle logy (zadané/zrušené/provedené pokyny a kotace), doklad o synchronizaci času, specifikace schváleného formátu záznamů, evidence doby odezvy na žádost ČNB.
 
 ---
 
@@ -658,6 +1287,43 @@ Smyslem odst. 1 je umožnit ČNB a Finanční analytické jednotce (FAÚ) rekons
 Výjimka z povinnosti nepřetržitosti pro **mimořádné okolnosti** (odst. 1 písm. a)) je interpretována restriktivně — jde o extrémní tržní situace (circuit breakers, systémové výpadky), nikoli o komerční rozhodnutí obchodníka opustit trh v době volatility. Nařízení 2017/578 čl. 1–7 definuje, co se za mimořádné okolnosti považuje.
 
 Odst. 2 zakotvuje legální definici „strategie tvorby trhu" pro účely § 17f: klíčovými znaky jsou obousměrné kotace (bid + ask), závaznost, srovnatelný objem a pravidelnost/frekvence. Tato definice je důležitá pro odlišení market-makingu od jiných vlastních obchodů (proprietary trading).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník O algoritmicky obchoduje na vlastní účet a na jednom trhu zveřejňuje závazné souběžné obousměrné kotace srovnatelné velikosti v několika akciích pravidelně a často — fakticky tedy uskutečňuje strategii tvorby trhu dle odst. 2. O však neuzavřel s obchodním systémem písemnou dohodu tvůrce trhu (odst. 1 písm. b)) a v období zvýšené volatility svévolně přestane kotovat, ač nejde o mimořádné okolnosti. Důkazy: charakter kotovací činnosti (obousměrnost, závaznost, srovnatelný objem, frekvence), existence/absence písemné dohody s obchodním systémem, doklad o kontinuitě poskytování likvidity a o povaze tržní situace v době přerušení.
+
+**2. Právní otázka.** Vztahují se na O povinnosti tvůrce trhu dle § 17f (zejm. nepřetržitost a písemná dohoda), naplňuje-li jeho činnost definici strategie tvorby trhu dle odst. 2, a obstojí přerušení kotování jako „mimořádná okolnost"?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 17f odst. 1 písm. a) (nepřetržité poskytování likvidity, výjimka pro mimořádné okolnosti), písm. b) (písemná dohoda s obchodním systémem), písm. c) (systémy a kontroly plnění dohody), odst. 2 (definice strategie tvorby trhu), odst. 3 (odkaz na nařízení 2017/578).
+- *Související ustanovení téhož zákona:* § 17c (organizační požadavky), § 17e (HFT — častý překryv), § 17 (záznamy), § 157 a násl.
+- *Související předpisy:* čl. 17 odst. 3 a 4 MiFID II; nařízení (EU) 2017/578 (RTS 8) čl. 1–7 (vymezení mimořádných okolností a obsah dohody); nařízení (EU) č. 596/2014 (MAR).
+- *Judikatura:* nosný závěr — algoritmický tvůrce trhu má za privilegia (přístup, úlevy) povinnost poskytovat likviditu předvídatelně a nepřetržitě; opuštění trhu z komerčních důvodů v době volatility není mimořádnou okolností. Spisové značky neuvádím.
+
+**4. Subsumpce.** Dle odst. 2 platí, že O uskutečňuje strategii tvorby trhu, neboť zveřejňuje závazné souběžné obousměrné kotace srovnatelné velikosti pravidelně a často (znaky definice naplněny). Tím na něj dopadají povinnosti odst. 1: nepřetržité poskytování likvidity (písm. a)), písemná dohoda s obchodním systémem (písm. b)) a kontroly plnění (písm. c)). Absence dohody porušuje písm. b). Přerušení kotování v běžné volatilitě nenaplňuje „mimořádné okolnosti" dle RTS 8 — porušuje tedy písm. a).
+
+**5. Řešení.** O porušil § 17f odst. 1 písm. a) a b). Procesně O odpovídá za správní delikt (§ 157 a násl.) a vystavuje se opatřením obchodního systému. Náprava: uzavřít písemnou dohodu tvůrce trhu, zajistit nepřetržitost kotování během sjednané části obchodní doby a kontroly plnění dohody. „Mimořádné okolnosti" je nutno vykládat restriktivně (circuit breakers, systémové výpadky). Alternativní výklad (dobrovolnost market-makingu vylučuje povinnosti) neobstojí — povinnosti se aktivují naplněním definice odst. 2, nikoli sebeoznačením.
+
+**6. Varianty.** (a) O by kotoval jen jednosměrně nebo nepravidelně a nezávazně — nešlo by o strategii tvorby trhu dle odst. 2 a povinnosti odst. 1 by se neaktivovaly. (b) Přerušení kotování by nastalo při aktivaci circuit breakers / systémovém výpadku — šlo by o mimořádnou okolnost dle RTS 8 a porušení písm. a) by nevzniklo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nejsem registrovaný tvůrce trhu".* O namítne absenci formálního statutu. Neutralizace: odst. 2 stanoví, že strategie tvorby trhu se posuzuje materiálně dle znaků kotování, ne dle formálního označení.
+- *Protiargument „volatilita je mimořádná okolnost".* O ospravedlní opuštění trhu. Neutralizace: RTS 8 vykládá mimořádné okolnosti restriktivně; běžná volatilita ani komerční rozhodnutí jí nejsou.
+- *Slabé místo:* hranice mezi market-makingem a běžným proprietary tradingem (srovnatelnost objemu, pravidelnost) je skutkově sporná a vyžaduje analýzu kotovací aktivity.
+
+#### H. Praktický závěr
+
+§ 17f stanoví, že algoritmický obchodník naplňující definici strategie tvorby trhu (závazné obousměrné kotace srovnatelné velikosti pravidelně a často) musí poskytovat likviditu nepřetržitě, uzavřít písemnou dohodu s obchodním systémem a mít kontroly jejího plnění. Výjimka pro mimořádné okolnosti se vykládá restriktivně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Naplňuje kotovací činnost znaky strategie tvorby trhu dle odst. 2 (obousměrnost, závaznost, srovnatelný objem, frekvence)?
+- [ ] Existuje písemná dohoda tvůrce trhu s obchodním systémem dle písm. b)?
+- [ ] Je likvidita poskytována nepřetržitě během sjednané části obchodní doby (písm. a))?
+- [ ] Jde u přerušení o skutečně mimořádnou okolnost dle RTS 8, nebo o komerční rozhodnutí?
+- [ ] Existují systémy a kontroly zajišťující plnění dohody v každém okamžiku (písm. c))?
+
+**Typicky rozhodné důkazy / podklady:** analýza kotovací aktivity (obousměrnost, závaznost, objem, frekvence), písemná dohoda s obchodním systémem, evidence kontinuity poskytování likvidity, doklad o povaze tržní situace v době přerušení.
 
 ---
 
@@ -717,6 +1383,43 @@ Zákon ukládá obchodníkovi-poskytovateli DEA čtyři hlavní skupiny povinnos
 
 4. **Průběžná odpovědnost** (odst. 3 a 5): obchodník zůstává odpovědným za dodržování ZPKT zákazníky-uživateli DEA; odpovědnost je smluvně podložena písemnou DEA dohodou. Tato odpovědnost je analogická odpovědnosti za vázaného zástupce (§ 32 ZPKT), avšak zákon ji formuluje jako přímou odpovědnost obchodníka za zákaznické chování v obchodním systému.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník O poskytuje zákazníkovi Z sponsored access (SA) do obchodního systému — Z odesílá pokyny přímo pod trading ID obchodníka O. O při onboardingu Z neposoudil jeho vhodnost, nenastavil žádné předem definované obchodní a úvěrové limity a obchodování Z nesleduje v reálném čase. Z následně odešle sérii pokynů, které naruší řádné fungování trhu a vykazují znaky zneužití trhu (MAR). O nemá kill-switch a nemá se Z písemnou DEA dohodu. Důkazy: posouzení vhodnosti Z a nastavení limitů, monitorovací logy v reálném čase, existence/absence kill-switch funkcionality, písemná DEA dohoda, doklad o ohlášení podezřelého obchodování ČNB.
+
+**2. Právní otázka.** Porušil O organizační požadavky a odpovědnost dle § 17g (posouzení vhodnosti a limity, monitoring, kontroly rizik vč. kill-switch, písemná dohoda, odpovědnost za jednání Z)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 17g odst. 1 (posouzení vhodnosti a limity, monitoring, kontroly rizik bránící ohrožení obchodníka/trhu, porušení MAR a pravidel systému), odst. 2 (zákaz DEA bez kontrol), odst. 3 (odpovědnost za dodržování předpisů a pravidel systému zákazníky), odst. 4 (sledování a vyhodnocování zneužití trhu), odst. 5 (písemná dohoda).
+- *Související ustanovení téhož zákona:* § 17h (povinnosti vůči orgánům dohledu k DEA), § 32 (odpovědnost za vázaného zástupce — analogie), § 17 (záznamy), § 157 a násl.
+- *Související předpisy:* čl. 17 odst. 5 MiFID II; nařízení (EU) 2017/589 (RTS 6) — požadavky na DEA; nařízení (EU) č. 596/2014 (MAR) — oznamování podezřelých obchodů.
+- *Judikatura:* nosný závěr — poskytovatel DEA nese odpovědnost za to, že uživatelé jeho přístupu neporušují předpisy a pravidla systému; absence pre-trade kontrol a monitoringu zakládá porušení. Spisové značky neuvádím.
+
+**4. Subsumpce.** Odst. 1 písm. a) vyžaduje posouzení vhodnosti zákazníka a předem stanovené obchodní a úvěrové limity — O je nenastavil (znak nesplněn). Odst. 1 písm. b) a odst. 4 ukládají sledování v reálném čase a vyhodnocování zneužití trhu — O nesleduje (znaky nesplněny). Odst. 1 písm. c) a odst. 2 implikují kill-switch a zákaz DEA bez kontrol — O je postrádá, a takový DEA je dle odst. 2 zakázán. Odst. 5 žádá písemnou DEA dohodu — chybí. Odst. 3 činí O odpovědným za jednání Z, které předpisy a pravidla systému porušuje.
+
+**5. Řešení.** O porušil § 17g v celém rozsahu klíčových povinností (odst. 1, 2, 4, 5) a odpovídá dle odst. 3 za jednání Z. Procesně O odpovídá za správní delikt (§ 157 a násl.), vystavuje se odpojení obchodním systémem a povinnosti hlásit podezřelé obchody dle MAR. Náprava: zavést onboarding s posouzením vhodnosti, předem definované limity, real-time monitoring, kill-functionality a uzavřít písemnou DEA dohodu. Alternativní výklad (odpovědnost nese jen Z jako faktický zadavatel) je vyloučen odst. 3.
+
+**6. Varianty.** (a) O by poskytoval jen DMA (zákazník využívá infrastrukturu O, který monitoruje v reálném čase) s nastavenými limity a kill-switch — při řádných kontrolách by porušení nevzniklo, byť odpovědnost dle odst. 3 trvá. (b) Uživatelem DEA by byla osoba dle § 4b odst. 1, nikoli zákazník-obchodník — požadavky § 17g by se uplatnily obdobně dle § 17j.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „za pokyny odpovídá zákazník".* O namítne, že pokyny zadával Z. Neutralizace: odst. 3 zakládá přímou odpovědnost poskytovatele DEA za dodržování předpisů a pravidel systému uživateli.
+- *Protiargument „monitoring v reálném čase je nepřiměřený".* O tvrdí technickou náročnost. Neutralizace: odst. 1 písm. b) a odst. 4 jej vyžadují; odst. 2 navíc zakazuje DEA bez odpovídajících kontrol.
+- *Slabé místo:* rozsah „přiměřených" kontrol rizik je flexibilní; míra nezbytných limitů a monitoringu se posuzuje dle profilu zákazníka a může být sporná.
+
+#### H. Praktický závěr
+
+§ 17g ukládá poskytovateli DEA posoudit vhodnost zákazníků, nastavit předem definované obchodní a úvěrové limity, sledovat obchodování v reálném čase, mít kontroly rizik vč. kill-switch a uzavřít písemnou dohodu. Obchodník zůstává odpovědný za dodržování předpisů a pravidel systému uživateli DEA.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla posouzena vhodnost zákazníků DEA a nastaveny předem stanovené obchodní a úvěrové limity (odst. 1 písm. a))?
+- [ ] Je obchodování uživatelů DEA sledováno v reálném čase a vyhodnocováno z hlediska zneužití trhu (odst. 1 písm. b), odst. 4)?
+- [ ] Existují kontroly rizik vč. možnosti okamžitého zastavení obchodování (kill-switch) (odst. 1 písm. c), odst. 2)?
+- [ ] Je se zákazníkem uzavřena písemná DEA dohoda vymezující práva a povinnosti (odst. 5)?
+- [ ] Je zajištěna a doložena odpovědnost obchodníka za dodržování předpisů a pravidel systému uživateli (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** dokumentace posouzení vhodnosti zákazníka a nastavení limitů, monitorovací logy v reálném čase, specifikace kill-switch funkcionality, písemná DEA dohoda, doklady o hlášení podezřelých obchodů dle MAR.
+
 ---
 
 ### § 17h — Povinnosti vůči orgánům dohledu ve vztahu k DEA
@@ -744,6 +1447,43 @@ Zákon ukládá obchodníkovi-poskytovateli DEA čtyři hlavní skupiny povinnos
 - **Mezinárodní sdílení informací ČNB** (odst. 3): totožný mechanismus jako v § 17d odst. 3.
 - **Zvláštní record-keeping** (odst. 4): záznamy o záležitostech § 17g a § 17h odst. 1–2.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník O poskytuje přímý elektronický přístup do obchodního systému provozovaného subjektem s povolením orgánu dohledu jiného členského státu EU. O zahájení poskytování DEA oznámí pouze ČNB, nikoli hostitelskému orgánu. Na následnou žádost ČNB o popis systémů a kontrol dle § 17g odst. 1 a o důkazy o jejich uplatňování (odst. 2 písm. b)) O předloží jen obecnou interní směrnici bez auditních záznamů, monitoring logů a testů kill-switch. K záležitostem DEA navíc nevede dostatečné záznamy (odst. 4). Důkazy: doklad o systému a státě poskytování DEA, oznámení ČNB i hostitelskému orgánu, popis systémů a kontrol, důkazy o jejich faktickém uplatňování (logy, testy), záznamy dle odst. 4.
+
+**2. Právní otázka.** Splnil O povinnosti dle § 17h — dvojí oznámení (odst. 1), poskytnutí popisu a důkazů o uplatňování systémů a kontrol (odst. 2) a vedení dostatečných záznamů (odst. 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 17h odst. 1 (dvojí oznamovací povinnost), odst. 2 (popis systémů a kontrol dle § 17g odst. 1 a důkazy o jejich uplatňování), odst. 3 (sdílení informací ČNB), odst. 4 (record-keeping k § 17g a odst. 1–2).
+- *Související ustanovení téhož zákona:* § 17g (organizační požadavky DEA), § 17d (paralelní úprava pro algoritmy), § 17 (obecné záznamy), § 157 a násl.; zákon č. 15/1998 Sb. (dohledová spolupráce).
+- *Související předpisy:* čl. 17 odst. 5 MiFID II; čl. 79 MiFID II (spolupráce orgánů dohledu); nařízení (EU) 2017/589 (RTS 6).
+- *Judikatura:* nosný závěr — povinnost předložit „důkazy o uplatňování" jde nad rámec dokumentace a vyžaduje prokázání faktického fungování kontrol (audit trails, logy); přeshraniční DEA zakládá dvojí notifikaci. Spisové značky neuvádím.
+
+**4. Subsumpce.** Odst. 1 ukládá oznámit poskytování DEA ČNB i orgánu dohledu hostitelského státu provozovatele systému; O oznámil jen ČNB — povinnost nesplněna. Odst. 2 písm. b) žádá „důkazy o uplatňování" kontrol — obecná směrnice bez logů a testů tomu nestačí (zákon vyžaduje evidence of application, ne pouhou existenci dokumentace). Odst. 4 vyžaduje dostatečné záznamy k záležitostem § 17g a § 17h odst. 1–2; jejich absence je samostatným porušením.
+
+**5. Řešení.** O porušil odst. 1, 2 i 4. Procesně O odpovídá za správní delikt (§ 157 a násl.). Náprava: oznámit poskytování DEA i hostitelskému orgánu, předložit nejen popis, ale i důkazy o faktickém uplatňování kontrol (monitoring logy, kill-switch testy, audit trails) a zavést record-keeping pokrývající § 17g a § 17h odst. 1–2. ČNB pak dle odst. 3 informace sdílí s hostitelským orgánem. Alternativní výklad (postačí předložení interní směrnice) je vyloučen formulací „důkazy o uplatňování".
+
+**6. Varianty.** (a) O by poskytoval DEA jen do systému provozovaného tuzemským subjektem (povolení ČNB) — povinnost oznámit „jinému členskému státu" by se neaktivovala. (b) O by oznámil oběma orgánům a předložil úplné důkazy o uplatňování, ale nevedl by záznamy dle odst. 4 — porušení by zůstalo jen v rovině record-keepingu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „stačí oznámit ČNB".* O namítne, že ČNB je jeho dohledem. Neutralizace: odst. 1 výslovně ukládá oznámit i hostitelskému orgánu provozovatele systému.
+- *Protiargument „interní směrnice je dostatečným důkazem".* O tvrdí splnění odst. 2. Neutralizace: odst. 2 písm. b) žádá důkazy o faktickém uplatňování (logy, testy), nikoli pouhou existenci dokumentace.
+- *Slabé místo:* rozsah „důkazů o uplatňování" není v zákoně přesně vymezen; míra požadované evidence je výkladově sporná a závisí na povaze DEA.
+
+#### H. Praktický závěr
+
+§ 17h ukládá poskytovateli DEA dvojí oznámení (ČNB i hostitelský orgán), poskytnutí popisu a zejména důkazů o faktickém uplatňování kontrol dle § 17g a vedení dostatečných záznamů. ČNB informace sdílí s hostitelským orgánem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo poskytování DEA oznámeno ČNB i orgánu dohledu hostitelského státu provozovatele systému (odst. 1)?
+- [ ] Byl poskytnut popis systémů a kontrol dle § 17g odst. 1 (odst. 2 písm. a))?
+- [ ] Byly předloženy důkazy o faktickém uplatňování kontrol — logy, testy, audit trails (odst. 2 písm. b))?
+- [ ] Vede obchodník dostatečné záznamy ke všem záležitostem § 17g a § 17h odst. 1–2 (odst. 4)?
+- [ ] Je nastaven mechanismus sdílení informací mezi ČNB a hostitelským orgánem (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o systému a státě poskytování DEA, oznámení ČNB i hostitelskému orgánu, popis systémů a kontrol, monitoring logy a testy kill-switch jako důkaz uplatňování, záznamy dle odst. 4.
+
 ---
 
 ### § 17i — Služby clearingu — organizační požadavky
@@ -768,6 +1508,43 @@ GCM obchodník nese vůči CCP plnou **rizikovou odpovědnost** za svých zákaz
 2. **Rizikové požadavky na zákazníky** (odst. 1 písm. b)): zákazníci musí splňovat kapitálové nebo kolaterální požadavky snižující expozici GCM.
 3. **Písemná dohoda** (odst. 2): obsah práv a povinností z clearingového vztahu musí být smluvně zakotven.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodník O je všeobecným clearingovým členem (GCM) centrální protistrany (CCP) a nabízí službu clearingu non-clearing memberům. O přijme jako klienta clearingu nově vzniklou obchodní firmu N bez prověření její finanční způsobilosti a bez jasných kritérií vhodnosti, nevyžaduje od ní žádné kolaterální ani kapitálové požadavky a neuzavře s ní závaznou písemnou dohodu o clearingu. N následně nesplní své povinnosti vůči CCP a riziko dopadne na O jako GCM. Důkazy: kritéria a doklady o screeningu klientů clearingu, rizikové (kolaterální/kapitálové) požadavky kladené na N, závazná písemná clearingová dohoda, evidence expozice O vůči CCP za N.
+
+**2. Právní otázka.** Porušil O organizační požadavky dle § 17i — screening klientů clearingu dle jasných kritérií (odst. 1 písm. a)), rizikové požadavky na klienty (odst. 1 písm. b)) a uzavření závazné písemné dohody (odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 17i odst. 1 písm. a) (systémy a kontroly k poskytování clearingu jen vhodným osobám dle jasných kritérií), písm. b) (rizikové požadavky na klienty), odst. 2 (závazná písemná dohoda).
+- *Související ustanovení téhož zákona:* § 17g odst. 1 písm. a) (analogický vhodnostní test u DEA), § 17j (rozšíření na jiné osoby), § 17 (záznamy), § 157 a násl.
+- *Související předpisy:* čl. 17 odst. 7 MiFID II; nařízení (EU) č. 648/2012 (EMIR) — clearing přes CCP, požadavky na klientský clearing a kolaterál; pravidla CCP.
+- *Judikatura:* nosný závěr — všeobecný clearingový člen nese vůči CCP rizikovou odpovědnost za své klienty a musí omezit přístup ke clearingu jen na vhodné a kolaterálně zajištěné osoby. Spisové značky neuvádím.
+
+**4. Subsumpce.** Odst. 1 písm. a) ukládá poskytnout clearing jen osobám vhodným dle jasných kritérií; přijetí N bez screeningu znak nenaplňuje. Odst. 1 písm. b) vyžaduje, aby klienti plnili rizikové požadavky snižující expozici GCM; absence kolaterálních/kapitálových požadavků na N je porušením. Odst. 2 žádá závaznou písemnou dohodu; její absence je samostatným porušením. Naplnění rizika z selhání N je přímým důsledkem absence kontrol dle písm. a) a b).
+
+**5. Řešení.** O porušil § 17i odst. 1 písm. a), b) a odst. 2. Procesně O odpovídá za správní delikt (§ 157 a násl.) a nese rizikovou expozici vůči CCP. Náprava: zavést jasná kritéria vhodnosti a screening klientů clearingu, kolaterální/kapitálové požadavky a uzavírat závazné písemné clearingové dohody. Alternativní výklad (postačí členství v CCP bez vlastních kontrol GCM) je vyloučen — zákon ukládá GCM samostatné organizační požadavky.
+
+**6. Varianty.** (a) O by před přijetím N provedl řádný screening, stanovil kolaterální požadavky a uzavřel závaznou dohodu — povinnosti § 17i by byly splněny a riziko by bylo mitigováno. (b) Klientem clearingu by byla osoba dle § 4b odst. 1 účastná na trhu — požadavky § 17i by se uplatnily obdobně dle § 17j.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rizika řeší CCP".* O namítne, že kolaterál a kontroly zajišťuje CCP. Neutralizace: § 17i ukládá vlastní kontroly GCM nad jeho klienty nezávisle na pravidlech CCP; GCM nese expozici za klienta.
+- *Protiargument „dohoda byla konkludentní".* O tvrdí existenci faktického vztahu. Neutralizace: odst. 2 výslovně vyžaduje závaznou písemnou dohodu.
+- *Slabé místo:* „jasná kritéria" vhodnosti a rozsah rizikových požadavků nejsou v zákoně detailně určeny; jejich nastavení je výkladově sporné a závisí na rizikovém profilu klienta.
+
+#### H. Praktický závěr
+
+§ 17i ukládá všeobecnému clearingovému členovi poskytovat clearing jen vhodným osobám dle jasných kritérií, vyžadovat od klientů rizikové (kolaterální/kapitálové) požadavky a uzavírat závazné písemné dohody. Cílem je omezit rizikovou expozici GCM vůči CCP.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existují jasná kritéria vhodnosti a systémy/kontroly omezující clearing jen na vhodné osoby (odst. 1 písm. a))?
+- [ ] Plní klienti clearingu rizikové požadavky snižující expozici GCM a trhu (odst. 1 písm. b))?
+- [ ] Je s každým klientem clearingu uzavřena závazná písemná dohoda (odst. 2)?
+- [ ] Je řízena a doložena riziková expozice GCM vůči CCP za jednotlivé klienty?
+- [ ] Jde o všeobecné clearingové členství (GCM), na něž § 17i dopadá?
+
+**Typicky rozhodné důkazy / podklady:** kritéria a dokumentace screeningu klientů clearingu, kolaterální/kapitálové požadavky na klienty, závazné písemné clearingové dohody, evidence expozice vůči CCP.
+
 ---
 
 ### § 17j — Rozšíření na jiné osoby účastnící se obchodního systému
@@ -779,6 +1556,43 @@ GCM obchodník nese vůči CCP plnou **rizikovou odpovědnost** za svých zákaz
 **Výklad:**
 
 § 17j rozšiřuje povinnosti z §§ 17c–17i (algoritmické obchodování, DEA, clearing) na osoby dle § 4b odst. 1 ZPKT, které nejsou obchodníky, ale jsou přímými účastníky regulovaného trhu nebo MTF — typicky banky, investiční fondy, pojišťovny a jiné finanční instituce přistupující přímo do obchodního systému. Zákonodárce tím uzavírá regulatorní mezeru: bez § 17j by tyto osoby, které algoritmicky obchodují nebo poskytují DEA, nepodléhaly žádnému z organizačních požadavků § 17c–17i jen proto, že nejsou obchodníky s cennými papíry.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Investiční fond F (osoba dle § 4b odst. 1 písm. e)) je přímým účastníkem evropského regulovaného trhu a provozuje vlastní algoritmickou obchodní strategii. F se domnívá, že organizační požadavky § 17c–17i dopadají jen na obchodníky s cennými papíry, a proto nezavedl kontroly rizik algoritmického obchodování dle § 17c ani neoznámil činnost dohledovým orgánům dle § 17d. Dohled posuzuje, zda se na F požadavky vztahují obdobně. Důkazy: doklad o zařazení F pod § 4b odst. 1 (písm. a), e), i) nebo j)), doklad o přímé účasti na regulovaném trhu/MTF, povaha algoritmické činnosti F, stav kontrol a oznámení dle § 17c–17d.
+
+**2. Právní otázka.** Vztahují se na fond F jako osobu dle § 4b odst. 1, která je přímým účastníkem regulovaného trhu, organizační a oznamovací požadavky § 17c–17i obdobně dle § 17j?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 17j — obdobné použití § 17c až 17i na osobu dle § 4b odst. 1 písm. a), e), i) nebo j), která je účastníkem evropského regulovaného trhu nebo MTF.
+- *Související ustanovení téhož zákona:* § 4b odst. 1 (okruh osob), § 17c–17i (algoritmické obchodování, HFT, tvorba trhu, DEA, clearing), § 157 a násl.
+- *Související předpisy:* čl. 17 a čl. 1 odst. 5 MiFID II (rozšíření požadavků na účastníky trhu, kteří nejsou investičními podniky); nařízení (EU) 2017/589 (RTS 6).
+- *Judikatura:* nosný závěr — organizační požadavky na algoritmické obchodování a DEA se vztahují na všechny přímé účastníky obchodního systému bez ohledu na to, zda jsou investičními podniky; cílem je uzavřít regulatorní mezeru. Spisové značky neuvádím.
+
+**4. Subsumpce.** § 17j stanoví obdobné použití § 17c–17i, je-li (i) osoba zařazena pod § 4b odst. 1 písm. a), e), i) nebo j) a (ii) je účastníkem evropského regulovaného trhu nebo MTF. F je fondem dle písm. e) (znak i splněn) a je přímým účastníkem regulovaného trhu (znak ii splněn). Tím se na F obdobně vztahují organizační požadavky § 17c (kontroly rizik) a oznamovací povinnosti § 17d — jejich nesplnění je porušením. Domněnka F, že požadavky dopadají jen na obchodníky, je v rozporu se zněním § 17j.
+
+**5. Řešení.** Na F se § 17c–17i použijí obdobně; F porušil § 17c (absence kontrol) a § 17d (absence oznámení). Procesně F odpovídá za správní delikt (§ 157 a násl.). Náprava: F musí zavést kontroly rizik algoritmického obchodování dle § 17c, oznámit činnost dle § 17d a (poskytuje-li DEA či clearing) splnit i § 17g–17i. Alternativní výklad (vynětí neobchodníků) je vyloučen výslovným rozšířením v § 17j.
+
+**6. Varianty.** (a) F by nebyl přímým účastníkem trhu (obchodoval by jen prostřednictvím obchodníka jako zákazník) — § 17j by se neaktivoval a požadavky § 17c–17i by nesl obchodník, nikoli F. (b) F by spadal mimo výčet § 4b odst. 1 písm. a), e), i) nebo j) — obdobné použití § 17c–17i by se neuplatnilo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nejsme obchodník, požadavky se nás netýkají".* F namítne osobní působnost § 17c–17i. Neutralizace: § 17j výslovně rozšiřuje tyto požadavky obdobně na vyjmenované osoby dle § 4b odst. 1, jsou-li účastníky trhu.
+- *Protiargument „obdobně neznamená v plném rozsahu".* F tvrdí redukovanou aplikaci. Neutralizace: „obdobně" znamená přiměřené použití s ohledem na povahu osoby, nikoli vyprázdnění jádra povinností (kontroly rizik, oznámení).
+- *Slabé místo:* výčet písmen § 4b odst. 1 je taxativní; zařazení konkrétní osoby pod správné písmeno může být sporné a rozhoduje o aplikaci § 17j.
+
+#### H. Praktický závěr
+
+§ 17j uzavírá regulatorní mezeru: organizační a oznamovací požadavky § 17c–17i se obdobně vztahují i na vyjmenované osoby dle § 4b odst. 1 (banky, fondy aj.), které jsou přímými účastníky regulovaného trhu nebo MTF a algoritmicky obchodují, poskytují DEA nebo clearing.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je osoba zařazena pod § 4b odst. 1 písm. a), e), i) nebo j)?
+- [ ] Je přímým účastníkem evropského regulovaného trhu nebo mnohostranného obchodního systému?
+- [ ] Provozuje algoritmické obchodování, poskytuje DEA nebo clearing (a které z § 17c–17i se uplatní)?
+- [ ] Byly zavedeny odpovídající kontroly a oznámení obdobně dle § 17c–17i?
+- [ ] Bylo zohledněno přiměřené („obdobné") použití s ohledem na povahu osoby?
+
+**Typicky rozhodné důkazy / podklady:** doklad o zařazení osoby pod § 4b odst. 1, doklad o přímé účasti na regulovaném trhu/MTF, popis algoritmické/DEA/clearingové činnosti, dokumentace kontrol a oznámení dle § 17c–17i.
 
 ---
 
@@ -809,6 +1623,43 @@ Banky jsou z části omezení vyjmuty (viz odst. 2: non-bank obchodník „můž
 #### Odst. 3 — výjimka z automatického zániku
 
 Pokud ke změně předmětu podnikání dojde **v důsledku změny rozsahu povolení** samotné ČNB (§ 144 ZPKT) nebo v důsledku registrace/změny jiné podnikatelské činnosti (§§ 6a, 6aa, 7 ZPKT), povolení k činnosti obchodníka s cennými papíry automaticky nezaniká. Odst. 3 je korekcí odst. 2: zánik povolení dle odst. 2 míří na dobrovolné korporátní rozhodnutí opustit regulovaný sektor — nikoli na regulatorní úpravy povolení iniciované ČNB nebo zákazníkem žádajícím o registraci nové činnosti.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Valná hromada nebankovního obchodníka O (a.s.) rozhodne o zrušení společnosti s likvidací. O to oznámí ČNB až po dvou týdnech. Po vstupu do likvidace likvidátor přesto provede pro stávajícího zákazníka K nový nákupní pokyn na investiční nástroj (nejde o vypořádání dříve otevřené pozice, nýbrž o novou investiční službu) a teprve poté zahájí vydávání majetku zákazníků. Zákazník K namítá, že O již nesměl poskytovat investiční služby. Důkazy: zápis z valné hromady o zrušení s likvidací a datum rozhodnutí, datum a forma oznámení ČNB, datum vstupu do likvidace, evidence úkonů likvidátora (nový pokyn vs. vypořádání), doklady o vydávání majetku zákazníků.
+
+**2. Právní otázka.** Porušil O (resp. likvidátor) § 18 tím, že (i) oznámil rozhodnutí ČNB až po dvou týdnech (nikoli „neprodleně") a (ii) po vstupu do likvidace poskytl novou investiční službu nad rámec vypořádání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 18 odst. 1 (neprodlené oznámení ČNB), odst. 2 (zánik povolení ex lege ke dni vstupu do likvidace/změny předmětu podnikání a omezení činnosti na vypořádání a vydání majetku; právní fikce obchodníka po přechodnou dobu), odst. 3 (výjimka z automatického zániku).
+- *Související ustanovení téhož zákona:* § 144 (změna rozsahu povolení), § 6a, § 6aa, § 7 (registrace jiné činnosti), § 17 (záznamy), § 157 a násl.; § 187 a násl. zákona č. 89/2012 Sb. (likvidace) a ZOK.
+- *Související předpisy:* zákon č. 21/1992 Sb. (banky — vynětí z části omezení); MiFID II čl. 8 (odnětí/zánik povolení).
+- *Judikatura:* nosný závěr — po zániku povolení smí subjekt činit jen úkony směřující k vypořádání a ochraně zákazníků; poskytnutí nové služby je výkonem činnosti bez povolení. Spisové značky neuvádím.
+
+**4. Subsumpce.** Odst. 1 ukládá oznámit rozhodnutí „neprodleně" — nejvyšší stupeň urgence; dvoutýdenní prodleva tomuto standardu neodpovídá a je porušením. Odst. 2 stanoví zánik povolení ke dni vstupu do likvidace a od té chvíle dovoluje jen vydání majetku zákazníků a vypořádání pohledávek a dluhů z dříve poskytnutých služeb; provedení nového pokynu (nová investiční služba) tuto mez překračuje. Právní fikce „považuje se za obchodníka" slouží jen k dokončení vypořádání, nikoli k nové akviziční činnosti.
+
+**5. Řešení.** O porušil odst. 1 (opožděné oznámení) i odst. 2 (poskytnutí nové služby po zániku povolení). Procesně jde o správní delikt (§ 157 a násl.) a o výkon činnosti bez povolení; likvidátor odpovídá za překročení dovoleného rozsahu. Náprava: oznamovat rozhodnutí neprodleně a po vstupu do likvidace omezit činnost výhradně na vypořádání a vydání majetku zákazníků. Alternativní výklad (fikce obchodníka umožňuje i nové obchody) je vyloučen účelem odst. 2.
+
+**6. Varianty.** (a) Likvidátor by pouze dokončil dříve zadaný a neuzavřený pokyn a vypořádal otevřené pozice — to odst. 2 výslovně připouští a porušení by nevzniklo. (b) Ke „změně předmětu podnikání“ by došlo jen v důsledku změny rozsahu povolení ČNB dle § 144 (nebo registrace dle § 6a/§ 6aa/§ 7) — dle odst. 3 by povolení nezaniklo a omezení odst. 2 by se neuplatnilo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „oznámení ve dvou týdnech je včasné".* O srovná s „bez zbytečného odkladu". Neutralizace: § 18 odst. 1 užívá „neprodleně", což je přísnější standard než „bez zbytečného odkladu".
+- *Protiargument „fikce obchodníka umožňuje obchodovat".* O dovozuje z fikce právo poskytovat služby. Neutralizace: fikce dle odst. 2 slouží jen k vypořádání a vydání majetku, nikoli k nové investiční službě.
+- *Slabé místo:* hranice mezi „vypořádáním otevřených pozic" a „novou službou" může být v konkrétním případě sporná; rozhoduje povaha úkonu.
+
+#### H. Praktický závěr
+
+§ 18 váže zánik povolení na dobrovolné korporátní rozhodnutí (zrušení s likvidací nebo změna předmětu podnikání): rozhodnutí se ČNB oznamuje neprodleně, povolení zaniká ke dni vstupu do likvidace/změny a činnost se omezuje na vypořádání a vydání majetku zákazníků. Změny vyvolané rozsahem povolení ČNB nebo registrací jiné činnosti zánik nezpůsobují.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo rozhodnutí valné hromady/společníků o zrušení s likvidací nebo o změně předmětu podnikání oznámeno ČNB neprodleně (odst. 1)?
+- [ ] Bylo identifikováno datum vstupu do likvidace/změny předmětu podnikání jako okamžik zániku povolení (odst. 2)?
+- [ ] Omezuje subjekt po zániku povolení činnost jen na vypořádání pohledávek a dluhů a vydání majetku zákazníků?
+- [ ] Nejde o situaci dle odst. 3 (změna v důsledku § 144 nebo registrace dle § 6a/§ 6aa/§ 7), kdy povolení nezaniká?
+- [ ] Jde o nebankovního obchodníka (u banky se vypořádání řídí zákonem o bankách)?
+
+**Typicky rozhodné důkazy / podklady:** zápis z valné hromady/rozhodnutí společníků s datem, doklad o oznámení ČNB a jeho včasnosti, datum vstupu do likvidace, evidence úkonů likvidátora (vypořádání vs. nová služba), doklady o vydání majetku zákazníků.
 
 ---
 
@@ -854,6 +1705,43 @@ Zákon výslovně ukládá podat žádost **pouze elektronicky** (datová schrá
 
 Přeměny bank se řídí zákonem č. 21/1992 Sb. (zákon o bankách) a nařízením BRRD (směrnice 2014/59/EU a zákon č. 374/2015 Sb. o ozdravných postupech). ZPKT se u bank nepoužije.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nebankovní obchodník O (a.s.) hodlá fúzovat sloučením s jiným obchodníkem N jako nástupnickou společností. Statutární orgány zahájí zápis fúze do obchodního rejstříku, aniž požádaly ČNB o povolení dle § 19; žádost navíc plánují podat v listinné podobě. O je členem skupiny podléhající dohledu na konsolidovaném základě. Důkazy: projekt fúze a doklady k důsledkům přeměny, žádost o povolení ČNB (či její absence), forma podání žádosti, doklad o členství ve skupině a o konzultaci ČNB s konsolidujícím orgánem, údaje o kapitálu a způsobilosti nástupce.
+
+**2. Právní otázka.** Byla fúze O přípustná bez předchozího povolení ČNB dle § 19, a je listinné podání žádosti v souladu se zákonem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 19 odst. 1 (povolení ČNB ke všem formám přeměny a konzultace s orgány dohledu skupiny), odst. 2 (pouze elektronická žádost), odst. 3 (náležitosti žádosti), odst. 4 (prováděcí předpis), odst. 5 (vynětí bank).
+- *Související ustanovení téhož zákona:* § 18 (zrušení/změna předmětu podnikání), § 20 (převod/zastavení/pacht závodu — odkaz na § 19 odst. 1 větu druhou), § 157 a násl.; zákon č. 90/2012 Sb. (ZOK) a zákon č. 125/2008 Sb. o přeměnách.
+- *Související předpisy:* MiFID II (požadavky na trvající splnění podmínek povolení); zákon č. 21/1992 Sb. (banky); BRRD a zákon č. 374/2015 Sb.
+- *Judikatura:* nosný závěr — přeměna regulovaného subjektu vyžaduje předchozí souhlas orgánu dohledu k ověření, že nástupce splní podmínky pro pokračování v regulované činnosti; zápis přeměny bez povolení je vadný. Spisové značky neuvádím.
+
+**4. Subsumpce.** § 19 odst. 1 podmiňuje fúzi (i ostatní formy přeměn) předchozím povolením ČNB. O zahájil zápis fúze bez tohoto povolení — podmínka není splněna a přeměna je nepřípustná. Odst. 2 ukládá podat žádost pouze elektronicky; plánované listinné podání odporuje zákonu. Členství O ve skupině aktivuje povinnost ČNB konzultovat konsolidující a dotčené orgány dohledu (s výjimkou pro neodkladnost). Vynětí dle odst. 5 se neuplatní, neboť O není bankou.
+
+**5. Řešení.** Fúze O bez povolení ČNB je nepřípustná; žádost musí být podána elektronicky a obsahovat údaje a doklady pro posouzení důsledků přeměny (odst. 3). Procesně O odpovídá za správní delikt (§ 157 a násl.) a riskuje odmítnutí/zpochybnění zápisu přeměny. Náprava: před realizací přeměny získat povolení ČNB, podat žádost elektronicky a doložit způsobilost nástupce (kapitál, vedení, organizace). Alternativní výklad (přeměna dle ZOK bez sektorového povolení) je vyloučen § 19 odst. 1.
+
+**6. Varianty.** (a) O by byl bankou — postup by se řídil zákonem o bankách (odst. 5) a § 19 by se nepoužil. (b) Šlo by o nucenou přeměnu v rámci resolution, kde by konzultace mohla ohrozit účel rozhodnutí — ČNB by mohla konzultaci nahradit následnou informací orgánům dohledu bez zbytečného odkladu (odst. 1 věta druhá).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „přeměnu upravuje jen ZOK".* O namítne dostatečnost korporátní úpravy. Neutralizace: § 19 odst. 1 zavádí sektorovou podmínku předchozího povolení ČNB nad rámec ZOK.
+- *Protiargument „forma žádosti je nepodstatná".* O podá žádost listinně. Neutralizace: odst. 2 výslovně připouští pouze elektronické podání.
+- *Slabé místo:* rozsah „údajů a dokladů nezbytných pro posouzení důsledků" (odst. 3) je konkretizován prováděcím předpisem; neúplná žádost vede k přerušení řízení.
+
+#### H. Praktický závěr
+
+§ 19 podmiňuje veškeré formy přeměn nebankovního obchodníka (fúze, rozdělení, změna právní formy, převod jmění) předchozím povolením ČNB; žádost se podává pouze elektronicky a ČNB konzultuje orgány dohledu skupiny. Banky se řídí zákonem o bankách.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o některou z forem přeměny dle odst. 1 (fúze, rozdělení, změna právní formy, převod jmění)?
+- [ ] Bylo před realizací přeměny získáno povolení ČNB (odst. 1)?
+- [ ] Byla žádost podána pouze elektronicky (odst. 2) a obsahuje doklady k důsledkům přeměny (odst. 3)?
+- [ ] Byla provedena (či řádně nahrazena) konzultace s konsolidujícím a dotčenými orgány dohledu (odst. 1 věta druhá)?
+- [ ] Nejde o banku, na niž se § 19 nepoužije (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** projekt přeměny a doklady k jejím důsledkům, žádost o povolení ČNB a doklad o její elektronické formě, doklad o členství ve skupině a o konzultaci orgánů dohledu, údaje o kapitálu a způsobilosti nástupce.
+
 ---
 
 ### § 20 — Převod, zastavení nebo pacht obchodního závodu
@@ -893,5 +1781,42 @@ Odst. 1 věta druhá § 19 (konzultace s orgány dohledu skupiny) se použije i 
 #### Odst. 5 — vynětí bank
 
 Stejně jako u § 19 se povinnost povolení ČNB dle § 20 nevztahuje na obchodníky, kteří jsou zároveň bankami — pro banky platí zákon o bankách.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Nebankovní obchodník O hodlá propachtovat (pacht obchodního závodu dle § 2349 a násl. OZ) podstatnou část svého obchodního závodu zajišťující poskytování investičních služeb společnosti P, která by pod pachtem fakticky vykonávala činnost závodu. Současně O zřizuje k závodu zástavní právo ve prospěch věřitele V. O uzavře smlouvu o pachtu i zástavní smlouvu bez předchozího povolení ČNB s tím, že „povolení O nadále trvá". O je členem skupiny pod konsolidovaným dohledem. Důkazy: smlouva o pachtu a zástavní smlouva, doklad o tom, zda jde o „podstatnou změnu v činnosti“, žádost o povolení ČNB (či absence), forma podání žádosti, doklad o konzultaci ČNB s konsolidujícím orgánem.
+
+**2. Právní otázka.** Vyžadovaly pacht podstatné části závodu a zřízení zástavního práva k závodu předchozí povolení ČNB dle § 20, a obstojí uzavření smluv bez tohoto povolení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 20 odst. 1 (povolení ČNB k převodu, zastavení nebo pachtu závodu nebo jeho části znamenající podstatnou změnu v činnosti; obdobné použití § 19 odst. 1 věty druhé), odst. 2 (pouze elektronická žádost), odst. 3 (náležitosti), odst. 4 (prováděcí předpis), odst. 5 (vynětí bank).
+- *Související ustanovení téhož zákona:* § 19 (přeměna a konzultace s orgány dohledu), § 18 (zánik povolení), § 157 a násl.
+- *Související předpisy:* § 2175 a násl. (převod závodu), § 2349 a násl. (pacht závodu) a § 2357 a násl. (zástava závodu/věci hromadné) zákona č. 89/2012 Sb. (OZ); MiFID II (trvající podmínky povolení); zákon č. 21/1992 Sb. (banky).
+- *Judikatura:* nosný závěr — dispozice s podnikem regulovaného subjektu, které mohou ovlivnit kontinuitu regulované činnosti, podléhají souhlasu orgánu dohledu; bez něj nelze smlouvu platně uzavřít. Spisové značky neuvádím.
+
+**4. Subsumpce.** § 20 odst. 1 podmiňuje povolením ČNB převod, zastavení i pacht závodu nebo jeho části, znamená-li to „podstatnou změnu v činnosti". Pacht podstatné části závodu zajišťující investiční služby takovou změnu představuje (P by fakticky vykonávala činnost závodu) — povolení je nezbytné. Zřízení zástavního práva k závodu rovněž spadá pod „zastavení" dle odst. 1 (povolení je třeba již pro konstituování zástavy, nejen pro její realizaci). Uzavření smluv bez povolení odporuje odst. 1; listinné podání by odporovalo odst. 2. Na rozdíl od § 18 povolení O automaticky nezaniká — pouze chybí souhlas k těmto dispozicím.
+
+**5. Řešení.** Pacht podstatné části závodu i zřízení zástavního práva vyžadovaly předchozí povolení ČNB; bez něj nelze smlouvy platně uzavřít. Procesně O odpovídá za správní delikt (§ 157 a násl.) a smlouvy jsou stiženy vadou pro absenci povolení. Náprava: před uzavřením získat povolení ČNB, podat žádost elektronicky s doklady o důsledcích dispozice (odst. 3) a respektovat konzultaci ČNB s orgány dohledu skupiny (§ 19 odst. 1 věta druhá per § 20 odst. 1). Alternativní výklad (povolení netřeba, neboť povolení O trvá) zaměňuje trvání povolení s nutností souhlasu k dispozici.
+
+**6. Varianty.** (a) Šlo by o převod nepatrné části závodu bez podstatné změny v činnosti — povolení ČNB by se dle odst. 1 nevyžadovalo. (b) O by byl bankou — § 20 odst. 1 by se nepoužil (odst. 5) a dispozice by se řídily zákonem o bankách.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „povolení obchodníka trvá, souhlas netřeba".* O zaměňuje existenci povolení s nutností souhlasu k dispozici. Neutralizace: § 20 odst. 1 vyžaduje samostatné povolení k převodu/zastavení/pachtu, nezávisle na trvání povolení obchodníka.
+- *Protiargument „zástava se povoluje až při realizaci".* O odkládá povolení na výkon zástavy. Neutralizace: povolení dle odst. 1 je třeba již pro zřízení (konstituování) zástavního práva k závodu.
+- *Slabé místo:* posouzení „podstatné změny v činnosti" je výkladově sporné; ne každá dispozice s částí závodu podléhá povolení a hranice podstatnosti rozhoduje o aplikaci § 20.
+
+#### H. Praktický závěr
+
+§ 20 doplňuje § 19: převod, zastavení nebo pacht obchodního závodu (či jeho části) znamenající podstatnou změnu v činnosti obchodníka vyžaduje předchozí povolení ČNB; žádost se podává pouze elektronicky a ČNB konzultuje orgány dohledu skupiny. Povolení obchodníka přitom ex lege nezaniká. Banky se řídí zákonem o bankách.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o převod, zastavení nebo pacht obchodního závodu nebo jeho části (odst. 1)?
+- [ ] Znamená dispozice „podstatnou změnu v činnosti" obchodníka (jen pak je povolení třeba)?
+- [ ] Bylo povolení ČNB získáno před uzavřením smlouvy (a u zástavy již před jejím zřízením)?
+- [ ] Byla žádost podána pouze elektronicky (odst. 2) s doklady o důsledcích dispozice (odst. 3)?
+- [ ] Byla respektována konzultace ČNB s orgány dohledu skupiny (§ 19 odst. 1 věta druhá) a nejde o banku (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o převodu/zástavě/pachtu závodu nebo jeho části, podklady o povaze a rozsahu dotčené činnosti (podstatnost změny), žádost o povolení ČNB a doklad o její elektronické formě, doklad o konzultaci orgánů dohledu.
 
 ---
