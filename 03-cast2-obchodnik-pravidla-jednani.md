@@ -81,6 +81,58 @@ Pro malého a nepropojeného obchodníka je povinné pojištění odpovědnosti 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ef51da04b1f29a369e43 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 12ae — Povinné pojištění malého a nepropojeného obchodníka s cennými papíry a jeho neúčast v záručním systému zabezpečovaném Garančním fondem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Malý a nepropojený obchodník s cennými papíry musí být po celou dobu své činnosti pojištěn pro případ povinnosti nahradit zákazníkovi škodu způsobenou porušením některé z povinností malého a nepropojeného obchodníka s cennými papíry stanovených tímto zákonem
+>
+>   - a) s limitem pojistného plnění nejméně 13 500 000 Kč na každou pojistnou událost a nejméně 20 250 000 Kč v případě souběhu více pojistných událostí v jednom kalendářním roce a
+>
+>   - b) se spoluúčastí pojištěného na náhradě vzniklé škody, byla-li v pojistné smlouvě ujednána, ne vyšší než 10 % z částky, kterou je pojištěný povinen nahradit.
+>
+> (2) Pro malého a nepropojeného obchodníka s cennými papíry se § 128 až 134 nepoužijí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 128
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ef51da04b1f29a369e43 -->
+
 ## Oddíl 2b — Product governance
 
 ### § 12ba — Obchodník s cennými papíry vytvářející investiční nástroj nabízený zákazníkům
@@ -208,6 +260,96 @@ Producent investičního nástroje musí mít živý, dokumentovaný schvalovac�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2c2e875fb137566f4e0d generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 12ba — Obchodník s cennými papíry vytvářející investiční nástroj nabízený zákazníkům
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Obchodník s cennými papíry, který vytváří investiční nástroj nabízený zákazníkům, zavede, udržuje a uplatňuje postupy pro schvalování každého takového investičního nástroje a jeho významných změn před jeho nabízením nebo distribucí zákazníkům.
+>
+> (2) Obchodník s cennými papíry průběžně ověřuje a pravidelně hodnotí postupy podle odstavce 1 a zjednává bez zbytečného odkladu odpovídající nápravu.
+>
+> (3) Postupy podle odstavce 1 musí
+>
+>   - a) určit cílový trh pro každý investiční nástroj,
+>
+>   - b) zajistit posouzení veškerých rizik pro cílový trh a
+>
+>   - c) zajistit, aby zamýšlená prodejní strategie odpovídala cílovému trhu.
+>
+> (4) Součástí postupů podle odstavce 1 je
+>
+>   - a) náležité organizační uspořádání pro vytváření investičních nástrojů nabízených zákazníkům,
+>
+>   - b) řízení střetu zájmů a dodržování pravidel odměňování při vytváření investičního nástroje,
+>
+>   - c) vyhodnocování struktury nákladů a poplatků spojených s příslušným investičním nástrojem a
+>
+>   - d) zajištění, že investiční nástroj nebude poškozovat zákazníky a ohrožovat integritu trhu.
+>
+> (5) Obchodník s cennými papíry, který vytváří investiční nástroj nabízený nebo distribuovaný zákazníkům, průběžně ověřuje a pravidelně hodnotí investiční nástroje, které nabízí, a zjednává bez zbytečného odkladu odpovídající nápravu zjištěných nedostatků, přičemž
+>
+>   - a) zohledňuje veškeré události, které by mohly významně ovlivnit potenciální rizika pro cílový trh,
+>
+>   - b) posuzuje, zda investiční nástroj i nadále odpovídá potřebám cílového trhu, a
+>
+>   - c) posuzuje, zda je prodejní strategie i nadále vhodná.
+>
+> (6) Obchodník s cennými papíry, který vytváří investiční nástroj nabízený zákazníkům, poskytne obchodníkovi s cennými papíry uvedenému v [[#§ 12bb|§ 12bb]] veškeré potřebné informace o
+>
+>   - a) tomto investičním nástroji,
+>
+>   - b) postupech pro schvalování tohoto investičního nástroje a
+>
+>   - c) cílovém trhu tohoto investičního nástroje.
+>
+> (7) Odstavce 1 až 6 se nepoužijí pro
+>
+>   - a) investiční nástroj nabízený pouze způsobilým protistranám,
+>
+>   - b) investiční cenný papír podle § 3 odst. 2 písm. b), který neobsahuje jiný vložený derivátový prvek než doložku o právu na předčasné splacení, a
+>
+>   - c) depozitní poukázku představující vlastnické právo k investičnímu cennému papíru podle písmene b).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12bb, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2c2e875fb137566f4e0d -->
+
 ### § 12bb — Obchodník s cennými papíry nabízející jím nevytvářený investiční nástroj
 
 > **§ 12bb**
@@ -272,6 +414,58 @@ Distributor musí aktivně získat informace o nástroji a jeho cílovém trhu �
 **Typicky rozhodné důkazy / podklady:** distribuční smlouva, target market statement nebo náhradní informační zdroje (prospekt, KID), interní postupy distributora, záznamy o posouzení vhodnosti a doporučeních zákazníkům.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=aaecc4cefd025bd5bac2 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 12bb — Obchodník s cennými papíry nabízející jím nevytvářený investiční nástroj
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Nabízí-li nebo doporučuje-li obchodník s cennými papíry investiční nástroj, který nevytváří, zavede, udržuje a uplatňuje vhodné postupy k
+>
+>   - a) získávání informací podle § 12ba odst. 6, a to i od osob, které nejsou obchodníkem s cennými papíry, který vytváří investiční nástroj nabízený zákazníkům,
+>
+>   - b) porozumění vlastnostem tohoto investičního nástroje a
+>
+>   - c) porozumění určenému cílovému trhu tohoto investičního nástroje při zohlednění dostupných informací o svých zákaznících.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12ba
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aaecc4cefd025bd5bac2 -->
 
 ## Oddíl 2c — Vedení evidencí
 
@@ -346,6 +540,62 @@ Obchodník musí vést evidenci nástrojů zákazníka striktně podle jejich po
 **Typicky rozhodné důkazy / podklady:** evidenční výpisy a sestavy, smlouva o vedení majetkového účtu, potvrzení o převzetí listinných cenných papírů, výpisy zahraničních custodianů, doklady navazující evidence z CDCP.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c66937d56822cd4e0077 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 12c — Vedení evidencí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Obchodník s cennými papíry zajistí vedení evidence
+>
+>   - a) zaknihovaných nebo imobilizovaných cenných papírů, s jejichž vlastníkem uzavřel smlouvu o vedení majetkového účtu, na kterém eviduje zaknihované nebo imobilizované cenné papíry vlastníka, které jsou současně evidovány v centrální evidenci zaknihovaných cenných papírů na účtu zákazníků; tato evidence se vede v evidenci navazující na centrální evidenci zaknihovaných cenných papírů,
+>
+>   - b) listinných investičních nástrojů, které převzal od zákazníků do úschovy, nebo imobilizovaných cenných papírů; tato evidence se vede v samostatné evidenci investičních nástrojů ([[#§ 93|§ 93]]),
+>
+>   - c) zahraničních investičních nástrojů, které převzal od zákazníků za účelem poskytnutí investiční služby; tato evidence se vede v samostatné evidenci investičních nástrojů ([[#§ 93|§ 93]]),
+>
+>   - d) investičních nástrojů, které převzal od zákazníků za účelem poskytnutí investiční služby a které nejsou uvedeny v písmenech a) až c) a jejichž povaha to umožňuje; tato evidence se vede v samostatné evidenci investičních nástrojů ([[#§ 93|§ 93]]).
+>
+> (2) Evidence podle odstavce 1 se vedou v elektronické podobě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 93
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c66937d56822cd4e0077 -->
 
 ## Oddíl 2d — Outsourcing
 
@@ -430,6 +680,74 @@ Outsourcing nepřenáší regulatorní odpovědnost — obchodník zůstává pl
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cd432ad0f53f30541a90 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 12d — Činnosti vykonávané prostřednictvím jiné osoby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Pokud obchodník s cennými papíry pověří jinou osobu výkonem významné provozní činnosti, je povinen zavést, udržovat a uplatňovat odpovídající opatření k řízení s tím souvisejících rizik a k vyloučení vzniku nepřiměřeného provozního rizika.
+>
+> (2) Obchodník s cennými papíry zajistí, že významná provozní činnost, jejímž výkonem byla pověřena jiná osoba, není vykonávána způsobem, který by podstatně snižoval kvalitu systému správy a řízení nebo možnost České národní banky vykonávat dohled nad dodržováním povinností obchodníka s cennými papíry3). Pověřením jiného výkonem významné provozní činnosti zůstává ve vztahu ke třetím osobám nedotčena povinnost obchodníka s cennými papíry nahradit újmu vzniklou porušením jeho povinnosti stanovené tímto zákonem, na základě tohoto zákona nebo přímo použitelným předpisem Evropské unie v oblasti činnosti na finančních trzích2).
+>
+> (3) Provozní činnost obchodníka s cennými papíry se považuje za významnou, pokud by nedostatek v jejím výkonu vážně narušil řádné a plynulé poskytování investičních služeb nebo plnění povinností obchodníka s cennými papíry, ohrozil jeho finanční stabilitu anebo představoval změnu předpokladů, na základě kterých bylo obchodníkovi s cennými papíry uděleno povolení k činnosti obchodníka s cennými papíry.
+>
+> (4) Za významnou provozní činnost obchodníka s cennými papíry se nepovažuje
+>
+>   - a) právní nebo jiné poradenství, vzdělávání jeho pracovníků, činnosti spojené s vyúčtováním jemu poskytovaných služeb, ochrana jeho prostor a pracovníků nebo jiné služby poskytované obchodníkem s cennými papíry, pokud tyto služby nejsou součástí investičních služeb poskytovaných obchodníkem s cennými papíry,
+>
+>   - b) odebírání standardizovaných služeb, včetně informací o trhu a cenách.
+>
+> (5) Výkonem činnosti související s poskytováním hlavní investiční služby podle § 4 odst. 2 písm. d) zákazníkovi, který není profesionálním zákazníkem, lze pověřit jinou osobu se sídlem ve státě, který není členským státem Evropské unie, pokud
+>
+>   - a) tato osoba má povolení nebo registraci k výkonu této činnosti ve státě, ve kterém má sídlo, a podléhá dohledu nad dodržováním pravidel obezřetného poskytování investičních služeb, a
+>
+>   - b) Česká národní banka uzavřela dohodu o spolupráci s příslušným orgánem dohledu.
+>
+> (6) Pokud nejsou splněny podmínky stanovené v odstavci 5, může obchodník s cennými papíry pověřit výkonem činnosti podle odstavce 5 jinou osobou se sídlem ve státě, který není členským státem Evropské unie, pouze v případě, že předem oznámí České národní bance tento záměr a Česká národní banka do 2 měsíců ode dne doručení oznámení toto pověření nezakáže z důvodu nevhodnosti z hlediska řádného a obezřetného poskytování investičních služeb. Proti tomuto rozhodnutí není opravný prostředek přípustný.
+>
+> (7) V souvislosti s podmínkami stanovenými v odstavci 5 je Česká národní banka oprávněna uzavírat dohody o spolupráci s orgány dohledu států, které nejsou členským státem Evropské unie. Česká národní banka uveřejní ve Věstníku České národní banky a na svých internetových stránkách seznam orgánů dohledu, se kterými dohodu o spolupráci uzavřela.
+>
+> (8) Další požadavky pro účely odstavců 1 až 7 upravují čl. 30 až 32 nařízení Komise v přenesené pravomoci (EU) [[2017/565|2017/565]]78).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+##### Souvisící předpisy
+
+- akt EU 2017/565 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cd432ad0f53f30541a90 -->
+
 ## Oddíl 2e — Ochrana majetku zákazníka
 
 ### § 12e — Ochrana majetku zákazníka
@@ -499,6 +817,56 @@ Majetek zákazníka musí být striktně oddělen a nesmí být použit k obchod
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=66c07d3924aee9bda130 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 12e — Ochrana majetku zákazníka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Obchodník s cennými papíry je povinen při nakládání s investičními nástroji zákazníka zavést opatření k ochraně vlastnického práva zákazníka, zejména pro případ úpadku obchodníka s cennými papíry, a k vyloučení použití investičních nástrojů zákazníka k obchodům na vlastní účet nebo na účet jiného zákazníka, s výjimkou případu, kdy zákazník k takovému postupu udělil obchodníkovi s cennými papíry výslovný souhlas.
+>
+> (2) Obchodník s cennými papíry je povinen při nakládání s peněžními prostředky zákazníka zavést opatření k ochraně práv zákazníka k tomuto majetku a, s výjimkou vkladů u obchodníka s cennými papíry, který je bankou, k vyloučení použití tohoto majetku k obchodům na vlastní účet nebo na účet jiného zákazníka.
+>
+> (3) Obchodník s cennými papíry je povinen mít osobou oprávněnou provádět auditorskou činnost podle zákona o auditorech (dále jen „auditor“) ověřenou přiměřenost opatření přijatých za účelem ochrany majetku zákazníka; o ověření přiměřenosti opatření přijatých obchodníkem s cennými papíry za účelem ochrany majetku zákazníka vypracuje auditor nejméně jednou ročně zprávu o ověření přiměřenosti opatření přijatých obchodníkem s cennými papíry za účelem ochrany majetku zákazníka, kterou poskytne České národní bance.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=66c07d3924aee9bda130 -->
+
 ### § 12f — Prováděcí právní předpis
 
 > **§ 12f**
@@ -552,6 +920,58 @@ Majetek zákazníka musí být striktně oddělen a nesmí být použit k obchod
 **Typicky rozhodné důkazy / podklady:** znění prováděcí vyhlášky ČNB, znění § 12f a navazujících ustanovení, odůvodnění napadeného opatření ČNB, případně srovnání s unijní úpravou.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3da32fff863e2b05430f generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 12f — Prováděcí právní předpis
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Prováděcí právní předpis stanoví
+>
+>   - a) podrobnější požadavky na obchodníka s cennými papíry při vytváření, nabízení nebo distribuci investičních nástrojů v mezích podle [[#§ 12ba|§ 12ba]] a [[#§ 12bb|12bb]],
+>
+>   - b) náležitosti, lhůty a způsob zasílání zpráv auditora podle § 12e odst. 3 a
+>
+>   - c) požadavky na organizační uspořádání ve vztahu k zajištění ochrany majetku zákazníka.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12ba, § 12bb, § 12e
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3da32fff863e2b05430f -->
 
 ## Oddíl 2f — Výbory vedoucího orgánu
 
@@ -613,6 +1033,56 @@ Obchodník překračující práh 100 mil. EUR (§ 12l odst. 6 písm. a) musí z
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=da745679a6251b2e6b9b generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 12g — Výbor pro rizika
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Kontrolní orgán obchodníka s cennými papíry, který splňuje kritéria podle § 12l odst. 6 písm. a), zřídí výbor pro rizika složený z členů kontrolního orgánu. Členy výboru pro rizika jmenuje a odvolává kontrolní orgán.
+>
+> (2) Člen výboru pro rizika musí mít přiměřené odborné znalosti, dovednosti a zkušenosti, aby plně rozuměl strategii v oblasti rizik a ochotě obchodníka s cennými papíry podstupovat riziko, a dokázal tuto strategii a tuto ochotu řídit a sledovat.
+>
+> (3) Výbor pro rizika informuje kontrolní orgán o celkové současné a budoucí ochotě obchodníka s cennými papíry podstupovat rizika a jeho strategii v oblasti rizik a je kontrolnímu orgánu nápomocen při dohledu nad prováděním uvedené strategie osobám ve vrcholném vedení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12l
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=da745679a6251b2e6b9b -->
+
 ### § 12h — Dohled České národní banky nad zásadami odměňování
 
 > **§ 12h**
@@ -666,6 +1136,58 @@ Obchodník musí ČNB pravidelně hlásit pracovníky s odměnou nad 1 mil. EUR 
 **Typicky rozhodné důkazy / podklady:** mzdové a personální podklady, interní evidence složek odměn, výzva ČNB a doklad o splnění, reporting podle prováděcího předpisu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3ba6981d30268364cee7 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 12h — Dohled České národní banky nad zásadami odměňování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka shromažďuje informace zpřístupněné podle čl. 51 prvního pododstavce písm. c) a d) nařízení Evropského parlamentu a Rady (EU) 2019/203372) a informace poskytnuté obchodníky s cennými papíry o rozdílech v odměňování žen a mužů a využívá tyto informace jako referenční hodnoty pro trendy a postupy odměňování.
+>
+> (2) Obchodník s cennými papíry předloží České národní bance informace za uplynulé účetní období o počtu pracovníků obchodníka s cennými papíry, jejichž odměna dosahuje za jedno účetní období částky odpovídající alespoň 1 000 000 EUR, včetně informací o jejich pracovních povinnostech, příslušné oblasti činnosti, hlavních složkách mzdy, prémiích, odměnách vázaných na plnění dlouhodobých cílů a příspěvcích na produkty spoření na stáří.
+>
+> (3) Obchodník s cennými papíry předloží České národní bance na vyžádání celkovou výši odměn každého člena vedoucího orgánu nebo každé osoby ve vrcholném vedení.
+>
+> (4) Prováděcí právní předpis stanoví podrobnosti, formu, způsob a strukturu plnění informačních povinností podle odstavců 2 a [[#§ 3|3.]]
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3ba6981d30268364cee7 -->
 
 ### § 12i — Mechanismus k hlášení
 
@@ -727,6 +1249,62 @@ Obchodník musí zavést účinný, nezávislý a samostatný oznamovací kanál
 **Typicky rozhodné důkazy / podklady:** vnitřní předpis k whistleblowingu a popis kanálu, evidence oznámení a jejich vyřízení, dokumentace personálních opatření vůči oznamovateli, doklad o jmenování příslušné osoby.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9985920ede758d6388dd generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 12i — Mechanismus k hlášení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Obchodník s cennými papíry zavede, udržuje a uplatňuje pro své pracovníky účinný mechanismus k hlášení porušení nebo hrozícího porušení tohoto zákona, právních předpisů jej provádějících a přímo použitelného předpisu Evropské unie v oblasti činností na finančních trzích2) prostřednictvím zvláštního, nezávislého a samostatného komunikačního kanálu. Tento mechanismus k hlášení může být stanoven sociálními partnery při zajištění stejné míry ochrany, jako je vyžadována podle odstavce 2 písm. b) a c).
+>
+> (2) Mechanismus k hlášení podle odstavce 1 zahrnuje alespoň
+>
+>   - a) postupy pro hlášení porušení nebo hrozícího porušení a jejich vyhodnocování,
+>
+>   - b) ochranu osoby, která ohlásí porušení nebo hrozící porušení; pokud se jedná o pracovníka alespoň před diskriminací nebo dalšími druhy nespravedlivého zacházení,
+>
+>   - c) ochranu osobních údajů osoby, která ohlásí porušení nebo hrozící porušení, nebo která je údajně odpovědná za porušení nebo hrozící porušení, ledaže je zveřejnění vyžadováno vnitrostátním právem v souvislosti s dalším vyšetřováním nebo následným soudním řízením.
+>
+> (3) Prováděcí právní předpis stanoví požadavky na mechanismus k hlášení podle odstavce 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9985920ede758d6388dd -->
 
 ### § 12j — Zásady odměňování
 
@@ -818,6 +1396,82 @@ Zásady odměňování musí být zdokumentované, přiměřené, v souladu s ř
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2089c739304d31a03a88 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 12j — Zásady odměňování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Obchodník s cennými papíry při vytváření a uplatňování svých zásad odměňování pro jednotlivé kategorie pracovníků, včetně osob ve vrcholném vedení, pracovníků, jejichž činnosti jsou spojeny s podstupováním rizik, a pracovníků v kontrolních funkcích a všech pracovníků, kterým je vyplácena celková odměna rovnající se alespoň nejnižší odměně vyplácené osobám ve vrcholném vedení, nebo pracovníkům, jejichž činnosti jsou spojeny s podstupováním rizik a jejichž pracovní činnosti mají podstatný dopad na rizikový profil obchodníka s cennými papíry nebo aktiv, která spravuje, dodržuje tyto zásady:
+>
+>   - a) zásady odměňování jsou jasně zdokumentované a přiměřené jeho velikosti a vnitřní organizaci a povaze, rozsahu a složitosti jeho činností,
+>
+>   - b) zásady odměňování jsou založeny na stejné odměně mužů a žen za stejnou práci nebo za práci stejné hodnoty,
+>
+>   - c) zásady odměňování jsou v souladu s náležitým a účinným řízením rizik a podporují jej,
+>
+>   - d) zásady odměňování jsou v souladu se strategií podnikání a cíli obchodníka s cennými papíry a zohledňují rovněž dlouhodobé dopady přijatých investičních rozhodnutí,
+>
+>   - e) zásady odměňování obsahují opatření k zamezení střetu zájmů, podněcují odpovědné podnikání a podporují informovanost o riziku a obezřetné podstupování rizik,
+>
+>   - f) zásady odměňování přijímá a pravidelně přezkoumává v obchodníkovi s cennými papíry kontrolní orgán, který také dohlíží nad jejich prováděním,
+>
+>   - g) provádění zásad odměňování podléhá ústřednímu a nezávislému internímu přezkumu kontrolními funkcemi, a to alespoň jednou ročně,
+>
+>   - h) pracovníci v kontrolních funkcích jsou nezávislí na obchodních útvarech, nad nimiž vykonávají dohled, mají odpovídající pravomoc a jsou odměňováni podle míry plnění cílů spojených s jejich funkcemi, bez ohledu na výsledky oblastí podnikání, které kontrolují,
+>
+>   - i) na odměňování osob ve vrcholném vedení odpovědných za řízení rizik a dodržování předpisů dohlíží přímo výbor pro odměňování podle [[#§ 12m|§ 12m]], a pokud takový výbor není zřízen, kontrolní orgán,
+>
+>   - j) zásady odměňování při zohlednění právních předpisů pro stanovování mezd jasně rozlišují mezi kritérii použitými pro stanovení
+>
+>     - 1. základní pevné složky odměny, která odráží především příslušné odborné zkušenosti a organizační odpovědnost vyplývající z druhu práce pracovníka v rámci jeho podmínek pracovního poměru nebo výkonu funkce,
+>
+>     - 2. pohyblivé složky odměny, která odráží udržitelné výsledky pracovníka přizpůsobené riziku, jakož i výsledky nad rámec toho, co vyplývá z druhu práce pracovníka, a
+>
+>   - k) pevná složka tvoří dostatečně velkou část celkové odměny, aby umožňovala provádění plně flexibilního systému vyplácení pohyblivé složky odměny, včetně možnosti nevyplacení pohyblivé složky odměny.
+>
+> (2) Pro účely odstavce 1 písm. k) stanoví obchodník s cennými papíry přiměřené poměry mezi pohyblivou a pevnou složkou celkové odměny ve svých zásadách odměňování s přihlédnutím ke své podnikatelské činnosti a souvisejícím rizikům, jakož i k dopadu, který mají různé kategorie pracovníků podle odstavce 1 na jeho rizikový profil.
+>
+> (3) Kritéria pro určení kategorií pracovníků, jejichž pracovní činnosti mají podstatný dopad na rizikový profil obchodníka s cennými papíry podle odstavce 1, upravuje přímo použitelný předpis Evropské unie, kterým se doplňuje čl. 30 směrnice Evropského parlamentu a Rady (EU) 2019/203480).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12m
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2089c739304d31a03a88 -->
+
 ### § 12k — Obchodník s cennými papíry využívající mimořádnou veřejnou finanční podporu
 
 > **§ 12k**
@@ -869,6 +1523,56 @@ Po dobu čerpání mimořádné veřejné finanční podpory nesmí obchodník v
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o poskytnutí podpory, usnesení o přiznání odměn, kapitálové výkazy, plán splacení podpory, vnitřní předpis o odměňování.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=707e495b86c79adfe3df generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 12k — Obchodník s cennými papíry využívající mimořádnou veřejnou finanční podporu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Pokud obchodník s cennými papíry využívá mimořádnou veřejnou finanční podporu podle [[§ 2 odst. 1 písm. s)|§ 2 odst. 1 písm. s)]] zákona [[o ozdravných postupech a řešení krize na finančním trhu|o ozdravných postupech a řešení krize na finančním trhu]],
+>
+>   - a) nevyplácí členům vedoucího orgánu pohyblivou složku odměny a
+>
+>   - b) pohyblivá složka odměny vyplácená jiným pracovníkům než členům vedoucího orgánu je omezena na část čistých příjmů, pokud by pohyblivá složka odměny nebyla v souladu s udržováním spolehlivého kapitálového základu obchodníka s cennými papíry a jeho včasným ukončením mimořádné veřejné finanční podpory.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=707e495b86c79adfe3df -->
 
 ### § 12l — Pohyblivá složka odměny
 
@@ -997,6 +1701,112 @@ U velkých obchodníků (práh dle odst. 6) musí pohyblivá složka rizikových
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fb453b3df29e20a8404b generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 12l — Pohyblivá složka odměny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Pohyblivá složka odměny, kterou obchodník s cennými papíry přizná a vyplatí kategoriím pracovníků podle § 12j odst. 1, splňuje všechny následující požadavky přiměřeně jeho velikosti a vnitřní organizaci a povaze, rozsahu a složitosti jeho činností:
+>
+>   - a) je-li pohyblivá složka odměny vázána na výsledky, je celková částka pohyblivé složky odměny založena na kombinaci posouzení výsledků daného pracovníka, dotčeného obchodního útvaru a celkových výsledků obchodníka s cennými papíry,
+>
+>   - b) při posuzování výsledků pracovníka se berou v úvahu finanční i nefinanční kritéria,
+>
+>   - c) posouzení výsledků podle písmene a) je založeno na víceletém období s přihlédnutím k cyklu podnikání obchodníka s cennými papíry a jeho rizikům podnikání,
+>
+>   - d) pohyblivá složka odměny nemá vliv na schopnost obchodníka s cennými papíry zajistit spolehlivý kapitálový základ,
+>
+>   - e) není stanovena zaručená pohyblivá složka odměny, s výjimkou této složky odměny pro nové pracovníky, a to pouze za první rok jejich pracovního poměru a pouze pokud má obchodník s cennými papíry silný kapitálový základ,
+>
+>   - f) platby spojené s předčasným ukončením pracovního poměru nebo výkonu funkce odrážejí výsledky dosažené pracovníkem v daném období a nejsou odměnou za selhání nebo porušení povinností,
+>
+>   - g) odměny související s náhradou nebo vyplacením ze smluv v předchozím zaměstnání nebo z předchozího výkonu funkce musí být v souladu s dlouhodobými zájmy obchodníka s cennými papíry,
+>
+>   - h) měření výkonnosti použité jako základ pro výpočet souboru proměnlivých složek odměny zohledňuje všechny druhy stávajících a budoucích rizik a náklady na kapitál a likviditu požadované v souladu s nařízením Evropského parlamentu a Rady (EU) 2019/203372),
+>
+>   - i) přidělení pohyblivých složek odměny v rámci obchodníka s cennými papíry zohledňuje všechny druhy stávajících a budoucích rizik,
+>
+>   - j) alespoň 50 % každé pohyblivé složky odměny se skládá z
+>
+>     - 1. účastnických cenných papírů nebo, v závislosti na právní struktuře daného obchodníka s cennými papíry, rovnocenných vlastnických podílů,
+>
+>     - 2. nástrojů spojených s účastnickými cennými papíry nebo, v závislosti na právní struktuře daného obchodníka s cennými papíry, rovnocenných nepeněžních nástrojů,
+>
+>     - 3. nástrojů vedlejšího kapitálu tier 1 nebo nástrojů kapitálu tier 2 nebo jiných nástrojů, které lze plně přeměnit na nástroje zahrnované do kmenového kapitálu tier 1 nebo odepsat, a které odpovídajícím způsobem odráží úvěrovou kvalitu obchodníka s cennými papíry při jeho trvání, nebo
+>
+>     - 4. nepeněžních nástrojů, které odrážejí strukturu nástrojů spravovaných portfolií,
+>
+>   - k) pokud obchodník s cennými papíry nevydává žádný z nástrojů podle písmene j), může Česká národní banka schválit používání alternativních způsobů plnění stejných cílů,
+>
+>   - l) alespoň 40 % pohyblivé složky odměny se odkládá podle potřeby na dobu 3 až 5 let v závislosti na cyklu podnikání obchodníka s cennými papíry, povaze jeho činnosti, rizicích s ním spojených a činnostech vykonávaných dotyčným pracovníkem, s výjimkou obzvláště vysoké pohyblivé složky odměny, kde podíl odložené pohyblivé složky odměny činí alespoň 60 %; odklad splatnosti pohyblivé složky odměny se nepřiznává rychleji, než by tomu bylo na poměrném základě,
+>
+>   - m) až 100 % pohyblivé složky odměny je smluvně podmíněno, pokud jsou finanční výsledky obchodníka s cennými papíry horší nebo negativní, včetně práva nepřiznat pohyblivou složku odměny nebo její část nebo práva požadovat vrácení pohyblivé složky odměny nebo její části podle kritérií stanovených obchodníkem s cennými papíry, které se týkají zejména situací, kdy dotyčný pracovník
+>
+>     - 1. se podílel na jednání, které vedlo k významným ztrátám pro obchodníka s cennými papíry, nebo za takové jednání nesl odpovědnost, nebo
+>
+>     - 2. již není považován za odborně způsobilého a důvěryhodného, a
+>
+>   - n) zvláštní penzijní výhody jsou v souladu se strategií podnikání, cíli, hodnotami a dlouhodobými zájmy obchodníka s cennými papíry.
+>
+> (2) Fyzické osoby podle § 12j odst. 1 nesmí používat osobní zajišťovací strategie ani pojištění odměn či odpovědnosti za účelem oslabení zásad podle odstavce 1.
+>
+> (3) Pohyblivá složka odměny se nevyplácí s využitím investičních nástrojů či metod, které umožňují nedodržet tento zákon nebo čl. 1 až 59 nařízení Evropského parlamentu a Rady (EU) 2019/203372).
+>
+> (4) Pro účely odstavce 1 písm. j) se na cenné papíry a nástroje použije příslušná retenční politika, která je určena ke sladění pobídek pracovníka s dlouhodobějšími zájmy obchodníka s cennými papíry, jeho věřitelů a zákazníků. Česká národní banka může rozhodnutím nebo opatřením obecné povahy omezit druhy a charakteristiky cenných papírů nebo nástrojů podle odstavce 1 písm. j) nebo případně zakázat používání některých cenných papírů nebo nástrojů pro pohyblivé složky odměny.
+>
+> (5) Pro účely odstavce 1 písm. n) platí, že
+>
+>   - a) v případě, že pracovník ukončí svůj pracovní poměr nebo výkon funkce u obchodníka s cennými papíry před dosažením věku pro vznik nároku na starobní důchod, zadrží obchodník s cennými papíry zvláštní penzijní výhody v podobě cenných papírů nebo nástrojů podle odstavce 1 písm. j) po dobu 5 let a
+>
+>   - b) pokud pracovník dosáhne věku pro vznik nároku na starobní důchod a odejde do důchodu, vyplatí se tomuto pracovníkovi zvláštní penzijní výhody v podobě nástrojů podle odstavce 1 písm. j), přičemž daný pracovník tyto cenné papíry nebo nástroje drží alespoň po dobu 5 let ode dne odchodu do důchodu.
+>
+> (6) Odstavec 1 písm. j) a l) a odstavec 5 se použijí jen na
+>
+>   - a) obchodníka s cennými papíry, jehož hodnota rozvahových a podrozvahových aktiv je v průběhu čtyřletého období bezprostředně předcházejícího danému účetnímu období v průměru vyšší než částka odpovídající 100 000 000 EUR, a
+>
+>   - b) fyzickou osobu, jejíž roční pohyblivá složka odměny přesahuje částku odpovídající 50 000 EUR nebo představuje více než jednu čtvrtinu celkové roční odměny této osoby.
+>
+> (7) Upřesnění třídy nástrojů podle odstavce 1 písm. j) bodu 3 a možné alternativní způsoby podle odstavce 1 písm. k) upravuje přímo použitelný předpis Evropské unie, kterým se doplňuje čl. 32 směrnice Evropského parlamentu a Rady (EU) 2019/203480).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12j
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fb453b3df29e20a8404b -->
+
 ### § 12m — Výbor pro odměňování
 
 > **§ 12m**
@@ -1056,6 +1866,62 @@ Obchodník nad prahem 100 mil. EUR musí zřídit výbor pro odměňování z č
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a4de9ea55febc10d648d generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 12m — Výbor pro odměňování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Kontrolní orgán obchodníka s cennými papíry, který splňuje kritéria podle § 12l odst. 6 písm. a), zřídí výbor pro odměňování z členů kontrolního orgánu; to neplatí, pokud je výbor pro odměňování zřízen na úrovni skupiny.
+>
+> (2) Členy výboru pro odměňování jmenuje kontrolní orgán. Jestliže zákon požaduje, aby zaměstnanci volili člena kontrolního orgánu, je členem výboru pro odměňování alespoň jeden člen kontrolního orgánu zvolený zaměstnanci v pracovním poměru.
+>
+> (3) Výbor pro odměňování musí
+>
+>   - a) být vyvážený s ohledem na zastoupení mužů a žen a
+>
+>   - b) kvalifikovaně a nezávisle posuzovat zásady a postupy odměňování a pobídky vytvořené pro řízení rizika, kapitálu a likvidity.
+>
+> (4) Výbor pro odměňování připravuje rozhodnutí týkající se odměňování, včetně rozhodnutí, která mají důsledky pro riziko dotčeného obchodníka s cennými papíry a jeho řízení rizik a která mají být přijata vedoucím orgánem. Při přípravě tohoto rozhodnutí zohlední výbor pro odměňování veřejné zájmy a dlouhodobé zájmy společníků, investorů a dalších zúčastněných stran daného obchodníka s cennými papíry.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12l
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a4de9ea55febc10d648d -->
+
 ## Oddíl 3 — Deník obchodníka s cennými papíry
 
 ### § 13 — Deník obchodníka s cennými papíry
@@ -1111,6 +1977,56 @@ Deník obchodníka musí v elektronické podobě úplně zachytit tok pokynu od 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e04c6ffbcca210aed020 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 13
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Obchodník s cennými papíry vede deník, kterým se rozumí evidence přijatých pokynů k obstarání koupě, prodeje nebo jiného převodu investičních nástrojů a obchodů uzavřených na základě těchto pokynů, jakož i obchodů uzavřených obchodníkem s cennými papíry na vlastní účet a evidence dokumentů podle § 17 odst. 6.
+>
+> (2) Deník obchodníka s cennými papíry je veden v elektronické podobě. Obchodník s cennými papíry je pro účely vedení deníku obchodníka s cennými papíry oprávněn vést rodná čísla účastníků transakcí.
+>
+> (3) Způsob vedení a náležitosti deníku obchodníka s cennými papíry stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 17
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e04c6ffbcca210aed020 -->
+
 ## Oddíl 4 — Odbornost
 
 ### § 14 — Personální zdroje
@@ -1160,6 +2076,52 @@ Personální zdroje musí odpovídat povaze, rozsahu a složitosti činností ob
 **Typicky rozhodné důkazy / podklady:** organizační struktura a počty pracovníků, popis rozsahu a složitosti činností, doklady o prodlevách a pochybeních, hodnocení přiměřenosti zdrojů ze strany ČNB.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9b07d134e1c49b0067fb generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 14 — Personální zdroje
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Personální zdroje obchodníka s cennými papíry musí být přiměřené povaze, rozsahu a složitosti jeho činností.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9b07d134e1c49b0067fb -->
 
 ### § 14a — Některé podmínky činnosti obchodníka s cennými papíry
 
@@ -1214,6 +2176,56 @@ Obchodníka smí při jednání se zákazníky zastupovat pouze pracovník, inve
 **Typicky rozhodné důkazy / podklady:** smlouvy s osobami jednajícími se zákazníky, doklady o jejich postavení (pracovní smlouva, registrace IZ/vázaného zástupce), osvědčení o odborné zkoušce, doklady o důvěryhodnosti, kategorizace zákazníků.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=59e450377591da2a1a28 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 14a — Některé podmínky činnosti obchodníka s cennými papíry
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Obchodník s cennými papíry může být při jednání se zákazníkem nebo potenciálním zákazníkem v rámci poskytování investičních služeb zastoupen pouze svým pracovníkem, investičním zprostředkovatelem nebo svým vázaným zástupcem.
+>
+> (2) Obchodník s cennými papíry zajistí, aby jeho pracovníci, jeho vázaní zástupci a pracovníci jeho vázaných zástupců, kteří v rámci poskytování investičních služeb jednají se zákazníky nebo potenciálními zákazníky, nebo kteří jsou za jednání se zákazníky zodpovědní, trvale splňovali podmínky odborné způsobilosti ([[#§ 14b|§ 14b]]) a důvěryhodnosti.
+>
+> (3) Splnění podmínky odborné způsobilosti se nevyžaduje u osoby, která v rámci poskytování investičních služeb jedná výhradně s osobami uvedenými v § 2a odst. 1 nebo [[#§ 2|2]] nebo v [[#§ 2b|§ 2b]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 14b, § 2a, § 2, § 2b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=59e450377591da2a1a28 -->
 
 ### § 14b — Odborná způsobilost
 
@@ -1295,6 +2307,84 @@ Odborná způsobilost vyžaduje kumulativně všeobecné znalosti (maturita nebo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bf0b8b42b0e4f46ae5a8 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 14b — Odborná způsobilost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Odbornou způsobilostí se v tomto zákoně rozumí získání
+>
+>   - a) všeobecných znalostí nezbytných pro jednání se zákazníkem nebo potenciálním zákazníkem v rámci poskytování investičních služeb a
+>
+>   - b) odborných znalostí a dovedností nezbytných pro jednání se zákazníkem nebo potenciálním zákazníkem v rámci poskytování investičních služeb.
+>
+> (2) Všeobecné znalosti nezbytné pro jednání se zákazníkem nebo potenciálním zákazníkem v rámci poskytování investičních služeb se prokazují vysvědčením o maturitní zkoušce nebo dokladem o dosažení vyššího vzdělání.
+>
+> (3) Odborné znalosti a dovednosti nezbytné pro jednání se zákazníkem nebo potenciálním zákazníkem v rámci poskytování investičních služeb se prokazují osvědčením o úspěšném vykonání odborné zkoušky ([[#§ 14f|§ 14f]]).
+>
+> (4) Odbornými znalostmi a dovednostmi nezbytnými pro jednání se zákazníkem nebo potenciálním zákazníkem v rámci poskytování investičních služeb se v tomto zákoně s ohledem na poskytované investiční služby a investiční nástroje rozumí
+>
+>   - a) znalosti
+>
+>     - 1. v rozsahu odborného minima o finančním trhu,
+>
+>     - 2. struktury, subjektů a fungování kapitálového trhu,
+>
+>     - 3. regulace poskytování investičních služeb, včetně panevropského osobního penzijního produktu a etických kodexů v oblasti kapitálového trhu, existují-li,
+>
+>     - 4. investičních nástrojů a jejich emisí, investičních služeb a investičních fondů,
+>
+>     - 5. investic, investiční strategie a portfolia a souvisejících rizik a
+>
+>     - 6. finanční analýzy a
+>
+>   - b) dovednost
+>
+>     - 1. vysvětlit zákazníkovi nebo potenciálnímu zákazníkovi investiční nástroj, investiční službu a investiční fondy, včetně panevropského osobního penzijního produktu,
+>
+>     - 2. provést analýzu dostupných investičních nástrojů a
+>
+>     - 3. nabídnout zákazníkovi nebo potenciálnímu zákazníkovi investiční nástroj, který odpovídá jeho potřebám.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 14f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bf0b8b42b0e4f46ae5a8 -->
+
 ### § 14c — Požadavky na akreditovanou osobu
 
 > **§ 14c**
@@ -1364,6 +2454,72 @@ Akreditaci k pořádání odborných zkoušek uděluje ČNB jen při splnění p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c60374154e2be0db0cf1 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 14c — Požadavky na akreditovanou osobu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Pořádat odborné zkoušky zaměřené na prokázání odborných znalostí a dovedností nezbytných pro jednání se zákazníkem nebo potenciálním zákazníkem v rámci poskytování investičních služeb může pouze akreditovaná osoba.
+>
+> (2) Akreditovanou osobou se v tomto zákoně rozumí osoba, které byla Českou národní bankou udělena akreditace.
+>
+> (3) Česká národní banka udělí nebo prodlouží akreditaci žadateli, pokud
+>
+>   - a) je plně svéprávný, je-li fyzickou osobou, a důvěryhodný; podmínku důvěryhodnosti musí splňovat i ovládající osoba žadatele, je-li právnickou osobou,
+>
+>   - b) má věcné, kvalifikační, organizační a personální předpoklady pro činnost akreditované osoby, zejména splňuje organizačně-technické požadavky na pořádání odborných zkoušek,
+>
+>   - c) předloží zkouškový řád podle § 14f odst. 2 a
+>
+>   - d) údaje uvedené v žádosti umožňují identifikaci žadatele v příslušném základním registru.
+>
+> (4) Žádost o akreditaci nebo změnu akreditace lze podat pouze elektronicky.
+>
+> (5) Žádost podle odstavce 4 obsahuje, vedle náležitostí stanovených správním řádem, též údaje a doklady prokazující splnění podmínek podle odstavce 3.
+>
+> (6) Česká národní banka žádosti podle odstavce 4 vyhoví, jestliže jsou splněny podmínky podle odstavce 3, a to ve lhůtě 3 měsíců ode dne, kdy byla žádost doručena České národní bance.
+>
+> (7) Akreditovaná osoba je povinna bez zbytečného odkladu oznámit České národní bance změnu podmínek podle odstavce 3. Oznámení se podává elektronicky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 14f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c60374154e2be0db0cf1 -->
+
 ### § 14d — Trvání, prodloužení a zánik akreditace
 
 > **§ 14d**
@@ -1428,6 +2584,68 @@ Akreditace trvá 5 let a opakovaně se prodlužuje o dalších 5 let na včas po
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1497401ae17863c26274 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 14d — Trvání, prodloužení a zánik akreditace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Akreditace se uděluje na dobu 5 let.
+>
+> (2) Akreditaci je možné opakovaně prodloužit vždy o dalších 5 let, a to na základě žádosti.
+>
+> (3) Žádost podle odstavce 2 lze podat pouze elektronicky.
+>
+> (4) Česká národní banka žádosti podle odstavce 2 vyhoví, jestliže jsou splněny podmínky stanovené tímto zákonem, a to ve lhůtě 3 měsíců ode dne, kdy byla žádost doručena České národní bance. Nevydá-li Česká národní banka v této lhůtě rozhodnutí, platí, že akreditace byla prodloužena.
+>
+> (5) Akreditace zaniká
+>
+>   - a) smrtí fyzické osoby,
+>
+>   - b) zánikem právnické osoby,
+>
+>   - c) uplynutím doby, na kterou byla akreditace udělena, nebyla-li akreditace prodloužena podle odstavce 4, nebo
+>
+>   - d) odnětím ([[#§ 14e|§ 14e]]).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 14e
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1497401ae17863c26274 -->
+
 ### § 14e — Odnětí akreditace
 
 > **§ 14e**
@@ -1486,6 +2704,62 @@ Odnětí na žádost je nárokové a bezpodmínečné (odst. 1, žádost elektro
 **Typicky rozhodné důkazy / podklady:** kontrolní protokol ČNB, zkušební a komisní protokoly, seznamy členů komisí a doklady jejich důvěryhodnosti, vydaná osvědčení, žádost o odnětí, předchozí opatření k nápravě.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0cd6941b759f1c699c5d generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 14e — Odnětí akreditace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka akreditaci odejme, jestliže o to akreditovaná osoba požádá.
+>
+> (2) Česká národní banka akreditaci může odejmout, jestliže
+>
+>   - a) údaje, na jejichž základě byla akreditace udělena, byly nepravdivé nebo zavádějící,
+>
+>   - b) akreditovaná osoba přestala splňovat podmínky pro udělení akreditace,
+>
+>   - c) akreditovaná osoba závažným způsobem nebo opakovaně porušila povinnosti stanovené tímto zákonem.
+>
+> (3) Žádost podle odstavce 1 se podává elektronicky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0cd6941b759f1c699c5d -->
 
 ### § 14f — Odborná zkouška a osvědčení o úspěšném vykonání odborné zkoušky
 
@@ -1566,6 +2840,82 @@ Osvědčení je veřejnou listinou prokazující odbornost v rozsahu, který je 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f9576952025bd2076775 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 14f — Odborná zkouška a osvědčení o úspěšném vykonání odborné zkoušky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Akreditovaná osoba provádí odborné zkoušky na základě souboru zkouškových otázek, který připraví Česká národní banka ve spolupráci s Ministerstvem financí.
+>
+> (2) Při provádění odborné zkoušky postupuje akreditovaná osoba podle zkouškového řádu, jehož obsah zajišťuje řádný průběh odborné zkoušky.
+>
+> (3) Odborná zkouška může být také jen písemná. Řádný průběh odborné zkoušky zajišťuje akreditovaná osoba prostřednictvím komise, která má lichý počet členů. Členové komise musí být důvěryhodní.
+>
+> (4) Akreditovaná osoba uveřejní s dostatečným předstihem na svých internetových stránkách
+>
+>   - a) termín konání odborné zkoušky,
+>
+>   - b) kolik osob může v daném termínu odbornou zkoušku skládat,
+>
+>   - c) výši úplaty za vykonání odborné zkoušky a
+>
+>   - d) zkouškový řád.
+>
+> (5) Akreditovaná osoba bez zbytečného odkladu informuje zkoušeného o výsledku odborné zkoušky.
+>
+> (6) Akreditovaná osoba vydá bez zbytečného odkladu osobě, která úspěšně vykonala odbornou zkoušku, osvědčení o úspěšném vykonání odborné zkoušky, které obsahuje vždy
+>
+>   - a) identifikační údaje osoby, která odbornou zkoušku vykonala,
+>
+>   - b) identifikační údaje akreditované osoby,
+>
+>   - c) údaj o rozsahu odborné zkoušky,
+>
+>   - d) datum konání odborné zkoušky,
+>
+>   - e) seznam členů komise a
+>
+>   - f) podpis osoby oprávněné jednat za akreditovanou osobu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f9576952025bd2076775 -->
+
 ### § 14g — Uchovávání dokumentů
 
 > **§ 14g**
@@ -1619,6 +2969,58 @@ Dokumenty o zkouškách se uchovávají nejméně 10 let od konání každé zko
 **Typicky rozhodné důkazy / podklady:** zkušební a komisní protokoly, evidence vydaných osvědčení, předávací protokoly, doklady o datu konání zkoušek, insolvenční/likvidační spis.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cb3be41ddda01b532d12 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 14g — Uchovávání dokumentů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Akreditovaná osoba uchovává dokumenty týkající se provádění odborných zkoušek, zejména
+>
+>   - a) záznamy o průběhu a výsledcích odborných zkoušek a
+>
+>   - b) záznamy o vydaných osvědčeních o úspěšném vykonání odborné zkoušky.
+>
+> (2) Akreditovaná osoba uchovává dokumenty podle odstavce 1 nejméně po dobu 10 let ode dne konání odborné zkoušky, jíž se dokumenty týkají; to platí i pro osobu, jejíž akreditace byla odejmuta nebo zanikla, jakož i pro jejího právního nástupce, včetně insolvenčního správce a likvidátora.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cb3be41ddda01b532d12 -->
 
 ### § 14h — Prováděcí právní předpis
 
@@ -1683,6 +3085,68 @@ Dokumenty o zkouškách se uchovávají nejméně 10 let od konání každé zko
 **Typicky rozhodné důkazy / podklady:** text vyhlášky a zmocňovacího ustanovení, důvodová zpráva, srovnání se zákonným zněním §§ 14b–14f.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=89b2d5fa0ed5f2fe1a08 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 14h — Prováděcí právní předpis
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Prováděcí právní předpis stanoví
+>
+>   - a) rozsah odborných znalostí a dovedností podle § 14b odst. 4,
+>
+>   - b) minimální rozsah požadavků na věcné, kvalifikační, organizační a personální předpoklady podle § 14c odst. 3 písm. b),
+>
+>   - c) podrobnosti náležitostí žádostí podle § 14c odst. 4 a § 14d odst. 2, včetně příloh prokazujících splnění podmínek podle § 14c odst. 3, jejich formáty a další technické náležitosti,
+>
+>   - d) náležitosti oznámení podle § 14c odst. 7, jeho formáty a další technické náležitosti,
+>
+>   - e) formáty žádosti podle § 14e odst. 1 a další její technické náležitosti,
+>
+>   - f) požadavky na průběh, formu, rozsah a způsob hodnocení a minimální standard odborné zkoušky podle [[#§ 14f|§ 14f]],
+>
+>   - g) pravidla pro poskytování souboru vypracovaných zkouškových otázek podle § 14f odst. 1 akreditovaným osobám, nakládání s nimi a jejich aktualizaci a
+>
+>   - h) požadavky na zkouškový řád podle § 14f odst. 2 a způsob jednání a složení komise podle § 14f odst. 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 14b, § 14c, § 14d, § 14e, § 14f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=89b2d5fa0ed5f2fe1a08 -->
 
 ## Oddíl 5 — Jednání obchodníka s cennými papíry se zákazníky
 
@@ -1801,6 +3265,82 @@ Zákon neříká, co se musí stát s nepřijatelnými pobídkami při nezávisl
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d09efc5d61bb3c0e92ad generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 15 — Obecné povinnosti při jednání se zákazníky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Obchodník s cennými papíry poskytuje investiční služby s odbornou péčí. Poskytování investičních služeb s odbornou péčí zejména znamená, že obchodník s cennými papíry jedná kvalifikovaně, čestně a spravedlivě a v nejlepším zájmu zákazníků, zejména plní povinnosti stanovené v tomto oddílu.
+>
+> (2) Na uzavírání obchodů mezi účastníky evropského regulovaného trhu nebo mnohostranného obchodního systému ani na uzavírání obchodů mezi provozovatelem mnohostranného obchodního systému a účastníky tohoto systému se povinnosti podle § 15 až 15r nevztahují. Tím není dotčena povinnost obchodníka s cennými papíry, který je členem nebo účastníkem tohoto trhu nebo systému, dodržovat povinnosti podle § 15 až 15r ve vztahu ke svým zákazníkům, jedná-li na jejich účet a provádí-li jejich pokyny na tomto trhu. Na uzavírání obchodů v organizovaném obchodním systému se povinnosti podle § 15 až 15r vztahují.
+>
+> (3) Obchodník s cennými papíry nesmí při poskytování investičních služeb přijmout nebo poskytnout úplatu nebo jinou peněžitou nebo nepeněžitou výhodu (dále jen „pobídka“), včetně výzkumu, která může vést k porušení povinnosti stanovené v odstavci 1 nebo povinnosti podle § 11a. Za pobídku se nepovažuje úplata nebo jiná peněžitá nebo nepeněžitá výhoda přijatá od zákazníka nebo od osoby jednající na jeho účet nebo poskytnutá zákazníkovi nebo osobě jednající na jeho účet.
+>
+> (4) Pobídka podle odstavce 3 je přípustná, jen jestliže
+>
+>   - a) má přispět ke zlepšení kvality poskytované služby a není v rozporu s povinností stanovenou v odstavci 1, nebo
+>
+>   - b) umožňuje poskytování investičních služeb nebo je pro tento účel nutná a její povaha není v rozporu s povinností stanovenou v odstavci 1, zejména jde-li o úplatu za úschovu, úplatu za vypořádání, úplatu převodním místům, správní poplatek nebo o úplatu za právní služby.
+>
+> (5) Informuje-li obchodník s cennými papíry zákazníka o tom, že hlavní investiční službu uvedenou v § 4 odst. 2 písm. e) poskytuje nezávisle, nebo poskytuje-li zákazníkovi hlavní investiční službu uvedenou v § 4 odst. 2 písm. d), nesmí si obchodník s cennými papíry v souvislosti s poskytováním těchto služeb ponechat pobídku ve formě úplaty nebo jiné peněžité výhody ani nesmí přijmout pobídku ve formě nepeněžité výhody; to neplatí pro menší nepeněžitou výhodu, která může přispět ke zlepšení kvality poskytované služby a kterou s ohledem na její rozsah a povahu nelze považovat za výhodu vedoucí k porušení povinnosti obchodníka s cennými papíry jednat v nejlepším zájmu zákazníka, je-li o ní zákazník srozumitelně informován.
+>
+> (6) Povinnosti ve vztahu k zákazníkovi stanovené v § 15 až 15k plní obchodník s cennými papíry také ve vztahu k potenciálnímu zákazníkovi.
+>
+> (7) Prováděcí právní předpis stanoví
+>
+>   - a) podmínky, za nichž výzkum poskytnutý obchodníkovi s cennými papíry není považován za pobídku podle odstavce 3 věty první,
+>
+>   - b) podmínky, za nichž se má za to, že pobídka má přispět ke zlepšení kvality poskytované služby podle odstavce 4 písm. a),
+>
+>   - c) způsob, jakým obchodník s cennými papíry prokazuje zlepšení kvality poskytované služby podle odstavce 4 písm. a),
+>
+>   - d) podrobnější požadavky na přenos přijaté pobídky ve formě úplaty nebo jiné peněžité výhody na zákazníka podle odstavce 5 a podle § 15e odst. 2,
+>
+>   - e) podrobnější požadavky na informování zákazníků o pobídkách podle § 15e odst. 1 a [[#§ 2|2]],
+>
+>   - f) podmínky, za nichž lze výhodu považovat za menší nepeněžitou výhodu podle odstavce 5 věty za středníkem.
+>
+> (8) Další podrobnosti pro účely odstavce 1 upravují čl. 58, 64, 65 a čl. 67 až 69 nařízení Komise v přenesené pravomoci (EU) [[2017/565|2017/565]]78).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 11a, § 4, § 15e, § 2
+
+##### Souvisící předpisy
+
+- akt EU 2017/565 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d09efc5d61bb3c0e92ad -->
+
 ### § 15a — Komunikace se zákazníky
 
 > **§ 15a**
@@ -1873,6 +3413,62 @@ Komunikace nesmí být nejasná, nepravdivá, zavádějící či klamavá; propa
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8215161698f6c44b29f6 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 15a — Komunikace se zákazníky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Obchodník s cennými papíry při komunikaci se zákazníkem, včetně osobního jednání nebo propagačního sdělení, týkající se investičních služeb nebo investičních nástrojů, nesmí používat nejasné, nepravdivé, zavádějící nebo klamavé informace. U propagačního sdělení obchodník s cennými papíry dále zajistí, aby z jeho obsahu a formy bylo zřejmé, že jde o propagační sdělení.
+>
+> (2) Informace uvedené v [[#§ 15d|§ 15d]] a v § 15e odst. 1 a [[#§ 2|2]] poskytuje obchodník s cennými papíry srozumitelně tak, aby byl zákazník schopen dostatečně pochopit podstatu a rizika nabízené investiční služby a nabízeného druhu investičního nástroje a aby byl schopen poté učinit informované investiční rozhodnutí.
+>
+> (3) Obchodník s cennými papíry je povinen zákazníka alespoň jednou před telefonickým poskytnutím investiční služby, která zahrnuje přijetí, předání nebo provedení pokynu zákazníka, upozornit na skutečnost, že jejich telefonické hovory, které vedou nebo mohou vést k uzavření obchodu s investičním nástrojem, budou zaznamenávány.
+>
+> (4) Obchodník s cennými papíry nesmí zákazníkovi, kterého předem neupozornil podle odstavce 3, telefonicky poskytnout investiční službu, která zahrnuje přijetí, předání nebo provedení pokynu zákazníka.
+>
+> (5) Obchodník s cennými papíry poskytne zákazníkovi na jeho žádost záznamy podle § 17 odst. 2 až 5, které se týkají jeho osoby.
+>
+> (6) Požadavky na informace pro účely odstavce 1 upravuje čl. 44 nařízení Komise v přenesené pravomoci (EU) [[2017/565|2017/565]]78).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15d, § 15e, § 2, § 17
+
+##### Souvisící předpisy
+
+- akt EU 2017/565 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8215161698f6c44b29f6 -->
+
 ### § 15b — Povinnosti při vytváření investičního nástroje
 
 > **§ 15b**
@@ -1933,6 +3529,64 @@ Tvůrce nástroje musí (i) konstruovat produkt podle potřeb cílového trhu, (
 **Typicky rozhodné důkazy / podklady:** dokumentace cílového trhu, distribuční strategie a její sladění, marketingové materiály, statistika prodejů podle profilu zákazníků, komunikace tvůrce s distributory.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8f132fed512f349bb12d generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 15b — Povinnosti při vytváření investičního nástroje
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Vytváří-li obchodník s cennými papíry investiční nástroj nabízený zákazníkům, je povinen zajistit, aby byl tento investiční nástroj vytvořen způsobem, který odpovídá potřebám cílového trhu určeného podle § 12ba odst. 3 písm. a) a § 2a až 2d.
+>
+> (2) Obchodník s cennými papíry uvedený v odstavci 1 je povinen zajistit, aby strategie pro nabízení jím vytvořeného investičního nástroje odpovídala povaze cílového trhu určeného podle § 12ba odst. 3 písm. a).
+>
+> (3) Obchodník s cennými papíry uvedený v odstavci 1 je povinen učinit veškeré přiměřené kroky k tomu, aby byl jím vytvořený investiční nástroj nabízen cílovému trhu určenému podle § 12ba odst. 3 písm. a).
+>
+> (4) Odstavce 1 až 3 se nepoužijí pro
+>
+>   - a) investiční nástroj nabízený pouze způsobilým protistranám,
+>
+>   - b) investiční cenný papír podle § 3 odst. 2 písm. b), který neobsahuje jiný vložený derivátový prvek než doložku o právu na předčasné splacení, a
+>
+>   - c) depozitní poukázku představující vlastnické právo k investičnímu cennému papíru podle písmene b).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12ba, § 2a, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8f132fed512f349bb12d -->
 
 ### § 15c — Povinnosti při nabízení nebo doporučování investičního nástroje zákazníkovi
 
@@ -2011,6 +3665,68 @@ Obchodník musí produktu rozumět (odst. 1) a posoudit jeho soulad s cílovým 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a83b9ba96b82c8864deb generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 15c — Povinnosti při nabízení nebo doporučování investičního nástroje zákazníkovi
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Obchodník s cennými papíry musí rozumět investičnímu nástroji, který nabízí nebo doporučuje zákazníkovi.
+>
+> (2) Obchodník s cennými papíry musí posoudit, zda investiční nástroj, který nabízí nebo doporučuje zákazníkovi, odpovídá potřebám cílového trhu, do něhož zákazník patří, určenému podle § 12ba odst. 3 písm. a).
+>
+> (3) Obchodník s cennými papíry zajistí, aby při poskytování investičních služeb neodměňoval nebo nehodnotil výkonnost svých pracovníků a vázaných zástupců způsobem, který vede k porušení povinnosti jednat v nejlepším zájmu zákazníků. Nepřípustné je zejména jakékoli ujednání o odměně, prodejních cílech nebo jiné ujednání, které by mohlo jeho pracovníka nebo vázaného zástupce pobízet k tomu, aby zákazníkovi, který není profesionálním zákazníkem, nabídl nebo doporučil určitý investiční nástroj, přestože by mu mohl nabídnout nebo doporučit jiný investiční nástroj, který by lépe vyhovoval potřebám cílového trhu určeného podle § 12ba odst. 3 písm. a), do něhož zákazník patří.
+>
+> (4) Informuje-li obchodník s cennými papíry zákazníka o tom, že hlavní investiční službu uvedenou v § 4 odst. 2 písm. e) poskytuje nezávisle, je povinen posoudit dostatečné množství investičních nástrojů dostupných na trhu, které jsou dostatečně různorodé z hlediska jejich druhu a emitentů nebo osob, které vytvářejí investiční nástroje, tak, aby mohly být odpovídajícím způsobem naplněny investiční cíle zákazníka.
+>
+> (5) Při posuzování investičních nástrojů podle odstavce 4 se obchodník s cennými papíry nesmí omezit na investiční nástroje vydané nebo vytvořené
+>
+>   - a) tímto obchodníkem s cennými papíry,
+>
+>   - b) osobami, které s ním mají úzké propojení, nebo
+>
+>   - c) jinými osobami, které s ním mají finanční, obchodní nebo jiný smluvní vztah, který představuje riziko narušení toho, že hlavní investiční službu uvedenou v § 4 odst. 2 písm. e) poskytuje nezávisle.
+>
+> (6) Další požadavky na odměňování podle odstavce 3 upravuje čl. 27 nařízení Komise v přenesené pravomoci (EU) 2017/56578) a požadavky na posouzení podle odstavce 4 upravuje čl. 53 nařízení Komise v přenesené pravomoci (EU) 2017/56578).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12ba, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a83b9ba96b82c8864deb -->
+
 ### § 15ca — Výzkum ve vztahu ke společnostem s malou a střední tržní kapitalizací
 
 > **§ 15ca**
@@ -2077,6 +3793,70 @@ Společně placený výzkum není pobídkou jen při kumulativním splnění tř
 **Typicky rozhodné důkazy / podklady:** smlouva s poskytovatelem výzkumu, dohoda o alokaci úplaty, faktury za společnou úplatu, údaje o tržní kapitalizaci / vlastním kapitálu emitentů, doklady o informování zákazníků.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=bf8b2908c85722af891e generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 15ca — Výzkum ve vztahu ke společnostem s malou a střední tržní kapitalizací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Je-li poskytována společná úplata za provádění pokynů a za výzkum poskytnutý obchodníkovi s cennými papíry, nepovažuje se tento výzkum za pobídku podle § 15 odst. 3 věty první, pokud
+>
+>   - a) před poskytnutím tohoto výzkumu uzavřel obchodník s cennými papíry s poskytovatelem výzkumu dohodu, v níž je stanoveno, která část společné úplaty se týká výzkumu,
+>
+>   - b) obchodník s cennými papíry informuje své zákazníky o této společné úplatě a
+>
+>   - c) tento výzkum se týká pouze emitentů, jejichž tržní kapitalizace ke konci 3 kalendářních let před poskytnutím výzkumu nepřekročila částku odpovídající 1 000 000 000 EUR.
+>
+> (2) Pokud nebyly účastnické cenné papíry vydávané emitentem ke konci kalendářního roku přijaty k obchodování na regulovaném trhu nebo v mnohostranném obchodním systému, považuje se za tržní kapitalizaci podle odstavce 1 písm. c) hodnota vlastního kapitálu ke konci účetního období.
+>
+> (3) Výzkumem podle odstavce 1 se rozumí služba výzkumu nebo informace z výzkumu týkající se
+>
+>   - a) investičního nástroje nebo jiného aktiva,
+>
+>   - b) emitenta nebo potenciálního emitenta investičního nástroje nebo
+>
+>   - c) určitého odvětví nebo trhu takovým způsobem, že pomáhají hodnotit investiční nástroje, aktiva nebo emitenty v rámci daného odvětví nebo trhu.
+>
+> (4) Výzkumem podle odstavce 1 se dále rozumí služba nebo informace, které výslovně nebo mlčky doporučují nebo navrhují investiční strategii a zahrnují odůvodněné stanovisko ohledně současné nebo budoucí hodnoty či ceny investičního nástroje nebo aktiva nebo zahrnují analýzy a originální vhledy a dochází k závěrům na základě nových či existujících informací, které by mohly být použity k doplnění informací při tvorbě investiční strategie nebo být relevantní a mít přidanou hodnotu pro rozhodnutí obchodníka s cennými papíry na účet zákazníka, kterému je za tento výzkum účtována úplata.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bf8b2908c85722af891e -->
 
 ### § 15d — Informování zákazníků (předsmluvní informace)
 
@@ -2188,6 +3968,98 @@ Před poskytnutím služby musí obchodník v dostatečném předstihu sdělit �
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7835322711e4409d092c generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 15d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Obchodník s cennými papíry je povinen informovat zákazníka v dostatečném časovém předstihu před poskytnutím investiční služby o
+>
+>   - a) údajích o své osobě,
+>
+>   - b) investičních službách, které poskytuje,
+>
+>   - c) investičních nástrojích, kterých se má investiční služba týkat, a o navrhovaných strategiích pro investování,
+>
+>   - d) převodních místech,
+>
+>   - e) veškerých nákladech a souvisejících úplatách, nejde-li o investiční službu poskytovanou profesionálnímu zákazníkovi jinou než uvedenou v § 4 odst. 2 písm. d) a e), a
+>
+>   - f) systému [[odškodnění|odškodnění]] zákazníků a systému pojištění pohledávek z vkladů, které se týkají majetku zákazníka, včetně výše a rozsahu krytí poskytovaného systémem pro [[odškodnění|odškodnění]] zákazníků; obchodník s cennými papíry informuje zákazníka na jeho žádost o podmínkách [[odškodnění|odškodnění]], postupu uplatnění nároku na [[odškodnění|odškodnění]] a jeho výplaty.
+>
+> (2) Informace podle odstavce 1 písm. c) musí obsahovat
+>
+>   - a) přiměřená poučení a upozornění ohledně rizik spojených s investicemi do těchto investičních nástrojů nebo s určitými strategiemi pro investování a
+>
+>   - b) informaci o tom, zda je daný investiční nástroj určen zákazníkům, kteří nejsou profesionálním zákazníkem, nebo profesionálním zákazníkům, a to i s ohledem na cílový trh určený podle § 12ba odst. 3 písm. a).
+>
+> (3) Informace podle odstavce 1 písm. e) musí obsahovat informace
+>
+>   - a) týkající se hlavních i doplňkových investičních služeb,
+>
+>   - b) o případných nákladech na poradenství,
+>
+>   - c) o nákladech na investiční nástroj nabízený nebo doporučovaný zákazníkovi,
+>
+>   - d) o nákladech a úplatách spojených s investiční službou nebo s investičním nástrojem, které nevznikají v důsledku tržního rizika, a
+>
+>   - e) o platebních podmínkách, včetně možnosti provádět platby prostřednictvím jiných osob.
+>
+> (4) Informace podle odstavce 1 písm. e) se vyjadřují souhrnně, aby zákazník mohl porozumět celkovým nákladům a mohl posoudit jejich celkový dopad na návratnost investice. Na žádost zákazníka poskytne obchodník s cennými papíry tyto informace rozepsané na jednotlivé položky.
+>
+> (5) Obchodník s cennými papíry je povinen informovat zákazníka v dostatečném časovém předstihu před poskytnutím hlavní investiční služby uvedené v § 4 odst. 2 písm. e) o tom, zda
+>
+>   - a) tuto investiční službu poskytuje nezávisle nebo nikoli,
+>
+>   - b) je poskytování této investiční služby založeno na rozsáhlé nebo na omezené analýze různých druhů investičních nástrojů,
+>
+>   - c) se analýza podle písmene b) omezuje pouze na investiční nástroje vydané nebo vytvořené tímto obchodníkem s cennými papíry, osobami, které s ním mají úzké propojení, nebo jinými osobami, které s ním mají natolik úzké právní nebo ekonomické vztahy, že představují riziko narušení nezávislosti poskytovaného investičního poradenství, a
+>
+>   - d) bude pravidelně provádět vyhodnocení podle § 15h odst. 2 ve vztahu k investičním nástrojům, které tomuto zákazníkovi doporučí nebo nabídne.
+>
+> (6) Povinnost poskytovat informace podle odstavce 1 nebo [[#§ 5|5]] se nevztahuje na případy, kdy je investiční služba nabízena jako součást složeného produktu, na který se vztahuje srovnatelná povinnost informovat zákazníka podle zákona upravujícího činnost bank, zákona upravujícího činnost spořitelních a úvěrních družstev nebo zákona o spotřebitelském úvěru.
+>
+> (7) Další požadavky na informace podle odstavců 1 a [[#§ 5|5]] upravují čl. 45 až 53, 61 a 65 nařízení Komise v přenesené pravomoci (EU) 2017/56578).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4, § 12ba, § 15h, § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7835322711e4409d092c -->
+
 ### § 15da — Poskytování informací v elektronické podobě
 
 > **§ 15da**
@@ -2246,6 +4118,60 @@ Elektronická podoba je standardem, listinná podoba je právem neprofesionáln�
 **Typicky rozhodné důkazy / podklady:** sdělení o přechodu a doklad o jeho doručení s datem, obsah sdělení (poučení), evidence preference zákazníka (listinná/elektronická), doklady o bezplatném poskytování listinné podoby na žádost.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=279868784af49d7ba6f3 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 15da — Poskytování informací v elektronické podobě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Obchodník s cennými papíry poskytuje informace podle tohoto zákona zákazníkovi v elektronické podobě, ledaže zákazník, který není profesionálním zákazníkem, požádá o poskytování informací v listinné podobě a v takovém případě mu obchodník s cennými papíry poskytuje informace podle tohoto zákona v listinné podobě bezplatně.
+>
+> (2) Obchodník s cennými papíry informuje zákazníka, který není profesionálním zákazníkem, o možnosti poskytování informací v listinné podobě.
+>
+> (3) Obchodník s cennými papíry poskytne stávajícímu zákazníkovi, který není profesionálním zákazníkem a kterému byly doposud informace podle tohoto zákona poskytovány v listinné podobě, sdělení, že mu budou nadále tyto informace poskytovány v elektronické podobě, a to nejpozději 8 týdnů přede dnem zahájení poskytování těchto informací v elektronické podobě.
+>
+> (4) Sdělení podle odstavce 3 obsahuje rovněž informaci o tom, že stávající zákazník, který není profesionálním zákazníkem, může ve lhůtě 8 týdnů ode dne doručení tohoto sdělení požádat, aby mu byly informace podle tohoto zákona nadále poskytovány v listinné podobě, a informaci o tom, že jestliže tak neučiní, budou mu informace nadále poskytovány výlučně v elektronické podobě.
+>
+> (5) Elektronickou podobou se pro účely odstavců 1 až 4 rozumí trvalý nosič dat, který není listinou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=279868784af49d7ba6f3 -->
 
 ### § 15e — Prohlášení o vhodnosti, informace o pobídkách a složené produkty
 
@@ -2340,6 +4266,80 @@ Při investičním poradenství neprofesionálnímu zákazníkovi se prohlášen
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1536c30cffc5dfcb8052 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 15e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Obchodník s cennými papíry je povinen informovat zákazníka v dostatečném časovém předstihu před poskytnutím investiční služby jasně, podrobně, přesně a srozumitelně o existenci, povaze a výši pobídky podle § 15 odst. 4 a [[#§ 15ca|§ 15ca]], případně o způsobu jejího výpočtu, nelze-li její výši určit.
+>
+> (2) Tam, kde to připadá v úvahu, je obchodník s cennými papíry povinen informovat zákazníka v dostatečném časovém předstihu před poskytnutím investiční služby o způsobu přenosu pobídky ve formě úplaty nebo jiné peněžité výhody získané v souvislosti s poskytováním investiční služby na zákazníka.
+>
+> (3) Při poskytování hlavní investiční služby uvedené v § 4 odst. 2 písm. e) poskytne obchodník s cennými papíry před provedením obchodu zákazníkovi na trvalém nosiči dat prohlášení o vhodnosti obsahující informace o
+>
+>   - a) poskytnutém investičním poradenství a
+>
+>   - b) tom, jak poskytnuté investiční poradenství vyhovuje preferencím, cílům a dalším charakteristikám zákazníka, který není profesionálním zákazníkem.
+>
+> (4) Je-li v důsledku poskytnutí hlavní investiční služby uvedené v § 4 odst. 2 písm. e) uzavírána smlouva o koupi nebo prodeji investičního nástroje prostřednictvím prostředku komunikace na dálku a není možné poskytnout prohlášení o vhodnosti podle odstavce 3 před uzavřením této smlouvy, může obchodník s cennými papíry poskytnout toto prohlášení na trvalém nosiči dat bezodkladně poté, co je zákazník touto smlouvou zavázán, jsou-li splněny tyto podmínky:
+>
+>   - a) zákazník souhlasil s tím, že obdrží prohlášení o vhodnosti bez zbytečného odkladu po uzavření smlouvy, a
+>
+>   - b) obchodník s cennými papíry poskytl zákazníkovi možnost odložit uzavření smlouvy tak, aby tento zákazník obdržel prohlášení o vhodnosti předem.
+>
+> (5) Odstavce 3 a [[#§ 4|4]] se nepoužijí při poskytování hlavní investiční služby uvedené v § 4 odst. 2 písm. e) profesionálnímu zákazníkovi, ledaže profesionální zákazník sdělí obchodníkovi s cennými papíry na trvalém nosiči dat, že na plnění těchto povinností trvá.
+>
+> (6) Je-li smlouva o koupi nebo prodeji investičního nástroje uzavírána prostřednictvím prostředku komunikace na dálku a není možné poskytnout informace podle § 15d odst. 1 písm. e) před uzavřením této smlouvy, může obchodník s cennými papíry poskytnout tyto informace na trvalém nosiči dat bez zbytečného odkladu po uzavření smlouvy, jsou-li splněny tyto podmínky:
+>
+>   - a) zákazník souhlasil s tím, že obdrží informace podle § 15d odst. 1 písm. e) bez zbytečného odkladu po uzavření smlouvy,
+>
+>   - b) obchodník s cennými papíry poskytl zákazníkovi možnost odložit uzavření smlouvy tak, aby tento zákazník obdržel informace podle § 15d odst. 1 písm. e) předem, a
+>
+>   - c) obchodník s cennými papíry nabídl zákazníkovi možnost poskytnutí informací podle § 15d odst. 1 písm. e) telefonicky.
+>
+> (7) Nabízí-li obchodník s cennými papíry zákazníkovi hlavní investiční službu jako součást složeného produktu, nebo jako podmínku sjednání složeného produktu, je povinen zákazníka informovat v dostatečném časovém předstihu před poskytnutím investiční služby o tom, které součásti složeného produktu lze sjednat samostatně a jaká je úplata za tyto součásti, jsou-li sjednány samostatně.
+>
+> (8) Nabízí-li obchodník s cennými papíry zákazníkovi, který není profesionálním zákazníkem, hlavní investiční službu jako součást složeného produktu, nebo jako podmínku sjednání složeného produktu, popíše mu, jak se liší rizika vyplývající ze složeného produktu od rizik vyplývajících ze součástí složeného produktu, jsou-li sjednány samostatně; to neplatí, nejsou-li rizika vyplývající ze složeného produktu zjevně odlišná od rizik vyplývajících ze součástí složeného produktu, jsou-li sjednány samostatně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15, § 15ca, § 4, § 15d
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1536c30cffc5dfcb8052 -->
+
 ### § 15f — Informační povinnosti podle občanského zákoníku
 
 > **§ 15f**
@@ -2388,6 +4388,52 @@ Informační povinnosti a právo spotřebitele na odstoupení podle občanského
 **Typicky rozhodné důkazy / podklady:** smlouva a obchodní podmínky, předsmluvní informace a poučení o odstoupení, doklad o uzavření na dálku, komunikace se zákazníkem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6b0b740c2a82b1e84f24 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 15f
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Obchodník s cennými papíry dodržuje [[§ 1843|§ 1843]] [[občanského zákoníku|občanského zákoníku]] stanovující informační povinnosti v souvislosti s uzavíráním smlouvy o finančních službách; [[§ 1845|§ 1845]] [[občanského zákoníku|občanského zákoníku]] není tímto zákonem dotčen.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 1843, § 1845
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6b0b740c2a82b1e84f24 -->
 
 ### § 15g — Informování zákazníka po poskytnutí investiční služby
 
@@ -2452,6 +4498,62 @@ Po poskytnutí služby musí obchodník zákazníkovi aktivně poskytovat přim�
 **Typicky rozhodné důkazy / podklady:** smlouva o investiční službě/správě portfolia, roční přehledy nákladů a doklady o jejich zaslání, aktualizovaná prohlášení o vhodnosti, dokumentace vývoje profilu zákazníka, výpisy portfolia.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=52dbf3a49d2e0ebd624f generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 15g
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Obchodník s cennými papíry je povinen poskytovat zákazníkovi na trvalém nosiči dat přiměřené informace o službách, které mu poskytl.
+>
+> (2) Informace podle odstavce 1 zahrnují informace o pravidelné komunikaci se zákazníkem zohledňující druh a složitost obchodů s investičními nástroji a podstatu poskytnutých služeb, a tam, kde to přichází v úvahu, také náklady spojené s obchody a poskytnutými službami.
+>
+> (3) Tam, kde to přichází v úvahu, je obchodník s cennými papíry povinen poskytovat zákazníkovi informace podle § 15d odst. 1 písm. e) pravidelně po celou dobu trvání investice, alespoň však jednou ročně.
+>
+> (4) Poskytuje-li obchodník s cennými papíry hlavní investiční službu uvedenou v § 4 odst. 2 písm. d), nebo informoval-li podle § 15d odst. 5 písm. d) zákazníka, že bude pravidelně provádět vyhodnocení podle § 15h odst. 2, musí informace podle odstavce 1 obsahovat aktualizované prohlášení obchodníka s cennými papíry o tom, jak investice vyhovují preferencím, cílům a dalším charakteristikám zákazníka, který není profesionálním zákazníkem.
+>
+> (5) Odstavce 1, [[#§ 2|2]] a [[#§ 4|4]] se nepoužijí při poskytování investičních služeb profesionálnímu zákazníkovi, ledaže profesionální zákazník sdělí obchodníkovi s cennými papíry na trvalém nosiči dat, že na plnění těchto povinností trvá.
+>
+> (6) Další požadavky na informace podle odstavce 1 upravují čl. 59 až 63 nařízení Komise v přenesené pravomoci (EU) [[2017/565|2017/565]]78).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15d, § 4, § 15h, § 2
+
+##### Souvisící předpisy
+
+- akt EU 2017/565 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=52dbf3a49d2e0ebd624f -->
 
 ### § 15h — Vyžadování informací od zákazníka — test vhodnosti
 
@@ -2546,6 +4648,74 @@ Test vhodnosti (§ 15h) je nejpřísnějším zákaznickým testem; uplatní se 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b6cc10a97b7eff21eb49 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 15h
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Při poskytování investiční služby uvedené v § 4 odst. 2 písm. d) a e) je obchodník s cennými papíry povinen získat od zákazníka nezbytné informace o jeho
+>
+>   - a) odborných znalostech v oblasti investic,
+>
+>   - b) zkušenostech v oblasti investic,
+>
+>   - c) finančním zázemí, včetně schopnosti nést ztráty, a
+>
+>   - d) investičních cílech, včetně tolerance k riziku.
+>
+> (2) Informace podle odstavce 1 je obchodník s cennými papíry povinen získat v rozsahu, který mu umožní vyhodnotit, zda poskytnutí investiční služby uvedené v odstavci 1, poskytnutí rady ohledně investičního nástroje nebo provedení obchodu s investičním nástrojem v rámci investiční služby uvedené v odstavci 1, odpovídá finančnímu zázemí zákazníka, jeho investičním cílům a odborným znalostem a zkušenostem potřebným pro pochopení souvisejících rizik, zejména jeho toleranci k riziku a schopnosti nést ztráty.
+>
+> (3) Doporučuje-li obchodník s cennými papíry při poskytování investiční služby uvedené v odstavci 1 složený produkt způsobem podle § 15e odst. 5 nebo [[#§ 6|6]], vyhodnocuje tento složený produkt způsobem podle odstavce 2 jako celek.
+>
+> (4) Při poskytování hlavní investiční služby uvedené v § 4 odst. 2 písm. d) a e), která zahrnuje výměnu investičního nástroje, musí obchodník s cennými papíry provést analýzu nákladů a přínosů výměny investičního nástroje.
+>
+> (5) Při poskytování hlavní investiční služby uvedené v § 4 odst. 2 písm. e), která zahrnuje výměnu investičního nástroje, musí obchodník s cennými papíry informovat zákazníka o tom, zda přínosy výměny investičního nástroje převyšují náklady spojené s touto výměnou.
+>
+> (6) Výměnou investičního nástroje se v odstavcích 4 a [[#§ 5|5]] rozumí prodej investičního nástroje a nákup jiného investičního nástroje nebo uplatnění práva provést změnu, pokud jde o existující investiční nástroj.
+>
+> (7) Odstavce 1 až 6 se nepoužijí při poskytování investičních služeb profesionálnímu zákazníkovi, ledaže profesionální zákazník sdělí obchodníkovi s cennými papíry na trvalém nosiči dat, že na plnění těchto povinností trvá.
+>
+> (8) Další podrobnosti pro účely odstavců 1 až 3 upravují čl. 54 a 55 nařízení Komise v přenesené pravomoci (EU) [[2017/565|2017/565]]78).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4, § 15e, § 6, § 5
+
+##### Souvisící předpisy
+
+- akt EU 2017/565 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b6cc10a97b7eff21eb49 -->
+
 ### § 15i — Vyžadování informací od zákazníka — test přiměřenosti
 
 > **§ 15i**
@@ -2626,3 +4796,62 @@ Test přiměřenosti (§ 15i) je odlehčený test pro ostatní hlavní investič
 
 *Konec kapitoly — Část druhá, Oddíl 5: §§ 15–15i*
 
+
+<!-- LEGAL-REVISION:BEGIN id=646dbb3b2b494e869e83 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 15i
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Při poskytování hlavních investičních služeb, s výjimkou služeb uvedených v § 4 odst. 2 písm. d) a e), je obchodník s cennými papíry povinen požádat zákazníka o informace o jeho
+>
+>   - a) odborných znalostech v oblasti investic a
+>
+>   - b) zkušenostech v oblasti investic.
+>
+> (2) O informace uvedené v odstavci 1 je obchodník s cennými papíry povinen požádat v rozsahu, který mu umožní vyhodnotit, zda poskytnutí investiční služby uvedené v odstavci 1 nebo rady ohledně investičního nástroje nebo provedení obchodu s investičním nástrojem v rámci investiční služby uvedené v odstavci 1 odpovídá odborným znalostem a zkušenostem potřebným pro pochopení souvisejících rizik.
+>
+> (3) V případě, že obchodník s cennými papíry vyhodnotí získané informace uvedené v odstavci 1 tak, že poskytnutí příslušné investiční služby, rady ohledně investičního nástroje nebo provedení obchodu s investičním nástrojem v rámci investiční služby uvedené v odstavci 1 neodpovídá jeho odborným znalostem nebo zkušenostem, upozorní zákazníka na takové zjištění.
+>
+> (4) V případě, že zákazník odmítne informace uvedené v odstavci 1 poskytnout nebo je neposkytne v požadovaném rozsahu, obchodník s cennými papíry poučí zákazníka o tom, že takový postoj mu neumožní vyhodnotit, zda poskytnutí příslušné investiční služby, rady ohledně investičního nástroje nebo provedení obchodu s investičním nástrojem v rámci investiční služby uvedené v odstavci 1 odpovídá jeho odborným znalostem nebo zkušenostem potřebným pro pochopení souvisejících rizik.
+>
+> (5) Nabízí-li obchodník s cennými papíry při poskytování investiční služby uvedené v odstavci 1 složený produkt způsobem podle § 15e odst. 5 nebo [[#§ 6|6]], vyhodnocuje tento složený produkt způsobem podle odstavce 2 jako celek.
+>
+> (6) Další podrobnosti pro účely odstavců 1 až 5 upravují čl. 55 a 56 nařízení Komise v přenesené pravomoci (EU) [[2017/565|2017/565]]78).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4, § 15e, § 6
+
+##### Souvisící předpisy
+
+- akt EU 2017/565 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=646dbb3b2b494e869e83 -->

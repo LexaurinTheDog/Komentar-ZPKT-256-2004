@@ -71,6 +71,54 @@ Mlčenlivost podle § 116 je osobní, věcně širší než pojem vnitřní info
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=89e8e4a30283080dab6b generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 116
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba, která je nebo byla investičním zprostředkovatelem, vázaným zástupcem, osobou s řídící pravomocí podle čl. 3 odst. 1 bodu 25 nařízení Evropského parlamentu a Rady (EU) č. [[596/2014|596/2014]], nuceným správcem, dočasným správcem a osobou vykonávající správu pro řešení krize podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu, likvidátorem, insolvenčním správcem, společníkem insolvenčního správce nebo zaměstnancem osoby, která vede evidenci investičních nástrojů, organizátora regulovaného trhu, obchodníka s cennými papíry, zahraniční osoby poskytující investiční služby v České republice prostřednictvím pobočky, investičního zprostředkovatele, vázaného zástupce, provozovatele vypořádacího systému nebo osoby zahrnuté do konsolidačního celku podléhajícího dohledu na konsolidovaném základě, který vykonává Česká národní banka, je povinna zachovávat mlčenlivost o informaci, která může mít význam pro posouzení vývoje na kapitálovém trhu nebo může významně poškodit osobu využívající služby poskytované na kapitálovém trhu, a která nebyla uveřejněna.
+>
+> (2) Povinnost mlčenlivosti trvá i po ukončení činnosti osob uvedených v odstavci 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=89e8e4a30283080dab6b -->
+
 ### § 117 — Výjimky z povinnosti mlčenlivosti
 
 > **§ 117**
@@ -162,6 +210,76 @@ Zproštění mlčenlivosti nastává pouze pro některý z taxativně vyjmenovan
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=80583b8354f94e5c831b generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 117
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Nevyplývá-li ze zákona něco jiného, jsou osoby uvedené v [[#§ 116|§ 116]] zproštěny povinnosti zachovávat mlčenlivost pro účely
+>
+> - a) občanského soudního řízení,
+>
+> - b) soudního řízení správního,
+>
+> - c) trestního řízení,
+>
+> - d) správy daní a poplatků,
+>
+> - e) dohledu nad finančním trhem,
+>
+> - f) poskytování informací ministerstvu při plnění povinností podle zákona o boji proti legalizaci výnosů z trestné činnosti a financování terorismu nebo zákona [[o provádění mezinárodních sankcí|o provádění mezinárodních sankcí]] za účelem udržování mezinárodního míru a bezpečnosti, ochrany základních lidských práv a boje proti terorismu,
+>
+> - g) bankovního informačního systému České národní banky podle zákona, který upravuje činnost České národní banky,
+>
+> - h) platební bilance České republiky sestavované Českou národní bankou,
+>
+> - i) exekučního řízení,
+>
+> - j) insolvenčního řízení,
+>
+> - k) kontroly a ukládání sankcí organizátorem regulovaného trhu,
+>
+> - l) poskytování informací Bezpečnostní informační službě při plnění úkolů podle zákona, který upravuje činnost Bezpečnostní informační služby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 116
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=80583b8354f94e5c831b -->
+
 ## Hlava II — Informační povinnost emitenta některých investičních cenných papírů a dalších osob
 
 ### § 117a — Vyměnitelné a prioritní dluhopisy
@@ -213,6 +331,52 @@ Emitent vyměnitelných a prioritních dluhopisů (a obdobných zahraničních n
 **Typicky rozhodné důkazy / podklady:** emisní podmínky s konverzní doložkou, doklad o přijetí k obchodování, přehled uveřejněných zpráv emitenta.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0f17f36ee6c3e2877f4b generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 117a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Pro vyměnitelný dluhopis, prioritní dluhopis nebo jim obdobný cenný papír vydaný v zahraničí, který po převedení nebo výkonu práva z něho vyplývajícího opravňuje k nabytí akcie nebo obdobného cenného papíru představujícího podíl na společnosti nebo jiné právnické osobě, se pro účely této části zákona použije právní úprava pro akcii nebo obdobný cenný papír představující podíl na emitentovi [§ 118 odst. 1 písm. a)].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 118
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0f17f36ee6c3e2877f4b -->
 
 ### § 118 — Výroční finanční zpráva emitenta
 
@@ -401,6 +565,150 @@ Výroční finanční zpráva je nedílný celek (auditovaná závěrka, výroč
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=645275cccfc654ba6fd4 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 118 — Výroční finanční zpráva emitenta
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Výroční finanční zprávu je povinen nejpozději do 4 měsíců po skončení účetního období uveřejnit emitent
+>
+> - a) akcie nebo obdobného cenného papíru představujícího podíl na tomto emitentovi, je-li tento cenný papír přijat k obchodování na evropském regulovaném trhu a má-li tento emitent sídlo na území
+>
+> - 1. České republiky, nebo
+>
+> - 2. státu, který není členským státem Evropské unie, zvolil-li si tento emitent Českou republiku za referenční stát ([[#§ 123|§ 123]]),
+>
+> - b) dluhopisu nebo obdobného cenného papíru představujícího právo na splacení dlužné částky tímto emitentem nebo jiného investičního cenného papíru, jehož hodnota se vztahuje ke splacení dlužné částky tímto emitentem, včetně sekuritizovaného dluhu, není-li jmenovitá hodnota tohoto cenného papíru k datu jeho emise téměř rovna nebo vyšší než částka odpovídající 1 000 EUR, je-li tento cenný papír přijat k obchodování na evropském regulovaném trhu a má-li tento emitent sídlo na území
+>
+> - 1. České republiky, nebo
+>
+> - 2. státu, který není členským státem Evropské unie, zvolil-li si tento emitent Českou republiku za referenční stát,
+>
+> - c) dluhopisu nebo obdobného cenného papíru představujícího právo na splacení dlužné částky tímto emitentem nebo jiného investičního cenného papíru, jehož hodnota se vztahuje ke splacení dlužné částky tímto emitentem, včetně sekuritizovaného dluhu, je-li jmenovitá hodnota tohoto cenného papíru k datu jeho emise téměř rovna nebo vyšší než částka odpovídající 1 000 EUR, je-li tento cenný papír přijat k obchodování na evropském regulovaném trhu a zvolil-li si tento emitent Českou republiku za referenční stát, nebo
+>
+> - d) jiného investičního cenného papíru, je-li tento cenný papír přijat k obchodování na evropském regulovaném trhu a zvolil-li si tento emitent Českou republiku za referenční stát.
+>
+> (2) Výroční finanční zpráva emitenta je nedílný celek a tvoří ji vždy
+>
+> - a) účetní závěrka ověřená auditorem a konsolidovaná účetní závěrka ověřená auditorem, má-li emitent povinnost ji sestavovat,
+>
+> - b) výroční zpráva podle zákona upravujícího účetnictví nebo konsolidovaná výroční zpráva podle zákona upravujícího účetnictví, má-li emitent povinnost sestavovat konsolidovanou účetní závěrku; na výroční finanční zprávu emitenta se hledí jako na výroční zprávu podle zákona upravujícího účetnictví nebo jako na konsolidovanou výroční zprávu podle zákona upravujícího účetnictví, má-li emitent povinnost sestavovat konsolidovanou účetní závěrku, a
+>
+> - c) prohlášení odpovědných osob emitenta, spolu s uvedením jejich jmen a funkcí, že podle jejich nejlepšího vědomí
+>
+> - 1. účetní závěrka a konsolidovaná účetní závěrka, má-li emitent povinnost ji sestavovat, vypracovaná v souladu s platným souborem účetních standardů, podává věrný a poctivý obraz o majetku, závazcích, finanční situaci a výsledku hospodaření emitenta a jednotek zahrnutých do konsolidace jako celku,
+>
+> - 2. výroční zpráva podle zákona upravujícího účetnictví nebo konsolidovaná výroční zpráva podle zákona upravujícího účetnictví obsahuje věrný přehled vývoje a výsledků emitenta a postavení emitenta a jednotek zahrnutých do konsolidace jako celku, spolu s popisem hlavních rizik a nejistot, kterým čelí, a
+>
+> - 3. zpráva o udržitelnosti nebo konsolidovaná zpráva o udržitelnosti, má-li emitent povinnost ji vyhotovovat, je vyhotovena v souladu se standardy pro podávání zpráv o udržitelnosti přijatými Evropskou komisí a požadavky stanovenými na základě čl. 8 odst. 4 přímo použitelného předpisu Evropské unie upravujícího rámec pro usnadnění udržitelných investic74).
+>
+> (3) Emitent vyhotovuje výroční finanční zprávu v souladu s přímo použitelným předpisem Evropské unie upravujícím jednotný elektronický formát pro podávání zpráv67). Emitent zajistí, aby uveřejněná výroční finanční zpráva byla veřejně přístupná po dobu nejméně 10 let.
+>
+> (4) Součástí výroční zprávy nebo konsolidované výroční zprávy podle odstavce 2 písm. b) emitenta podle odstavce 1 je také výkaz o řízení a správě společnosti, který obsahuje
+>
+> - a) informace o kodexech řízení a správy společnosti, které
+>
+> - 1. jsou pro něj závazné, a informaci o tom, kde je možno do kodexu nahlédnout, a
+>
+> - 2. dobrovolně dodržuje, a informaci o tom, kde je možno do kodexu nahlédnout,
+>
+> - b) informace o postupech řízení a správy společnosti používaných nad rámec požadavků tohoto zákona a jejich podrobný popis, pokud je používá,
+>
+> - c) namísto informací podle písmen a) a b) informaci o tom, že některé ustanovení kodexu řízení a správy společnosti nedodržuje, nebo o tom, že žádný kodex nedodržuje, včetně zdůvodnění, proč toto ustanovení nebo žádný kodex nedodržuje,
+>
+> - d) popis hlavních parametrů systémů vnitřní kontroly a řízení rizik ve vztahu k procesu účetního výkaznictví,
+>
+> - e) popis práv spojených s příslušným druhem akcie nebo obdobného cenného papíru představujícího podíl na emitentovi, a to alespoň odkazem na
+>
+> - 1. zákon upravující právní poměry obchodních společností a družstev a stanovy emitenta, pokud se jedná o druh akcie, nebo
+>
+> - 2. srovnatelný zahraniční právní předpis a stanovám obdobný dokument emitenta, pokud se jedná o druh obdobného cenného papíru představujícího podíl na emitentovi,
+>
+> - f) popis složení a postupů rozhodování vedoucího orgánu emitenta a jeho výborů, jsou-li zřízeny,
+>
+> - g) popis postupů rozhodování a základního rozsahu působnosti valné hromady emitenta nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi,
+>
+> - h) v případě emitenta, který k rozvahovému dni překračuje alespoň 2 hraniční hodnoty podle [[§ 1b odst. 3|§ 1b odst. 3]] zákona [[o účetnictví|o účetnictví]], také popis politiky rozmanitosti uplatňované na vedoucí orgán emitenta, a to s ohledem na pohlaví a další kritéria, jako jsou například kritéria věku, zdravotního postižení nebo vzdělání a odborných znalostí a zkušeností, včetně informace o
+>
+> - 1. cílech této politiky,
+>
+> - 2. způsobech jejího uplatňování a
+>
+> - 3. výsledcích jejího uplatňování v příslušném účetním období,
+>
+> - i) namísto informací podle písmene h) informaci, že emitent neuplatňuje politiku rozmanitosti podle písmene h), včetně zdůvodnění, proč tuto politiku neuplatňuje, a
+>
+> - j) namísto informací podle písmene h) a i) informaci o tom, že tyto informace jsou uvedeny ve zprávě o udržitelnosti, jsou-li tyto informace jejím obsahem.
+>
+> (5) Výkaz o řízení a správě podle odstavce 4 emitenta podle odstavce 1 písm. a) obsahuje také číselné údaje a informace o
+>
+> - a) struktuře vlastního kapitálu emitenta, včetně cenných papírů nepřijatých k obchodování na evropském regulovaném trhu a včetně případného určení různých druhů akcií nebo obdobných cenných papírů představujících podíl na emitentovi a podílu na základním kapitálu každého druhu akcií nebo obdobných cenných papírů představujících podíl na emitentovi, spolu s uvedením práv a povinností s takovými cennými papíry spojenými a s uvedením procenta celkového akciového kapitálu, který představuje,
+>
+> - b) omezení převoditelnosti cenných papírů,
+>
+> - c) významných přímých a nepřímých podílech na hlasovacích právech emitenta,
+>
+> - d) vlastnících cenných papírů se zvláštními právy, včetně popisu těchto práv,
+>
+> - e) omezení hlasovacích práv,
+>
+> - f) smlouvách mezi akcionáři nebo obdobnými vlastníky cenných papírů představujících podíl na emitentovi, které mohou mít za následek ztížení převoditelnosti akcií nebo obdobných cenných papírů představujících podíl na emitentovi nebo hlasovacích práv, pokud jsou emitentovi známy,
+>
+> - g) zvláštních pravidlech určujících volbu a odvolání členů řídicího orgánu emitenta a změnu stanov nebo obdobného dokumentu emitenta,
+>
+> - h) zvláštní působnosti řídicího orgánu emitenta,
+>
+> - i) významných smlouvách, ve kterých je emitent smluvní stranou a které nabudou účinnosti, změní se nebo zaniknou v případě změny ovládání podle zákona [[o obchodních korporacích|o obchodních korporacích]] emitenta v důsledku nabídky převzetí, a o účincích z nich vyplývajících, s výjimkou takových smluv, jejichž uveřejnění by bylo pro emitenta vážně poškozující; tím není omezena jiná povinnost uveřejnit takovou informaci podle tohoto zákona nebo jiných právních předpisů,
+>
+> - j) smlouvách mezi emitentem a členy jeho řídicího orgánu nebo zaměstnanci, kterými je emitent zavázán k plnění pro případ skončení jejich funkce nebo zaměstnání v souvislosti s nabídkou převzetí, a
+>
+> - k) systému kontroly programu, na jehož základě členové řídicího orgánu nebo zaměstnanci emitenta nabývají účastnické cenné papíry společnosti, opce na tyto cenné papíry nebo jiná práva k nim, pokud tato práva sami nevykonávají.
+>
+> (6) Řídicí orgán emitenta uvedeného v odstavci 1 písm. a) na řádné valné hromadě nebo obdobném řádném shromáždění vlastníků cenných papírů představujících podíl na emitentovi předloží akcionářům nebo obdobným vlastníkům cenných papírů představujících podíl na emitentovi souhrnnou vysvětlující zprávu týkající se záležitostí podle odstavce 5.
+>
+> (7) Výroční zpráva nebo konsolidovaná výroční zpráva emitenta podle odstavce 1 se sídlem ve státě, který není členským státem Evropské unie, musí obsahovat informace rovnocenné informacím, které obsahuje výroční zpráva podle zákona upravujícího účetnictví nebo konsolidovaná výroční zpráva podle zákona upravujícího účetnictví.
+>
+> (8) Pokud valná hromada nebo obdobné shromáždění vlastníků cenných papírů představujících podíl na emitentovi účetní závěrku nebo konsolidovanou účetní závěrku neschválí nebo pokud soudní orgán rozhodne o neplatnosti valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi, které schválilo účetní závěrku nebo konsolidovanou účetní závěrku, emitent bez zbytečného odkladu tyto skutečnosti uveřejní; v informaci se uvede též způsob řešení připomínek valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 123, § 1b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=645275cccfc654ba6fd4 -->
+
 ### § 119 — Pololetní finanční zpráva
 
 > **§ 119**
@@ -478,6 +786,66 @@ Pololetní finanční zprávu uveřejňují emitenti kategorií a)–c) do 3 mě
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e37169458f911969d0c7 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 119 — Pololetní finanční zpráva
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Emitent podle § 118 odst. 1 písm. a), b) nebo c) do 3 měsíců po uplynutí prvních 6 měsíců účetního období uveřejní svou pololetní finanční zprávu a zajistí, aby uveřejněná pololetní finanční zpráva byla veřejně přístupná po dobu nejméně 10 let.
+>
+> (2) Pololetní finanční zpráva obsahuje vždy
+>
+> - a) zkrácený soubor účetní závěrky,
+>
+> - b) popis důležitých událostí, ke kterým došlo v prvních 6 měsících účetního období, a jejich dopadu na zkrácený soubor účetní závěrky, spolu s popisem hlavních rizik a nejistot pro zbývajících 6 měsíců účetního období, a u emitentů podle § 118 odst. 1 písm. a) rovněž popis transakcí se spřízněnými stranami v prvních 6 měsících účetního období, které podstatně ovlivnily výsledky hospodaření emitenta nebo jeho konsolidačního celku, a
+>
+> - c) prohlášení odpovědných osob emitenta, spolu s uvedením jejich jmen a funkcí, že podle jejich nejlepšího vědomí podává zkrácený soubor účetní závěrky věrný a poctivý obraz o majetku, závazcích, finanční situaci a výsledku hospodaření emitenta a jeho konsolidačního celku a popis podle písmene b) obsahuje věrný přehled informací požadovaných podle písmene b).
+>
+> (3) Byla-li pololetní finanční zpráva ověřena auditorem a není-li zpráva auditora o přezkumu obsahovou součástí pololetní finanční zprávy, uveřejní emitent zprávu auditora spolu s pololetní finanční zprávou. Nebyla-li pololetní finanční zpráva ověřena auditorem, uvede to emitent v pololetní finanční zprávě.
+>
+> (4) Má-li emitent povinnost sestavovat konsolidovanou účetní závěrku, obsahuje zkrácený soubor účetní závěrky číselné údaje a informace v rozsahu mezitímní účetní závěrky podle mezinárodního účetního standardu IAS 34 - Mezitímní účetní výkaznictví, podle přílohy nařízení Komise (ES) č. [[1126/2008|1126/2008]]65).
+>
+> (5) Nemá-li emitent povinnost sestavovat konsolidovanou účetní závěrku, obsahuje zkrácený soubor účetní závěrky alespoň číselné údaje a informace v rozsahu zkrácené rozvahy, zkrácené výsledovky a vybraných vysvětlujících poznámek. Při přípravě zkrácené rozvahy a zkrácené výsledovky dodržuje emitent stejné zásady účtování a oceňování jako při přípravě výroční finanční zprávy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 118
+
+##### Souvisící předpisy
+
+- akt EU 1126/2008 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e37169458f911969d0c7 -->
+
 ### § 119a — Zpráva o úhradách placených státu
 
 > **§ 119a**
@@ -528,6 +896,52 @@ Emitent z těžebního či lesnického sektoru musí vedle výroční finanční
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=566e77934cdb75c526eb generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 119a — Zpráva o úhradách placených státu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Emitent uvedený v § 118 odst. 1, který působí v těžebním průmyslu, dřevařství nebo lesnictví, uveřejní nejpozději do 6 měsíců po skončení účetního období zprávu na konsolidovaném základě obsahující číselné údaje a informace o platbách placených orgánům správy státu podle zákona upravujícího účetnictví. Emitent zabezpečí, aby tato uveřejněná zpráva byla veřejně přístupná po dobu nejméně 10 let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 118
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=566e77934cdb75c526eb -->
+
 ### § 119b — Uveřejňování dalších informací
 
 > **§ 119b**
@@ -577,6 +991,54 @@ Změny práv spojených s akciemi (i s nástroji opravňujícími k nabytí akci
 **Typicky rozhodné důkazy / podklady:** rozhodnutí orgánů o změně, znění původních a změněných stanov/emisních podmínek, časová osa rozhodnutí a uveřejnění.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8f4ab2738ebd45841cdb generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 119b — Uveřejňování dalších informací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Emitent uvedený v § 118 odst. 1 písm. a) bez zbytečného odkladu uveřejní každou změnu práv spojených s určitým druhem akcií nebo obdobných cenných papírů představujících právo na podíl na emitentovi. Stejnou povinnost má i v případě změny práv spojených s investičním nástrojem, který emitent vydal a se kterým je spojeno právo na získání jím vydaných akcií nebo obdobných cenných papírů představujících právo na podíl na emitentovi přijatých k obchodování na evropském regulovaném trhu.
+>
+> (2) Emitent uvedený v § 118 odst. 1 písm. b), c) nebo d) bez zbytečného odkladu uveřejní každou změnu práv spojených s investičním cenným papírem uvedeným v § 118 odst. 1 písm. b) a c), který vydal, zejména uveřejní informaci o změně emisních podmínek nebo dokumentu obdobnému emisním podmínkám.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 118
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8f4ab2738ebd45841cdb -->
 
 ### § 119c — Výjimky z povinnosti uveřejňovat informace
 
@@ -641,6 +1103,62 @@ Výjimky podle § 119c osvobozují vymezené emitenty (suverénní emitenty, vel
 **Typicky rozhodné důkazy / podklady:** doklad o povaze emitenta (§ 2a), absence kótovaných akcií, evidence objemu a druhů emisí, doklad o (ne)uveřejnění prospektu, případně doklad o státní/obecní záruce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5b4bde3d8368ff4cc3e0 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 119c — Výjimky z povinnosti uveřejňovat informace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Povinnosti stanovené v § 118 až 119a se nevztahují na
+>
+> - a) emitenta uvedeného v čl. 1 odst. 2 písm. b) nařízení Evropského parlamentu a Rady (EU) [[2017/1129|2017/1129]]66) a
+>
+> - b) emitenta, který vydává výlučně některý z investičních nástrojů uvedených v § 118 odst. 1 písm. c), pokud jmenovitá hodnota takového investičního nástroje odpovídá k datu emise alespoň částce odpovídající 100 000 EUR.
+>
+> (2) Povinnosti stanovené v [[#§ 119|§ 119]] se nevztahují na emitenta, který
+>
+> - a) je osobou uvedenou v § 2a odst. 1 písm. a) nebo b) nebo zahraniční osobou s obdobnou činností, jehož akcie nejsou přijaty k obchodování na regulovaném trhu a který vydává průběžně či opakovaně výlučně investiční nástroje uvedené v § 118 odst. 1 písm. c), pokud jejich celková jmenovitá hodnota nepřesáhla částku odpovídající 100 000 000 EUR a emitent u těchto nástrojů neuveřejnil prospekt v souladu s přímo použitelným předpisem Evropské unie upravujícím prospekt, který má být uveřejněn při veřejné nabídce nebo přijetí cenných papírů k obchodování na regulovaném trhu66), nebo
+>
+> - b) vznikl před 1. lednem 2004 a vydává výlučně investiční nástroje uvedené v § 118 odst. 1 písm. c) nepodmíněně a neodvolatelně zaručené Českou republikou nebo územně samosprávným celkem České republiky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 118, § 119, § 2a
+
+##### Souvisící předpisy
+
+- akt EU 2017/1129 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5b4bde3d8368ff4cc3e0 -->
 
 ### § 120 — Rovné zacházení s vlastníky cenných papírů a výkon práv akcionářů
 
@@ -743,6 +1261,86 @@ Emitent kótovaných CP musí předem předkládat návrhy změny základního k
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d3bdd8dcfcafc37191b1 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 120
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Emitent uvedený v § 118 odst. 1 předloží bez zbytečného odkladu organizátorovi evropského regulovaného trhu, na němž je jím vydaný investiční cenný papír přijat k obchodování, a České národní bance návrh každého rozhodnutí o snížení nebo zvýšení základního kapitálu.
+>
+> (2) Emitent uvedený v § 118 odst. 1 písm. a), b) nebo c)
+>
+> - a) zajistí rovné zacházení se všemi vlastníky investičních cenných papírů, které vydal, jimž vyplývá z vlastnictví těchto cenných papírů stejné postavení; porušením této povinnosti není, je-li s investičním cenným papírem téhož druhu spojen rozdílný počet hlasovacích práv,
+>
+> - b) zajistí výplatu výnosu z investičního cenného papíru nebo jiného peněžitého plnění spojeného s investičním cenným papírem, který vydal; emitent vyplatí výnosy nebo jiná peněžitá plnění prostřednictvím jím určené osoby uvedené v § 2a odst. 1 písm. a) až c) nebo zahraniční osoby s obdobnou činností.
+>
+> (3) Emitent uvedený v § 118 odst. 1 písm. a), b) nebo c) nejpozději v den uveřejnění oznámení o konání valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi nebo schůze vlastníků dluhopisů nebo obdobného shromáždění vlastníků cenných papírů představujících právo na splacení dlužné částky, nebo v den zaslání pozvánky na takové shromáždění vlastníků cenných papírů zpřístupní v listinné podobě komukoliv ve svém sídle až do dne konání takového shromáždění vlastníků cenných papírů nebo, v případě emitenta, který poskytuje informace elektronickým prostředkem, který umožňuje přenos dat po vedení, rádiem, optickým nebo jiným elektromagnetickým prostředkem, zpracování dat zahrnující digitální kompresi a uchovávání dat (dále jen „elektronický prostředek“), v souladu s odstavcem 5, zašle elektronickým prostředkem formulář plné moci k zastoupení vlastníka cenného papíru na shromáždění vlastníků cenných papírů. Tento formulář emitent současně uveřejní na svých internetových stránkách.
+>
+> (4) Každý má právo vyžádat si zaslání formuláře plné moci podle odstavce 3 na svůj náklad a na své nebezpečí v listinné podobě nebo elektronickým prostředkem. Na zpřístupnění formuláře plné moci podle odstavce 3 v listinné podobě v sídle emitenta, jeho uveřejnění na internetových stránkách emitenta a na právo vyžádat si jeho zaslání v listinné podobě nebo elektronickým prostředkem na svůj náklad a své nebezpečí musí být vlastník cenného papíru vydaného emitentem upozorněn v pozvánce na shromáždění uvedené v odstavci 3 nebo v oznámení o konání shromáždění uvedeného v odstavci 3. Emitent podle § 118 odst. 1 písm. a) zajistí možnost oznamování udělení plné moci k zastupování na valné hromadě nebo obdobném shromáždění vlastníků cenných papírů, jakož i její odvolání zmocnitelem, elektronickým prostředkem.
+>
+> (5) Pokud stanovy nebo dokument obdobný stanovám emitenta uvedeného v § 118 odst. 1 písm. a) nebo emisní podmínky dluhopisu nebo dokument obdobný emisním podmínkám dluhopisu emitenta podle § 118 odst. 1 písm. b) nebo c) neobsahují již tuto možnost, pak valná hromada nebo obdobné shromáždění vlastníků cenných papírů představujících podíl na emitentovi, pokud se jedná o emitenta podle § 118 odst. 1 písm. a), nebo schůze vlastníků dluhopisů nebo obdobného shromáždění vlastníků cenných papírů představujících právo na splacení dlužné částky, pokud se jedná o emitenta podle § 118 odst. 1 písm. b) nebo c), může rozhodnout o poskytování informací týkajících se výkonu práv vlastníka cenného papíru vydaného tímto emitentem elektronickým prostředkem pouze, pokud tento emitent
+>
+> - a) neváže poskytování informací týkajících se výkonu práv vlastníka cenného papíru elektronickým prostředkem na bydliště nebo sídlo vlastníka cenného papíru, zmocněnce oprávněného jej zastupovat nebo osoby uvedené v § 122 odst. 2 písm. a) až h),
+>
+> - b) zabezpečuje účinnou správu údajů o vlastníkovi cenného papíru nebo o osobě oprávněné za něj vykonávat hlasovací práva a zajišťuje technické podmínky pro ochranu zpracovávaných, uchovávaných a přenášených dat,
+>
+> - c) informuje způsobem, kterým svolává takové shromáždění vlastníků cenných papírů, bez zbytečného odkladu vlastníka jím vydaného cenného papíru nebo osobu oprávněnou za něj vykonávat hlasovací práva o rozhodnutí shromáždění vlastníků cenných papírů poskytovat informace týkající se výkonu práv vlastníka cenného papíru elektronickým prostředkem a požádá jej o vyjádření souhlasu v přiměřené lhůtě s tím, že pokud v této lhůtě nevyjádří své námitky, považuje se jeho souhlas za daný a
+>
+> - d) poskytuje každou informaci týkající se výkonu práv vlastníka cenného papíru elektronickým prostředkem každému vlastníkovi jím vydaných cenných papírů a každé osobě uvedené v § 122 odst. 2 písm. a) až e); to se nevztahuje na osobu, která emitenta písemně požádala o zasílání informací na svůj náklad a své nebezpečí v listinné podobě.
+>
+> (6) Splnění podmínek stanovených v odstavci 5 emitent uvedený v odstavci 5 zajistí také pro případ, kdy stanovy nebo dokument obdobný stanovám anebo emisní podmínky nebo dokument obdobný emisním podmínkám obsahují možnost poskytnout informace týkající se výkonu práv vlastníka daného cenného papíru elektronickým prostředkem.
+>
+> (7) Emitent uvedený v § 118 odst. 1 písm. b), c) nebo d) poskytuje ve lhůtě, v níž je povinen informace uveřejnit, osobě, která vede centrální evidenci zaknihovaných cenných papírů a která pro něj vede evidenci emise, informace o
+>
+> - a) výplatě výnosu z investičního cenného papíru nebo obdobného peněžitého plnění, spojeného s investičním cenným papírem vydaným emitentem,
+>
+> - b) svolání valné hromady emitenta nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi, nebo schůze vlastníků dluhopisů nebo obdobného shromáždění vlastníků cenných papírů vydaných emitentem představujících právo na splacení dlužné částky,
+>
+> - c) změnách práv spojených s investičním cenným papírem podle [[#§ 119b|§ 119b]],
+>
+> - d) dalších skutečnostech týkajících se výkonu práv spojených s investičním cenným papírem, které má emitent povinnost uveřejňovat podle jiných právních předpisů.
+>
+> (8) Osoba, která vede centrální evidenci zaknihovaných cenných papírů, uveřejní informace obdržené podle odstavce 7 na svých internetových stránkách.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 118, § 2a, § 122, § 119b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d3bdd8dcfcafc37191b1 -->
+
 ### § 120a — Obsah pozvánky na valnou hromadu
 
 > **§ 120a**
@@ -820,6 +1418,74 @@ Pozvánka na valnou hromadu emitenta kótovaných akcií musí nad rámec obecn�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=08a2355079a3f0e50134 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 120a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Kromě požadavků stanovených zákonem upravujícím právní poměry obchodních společností a družstev nebo srovnatelných požadavků zahraničního právního předpisu obsahuje, v případě emitenta podle § 118 odst. 1 písm. a), pozvánka na valnou hromadu nebo obdobné shromáždění vlastníků cenných papírů představujících podíl na emitentovi nebo oznámení o konání valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi
+>
+> - a) upozornění na práva vlastníka cenného papíru související s účastí na valné hromadě nebo obdobném shromáždění vlastníků cenných papírů představujících podíl na emitentovi a údaj o celkovém počtu akcií a cenných papírů představujících podíl na emitentovi a hlasovacích právech s nimi spojených,
+>
+> - b) jasný a určitý popis toho, jak se účastnit, a to i na základě plné moci, valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi, a jak na valné hromadě nebo obdobném shromáždění vlastníků cenných papírů představujících podíl na emitentovi hlasovat, včetně informací o
+>
+> - 1. právu uplatňovat návrhy a protinávrhy k návrhům, jejichž obsah je uveden v pozvánce na valnou hromadu nebo obdobné shromáždění vlastníků cenných papírů představujících podíl na emitentovi nebo v oznámení o konání valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi,
+>
+> - 2. právu žádat zařazení určené záležitosti na program jednání valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi a o lhůtách souvisejících s výkonem tohoto práva; v případě, že je informace o tomto právu poskytována na internetových stránkách emitenta, postačí, obsahuje-li pozvánka nebo oznámení informace o lhůtách souvisejících s výkonem tohoto práva a odkaz na internetové stránky emitenta, včetně údaje, kde lze na nich příslušné informace nalézt,
+>
+> - 3. způsobu, jakým emitent přijímá elektronickým prostředkem sdělení o udělení plné moci k zastoupení vlastníka cenného papíru na valné hromadě nebo obdobném shromáždění vlastníků cenných papírů představujících podíl na emitentovi,
+>
+> - 4. způsobu a postupu při korespondenčním hlasováním nebo hlasování elektronickým prostředkem, umožňuje-li emitent takové hlasování,
+>
+> - c) údaje o způsobu a místu získání dokumentů uvedených v § 120b odst. 1,
+>
+> - d) odkaz na internetové stránky emitenta, včetně údaje, kde lze na nich informace uvedené v § 120b odst. 1 nalézt.
+>
+> (2) Jestliže má být na pořadu jednání valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi uvedeném v § 118 odst. 1 písm. a) rozhodnutí o výplatě výnosu z cenného papíru nebo jiného peněžitého plnění spojeného s cenným papírem, tento emitent uveřejní spolu s oznámením o konání valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi nebo zašle vlastníkům cenných papírů spolu s pozvánkou na valnou hromadu nebo obdobné shromáždění vlastníků cenných papírů představujících podíl na emitentovi navrhovaný rozvrh výplaty výnosu nebo jiného peněžitého plnění a údaje o osobě, prostřednictvím které výnosy nebo jiná peněžitá plnění vyplatí. Stejným způsobem informuje emitent vlastníka cenného papíru nebo jeho zmocněnce bez zbytečného odkladu o výsledku jednání valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi.
+>
+> (3) Jestliže má být na pořadu jednání valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi uvedeném v § 118 odst. 1 písm. a) rozhodnutí o zvýšení nebo snížení základního kapitálu, o štěpení cenných papírů, o spojení více cenných papírů do jednoho nebo o změně formy nebo druhu cenného papíru, uveřejní spolu s oznámením o konání valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi nebo zašle vlastníkovi cenného papíru spolu s pozvánkou na valnou hromadu nebo obdobné shromáždění vlastníků cenných papírů představujících podíl na emitentovi informace o dopadu takového rozhodnutí na práva vlastníka. Stejným způsobem informuje emitent vlastníka cenného papíru nebo jeho zmocněnce bez zbytečného odkladu o výsledku jednání valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi v tomto bodě jednání.
+>
+> (4) Pokud o zvýšení nebo snížení základního kapitálu rozhoduje statutární orgán na základě pověření valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi, použije se odstavec 3 přiměřeně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 118, § 120b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=08a2355079a3f0e50134 -->
+
 ### § 120b — Dokumenty k valné hromadě a zveřejnění výsledků hlasování
 
 > **§ 120b**
@@ -894,6 +1560,72 @@ Emitent kótovaných akcií musí nejpozději ke dni pozvánky bezplatně uveře
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0cc19fb3f2dcd264128c generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 120b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Emitent podle § 118 odst. 1 písm. a) je povinen nejpozději dnem uveřejnění oznámení o konání valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi nebo dnem zaslání pozvánky na valnou hromadu nebo obdobné shromáždění vlastníků cenných papírů představujících podíl na emitentovi uveřejnit
+>
+> - a) toto oznámení nebo tuto pozvánku,
+>
+> - b) každý dokument týkající se programu jednání valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi; dokument nemusí být zcela nebo zčásti uveřejněn, jestliže z pečlivého podnikatelského uvážení vyplývá, že by mohlo jeho uveřejnění přivodit emitentovi újmu, nebo jde, v případě informace uvedené v dokumentu, o vnitřní informaci anebo o informaci, která je předmětem obchodního, bankovního nebo podobného tajemství emitenta nebo utajovanou informaci podle jiného právního předpisu; zda jde o takovou informaci, rozhodne statutární orgán emitenta,
+>
+> - c) formulář, pomocí kterého lze vykonat korespondenční hlasování nebo hlasování elektronickým prostředkem,
+>
+> - d) návrh usnesení valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi, anebo stanovisko statutárního orgánu emitenta k jednotlivým bodům navrhovaného programu jednání valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi,
+>
+> - e) písemné znění doručeného návrhu nebo protinávrhu akcionáře nebo vlastníka cenného papíru představujícího podíl na emitentovi k návrhům, jejichž obsah je uveden v pozvánce na valnou hromadu nebo obdobné shromáždění vlastníků cenných papírů představujících podíl na emitentovi nebo v oznámení o konání valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi a
+>
+> - f) celkový počet akcií a cenných papírů představujících podíl na emitentovi vydaných ke dni uveřejnění oznámení nebo zaslání pozvánky, jakož i celkový počet hlasů, které jsou s nimi spojeny; vydal-li emitent různé druhy akcií a cenných papírů představujících podíl na emitentovi, uvede tyto údaje zvlášť pro každý druh akcie a cenného papíru představujícího podíl na emitentovi.
+>
+> (2) Emitent podle § 118 odst. 1 písm. a) uveřejní do 15 dnů ode dne, kdy se konala valná hromada nebo obdobné shromáždění vlastníků cenných papírů představujících podíl na emitentovi, údaje o
+>
+> - a) počtu platných hlasů odevzdaných při hlasování o každém návrhu, počtu akcií a cenných papírů představujících podíl na emitentovi, s nimiž jsou tyto hlasy spojeny, a výši podílu na základním kapitálu nebo hlasovacích právech emitenta, kterou představují tyto akcie a tyto cenné papíry představující podíl na emitentovi, a
+>
+> - b) celkovém počtu platných hlasů odevzdaných pro návrh, proti návrhu a počtu hlasů, ohledně nichž se hlasující zdrželi hlasování.
+>
+> (3) Emitent uvedený v § 118 odst. 1 písm. a) zpřístupní dokumenty uvedené v odstavci 1 akcionářům nebo vlastníkům cenných papírů představujících podíl na emitentovi a uveřejní údaje uvedené v odstavci 2 bezplatně na svých internetových stránkách. Povinnost uveřejnit oznámení nebo pozvánku na valnou hromadu podle zákona upravujícího právní poměry obchodních společností a družstev tím není dotčena.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 118
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0cc19fb3f2dcd264128c -->
+
 ### § 120c — Dluhopisová shromáždění
 
 > **§ 120c**
@@ -949,6 +1681,54 @@ Dluhový emitent musí uveřejnit/zaslat oznámení o schůzi vlastníků a prů
 **Typicky rozhodné důkazy / podklady:** emisní podmínky s uvedením jmenovité hodnoty, oznámení o konání schůze, doklad o uveřejnění/zaslání informací, doklad o zajištění podmínek pro výkon práv v místě konání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=dc5c6d54adce1235490f generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 120c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Emitent uvedený v § 118 odst. 1 písm. b) nebo c) je povinen uveřejnit nebo zaslat oznámení o konání schůze vlastníků dluhopisů nebo obdobného shromáždění vlastníků cenných papírů představujících právo na splacení dlužné částky; stejným způsobem uveřejní nebo zašle bez zbytečného odkladu informaci o výkonu práva plynoucího z vlastnictví takového cenného papíru, výplatě výnosu, upisování, zrušení nebo splacení takového cenného papíru. Tím nejsou dotčeny požadavky stanovené jiným právním předpisem na dokument, kterým se svolává schůze vlastníků dluhopisů, nebo srovnatelné požadavky zahraničního předpisu na dokument, kterým se svolává shromáždění vlastníků cenných papírů představujících právo na splacení dlužné částky.
+>
+> (2) Pokud se schůze vlastníků dluhopisů nebo obdobného shromáždění vlastníků cenných papírů představujících právo na splacení dlužné částky mají účastnit pouze vlastníci investičního cenného papíru uvedeného v § 118 odst. 1 písm. b) nebo c), jehož jmenovitá hodnota k datu emise odpovídá alespoň částce odpovídající 100 000 EUR, může se taková schůze vlastníků nebo takové obdobné shromáždění konat v jakémkoli členském státě Evropské unie za předpokladu, že v tomto členském státě Evropské unie jsou zajištěny nezbytné informace a podmínky k tomu, aby tento vlastník mohl vykonávat svá práva.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 118
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dc5c6d54adce1235490f -->
 
 ### § 121 — Zákazy při plnění informačních povinností
 
@@ -1009,6 +1789,60 @@ Při plnění informačních povinností nesmí emitent používat nepravdivé, 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e4ce9dd8364c275aea43 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Emitent uvedený v § 118 odst. 1 nesmí při plnění svých informačních povinností
+>
+> - a) používat nepravdivé, klamavé nebo zavádějící informace,
+>
+> - b) zamlčovat skutečnosti důležité pro rozhodování investorů,
+>
+> - c) nabízet výhody, jejichž spolehlivost nemůže zaručit,
+>
+> - d) uvádět nesprávné informace o své hospodářské situaci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 118
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e4ce9dd8364c275aea43 -->
+
 ### § 121a — Informační povinnost při nahrazení investičního nástroje
 
 > **§ 121a**
@@ -1059,6 +1893,52 @@ U depozitních certifikátů a obdobných náhradních cenných papírů (§ 3 o
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a3cb0062419809a9e712 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Jestliže je investiční cenný papír uvedený v § 3 odst. 2 písm. c) přijatý k obchodování na evropském regulovaném trhu, plní povinnosti stanovené v [[#§ 118|§ 118]], § 119b odst. 2, § 120 odst. 1 a [[#§ 5|5]] a v [[#§ 121|§ 121]] emitent investičního cenného papíru, který je cenným papírem uvedeným v § 3 odst. 2 písm. c) nahrazován, a to bez ohledu na to, zda je tento nahrazovaný investiční cenný papír přijat k obchodování na evropském regulovaném trhu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3, § 118, § 119b, § 120, § 5, § 121
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a3cb0062419809a9e712 -->
+
 ### § 121b — Informační povinnosti při přijetí k obchodování bez souhlasu emitenta
 
 > **§ 121b**
@@ -1108,6 +1988,52 @@ Je-li cenný papír přijat k obchodování bez souhlasu emitenta, plní informa
 **Typicky rozhodné důkazy / podklady:** žádost o přijetí k obchodování, doklad o absenci souhlasu emitenta, doklad o uveřejnění informací povinnou osobou nebo odkazu na informace emitenta.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e2df6080e2371528409d generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Jestliže byl investiční cenný papír přijatý k obchodování na regulovaném trhu bez souhlasu emitenta, povinnost uveřejnit informace podle této hlavy a hlavy V této části zákona a podle čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (EU) č. [[596/2014|596/2014]], pokud emitent podléhá informačním povinnostem podle tohoto zákona, nebo s nimi srovnatelné informace, pokud emitent podléhá informační povinnosti podle právního řádu jiného členského státu Evropské unie, plní místo emitenta osoba, která o přijetí k obchodování na regulovaném trhu požádala, nebo organizátor regulovaného trhu, který sám přijal investiční cenný papír k obchodování na regulovaném trhu bez souhlasu emitenta. Tato povinnost je splněna, uveřejní-li povinná osoba informaci podle hlavy VII této části zákona bez zbytečného odkladu poté, co došlo k jejímu uveřejnění emitentem; budou-li dodrženy požadavky na způsob a jazyk uveřejňování, splní povinná osoba tuto povinnost i jen uveřejněním odkazu na místo, kde jsou emitentem uveřejněné informace k dispozici.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e2df6080e2371528409d -->
 
 ## Hlava III — Identifikace akcionářů, předávání informací a usnadnění výkonu práv akcionářů
 
@@ -1160,6 +2086,52 @@ Hlava III (identifikace akcionářů a přenos informací) se vztahuje výlučn�
 **Typicky rozhodné důkazy / podklady:** doklad o sídle emitenta, doklad o přijetí akcií k obchodování na evropském regulovaném trhu, dokumentace povahy cenného papíru (podílový vs. dluhový).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e4496adca9ecc66fe464 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121c — Působnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Ustanovení této hlavy se uplatní pouze ve vztahu k akciím nebo obdobným cenným papírům představujícím podíl na emitentovi se sídlem v členském státě Evropské unie, jsou-li přijaté k obchodování na evropském regulovaném trhu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e4496adca9ecc66fe464 -->
 
 ### § 121d — Identifikace akcionářů prostřednictvím evidence
 
@@ -1242,6 +2214,74 @@ Emitent EU akcií má právo zjistit své akcionáře žádostí předávanou �
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=dbae2dc8fff3096600ce generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Osoba, která vede evidenci investičních nástrojů, sdělí emitentovi na jeho žádost údaje o majiteli účtu vlastníka, na kterém eviduje cenné papíry vydané tímto emitentem.
+>
+> (2) Osoba, která vede centrální evidenci zaknihovaných cenných papírů, předá žádost podle odstavce 1 osobám, které vedou cenné papíry vydané stejným emitentem v evidenci navazující na centrální evidenci zaknihovaných cenných papírů. Obdrží-li od emitenta žádost podle odstavce 1 osoba, která vede evidenci navazující na centrální evidenci zaknihovaných cenných papírů, předá ji osobě, která vede centrální evidenci zaknihovaných cenných papírů.
+>
+> (3) Obdrží-li osoba, která vede samostatnou evidenci investičních nástrojů nebo evidenci navazující na samostatnou evidenci investičních nástrojů, žádost podle odstavce 1, předá ji
+>
+> - a) majiteli účtu zákazníků, na kterém eviduje cenné papíry vydané stejným emitentem, a
+>
+> - b) osobě, která pro ni vede účet zákazníků, na kterém jsou evidovány cenné papíry vydané stejným emitentem.
+>
+> (4) Údaji podle odstavce 1 jsou
+>
+> - a) údaje o majiteli účtu vlastníka, kterými jsou
+>
+> - 1. u právnické osoby jméno, identifikační číslo osoby a kontaktní adresa, včetně adresy elektronické pošty, je-li k dispozici,
+>
+> - 2. u fyzické osoby jméno a kontaktní adresa, včetně adresy elektronické pošty, je-li k dispozici,
+>
+> - b) počet kusů cenného papíru, které majitel účtu vlastníka drží, a
+>
+> - c) druh akcie nebo obdobného cenného papíru nebo datum, od kterého je majitel účtu vlastníka drží, požaduje-li emitent tyto údaje.
+>
+> (5) Formu a rozsah žádosti emitenta, lhůty a způsob předávání žádosti a údajů o majiteli účtu vlastníka stanoví přímo použitelný předpis Evropské unie, kterým se provádí čl. 3a odst. 8 směrnice Evropského parlamentu a Rady 2007/36/ES.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 2007/36 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dbae2dc8fff3096600ce -->
+
 ### § 121e — Předávání informací vlastníkům CP přes řetězec evidence
 
 > **§ 121e**
@@ -1322,6 +2362,74 @@ Emitent předává korporátní informace akcionářům buď přes CDCP a řetě
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=40792b2a2efcfb84655c generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Emitent poskytuje ve lhůtě, ve které je povinen informace uveřejnit, osobě, která vede centrální evidenci zaknihovaných cenných papírů a která pro něj vede evidenci emise, informace podle § 120 odst. 7 nebo informaci o tom, kde jsou tyto informace pro vlastníky cenných papírů uveřejněny na internetových stránkách emitenta. To neplatí, jestliže emitent informace zašle přímo všem akcionářům.
+>
+> (2) Obdrží-li osoba, která vede centrální evidenci zaknihovaných cenných papírů, informace od emitenta podle odstavce 1, předá je
+>
+> - a) majiteli účtu zákazníků, na kterém eviduje cenné papíry vydané stejným emitentem, a
+>
+> - b) majiteli účtu vlastníka, na kterém eviduje cenné papíry vydané stejným emitentem.
+>
+> (3) Obdrží-li osoba, která vede evidenci navazující na centrální evidenci cenných papírů, informace podle odstavce 1, předá je osobám, pro které vede cenné papíry vydané stejným emitentem na účtech vlastníka.
+>
+> (4) Obdrží-li osoba, která vede samostatnou evidenci investičních nástrojů, nebo osoba, která vede evidenci navazující na samostatnou evidenci investičních nástrojů, od emitenta nebo od jiné osoby, která vede evidenci investičních nástrojů, informace podle § 120 odst. 7, předá tyto informace
+>
+> - a) majiteli účtu zákazníků, na kterém eviduje cenné papíry vydané stejným emitentem, a
+>
+> - b) majiteli účtu vlastníka, na kterém eviduje cenné papíry vydané stejným emitentem.
+>
+> (5) Osoba, která vede evidenci investičních nástrojů,
+>
+> - a) sdělí emitentovi informace od majitele účtu vlastníka týkající se výkonu práv spojených s cenným papírem, nebo
+>
+> - b) předá informace podle písmene a) osobě, která pro ni vede cenné papíry vydané stejným emitentem na účtu zákazníků.
+>
+> (6) Formu a rozsah informací, lhůty a způsob jejich předávání podle odstavců 1 až 5 stanoví přímo použitelný předpis Evropské unie, kterým se provádí čl. 3b odst. 6 směrnice Evropského parlamentu a Rady 2007/36/ES.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 120
+
+##### Souvisící předpisy
+
+- akt EU 2007/36 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=40792b2a2efcfb84655c -->
+
 ### § 121f — Úhrada nákladů při poskytnutí informací
 
 > **§ 121f**
@@ -1371,6 +2479,52 @@ Custodian (CDCP) smí za identifikaci akcionářů a přenos informací účtova
 **Typicky rozhodné důkazy / podklady:** faktury a sazebník custodiana, nákladová kalkulace služeb, srovnání sazeb pro různé kategorie emitentů, doklad o (ne)uveřejnění sazebníku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c6206913536cf5faee71 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121f — Úhrada nákladů vzniklých při poskytnutí informací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Osobě, která vede evidenci investičních nástrojů, náleží úplata za plnění povinností podle [[#§ 121d|§ 121d]] a [[#§ 121e|121e]] pouze tehdy, je-li úplata nediskriminační a přiměřená skutečným nákladům vzniklým při plnění těchto povinností. Osoba, která vede evidenci investičních nástrojů, uveřejní úplatu za jednotlivé služby podle [[#§ 121d|§ 121d]] a [[#§ 121e|121e]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 121d, § 121e
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c6206913536cf5faee71 -->
 
 ### § 121g — Vztah k zahraniční evidenci investičních nástrojů
 
@@ -1422,6 +2576,52 @@ Povinnosti Hlavy III (identifikace akcionářů a přenos informací) se obdobn�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c4bbf5ff31cc92fdf542 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121g — Vztah k zahraniční evidenci investičních nástrojů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Ustanovení této hlavy se obdobně použijí na osoby, které nemají sídlo v členském státě Evropské unie a vedou v evidenci investičních nástrojů akcie nebo obdobné cenné papíry představující podíl na emitentovi se sídlem v členském státě Evropské unie, jsou-li přijaté k obchodování na regulovaném trhu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c4bbf5ff31cc92fdf542 -->
+
 ### § 121h — Uchovávání informací
 
 > **§ 121h**
@@ -1471,6 +2671,52 @@ Ustanovení stanoví tvrdý dvanáctiměsíční strop pro uchování osobních 
 **Typicky rozhodné důkazy / podklady:** výpis z účtu prokazující datum nulové pozice, logy datových toků emitent–custodian, retenční politika a její nastavení, auditní stopa o výmazu/anonymizaci, případná dokumentace samostatného právního titulu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f6eceee81e5c14771c96 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121h — Uchovávání informací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Emitent a osoba, která vede evidenci investičních nástrojů, uchovává a zpracovává osobní údaje získané podle této hlavy nejdéle po dobu 12 měsíců ode dne, kdy se dozví, že žádné akcie nebo obdobné cenné papíry vydané emitentem nejsou vedeny na účtu vlastníka daného majitele.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f6eceee81e5c14771c96 -->
 
 ### § 121i — Potvrzení o hlasování
 
@@ -1536,6 +2782,58 @@ Ustanovení dává akcionáři vymahatelné právo ověřit přijetí a započte
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5088b9d5bdc6338e1af6 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121i — Potvrzení o hlasování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Emitent zašle akcionáři nebo jím pověřené osobě na žádost informaci o tom, zda a jak byly hlasy akcionáře při hlasování na valné hromadě započteny. Emitent není povinen žádosti o informaci vyhovět, jsou-li informace akcionáři nebo jím pověřené osobě již dostupné nebo obdrží-li žádost o informace více než 3 měsíce ode dne konání valné hromady.
+>
+> (2) Obdrží-li osoba, která vede evidenci investičních nástrojů, od emitenta informaci podle odstavce 1, předá ji majiteli účtu vlastníka nebo zákazníků, na kterém eviduje akcie vydané stejným emitentem.
+>
+> (3) V případě hlasování na valné hromadě nebo rozhodování mimo valnou hromadu s využitím technických prostředků zašle emitent osobě, která takto hlasovala, elektronicky informaci, zda byl její hlas přijat.
+>
+> (4) Formu a rozsah informací, lhůty a způsob jejich předávání podle odstavců 1 až 3 stanoví přímo použitelný předpis Evropské unie, kterým se provádí čl. 3c odst. 3 směrnice Evropského parlamentu a Rady 2007/36/ES.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 2007/36 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5088b9d5bdc6338e1af6 -->
+
 ## Hlava IV — Odměňování a významné transakce se spřízněnými stranami
 
 ### § 121j — Působnost Hlavy IV
@@ -1586,6 +2884,52 @@ Ustanovení vymezuje působnost Hlavy IV výhradně na emitenty kótovaných akc
 **Typicky rozhodné důkazy / podklady:** prospekt a podmínky emise, výpis z příslušného regulovaného trhu o přijatých instrumentech, zápis v seznamu emitentů vedeném ČNB.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ba7370db3f7969aefb5b generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121j — Působnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Ustanovení této hlavy se použijí pouze na emitenta uvedeného v § 118 odst. 1 písm. a).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 118
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ba7370db3f7969aefb5b -->
 
 ### § 121k — Předložení, schválení a uveřejnění politiky odměňování
 
@@ -1647,6 +2991,58 @@ Ustanovení váže odměňování orgánů na předložení politiky odměňová
 **Typicky rozhodné důkazy / podklady:** datum přijetí akcií k obchodování, pozvánky a zápisy z dotčených VH, smlouvy o výkonu funkce, doklady o vyplacených odměnách, zveřejněná politika s datem schválení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7e7a0a0cabf0a3c9e50b generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121k — Předložení, schválení a uveřejnění politiky odměňování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Emitent vyhotoví politiku odměňování podle [[#§ 121l|§ 121l]]. Představenstvo nebo správní rada emitenta ji předloží ke schválení nejpozději první valné hromadě konané po uplynutí 90 dnů ode dne přijetí akcií k obchodování na evropském regulovaném trhu, která schvaluje účetní závěrku emitenta. Nepředloží-li představenstvo nebo správní rada emitenta politiku odměňování podle věty druhé, je výkon funkce členů představenstva nebo členů správní rady bezplatný, a to ode dne konání valné hromady podle věty druhé až do dne konání valné hromady, které byla předložena politika odměňování ke schválení.
+>
+> (2) Představenstvo nebo správní rada emitenta předloží valné hromadě politiku odměňování ke schválení při každé její podstatné změně nebo alespoň jednou za 4 roky.
+>
+> (3) Neschválí-li valná hromada emitenta předloženou politiku odměňování, předloží představenstvo nebo správní rada následující valné hromadě ke schválení upravenou politiku odměňování.
+>
+> (4) Emitent bez zbytečného odkladu po konání valné hromady bezplatně uveřejní schválenou politiku odměňování spolu s datem jejího schválení a údaji podle § 120b odst. 2 na svých internetových stránkách a ponechá ji uveřejněnou po dobu jejího uplatňování.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 121l, § 120b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7e7a0a0cabf0a3c9e50b -->
 
 ### § 121l — Obsah politiky odměňování
 
@@ -1729,6 +3125,82 @@ Ustanovení stanoví minimální obsah politiky odměňování (poměr složek, 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a9af55cb5ab2cdee466c generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121l — Obsah politiky odměňování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Politika odměňování je srozumitelná, podporuje obchodní strategii emitenta, jeho dlouhodobé zájmy i udržitelnost a objasňuje, jakým způsobem tak činí.
+>
+> (2) Politika odměňování obsahuje ve vztahu k osobám podle § 121m odst. 1
+>
+> - a) popis všech pevných a pohyblivých složek odměn, včetně všech bonusů a dalších výhod v jakékoliv formě a jejich poměr,
+>
+> - b) poskytuje-li emitent pohyblivou složku odměny,
+>
+> - 1. jednoznačná, úplná a různorodá kritéria přiznávání pohyblivé složky odměny,
+>
+> - 2. klíčové ukazatele finanční a nefinanční výkonnosti emitenta, případně včetně kritérií týkajících se sociální odpovědnosti emitenta,
+>
+> - 3. vysvětlení, jakým způsobem ukazatele podle bodu 2 přispívají k plnění požadavků podle odstavce 1,
+>
+> - 4. metody určení, do jaké míry byly ukazatele výkonnosti podle bodu 2 splněny,
+>
+> - 5. pravidla pro odklad vzniku nároku na pohyblivou složku odměny nebo její část, jsou-li stanovena, a
+>
+> - 6. informace o právu emitenta požadovat vrácení pohyblivé složky odměny nebo její části,
+>
+> - c) poskytuje-li emitent odměnu formou akcií, dobu, po kterou nelze uplatnit opce na akcie, případně i dobu, po kterou nelze akcie nabyté v důsledku opce zcizit, a vysvětlení, jakým způsobem odměna formou akcií přispívá k plnění požadavků podle odstavce 1,
+>
+> - d) délku funkčního období nebo pracovního poměru s osobami podle § 121m odst. 1, výpovědní dobu, podmínky ukončení funkce nebo pracovního poměru, včetně úhrad spojených s jejich ukončením,
+>
+> - e) hlavní charakteristiku penzijních výhod, které emitent poskytuje, popis příspěvků emitenta do doplňkového penzijního systému a hlavní charakteristiku schémat předčasných důchodových dávek, která emitent nabízí,
+>
+> - f) informaci, jakým způsobem bylo při vytváření politiky odměňování přihlédnuto ke mzdovým a pracovním podmínkám zaměstnanců emitenta, a
+>
+> - g) rozhodovací proces dodržovaný při stanovení, přezkumu a provádění politiky odměňování, včetně opatření k předcházení vzniku střetu zájmů a způsobu jeho řešení, a případně i úlohu výboru pro odměňování nebo ostatních výborů.
+>
+> (3) Je-li politika odměňování upravována podle § 121k odst. 2 nebo [[#§ 3|3]], obsahuje popis a zdůvodnění všech podstatných změn a způsobu, jakým byl zohledněn výsledek hlasování akcionářů na valné hromadě a jejich stanoviska k politice odměňování a zprávě o odměňování, a to v období od posledního hlasování o politice odměňování na valné hromadě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 121m, § 121k, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a9af55cb5ab2cdee466c -->
+
 ### § 121m — Určování výše a vyplácení odměn
 
 > **§ 121m**
@@ -1789,6 +3261,58 @@ Ustanovení zakazuje odměňovat orgánové osoby i CEO mimo schválenou politik
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=50a8a98fd4fba05bbd79 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121m — Určování výše a vyplácení odměn
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Nestanoví-li tento zákon jinak, vyplácí emitent odměny členům představenstva a dozorčí rady nebo správní rady, fyzické osobě, která je přímo podřízena vedoucímu orgánu emitenta a na kterou jako jedinou tento orgán delegoval obchodní vedení alespoň v rozsahu každodenního řízení emitenta jako celku, a zástupci této osoby, existuje-li, pouze v souladu se schválenou politikou odměňování.
+>
+> (2) Neexistuje-li schválená politika odměňování, emitent vyplácí odměny osobám podle odstavce 1 v souladu se stávající praxí; § 121k odst. 1 věta poslední tím není dotčena.
+>
+> (3) Smlouva o výkonu funkce, jiné právní jednání nebo vnitřní předpis emitenta upravující odměnu člena představenstva, dozorčí nebo správní rady pozbývá účinnosti v rozsahu, v jakém je v rozporu se schválenou politikou odměňování, dnem nabytí účinnosti rozhodnutí valné hromady, kterým se schvaluje politika odměňování. Tím není dotčena výplata odměny za výkon funkce za období předcházející dni nabytí účinnosti rozhodnutí valné hromady podle věty první.
+>
+> (4) Smlouva o výkonu funkce, jiné právní jednání nebo vnitřní předpis emitenta upravující odměnu člena představenstva, dozorčí nebo správní rady nemá právní účinky v rozsahu, v jakém je v rozporu se schválenou politikou odměňování.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 121k
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=50a8a98fd4fba05bbd79 -->
+
 ### § 121n — Odchýlení od politiky odměňování
 
 > **§ 121n**
@@ -1839,6 +3363,52 @@ Ustanovení umožňuje dočasné odchýlení od politiky odměňování jen při
 **Typicky rozhodné důkazy / podklady:** schválená politika a její pravidla pro odchýlení, zápis o rozhodnutí o odchýlení (vč. orgánu, který rozhodl), doklady o krizové situaci a nezbytnosti náboru, následná zpráva o odměňování.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b2307cef94ee23009409 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121n — Odchýlení od politiky odměňování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Od politiky odměňování se emitent může dočasně odchýlit, je-li odchýlení nezbytné z hlediska dlouhodobých zájmů i udržitelnosti emitenta nebo z hlediska zachování provozu jeho obchodního závodu a obsahuje-li politika odměňování procedurální pravidla pro dočasné odchýlení a výčet pravidel, od nichž se lze takto odchýlit.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b2307cef94ee23009409 -->
 
 ### § 121o — Vyhotovení, schválení a uveřejnění zprávy o odměňování
 
@@ -1902,6 +3472,60 @@ Ustanovení činí ze schvalování zprávy o odměňování poradní hlasován�
 **Typicky rozhodné důkazy / podklady:** zpráva o odměňování, zápis z VH a výsledek poradního hlasování, datum a stav uveřejnění na webu, případná příští zpráva reagující na hlasování.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cb89790daf650275198f generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121o — Vyhotovení, schválení a uveřejnění zprávy o odměňování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Emitent vyhotoví přehlednou a srozumitelnou zprávu o odměňování, která poskytuje úplný přehled odměn, včetně všech výhod v jakékoliv formě, poskytnutých nebo splatných v průběhu posledního skončeného účetního období osobám podle § 121m odst. 1.
+>
+> (2) Osoba podle § 121m odst. 1 sdělí emitentovi bez zbytečného odkladu po skončení účetního období veškeré odměny, které jí byly poskytnuty nebo jsou splatné v účetním období, za něž se vypracovává zpráva o odměňování, osobou, která patří do stejné skupiny jako emitent.
+>
+> (3) Zprávu o odměňování představenstvo nebo správní rada předloží ke schválení nejpozději valné hromadě, která schvaluje účetní závěrku za účetní období, za které se vypracovává zpráva o odměňování. Neschválí-li valná hromada zprávu o odměňování, představenstvo nebo správní rada v příští zprávě o odměňování vysvětlí, jakým způsobem byl výsledek hlasování na valné hromadě zohledněn při vypracování nové zprávy.
+>
+> (4) Emitent bez zbytečného odkladu po konání valné hromady podle odstavce 3 bezplatně uveřejní zprávu o odměňování spolu s informací, zda byla zpráva o odměňování schválena valnou hromadou, na svých internetových stránkách a ponechá ji uveřejněnou po dobu 10 let.
+>
+> (5) Emitent může rozhodnout, že zpráva o odměňování bude dostupná na internetových stránkách i po uplynutí doby podle odstavce 4; v takovém případě nesmí zpráva o odměňování obsahovat osobní údaje osob podle § 121m odst. 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 121m
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cb89790daf650275198f -->
 
 ### § 121p — Obsah zprávy o odměňování
 
@@ -1979,6 +3603,70 @@ Ustanovení vyžaduje individualizovaný přehled odměn každé vedoucí osoby,
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=edaac9e6bba03c6b191c generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121p
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Zpráva o odměňování ve vztahu ke každé osobě podle § 121m odst. 1 obsahuje
+>
+> - a) celkovou výši odměny rozčleněnou podle složek, poměr pevné a pohyblivé složky odměny, vysvětlení, jak celková výše odměny odpovídá politice odměňování včetně toho, jakým způsobem podporuje dlouhodobou výkonnost emitenta, a informaci o způsobu uplatnění výkonnostních kritérií,
+>
+> - b) roční změnu celkové výše odměny alespoň za 5 posledních účetních období, která následují po dni přijetí akcií k obchodování na evropském regulovaném trhu, prezentovanou způsobem, který umožňuje srovnání,
+>
+> - c) informace podle § 121o odst. 2,
+>
+> - d) počet poskytnutých nebo nabídnutých akcií a opcí na akcie a hlavní podmínky uplatnění práv z opčního programu, včetně ceny a data realizace opce, a jakékoli změny těchto podmínek,
+>
+> - e) informace o využití práva emitenta požadovat vrácení pohyblivé složky odměny nebo její části a
+>
+> - f) informace o odchylkách od postupu provádění politiky odměňování uvedeného v politice odměňování podle § 121l odst. 2 písm. g) a o odchýlení od politiky odměňování v souladu s [[#§ 121n|§ 121n]], včetně vysvětlení důvodu odchýlení a uvedení konkrétních pravidel politiky odměňování, od kterých se emitent odchýlil,
+>
+> ledaže osobě taková odměna nebyla poskytnuta ani nebyla splatná nebo emitent takovým způsobem nepostupoval.
+>
+> (2) Zpráva o odměňování dále obsahuje roční změnu finančních a nefinančních klíčových ukazatelů výkonnosti emitenta a roční změnu průměrných odměn zaměstnanců emitenta, kteří nejsou osobami podle § 121m odst. 1, v přepočtu na zaměstnance se stanovenou týdenní pracovní dobou, a to alespoň za 5 posledních účetních období, která následují po dni přijetí akcií k obchodování na regulovaném trhu, prezentované společně způsobem, který umožňuje srovnání.
+>
+> (3) Zpráva o odměňování neobsahuje zvláštní kategorie osobních údajů podle přímo použitelného předpisu Evropské unie upravujícího ochranu osobních údajů64) nebo osobní údaje týkající se rodinné situace osob podle § 121m odst. 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 121m, § 121o, § 121l, § 121n
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=edaac9e6bba03c6b191c -->
+
 ### § 121q — Audit zprávy o odměňování
 
 > **§ 121q**
@@ -2027,6 +3715,52 @@ Ustanovení ukládá auditorovi pouze ověřit formální úplnost zprávy o odm
 **Typicky rozhodné důkazy / podklady:** zpráva o odměňování, auditorská zpráva / vyjádření k úplnosti, smlouva o povinném auditu, vymezení zákonného rozsahu ověření.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e2759becd74518ab6b48 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121q
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Auditor ověří, zda zpráva o odměňování obsahuje informace podle § 121p odst. 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 121p
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e2759becd74518ab6b48 -->
 
 ### § 121s — Významné transakce uzavírané emitentem
 
@@ -2084,6 +3818,58 @@ Ustanovení definuje významnou transakci prahem 10 % aktiv z poslední účetn�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1c73d31e62a54a92e85e generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121s — Významné transakce uzavírané emitentem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Významnou transakcí uzavíranou emitentem je smlouva nebo dohoda, na základě které dochází ke
+>
+> - a) zcizení nebo nabytí majetku emitentem ve výši přesahující 10 % aktiv vyplývajících z účetní závěrky za účetní období bezprostředně předcházející účetnímu období, ve kterém se transakce uzavírá, nebo
+>
+> - b) zvýšení pouze dluhů emitenta o dluh nebo podmíněný dluh ve výši přesahující 10 % aktiv vyplývajících z účetní závěrky za účetní období bezprostředně předcházející účetnímu období, ve kterém se transakce uzavírá.
+>
+> (2) Transakce s toutéž spřízněnou stranou uzavřené v průběhu téhož účetního období se pro účely odstavce 1 sčítají.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1c73d31e62a54a92e85e -->
+
 ### § 121t — Uzavírání a schvalování významných transakcí se spřízněnými stranami
 
 > **§ 121t**
@@ -2133,6 +3919,52 @@ Ustanovení podmiňuje uzavření významné transakce se spřízněnou stranou 
 **Typicky rozhodné důkazy / podklady:** smlouva o transakci, účetní závěrka (překročení prahu), identifikace spřízněné strany, pozvánka a zápis z VH (existence/absence souhlasu), případná analýza tržnosti podmínek.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=75728edefdc39af139b8 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121t — Uzavírání a schvalování významných transakcí se spřízněnými stranami
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Emitent může uzavřít významnou transakci se spřízněnou stranou pouze se souhlasem valné hromady. Emitent v pozvánce na valnou hromadu uvede informace podle § 121u odst. 1; není-li známé přesné datum uzavření významné transakce, uvede alespoň období, ve kterém uzavření transakce důvodně předpokládá. V případě podle § 121u odst. 3 obsahuje pozvánka na valnou hromadu i informace podle § 121u odst. 1 písm. c) až f) o každé dílčí transakci, která nepodléhá schválení valnou hromadou, a celkovou výši transakcí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 121u
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=75728edefdc39af139b8 -->
 
 ### § 121u — Uveřejnění významných transakcí se spřízněnými stranami
 
@@ -2210,6 +4042,70 @@ Ustanovení vyžaduje uveřejnění významné transakce se spřízněnou strano
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c27fd480cfa10fade200 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121u — Uveřejnění významných transakcí se spřízněnými stranami
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Emitent uveřejní na svých internetových stránkách nejpozději v den uzavření významné transakce se spřízněnou stranou alespoň
+>
+> - a) informace o povaze vztahu emitenta se spřízněnou stranou,
+>
+> - b) jméno spřízněné strany,
+>
+> - c) předmět významné transakce,
+>
+> - d) datum uzavření významné transakce,
+>
+> - e) výši významné transakce a
+>
+> - f) další informace nezbytné pro posouzení, zda je významná transakce spravedlivá a přiměřená z pohledu emitenta a akcionářů, kteří nejsou spřízněnou stranou.
+>
+> (2) Osoba ovládaná emitentem sdělí emitentovi informace podle odstavce 1 o významné transakci uzavřené mezi ní a jinou spřízněnou stranou emitenta bez zbytečného odkladu po uzavření této transakce. Emitent uveřejní tyto informace bez zbytečného odkladu po jejich obdržení na svých internetových stránkách.
+>
+> (3) Dojde-li ke splnění kritérií významnosti transakce v důsledku sčítání transakcí uzavíraných s toutéž spřízněnou stranou podle § 121s odst. 2, uveřejní emitent informace podle odstavce 1 o každé dílčí transakci a současně uvede i celkovou výši všech transakcí.
+>
+> (4) Odstavci 1 až 3 nejsou dotčena pravidla uveřejňování vnitřních informací podle čl. 17 odst. 1 nařízení Evropského parlamentu a Rady (EU) č. 596/2014.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 121s
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c27fd480cfa10fade200 -->
+
 ### § 121v — Výjimky ze schvalování a uveřejňování transakcí se spřízněnými stranami
 
 > **§ 121v**
@@ -2273,6 +4169,62 @@ Ustanovení vyjímá z režimu schvalování a uveřejňování transakce v bě�
 **Typicky rozhodné důkazy / podklady:** smlouvy o transakcích, doklad o tržnosti podmínek (znalecký posudek, srovnatelné nájmy/ceny), vnitřní postup dozorčí/správní rady a zápisy o posouzení, doklad o vyloučení spřízněného člena z posuzování.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5ba9448f6b2f873263aa generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 121v — Výjimky ze schvalování a uveřejňování významných transakcí se spřízněnými stranami
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Ustanovení [[#§ 121t|§ 121t]] a [[#§ 121u|121u]] se nepoužijí na významnou transakci se spřízněnou stranou uzavíranou v rámci běžného obchodního styku a za běžných tržních podmínek.
+>
+> (2) Ustanovení [[#§ 121t|§ 121t]] a [[#§ 121u|121u]] se dále nepoužijí na významné transakce
+>
+> - a) týkající se odměňování osob podle § 121m odst. 1 v souladu s § 121k až 121n,
+>
+> - b) uzavřené mezi emitentem a jím ovládanou osobou, je-li emitent jejím jediným společníkem nebo není-li jejím společníkem žádná spřízněná strana emitenta, a
+>
+> - c) uzavřené bankou na základě rozhodnutí nebo opatření obecné povahy zaměřených na ochranu její stability vydaných Českou národní bankou nebo na základě rozhodnutí nebo opatření obecné povahy vydaných podle zákona o ozdravných postupech a řešení krize na finančním trhu orgánem příslušným k řešení krize.
+>
+> (3) Dozorčí nebo správní rada emitenta upraví v případě významných transakcí podle odstavce 1 vnitřní postup umožňující pravidelně posuzovat, zda jsou splněny podmínky podle odstavce 1; posuzování se neúčastní člen dozorčí nebo správní rady, který je spřízněnou stranou emitenta.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 121t, § 121u, § 121m, § 121k
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5ba9448f6b2f873263aa -->
 
 ## Hlava V — Oznamovací povinnost akcionářů a dalších osob
 
@@ -2391,6 +4343,88 @@ Ustanovení ukládá oznámit dosažení, překročení i pokles pod prahové ho
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0e3bd6a54476b6a92cbc generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 122 — Oznamování podílu na hlasovacích právech
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Osoba, která dosáhne nebo překročí podíl na všech hlasovacích právech emitenta uvedeného v § 118 odst. 1 písm. a) ve výši 1 %, je-li základní kapitál emitenta vyšší než 500 000 000 Kč nebo odpovídající částka v cizí měně, 3 %, je-li základní kapitál emitenta vyšší než 100 000 000 Kč nebo odpovídající částka v cizí měně, 5 %, 10 %, 15 %, 20 %, 25 %, 30 %, 40 %, 50 % nebo 75 %, nebo sníží svůj podíl na všech hlasovacích právech pod tyto hranice, oznámí tuto skutečnost emitentovi a České národní bance. Toto oznámení lze učinit v jazyce anglickém. Povinnost podle věty první má také osoba, která disponuje podílem podle věty první na hlasovacích právech emitenta uvedeného v § 118 odst. 1 písm. a) v okamžiku, kdy jsou jím vydávané akcie nebo obdobné cenné papíry představující podíl na tomto emitentovi poprvé přijaty k obchodování na evropském regulovaném trhu.
+>
+> (2) Pro účely plnění oznamovací povinnosti podle odstavce 1 se do podílu na všech hlasovacích právech emitenta započítají i hlasovací práva z investičních nástrojů,
+>
+> - a) kterými disponuje jiná osoba, která jedná ve shodě s osobou uvedenou v odstavci 1,
+>
+> - b) která má osoba uvedená v odstavci 1 možnost dočasně vykonávat na základě úplatné smlouvy,
+>
+> - c) které byly osobě uvedené v odstavci 1 poskytnuty jako zajištění, pokud tato osoba uveřejní prohlášení, že bude tato hlasovací práva vykonávat,
+>
+> - d) ke kterým má osoba uvedená v odstavci 1 doživotní užívací právo,
+>
+> - e) které osoba uvedená v odstavci 1 spravuje, obhospodařuje nebo jsou u ní uloženy, jestliže jí nebyly vlastníkem uděleny zvláštní pokyny týkající se hlasování,
+>
+> - f) která má možnost svým jménem na účet osoby uvedené v odstavci 1 vykonávat jiná osoba,
+>
+> - g) která jsou vykonávána osobou uvedenou v odstavci 1 na základě plné moci, může-li tato práva vykonávat podle svého uvážení a jestliže jí nebyly zmocnitelem uděleny žádné zvláštní pokyny týkající se hlasování,
+>
+> - h) z nichž na základě smlouvy osobě uvedené v odstavci 1 svědčí právo nabýt, nebo právo rozhodnout se, zda nabude, akcie nebo obdobné cenné papíry s hlasovacími právy, nebo
+>
+> - i) které nesplňují podmínky podle písmene h), které se vztahují k akciím splňujícím podmínky podle písmene h), a které mají ekonomický účinek podobný jako v případě investičních nástrojů splňujících podmínky podle písmene h), bez ohledu na skutečnost, zda zakládají nárok na vypořádání dodáním věci, k níž se jejich hodnota vztahuje, nebo na vypořádání v penězích.
+>
+> (3) Jestliže podíl na hlasovacích právech podle odstavce 1 nabydou nebo pozbydou osoby jednající ve shodě, jejich podíly na hlasovacích právech se pro účely plnění oznamovací povinnosti sčítají; povinnost jednotlivé osoby podle odstavce 1 tím není dotčena. Oznamovací povinnosti podléhá i změna v rozložení podílu na hlasovacích právech mezi osobami jednajícími ve shodě v rozsahu zakládajícím oznamovací povinnost.
+>
+> (4) Osoba uvedená v odstavci 1 oznámí dosažení, překročení nebo snížení podílu podle odstavce 1 bez zbytečného odkladu, nejpozději však do 4 pracovních dnů poté, co se dozví nebo mohla dozvědět o skutečnosti, která zakládá vznik oznamovací povinnosti podle odstavce 1. Platí, že osoba uvedená v odstavci 1 se o této skutečnosti dozvěděla nejpozději 2 pracovní dny po dni, kdy tato skutečnost nastala. Pokud povinnost podle odstavce 1 vznikne více osobám, mohou tyto osoby splnit oznamovací povinnost společným oznámením. Oznamovací povinnost je splněna, je-li ve stanovené lhůtě písemné oznámení odesláno.
+>
+> (5) Pokud byla plná moc ve smyslu odstavce 2 písm. g) udělena pouze pro účely jedné valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi, může být oznámení podle odstavce 1 provedeno zmocnitelem a zmocněncem formou jednotného oznámení, které obsahuje informaci o podílu na hlasovacích právech v průběhu valné hromady nebo obdobného shromáždění vlastníků cenných papírů představujících podíl na emitentovi, informaci o podílu na hlasovacích právech v okamžiku, kdy již tento zmocněnec nemůže vykonávat hlasovací práva podle svého uvážení, a dále informaci, kdy tento okamžik nastane.
+>
+> (6) Nesplnění oznamovací povinnosti stanovené v odstavci 1 nemá za následek neplatnost právního jednání, na základě kterého došlo k nabytí nebo zvýšení účasti na emitentovi, avšak hlasovací práva spojená s takto nabytou účastí nesmějí být vykonávána, a to do doby splnění oznamovací povinnosti.
+>
+> (7) Česká národní banka uveřejní skutečnosti, které jí byly oznámeny podle odstavce 1, přičemž informaci o výši podílu na hlasovacích právech uveřejní ve lhůtě nejpozději do 3 pracovních dnů ode dne doručení oznámení nebo ode dne, kdy tuto informaci sama zjistí.
+>
+> (8) Náležitosti oznámení podle odstavce 1, formu a způsob jeho zasílaní stanoví prováděcí právní předpis.
+>
+> (9) Počet hlasovacích práv podle odstavce 2 písm. i) se vypočítá s ohledem na celkovou hodnotu akcií, které jsou podkladovou hodnotou daného investičního nástroje, kromě případů, kdy investiční nástroj umožňuje výlučně vypořádání v hotovosti, a to tak, že se počet hlasovacích práv vypočítá na základě zohlednění hodnoty delta vynásobením hodnoty podkladových akcií hodnotou delta tohoto nástroje. Za tímto účelem držitel provede souhrn veškerých investičních nástrojů vztahujících se k témuž podkladovému emitentovi a oznámí je. Při výpočtu hlasovacích práv se vezmou v úvahu pouze dlouhé pozice. Dlouhé pozice se vzájemně nezapočítávají s krátkými pozicemi vztahujícími se k témuž podkladovému emitentovi.
+>
+> (10) Metody výpočtu počtu hlasovacích práv podle odstavce 9 v případě investičních nástrojů vztahujících se ke koši akcií nebo k indexu a metody stanovení hodnoty delta za účelem výpočtu hlasovacích práv týkajících se investičních nástrojů, které umožňují výlučně vypořádání v hotovosti podle odstavce 9, upravují čl. 4 a 5 nařízení Komise v přenesené pravomoci (EU) [[2015/761|2015/761]]102).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 118
+
+##### Souvisící předpisy
+
+- akt EU 2015/761 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0e3bd6a54476b6a92cbc -->
+
 ### § 122a — Postup při oznamování podílu na hlasovacích právech
 
 > **§ 122a**
@@ -2481,6 +4515,80 @@ Ustanovení umožňuje ovládající osobě nezapočítávat akcie v obchodním 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=128caf5a7ee80dac1d6b generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 122a — Postup při oznamování podílu na hlasovacích právech
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Oznamovací povinnost podle § 122 odst. 1 má i osoba, jejíž podíl na hlasovacích právech se zvýšil nebo snížil v důsledku zvýšení nebo snížení základního kapitálu.
+>
+> (2) Povinnost podle § 122 odst. 1 vzniká bez ohledu na to, že osoba hlasovací práva z jakéhokoli důvodu nevykonává. V důsledku toho, že tato osoba nevykonává hlasovací práva, nedochází ke změně jejího podílu ani podílu jiných osob na hlasovacích právech podle § 122 odst. 1.
+>
+> (3) Osoba uvedená v § 2a odst. 1 písm. a) až c) nebo zahraniční osoba s obdobnou činností nezapočítává do podílu na hlasovacích právech podle § 122 odst. 1 podíly na hlasovacích právech,
+>
+> - a) které se vztahují k obchodnímu portfoliu podle čl. 4 odst. 1 bodu 86 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]],
+>
+> - b) nepřesahují-li podíl na hlasovacích právech ve výši 5 %, a
+>
+> - c) která nevykonává nebo jinak nezasahuje do řízení emitenta.
+>
+> (4) Osoba ovládající osobu, která má povolení k poskytování investiční služby uvedené v § 4 odst. 2 písm. d), nebo zahraniční osobu, která má povolení jiného členského státu Evropské unie k poskytování investiční služby obdobné investiční službě uvedené v § 4 odst. 2 písm. d), do podílu na hlasovacích právech podle § 122 odst. 1 nezapočítává podíly na hlasovacích právech, které se vztahují k majetku, který obhospodařuje ovládaná osoba, jestliže
+>
+> - a) ovládaná osoba hlasovací práva vykonává pouze podle písemného příkazu zákazníka, nebo
+>
+> - b) ovládající osoba nezasahuje žádným způsobem do výkonu těchto hlasovacích práv.
+>
+> (5) Osoba ovládající obhospodařovatele investičního fondu nebo zahraničního investičního fondu do podílu na hlasovacích právech podle § 122 odst. 1 nezapočítává hlasovací práva, která jsou spojena s majetkem v investičních fondech nebo zahraničních investičních fondech, které obhospodařuje tato ovládaná osoba, nezasahuje-li ovládající osoba žádným způsobem do výkonu těchto hlasovacích práv.
+>
+> (6) Odstavce 4 a [[#§ 5|5]] se použijí i pro ovládající osobu osoby, která v souladu s právním řádem státu, který není členským státem Evropské unie, poskytuje v tomto státě službu srovnatelnou s investiční službou uvedenou v § 4 odst. 2 písm. d), jestliže
+>
+> - a) právní řád takového státu ovládající osobě stanoví, aby hlasovací práva, která se vztahují k cenným papírům, které jsou součástí obhospodařovaného majetku, tato osoba vykonávala pouze podle písemného příkazu zákazníka, nebo aby zajistila postupy k omezení možnosti střetu zájmů mezi osobami pověřenými obhospodařováním majetku a dalšími osobami,
+>
+> - b) ovládající osoba nezasahuje žádným způsobem do výkonu hlasovacích práv, která se vztahují k cenným papírům, které jsou součástí obhospodařovaného majetku, a
+>
+> - c) ovládaná osoba v případě střetu zájmů mezi ní a ovládající osobou je povinna upřednostnit své zájmy před zájmy ovládající osoby.
+>
+> (7) Metody výpočtu prahové hodnoty podle odstavce 3 upravují čl. 2, 3 a 6 nařízení Komise v přenesené pravomoci (EU) [[2015/761|2015/761]]102).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 122, § 2a, § 4, § 5
+
+##### Souvisící předpisy
+
+- akt EU 2015/761 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=128caf5a7ee80dac1d6b -->
+
 ### § 122b — Další podmínky a požadavky na oznamování podílu na hlasovacích právech
 
 > **§ 122b**
@@ -2548,3 +4656,66 @@ Ustanovení podmiňuje uplatnění výjimek pro asset managery (§ 122a odst. 4�
 - [ ] Uveřejnil emitent při nabytí/pozbytí vlastních akcií dosažení/překročení prahu do 4 prac. dnů (odst. 3) s údajem o celkovém počtu hlasovacích práv a výši ZK (odst. 4)?
 
 **Typicky rozhodné důkazy / podklady:** struktura skupiny a povolení ovládané firmy, smluvní pravidla hlasování dle pokynů zákazníků, doklad o zaslání oznámení ČNB dle § 122b a jeho obsah, dokumentace organizačního uspořádání, doklady o nabytí vlastních akcií emitentem a datum vzniku oznamovací povinnosti.
+
+<!-- LEGAL-REVISION:BEGIN id=3396b1faa7883b84736b generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 122b — Další podmínky a požadavky na oznamování podílu na hlasovacích právech
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Ustanovení § 122a odst. 4 až 6 se použijí pro ovládající osobu pouze, zašle-li bez zbytečného odkladu České národní bance
+>
+> - a) údaje o ovládané osobě podle § 122a odst. 4 až 6 a o orgánech dohledu, jejichž dohledu podléhají,
+>
+> - b) prohlášení o splnění podmínek stanovených v § 122a odst. 4 až 6; prohlášení se nezasílá, pokud by se týkalo výlučně investičních nástrojů, které umožňují nabýt cenné papíry ve smyslu § 122 odst. 2 písm. h) nebo i), a
+>
+> - c) změny v údaji nebo prohlášení podle písmene a) nebo b).
+>
+> (2) Ovládající osoba podle § 122a odst. 4 až 6 na vyžádání České národní banky bez zbytečného odkladu doloží, že
+>
+> - a) ovládající osoba a ovládaná osoba mají organizační uspořádání umožňující, aby hlasovací práva byla vykonávána v souladu s § 122a odst. 4 písm. b) nebo s § 122a odst. 5,
+>
+> - b) v případě, kdy je ovládající osoba zákazníkem jí ovládané osoby nebo má účast na majetku, který je obhospodařován ovládanou osobou, z písemné dokumentace vyplývá, že je jejich vztah obvyklý styku s ostatními zákazníky.
+>
+> (3) Emitent uvedený v § 118 odst. 1 písm. a), který nabyl nebo pozbyl vlastní akcie sám nebo prostřednictvím jiné osoby jednající na účet emitenta, uveřejní informaci o tom, že dosáhl nebo překročil podíl podle § 122 odst. 1 věty první na svých hlasovacích právech nebo že snížil svůj podíl na hlasovacích právech pod tyto hranice. Emitent tuto informaci uveřejní do 4 pracovních dnů poté, co nastane skutečnost, která zakládá vznik této povinnosti.
+>
+> (4) Emitent uvedený v § 118 odst. 1 písm. a) v informaci podle odstavce 3 uveřejní celkový počet hlasovacích práv a výši základního kapitálu v kalendářním měsíci, ve kterém došlo ke změně jeho podílu na hlasovacích právech.
+>
+> (5) Pro účely plnění oznamovací povinnosti podle § 122 odst. 1 se do podílu na všech hlasovacích právech emitenta nezapočítávají podíly na hlasovacích právech z cenných papírů nabytých při zpětném odkupu nebo při cenové stabilizaci investičního nástroje za podmínek stanovených přímo použitelným předpisem Evropské unie, kterým se provádí směrnice Evropského parlamentu a Rady o zneužívání trhu14a), nevykonává-li hlasovací práva nebo jinak nezasahuje do řízení emitenta osoba, která tyto cenné papíry nabyla.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 122a, § 122, § 118
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3396b1faa7883b84736b -->

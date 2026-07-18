@@ -64,6 +64,54 @@ Odst. 2 zakotvuje **pozitivní exkluzivitu**: organizovat regulovaný trh v Čes
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=249967109c30d7ab5cca generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 37 — Základní ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Organizátor regulovaného trhu je právnická osoba, která je na základě povolení uděleného Českou národní bankou oprávněna organizovat regulovaný trh.
+>
+> (2) Organizovat regulovaný trh v České republice může pouze organizátor regulovaného trhu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=249967109c30d7ab5cca -->
+
 ### § 38 — Požadavky na organizátora regulovaného trhu (podmínky pro udělení povolení)
 
 > **§ 38**
@@ -219,6 +267,126 @@ Ve výroku povolení ČNB explicitně uvede, zda je organizátor oprávněn tak�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5288a56cc868aa9264f3 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 38 — Požadavky na organizátora regulovaného trhu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka udělí povolení k činnosti organizátora regulovaného trhu na žádost obchodní společnosti, nebo zakladatele obchodní společnosti přede dnem jejího zápisu do obchodního rejstříku, jestliže jsou splněny tyto podmínky:
+>
+> - a) tato společnost má nebo bude mít právní formu akciové společnosti nebo společnosti s ručením omezeným,
+>
+> - b) sídlo a skutečné sídlo této společnosti je nebo má být v České republice,
+>
+> - c) tato společnost je důvěryhodná; to se neposuzuje, není-li ještě tato společnost zapsána v obchodním rejstříku,
+>
+> - d) počáteční kapitál této společnosti v minimální výši odpovídající alespoň částce 730 000 EUR má průhledný a nezávadný původ, a tato společnost má nebo bude mít nejpozději ke dni zahájení činnosti vlastní kapitál ve výši, která umožňuje řádný výkon činnosti organizátora regulovaného trhu,
+>
+> - e) kvalifikovanou účast na této společnosti mají nebo budou mít pouze osoby vhodné z hlediska řádného a obezřetného vedení organizátora regulovaného trhu,
+>
+> - f) úzké propojení této společnosti s jinou osobou nebrání ani nebude bránit účinnému výkonu dohledu nad organizátorem regulovaného trhu; při úzkém propojení s osobou, která má sídlo nebo skutečné sídlo ve státě, který není členským státem Evropské unie, nesmějí právní řád takového státu a způsob jeho uplatňování včetně vymahatelnosti práva bránit účinnému výkonu dohledu nad organizátorem regulovaného trhu,
+>
+> - g) plán obchodní činnosti této společnosti
+>
+>   - 1. vymezuje a pokrývá plánovaný rozsah činnosti organizátora regulovaného trhu,
+>
+>   - 2. je podložený reálnými ekonomickými propočty a
+>
+>   - 3. vymezuje činnosti, jejichž výkonem hodlá pověřit jiného, včetně informací o tom, zda hodlá využívat pracovníky,
+>
+> - h) pravidla obchodování na regulovaném trhu splňují požadavky podle [[#§ 62|§ 62]], pravidla pro přijímání investičních nástrojů k obchodování na regulovaném trhu splňují požadavky podle [[#§ 56|§ 56]] a pravidla přístupu na regulovaný trh splňují požadavky podle [[#§ 63|§ 63]],
+>
+> - i) tato společnost má nebo bude mít nejpozději ke dni zahájení činnosti v rozsahu, v jakém hodlá vykonávat činnost organizátora regulovaného trhu, věcné, personální a organizační předpoklady pro řádný výkon činnosti organizátora regulovaného trhu umožňující naplnění jejího plánu obchodní činnosti a předložených pravidel obchodování v obchodním systému, pravidel pro přijímání investičních nástrojů k obchodování v obchodním systému a pravidel přístupu do obchodního systému a plnění povinností organizátora regulovaného trhu, včetně
+>
+>   - 1. organizačního uspořádání,
+>
+>   - 2. kontroly osob, pomocí kterých vykonává činnost organizátora regulovaného trhu, a
+>
+>   - 3. zajišťování toho, aby osoby, pomocí kterých vykonává činnost organizátora regulovaného trhu, byly plně svéprávné, důvěryhodné a měly nezbytné znalosti, dovednosti a zkušenosti,
+>
+> - j) jde-li se o společnost s ručením omezeným, má zřízenu dozorčí radu a tato dozorčí rada má takovou působnost a oprávnění jako dozorčí rada akciové společnosti podle zákona upravujícího právní poměry obchodních společností a družstev,
+>
+> - k) vedoucí orgán této společnosti a jeho členové splňují požadavky podle [[#§ 10|§ 10]],
+>
+> - l) jde-li o povolení k poskytování hlavní investiční služby uvedené v § 4 odst. 2 písm. f),
+>
+>   - 1. pravidla obchodování v mnohostranném obchodním systému splňují požadavky podle § 69 odst. 2 písm. a),
+>
+>   - 2. pravidla pro přijímání investičních nástrojů k obchodování v mnohostranném obchodním systému splňují požadavky podle § 69 odst. 2 písm. c) a
+>
+>   - 3. pravidla přístupu do mnohostranného obchodního systému splňují požadavky podle § 69 odst. 2 písm. d),
+>
+> - m) jde-li o povolení k poskytování hlavní investiční služby uvedené v § 4 odst. 2 písm. g),
+>
+>   - 1. pravidla obchodování v organizovaném obchodním systému splňují požadavky podle § 73f odst. 1 písm. a),
+>
+>   - 2. pravidla pro přijímání investičních nástrojů k obchodování v organizovaném obchodním systému splňují požadavky podle § 73f odst. 1 písm. c),
+>
+>   - 3. pravidla přístupu do organizovaného obchodního systému splňují požadavky podle § 73f odst. 1 písm. d),
+>
+>   - 4. je podrobně vysvětleno, proč organizovaný obchodní systém nebude odpovídat regulovanému trhu, mnohostrannému obchodnímu systému ani systematickému internalizátorovi, a nemůže jako takový fungovat,
+>
+>   - 5. je podrobně popsán způsob uplatňování vlastní úvahy při provozování organizovaného obchodního systému, zejména kdy může být pokyn zadaný v rámci organizovaného obchodního systému zrušen a kdy a jakým způsobem budou 2 nebo více pokynů zákazníků v organizovaném obchodním systému spárovány, a
+>
+>   - 6. je vysvětleno obchodování párováním pokynů na vlastní účet,
+>
+> - n) tato společnost zavede organizační opatření zajišťující plnění požadavků na kvalitu údajů podle čl. 22b nařízení Evropského parlamentu a Rady (EU) č. 600/201453) a
+>
+> - o) tato společnost zajistí, aby jí organizovaný regulovaný trh měl alespoň 3 aktivní účastníky, kteří vstupují do smluvních vztahů s ostatními účastníky trhu a podílejí se tak na tvorbě cen.
+>
+> (2) Žádost podle odstavce 1 lze podat pouze elektronicky.
+>
+> (3) Žádost podle odstavce 1 obsahuje, vedle náležitostí stanovených správním řádem, též údaje a doklady prokazující splnění podmínek podle odstavce 1.
+>
+> (4) Podrobnosti náležitostí žádosti, včetně příloh prokazujících splnění podmínek podle odstavce 1, její formát a další technické náležitosti stanoví prováděcí právní předpis.
+>
+> (5) Ve výrokové části povolení k činnosti organizátora regulovaného trhu Česká národní banka uvede, zda je organizátor regulovaného trhu oprávněn provozovat mnohostranný obchodní systém nebo organizovaný obchodní systém.
+>
+> (6) Organizátor regulovaného trhu trvale dodržuje požadavky podle odstavce 1.
+>
+> (7) Organizátor regulovaného trhu oznámí České národní bance bez zbytečného odkladu poté, co nastane, každou významnou změnu ve skutečnostech, na jejichž základě získal povolení k činnosti.
+>
+> (8) Pro organizátora regulovaného trhu se [[#§ 10|§ 10]], [[#§ 10a|10a]] a § 10ab až 10ad použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 62, § 56, § 63, § 10, § 4, § 69, § 73f, § 10a, § 10ab
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5288a56cc868aa9264f3 -->
+
 ### § 39 — Další podnikatelská činnost organizátora regulovaného trhu
 
 > **§ 39**
@@ -305,6 +473,80 @@ Zákon rozlišuje dvě kategorie:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=896397534a89a65bcbbe generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 39 — Další podnikatelská činnost organizátora regulovaného trhu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Další podnikatelskou činnost může organizátor regulovaného trhu vykovávat jen po jejím zaregistrování Českou národní bankou.
+>
+> (2) Další podnikatelská činnost organizátora regulovaného trhu může spočívat pouze v poskytování služeb souvisejících s finančním trhem nebo trhem komodit, zejména
+>
+> - a) v činnosti komoditní burzy podle jiného právního předpisu,
+>
+> - b) v poskytování dalších služeb na finančním trhu podle jiných právních předpisů,
+>
+> - c) v činnosti související s organizováním regulovaného trhu nebo provozováním mnohostranného obchodního systému nebo organizovaného obchodního systému,
+>
+> - d) ve vzdělávací činnosti.
+>
+> (3) Organizátor regulovaného trhu může dále provozovat podnikatelskou činnost spočívající v činnosti přímo související se správou vlastního majetku.
+>
+> (4) Česká národní banka zaregistruje další podnikatelskou činnost žadatele a bez zbytečného odkladu odešle žadateli osvědčení o registraci.
+>
+> (5) Žádost o registraci další podnikatelské činnosti organizátora regulovaného trhu lze podat pouze elektronicky.
+>
+> (6) Žádost podle odstavce 5 obsahuje, vedle náležitostí stanovených správním řádem, též údaje a doklady prokazující splnění podmínek stanovených v odstavci 2.
+>
+> (7) Podrobnosti náležitostí žádosti podle odstavce 5, její formát a další technické náležitosti stanoví prováděcí právní předpis.
+>
+> (8) V případě, že výkon další podnikatelské činnosti brání řádnému organizování regulovaného trhu, provozování mnohostranného obchodního systému nebo účinnému výkonu dohledu nad tímto organizátorem regulovaného trhu anebo žádost nesplňuje podmínky uvedené v odstavci2, Česká národní banka může
+>
+> - a) registraci zamítnout, nebo
+>
+> - b) omezit rozsah dalších podnikatelských činností, popřípadě může stanovit podmínky, které musí organizátor regulovaného trhu splnit před zahájením každé z další podnikatelské činnosti, popřípadě je dodržovat při jejím výkonu.
+>
+> (9) V případě rozhodování o registraci další činnosti uvedené v odstavci 3, pokud pro registraci této další podnikatelské činnosti nejsou dány důvody zvláštního zřetele hodné, které Česká národní banka posoudí zejména s přihlédnutím k tomu, zda registrace této další činnosti přispěje ke zlepšení kvality poskytovaných investičních služeb, zamítnutí registrace by způsobilo organizátorovi regulovaného trhu značnou újmu, nebo k tomu, jaký je rozsah, složitost a povaha této další činnosti, Česká národní banka registraci zamítne. V rozhodnutí o registraci další činnosti uvedené v odstavci 3 může Česká národní banka omezit rozsah registrované činnosti, popřípadě stanovit podmínky, které musí organizátor regulovaného trhu splnit před zahájením každé z registrovaných činností, popřípadě, které musí dodržovat při jejím výkonu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=896397534a89a65bcbbe -->
+
 ### § 40 — Předmět podnikání organizátora regulovaného trhu
 
 > **§ 40**
@@ -352,6 +594,52 @@ Zákon rozlišuje dvě kategorie:
 **Typicky rozhodné důkazy / podklady:** povolení ČNB a osvědčení o registraci dalších činností, výpis z obchodního rejstříku, smlouvy a účetní evidence k posuzovaným činnostem, doklad o (ne)existenci zvláštních oprávnění.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=64a0a7437f149e81b1ec generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 40
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Předmětem podnikání organizátora regulovaného trhu mohou být pouze činnosti uvedené v povolení k činnosti organizátora regulovaného trhu nebo registrované Českou národní bankou podle [[#§ 39|§ 39]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 39
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=64a0a7437f149e81b1ec -->
 
 ### § 41 — Organizování regulovaného trhu s odbornou péčí; zákaz vlastního obchodování
 
@@ -415,6 +703,60 @@ Odst. 3 zakotvuje jeden ze základních principů oddělení funkce **provozovat
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=19638a52a49d026d2bf2 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 41
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Organizátor regulovaného trhu organizuje regulovaný trh s odbornou péčí. Pro organizátora regulovaného trhu, který provozuje mnohostranný obchodní systém nebo organizovaný obchodní systém, se § 15 odst. 1 použije obdobně.
+>
+> (2) Organizování regulovaného trhu s odbornou péčí zejména znamená, že organizátor regulovaného trhu jedná kvalifikovaně, čestně a spravedlivě a v nejlepším zájmu účastníků jím organizovaného regulovaného trhu, zejména plní povinnosti stanovené v této části a postupuje v souladu s pravidly obchodování, pravidly pro přijímání investičních nástrojů k obchodování a pravidly přístupu.
+>
+> (3) Organizátor regulovaného trhu nesmí na evropském regulovaném trhu, který organizuje,
+>
+> - a) provést pokyn účastníka tohoto trhu s využitím vlastního majetku ani
+>
+> - b) obchodovat párováním pokynů na vlastní účet.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=19638a52a49d026d2bf2 -->
+
 ### § 42 — Účast zástupce ČNB na valné hromadě
 
 > **§ 42**
@@ -463,6 +805,52 @@ Odst. 3 zakotvuje jeden ze základních principů oddělení funkce **provozovat
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f1b5aa2e118dd7020368 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 42
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Zástupce České národní banky se může účastnit valné hromady organizátora regulovaného trhu. Organizátor regulovaného trhu o konání valné hromady předem písemně informuje Českou národní banku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f1b5aa2e118dd7020368 -->
+
 ### § 43 — Výbor pro jmenování
 
 > **§ 43**
@@ -510,6 +898,52 @@ Odst. 3 zakotvuje jeden ze základních principů oddělení funkce **provozovat
 **Typicky rozhodné důkazy / podklady:** údaje o velikosti, rozsahu a složitosti činnosti, organizační schéma, statut a zápisy výboru pro jmenování, dokumentace procesu posuzování vhodnosti členů vedoucího orgánu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e62d545b4941329f076c generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 43 — Výbor pro jmenování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Organizátor regulovaného trhu, který je významný z hlediska velikosti, vnitřní organizace a povahy, rozsahu a složitosti svých činností, zřídí výbor pro jmenování obdobně podle [[#§ 10aa|§ 10aa]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10aa
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e62d545b4941329f076c -->
 
 ### § 44 — Zrušení nebo změna předmětu podnikání organizátora regulovaného trhu
 
@@ -568,6 +1002,56 @@ Odst. 3 upřesňuje, že dojde-li ke změně předmětu podnikání v důsledku 
 **Typicky rozhodné důkazy / podklady:** zápis z valné hromady (rozhodnutí společníků) o zrušení/změně předmětu, doklad o vstupu do likvidace a jeho datu, oznámení ČNB, výpisy obchodů uzavřených po rozhodném dni.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8128485328f857deb9bd generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 44 — Zrušení nebo změna předmětu podnikání organizátora regulovaného trhu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Jestliže valná hromada organizátora regulovaného trhu rozhodne o zrušení společnosti s likvidací nebo o změně stanov spočívající ve změně předmětu podnikání, je organizátor regulovaného trhu povinen tuto skutečnost oznámit České národní bance neprodleně po rozhodnutí valné hromady. Jestliže společníci organizátora regulovaného trhu, pokud se jedná o společnost s ručením omezeným, rozhodnou o zrušení společnosti s likvidací nebo o změně společenské smlouvy nebo zakladatelské listiny spočívající ve změně předmětu podnikání, je organizátor regulovaného trhu povinen tuto skutečnost oznámit České národní bance neprodleně po rozhodnutí společníků. Stejnou povinnost má i v případě, že takto rozhodne valná hromada společnosti s ručením omezeným.
+>
+> (2) Ode dne vstupu organizátora regulovaného trhu do likvidace nebo ode dne změny jeho předmětu podnikání nesmí osoba, která vstoupila do likvidace nebo změnila předmět podnikání, organizovat regulovaný trh nebo provozovat mnohostranný obchodní systém nebo organizovaný obchodní systém a může pouze vypořádávat své pohledávky a dluhy vyplývající z těchto činností; do vypořádání pohledávek a dluhů se taková osoba považuje za organizátora regulovaného trhu. Vstupem do likvidace nebo změnou předmětu podnikání povolení k činnosti organizátora regulovaného trhu zaniká.
+>
+> (3) V případě změny předmětu podnikání v důsledku změny rozsahu povolení k činnosti organizátora regulovaného trhu vydaného podle [[#§ 38|§ 38]] nebo v důsledku registrace další podnikatelské činnosti či změny jejího rozsahu podle [[#§ 39|§ 39]] se odstavec 2 nepoužije.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 38, § 39
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8128485328f857deb9bd -->
 
 ### § 45 — Přeměna organizátora regulovaného trhu
 
@@ -631,6 +1115,60 @@ Odst. 5 zavádí absolutní zákaz: organizátor regulovaného trhu **nesmí bý
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d75916d4a1fbbd319295 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 45 — Přeměna organizátora regulovaného trhu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) K fúzi organizátora regulovaného trhu, k převodu obchodního jmění organizátora regulovaného trhu na jeho společníka, ke změně právní formy organizátora regulovaného trhu nebo k převodu obchodního jmění organizátora regulovaného trhu na jeho společníka anebo k převodu obchodního jmění jiné osoby na organizátora regulovaného trhu je třeba povolení České národní banky.
+>
+> (2) Žádost o povolení podle odstavce 1 lze podat pouze elektronicky.
+>
+> (3) Žádost o povolení podle odstavce 1 obsahuje, vedle náležitostí stanovených správním řádem, též údaje a doklady nezbytné pro posouzení důsledků fúze, změny právní formy nebo převodu obchodního jmění.
+>
+> (4) Podrobnosti náležitostí žádosti o povolení podle odstavce 1, její formát a další technické náležitosti stanoví prováděcí právní předpis.
+>
+> (5) Rozdělení organizátora regulovaného trhu nebo jeho fúze s osobou, která není organizátorem regulovaného trhu anebo provozovatelem vypořádacího systému, nejsou přípustné.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d75916d4a1fbbd319295 -->
+
 ### § 46 — Převod, zastavení nebo pacht obchodního závodu organizátora regulovaného trhu
 
 > **§ 46**
@@ -684,6 +1222,58 @@ Odst. 5 zavádí absolutní zákaz: organizátor regulovaného trhu **nesmí bý
 **Typicky rozhodné důkazy / podklady:** smlouva o převodu/zastavení/pachtu a popis dotčeného souboru (rozsah, personál, technologie), analýza podílu na celkové činnosti, žádost a rozhodnutí ČNB, doklady o zachování kontroly nad infrastrukturou.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f919a2b72d606f58d299 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 46 — Převod, zastavení nebo pacht obchodního závodu organizátora regulovaného trhu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) K uzavření smlouvy o převodu, zastavení nebo o pachtu obchodního závodu organizátora regulovaného trhu nebo části takového obchodního závodu, která by znamenala podstatnou změnu v činnosti organizátora regulovaného trhu, je třeba povolení České národní banky.
+>
+> (2) Žádost o povolení podle odstavce 1 lze podat pouze elektronicky.
+>
+> (3) Žádost o povolení podle odstavce 1 obsahuje, vedle náležitostí stanovených správním řádem, též údaje a doklady nezbytné pro posouzení důsledků převodu, zastavení nebo pachtu obchodního závodu organizátora regulovaného trhu nebo jeho části.
+>
+> (4) Podrobnosti náležitostí žádosti o povolení podle odstavce 1, její formát a další technické náležitosti stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f919a2b72d606f58d299 -->
 
 ### § 47 — Nabývání, zvyšování a pozbývání kvalifikované účasti na organizátorovi regulovaného trhu a jeho ovládnutí
 
@@ -746,6 +1336,60 @@ Uveřejnění na internetových stránkách zajišťuje, aby veřejnost, účast
 **Typicky rozhodné důkazy / podklady:** smlouva o nabytí akcií/podílu, evidence emise u centrálního depozitáře, doklady o struktuře vlastnictví a osobách jednajících ve shodě, žádost a rozhodnutí ČNB o souhlasu, obsah internetových stránek organizátora.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=17c5c7a36f76baa08a4e generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 47 — Nabývání, zvyšování a pozbývání kvalifikované účasti na organizátorovi regulovaného trhu a jeho ovládnutí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) K nabytí nebo zvýšení kvalifikované účasti na organizátorovi regulovaného trhu nebo k ovládnutí organizátora regulovaného trhu je nutný souhlas České národní banky. Pro udělení tohoto souhlasu a pro žádost o tento souhlas se § 10b až 10d použijí obdobně.
+>
+> (2) Podrobnosti náležitostí žádosti o udělení souhlasu podle odstavce 1, její formát a další technické náležitosti stanoví prováděcí právní předpis.
+>
+> (3) Pro pozbytí nebo snížení kvalifikované účasti na organizátoru regulovaného trhu platí obdobně [[#§ 10e|§ 10e]].
+>
+> (4) Organizátor regulovaného trhu uveřejňuje na svých internetových stránkách údaje o osobách, které na něm mají kvalifikovanou účast nebo ho ovládají, a velikost jejich účasti.
+>
+> (5) Lhůty, formu a způsob uveřejňování těchto údajů stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10b, § 10e
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=17c5c7a36f76baa08a4e -->
 
 ### § 48 — Organizační požadavky na organizátora regulovaného trhu
 
@@ -863,6 +1507,92 @@ Pro řídicí a kontrolní systém se použijí pravidla § 12a (obchodník s ce
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fc46745e4c82244618cc generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 48 — Organizační požadavky na organizátora regulovaného trhu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Organizátor regulovaného trhu je povinen
+>
+> - a) zavést postupy, které umožní odhalovat a řešit případné negativní dopady na činnost regulovaného trhu nebo na jeho účastníky, které by mohly vzniknout ze střetu mezi zájmy organizátora regulovaného trhu nebo jeho společníků a řádným fungováním regulovaného trhu,
+>
+> - b) zavést postupy pro řízení rizik, kterým je vystaven, včetně řízení rizika v oblasti informačních a komunikačních technologií podle kapitoly II nařízení Evropského parlamentu a Rady (EU) 2022/2554111); především zavést vhodná opatření k určení všech významných rizik pro jeho provoz a účinná opatření k omezení těchto rizik,
+>
+> - c) zavést zásady a postupy pro zajištění řádného provozu jeho obchodních a jiných systémů,
+>
+> - d) zavést pravidla obchodování na regulovaném trhu, která zajišťují spravedlivé a řádné obchodování a stanoví objektivní kritéria pro provádění pokynů,
+>
+> - e) zavést opatření umožňující řádné a včasné vypořádání provedených obchodů,
+>
+> - f) zavést opatření zabraňující zneužívání trhu,
+>
+> - g) udržovat vlastní kapitál alespoň ve výši odpovídající částce 730 000 EUR,
+>
+> - h) mít k dispozici dostatečné finanční zdroje pro zajištění řádného fungování trhu s ohledem na povahu a rozsah obchodů uzavíraných na trhu a povahu a míru rizik, kterým je vystaven,
+>
+> - i) zavést opatření pro soustavné sledování a sledovat, zda
+>
+>   - 1. účastníci jím organizovaného regulovaného trhu dodržují pravidla obchodování na regulovaném trhu a pravidla přístupu na regulovaný trh,
+>
+>   - 2. investiční nástroje přijaté k obchodování na jím organizovaný regulovaný trh splňují podmínky pro přijetí k obchodování na regulovaném trhu stanovené tímto zákonem ([[#§ 56|§ 56]]) a pravidly pro přijímání investičních nástrojů k obchodování na regulovaném trhu, a podmínky pro přijetí cenného papíru k obchodování na oficiálním trhu ([[#§ 65|§ 65]]),
+>
+>   - 3. emitenti investičních cenných papírů přijatých k obchodování na jím organizovaný regulovaný trh plní informační povinnosti stanovené v § [[#§ 118|118]], [[#§ 119|119]], [[#§ 119a|119a]], [[#§ 119b|119b]], 120 až 120c a [[#§ 123|123]] a v přímo použitelném předpise Evropské unie upravujícím prospekt, který má být uveřejněn při veřejné nabídce nebo přijetí cenných papírů k obchodování na regulovaném trhu66),
+>
+>   - 4. osoba, která následně požádala o přijetí investičního nástroje na regulovaný trh bez souhlasu emitenta, plní informační povinnost podle [[#§ 121b|§ 121b]],
+>
+>   - 5. nedochází k jednání, které může být považováno za jednání zakázané přímo použitelným předpisem Evropské unie upravujícím zneužívání trhu52),
+>
+> - j) soustavně sledovat obchodování na jím organizovaném regulovaném trhu včetně zrušení pokynů a vyhodnocovat, zda nedochází k porušování pravidel obchodování, vzniku mimořádné situace na trhu nebo jednání, které může být považováno za jednání zakázané přímo použitelným předpisem Evropské unie upravujícím zneužívání trhu52),
+>
+> - k) zavést postupy pro vynucování plnění povinností stanovených pravidly obchodování, pravidly pro přijímání investičních nástrojů k obchodování a pravidly přístupu účastníkům jím organizovaného regulovaného trhu a emitentům investičních nástrojů přijatých k obchodování na jím organizovaném regulovaném trhu, včetně možnosti ukládání sankcí za porušení těchto pravidel,
+>
+> - l) kontrolovat a vynucovat dodržování závazků ze smluv podle § 50g odst. 1 obchodníky s cennými papíry,
+>
+> - m) umožnit účastníkům jím organizovaného regulovaného trhu přístup k informacím podle písmene i) bodu 3,
+>
+> - n) při nakládání s majetkem účastníka regulovaného trhu nebo jím provozovaného mnohostranného obchodního systému zavést opatření k ochraně práv účastníka k tomuto majetku, zejména pro případ úpadku organizátora regulovaného trhu.
+>
+> (2) Organizátor regulovaného trhu vykonává činnost řádně a obezřetně. K zajištění obezřetného výkonu činnosti organizátor regulovaného trhu zavede, udržuje a uplatňuje řídicí a kontrolní systém. Pro řídicí a kontrolní systém organizátora regulovaného trhu se [[#§ 12a|§ 12a]] použije obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 56, § 65, § 118, § 119, § 119a, § 119b, § 123, § 121b, § 50g, § 12a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fc46745e4c82244618cc -->
+
 ### § 48a — Mechanismus k hlášení
 
 > **§ 48a**
@@ -910,6 +1640,52 @@ Pro řídicí a kontrolní systém se použijí pravidla § 12a (obchodník s ce
 **Typicky rozhodné důkazy / podklady:** vnitřní předpis o oznamovacím systému, určení a postavení příslušné osoby, technické řešení kanálu a doklad jeho důvěrnosti, evidence přijatých hlášení a jejich vyřízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f538286ef422a4a90504 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 48a — Mechanismus k hlášení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Organizátor regulovaného trhu zavede, udržuje a uplatňuje mechanismus k hlášení obdobně podle § 12i odst. 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12i
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f538286ef422a4a90504 -->
 
 ### § 49 — Oznamovací povinnost organizátora regulovaného trhu vůči ČNB
 
@@ -972,6 +1748,66 @@ Pro řídicí a kontrolní systém se použijí pravidla § 12a (obchodník s ce
 **Typicky rozhodné důkazy / podklady:** záznamy obchodního systému (order book, výpisy obchodů), interní analýzy tržního dohledu, časová osa události a okamžiku vzniku podezření, odeslaná oznámení ČNB a hlášení STOR.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=047c515a2dc50bb77989 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 49
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Organizátor regulovaného trhu oznámí bezodkladně České národní bance
+>
+> - a) významné porušení pravidel obchodování nebo mimořádnou situaci na jím organizovaném regulovaném trhu,
+>
+> - b) důvodné podezření na jednání, které může být považováno za jednání zakázané přímo použitelným předpisem Evropské unie upravujícím zneužívání trhu52),
+>
+> - c) porušení informační povinnosti emitenta investičních cenných papírů přijatých k obchodování na jím organizovaný regulovaný trh, jejíž plnění je povinen sledovat,
+>
+> - d) porušení informační povinnosti osoby stanovené v § 48 odst. 1 písm. i) bod 4, jejíž plnění je povinen sledovat,
+>
+> - e) důvodné podezření z porušení tohoto zákona osobou oprávněnou uzavírat obchody na regulovaném trhu,
+>
+> - f) narušení systémů obchodování v souvislosti s určitým investičním nástrojem.
+>
+> (2) Okolnosti, za nichž vzniká povinnost oznámení podle odstavce 1, upravují čl. 81 a 82 nařízení Komise v přenesené pravomoci (EU) [[2017/565|2017/565]]78).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 48
+
+##### Souvisící předpisy
+
+- akt EU 2017/565 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=047c515a2dc50bb77989 -->
 
 ### § 50 — Informační povinnosti organizátora regulovaného trhu
 
@@ -1053,6 +1889,74 @@ Povinnost informovat ČNB o obsahu smluv uzavřených s tvůrci trhu podle § 50
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=192cd245a9a1619681c1 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 50 — Informační povinnosti organizátora regulovaného trhu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Organizátor regulovaného trhu předkládá České národní bance
+>
+> - a) nejpozději do 4 měsíců po skončení účetního období svou výroční zprávu a konsolidovanou výroční zprávu podle zákona upravujícího účetnictví, je-li podle tohoto zákona povinen tuto zprávu sestavovat, jejichž součástí je účetní závěrka ověřená auditorem,
+>
+> - b) nejpozději do 1 měsíce po uplynutí kalendářního čtvrtletí výsledky svého hospodaření v uplynulém čtvrtletí.
+>
+> (2) Organizátor regulovaného trhu uveřejní zprávy a údaje podle odstavce 1 bez zbytečného odkladu po jejich předložení České národní bance na svých internetových stránkách.
+>
+> (3) Organizátor regulovaného trhu uveřejňuje v aktuálním znění na svých internetových stránkách pravidla obchodování, pravidla pro přijímání investičních nástrojů k obchodování a pravidla přístupu.
+>
+> (4) Organizátor regulovaného trhu zasílá České národní bance rovněž další informace o účastnících, podmínkách, průběhu a výsledcích obchodování na jím organizovaném trhu, investičních nástrojích přijatých k obchodování na jím organizovaném trhu a jejich emitentech a o poskytnutých službách, které jsou potřebné pro výkon dohledu.
+>
+> (5) Organizátor regulovaného trhu oznámí České národní bance bez zbytečného odkladu
+>
+> - a) všechny změny ve skutečnostech, na jejichž základě mu bylo uděleno povolení k činnosti organizátora regulovaného trhu,
+>
+> - b) pozbytí oprávnění podle jiného právního předpisu k výkonu další činnosti, která byla zaregistrována podle [[#§ 39|§ 39]].
+>
+> (6) Změnu pravidel obchodování, pravidel pro přijímání investičních nástrojů k obchodování nebo pravidel přístupu zasílá organizátor regulovaného trhu bez zbytečného odkladu po jejich schválení na vědomí České národní bance.
+>
+> (7) Organizátor regulovaného trhu informuje Českou národní banku o obsahu smluv podle § 50g odst. 1.
+>
+> (8) Prováděcí právní předpis stanoví obsah informačních povinností stanovených v odstavcích 1 a [[#§ 4|4]] a lhůty, formu a způsob jejich plnění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 39, § 50g, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=192cd245a9a1619681c1 -->
+
 ### § 50a — Provozní odolnost obchodních systémů
 
 > **§ 50a**
@@ -1126,6 +2030,68 @@ Systém zamítání pokynů s extrémními hodnotami objemu nebo ceny nebo zjevn
 **Typicky rozhodné důkazy / podklady:** kapacitní a zátěžové testy, logy incidentů, BCP/DRP dokumentace a doklady o jejím testování, nastavení a parametry prahových kontrol pokynů, evidence pokynů (order book).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=05e6d0e12a6e6cfad7c4 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 50a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Organizátor regulovaného trhu zajistí, aby na jím organizovaném trhu byly zavedeny účinné systémy, postupy a opatření pro zachování provozní odolnosti v souladu s požadavky podle kapitoly II nařízení Evropského parlamentu a Rady (EU) 2022/2554111), jimiž se zajistí, že jeho systémy pro obchodování
+>
+> - a) jsou odolné,
+>
+> - b) mají dostatečnou kapacitu na to, aby mohly zpracovat velké objemy pokynů a zpráv,
+>
+> - c) mohou zajistit řádné obchodování za velmi nepříznivých tržních podmínek,
+>
+> - d) jsou plně testovány, aby se zajistilo, že podmínky podle písmen a) až c) jsou splněny, a
+>
+> - e) podléhají účinným opatřením k zajištění řádného a plynulého obchodování, včetně politiky a plánů zachování provozu informačních a komunikačních technologií zavedených podle čl. 11 nařízení Evropského parlamentu a Rady (EU) 2022/2554111), pro případ, že dojde k jejich selhání.
+>
+> (2) Organizátor regulovaného trhu zajistí, aby na jím organizovaném trhu byly zavedeny účinné systémy, postupy a opatření pro zamítnutí pokynů, které přesahují předem určené prahové hodnoty pro objem a cenu nebo jsou zjevně chybné.
+>
+> (3) Organizátor regulovaného trhu na žádost zpřístupní České národní bance údaje týkající se evidence pokynů nebo jí k této evidenci umožní přístup, aby mohla obchodování sledovat.
+>
+> (4) Podrobná pravidla pro organizační požadavky na systémy obchodních systémů, které povolují či umožňují algoritmické obchodování, pokud jde o jejich odolnost a kapacitu, požadavky na obchodní systémy týkající se zajištění vhodného testování algoritmů a požadavky na kontroly týkající se přímého elektronického přístupu upravují čl. 1 až 23 nařízení Komise v přenesené pravomoci (EU) [[2017/584|2017/584]]91).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 2017/584 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=05e6d0e12a6e6cfad7c4 -->
 
 ### § 50b — Pozastavení a omezení obchodování na regulovaném trhu
 
@@ -1203,6 +2169,74 @@ Pokud je regulovaný trh pro konkrétní nástroj **nejvýznamnějším trhem z 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e1d18e88e5db4e1161c3 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 50b — Pozastavení a omezení obchodování na regulovaném trhu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Organizátor regulovaného trhu zajistí, aby byl schopen na jím organizovaném trhu dočasně pozastavit nebo omezit obchodování, nastane-li mimořádná situace nebo dojde-li na tomto nebo souvisejícím trhu během krátké doby k výraznému pohybu cen investičního nástroje, a aby byl schopen v případech zvláštního zřetele hodných provést nebo vynutit si i zrušení, změnu nebo opravu konkrétního obchodu.
+>
+> (2) Organizátor regulovaného trhu zajistí, aby parametry pozastavení nebo omezení obchodování podle odstavce 1 byly nastaveny způsobem, který
+>
+> - a) zohlední
+>
+>   - 1. likviditu různých kategorií a podkategorií aktiv,
+>
+>   - 2. povahu tržního modelu tohoto trhu a
+>
+>   - 3. typy účastníků tohoto trhu a
+>
+> - b) je dostatečný k tomu, aby nedošlo k výraznému narušení řádného obchodování.
+>
+> (3) Organizátor regulovaného trhu oznámí vhodným způsobem České národní bance a uveřejní na svých internetových stránkách parametry pozastavení nebo omezení obchodování podle odstavce 1 a jejich podstatnou změnu.
+>
+> (4) Organizátor regulovaného trhu, který je pro konkrétní investiční nástroj významný z hlediska likvidity, zavede, udržuje a uplatňuje pro účely pozastavení nebo omezení obchodování podle odstavce 1 vhodné systémy a postupy k zajištění toho, aby včas vyrozuměl Českou národní banku tak, aby mohla Česká národní banka
+>
+> - a) koordinovat další postup na celém trhu a
+>
+> - b) určit, zda je vhodné zastavit obchodování v jiných obchodních systémech, na nichž je daný investiční nástroj obchodován, dokud se na původním trhu obchodování neobnoví.
+>
+> (5) Určování, kdy je regulovaný trh významný z hlediska likvidity pro účely odstavce 4, upravuje čl. 1 nařízení Komise v přenesené pravomoci (EU) [[2017/570|2017/570]]92).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 2017/570 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e1d18e88e5db4e1161c3 -->
+
 ### § 50c — Algoritmické systémy obchodování
 
 > **§ 50c**
@@ -1269,6 +2303,63 @@ Organizátor trhu nesmí diskriminovat při poskytování služeb **společného
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=92b896162152c16ce466 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 50c — Algoritmické systémy obchodování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Organizátor regulovaného trhu zajistí, aby na jím organizovaném trhu byly zavedeny účinné systémy, postupy a opatření v souladu s požadavky podle kapitol II a IV nařízení Evropského parlamentu a Rady (EU) 2022/2554111) s cílem zajistit, aby algoritmické systémy obchodování nemohly vytvořit podmínky obchodování narušující řádné fungování trhu nebo přispět k vytvoření takových podmínek, a vypořádat se s jakýmikoli podmínkami obchodování narušujícími řádné fungování trhu, které vycházejí z takovýchto algoritmických obchodních systémů, včetně systémů omezujících poměr mezi neprovedenými pokyny a obchody, které do systému může zanést účastník, aby se zpomalil tok pokynů v případě, že existuje riziko, že kapacita systému byla vyčerpána, a aby se omezil a prosadil minimální krok kotace, který lze na trhu provést.
+>
+> (2) Organizátor regulovaného trhu zajistí vytvoření podmínek pro účastníky regulovaného trhu pro náležité testování algoritmů podle [[#§ 73m|§ 73m]].
+>
+> (3) Organizátor regulovaného trhu zajistí, aby jeho pravidla pro služby společného umístění infrastruktury byla transparentní, spravedlivá a nediskriminační.
+>
+> (4) Organizátor regulovaného trhu zajistí, aby byl schopen na základě označování účastníky rozlišit pokyny vytvářené algoritmickým obchodováním, různé algoritmy používané pro vytváření pokynů a osoby, které tyto pokyny vydávají. Tyto informace musí na požádání poskytnout České národní bance.
+>
+> (5) Poměr podle odstavce 1 upravují čl. 1 až 3 nařízení Komise v přenesené pravomoci (EU) [[2017/566|2017/566]]93).
+>
+> (6) Požadavky na zajištění toho, aby pravidla pro služby společného umístění infrastruktury podle odstavce 3 byla spravedlivá a nediskriminační, upravují čl. 1 a 2 nařízení Komise v přenesené pravomoci (EU) [[2017/573|2017/573]]94).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 73m
+
+##### Souvisící předpisy
+
+- akt EU 2017/566 (výslovně uvedeno v místním znění)
+- akt EU 2017/573 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=92b896162152c16ce466 -->
+
 ### § 50d — Přímý elektronický přístup
 
 > **§ 50d**
@@ -1327,6 +2418,62 @@ Organizátor trhu nesmí diskriminovat při poskytování služeb **společného
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d8258d7d21cd3aa8d5ab generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 50d — Přímý elektronický přístup
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Organizátor regulovaného trhu, který účastníkům umožňuje přímý elektronický přístup,
+>
+> - a) zavede na jím organizovaném trhu účinné systémy, postupy a opatření s cílem zajistit, aby tuto službu mohli poskytovat pouze účastníci, kteří jsou evropským obchodníkem s cennými papíry nebo úvěrovou institucí,
+>
+> - b) zajistí, aby byla stanovena a uplatňována přiměřená kritéria vhodnosti účastníků, kterým lze takový přístup poskytnout, a že si účastník zachová odpovědnost za pokyny a obchody provedené s využitím této služby,
+>
+> - c) zavede vhodné standardy kontrol rizik a prahových hodnot pro obchodování prostřednictvím takového přístupu,
+>
+> - d) je schopen rozlišit pokyny nebo obchody prováděné osobou pomocí přímého elektronického přístupu od jiných pokynů nebo obchodů prováděných účastníkem a v případě potřeby je schopen tyto pokyny nebo obchody zastavit a
+>
+> - e) zavede opatření k pozastavení nebo ukončení poskytování přímého elektronického přístupu účastníkem zákazníkovi, pokud nejsou dodržena kritéria podle písmen a) až d).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d8258d7d21cd3aa8d5ab -->
+
 ### § 50e — Úplaty
 
 > **§ 50e**
@@ -1378,6 +2525,56 @@ Organizátor trhu nesmí diskriminovat při poskytování služeb **společného
 **Typicky rozhodné důkazy / podklady:** ceník a poplatkový model, statistika zadaných vs. provedených/zrušených pokynů u zvýhodněných účastníků, smlouvy o tvorbě trhu a vazba slev na ně, analýza dopadu modelu na chování účastníků.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=59f5cb44d38b04275a7b generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 50e — Úplaty
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Organizátor regulovaného trhu zajistí, aby struktura jeho úplat, včetně úplat za provedení, vedlejších úplat a případných slev byla transparentní, spravedlivá a nediskriminační a nepodněcovala k zadávání, změně nebo rušení pokynů nebo provádění obchodů způsobem, který přispívá ke vzniku obchodních podmínek narušujících řádné fungování trhu nebo ke zneužívání trhu. Slevy by měly být spojeny s povinností tvorby trhu k jednotlivým akciím nebo košům akcií.
+>
+> (2) Organizátor regulovaného trhu může upravit úplaty za zrušené pokyny v závislosti na době, po kterou byl pokyn zachován, a upravit je odlišně pro různé investiční nástroje.
+>
+> (3) Požadavky na zajištění toho, aby struktura úplat podle odstavců 1 a [[#§ 2|2]] byla spravedlivá a nediskriminační a aby nevytvářela pobídky k vytvoření obchodních podmínek narušujících řádné fungování trhu nebo ke zneužívání trhu, upravují čl. 3 až 5 nařízení Komise v přenesené pravomoci (EU) [[2017/573|2017/573]]94).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- akt EU 2017/573 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=59f5cb44d38b04275a7b -->
 
 ### § 50f — Kroky kotace
 
@@ -1453,6 +2650,71 @@ Pro akcie s ISIN ze třetích zemí nebo akcie obchodované primárně mimo EU s
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=acc6892f0e3b7aed5654 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 50f — Kroky kotace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Organizátor regulovaného trhu přijme režimy kroků kotace pro obchodované akcie, depozitní poukázky, cenné papíry vydávané fondy ETF, certifikáty, jiné podobné investiční nástroje a jiné investiční nástroje uvedené v přímo použitelném předpisu Evropské unie, kterým se provádí čl. 49 odst. 4 směrnice [[2014/65/EU|2014/65/EU]]. Použití kroků kotace nebrání regulovaným trhům v párování velkého objemu příkazů na střed mezi aktuální kupní a prodejní cenou.
+>
+> (2) Režimy kroků kotace podle odstavce 1 musí vhodným způsobem upravovat kroky kotace pro jednotlivé investiční nástroje. Musí být nastaveny tak, aby odrážely profil likvidity daného investičního nástroje na různých trzích a průměrné rozpětí mezi nabídkou a poptávkou s ohledem na to, že je žádoucí umožnit přiměřeně stabilní ceny bez zbytečného omezení dalšího zužování rozpětí.
+>
+> (3) V tomto zákoně se rozumí
+>
+> - a) certifikátem certifikát podle čl. 2 odst. 1 bodu 27 nařízení Evropského parlamentu a Rady (EU) č. [[600/2014|600/2014]],
+>
+> - b) fondem ETF investiční fond nebo zahraniční investiční fond, je-li alespoň jeden druh jím vydávaných cenných papírů kolektivního investování obchodován průběžně během obchodního dne v alespoň jednom obchodním systému a s alespoň jedním tvůrcem trhu, který zajišťuje, aby se cena těchto cenných papírů v tomto obchodním systému významně nelišila od jejich aktuální hodnoty.
+>
+> (4) Minimální kroky kotace nebo režimy kroků kotace pro účely odstavců 1 a [[#§ 2|2]] upravují čl. 1 až 5 nařízení Komise v přenesené pravomoci (EU) [[2017/588|2017/588]]95).
+>
+> (5) V případě akcií s přiděleným identifikačním označením podle mezinárodního identifikačního systému číslování pro identifikaci cenných papírů (ISIN) přiděleným mimo členský stát Evropské unie může organizátor regulovaného trhu stanovit stejný krok kotace, jaký platí v daném systému obdobném obchodnímu systému; stejně může postupovat organizátor regulovaného trhu v případě akcií s přiděleným identifikačním označením podle mezinárodního identifikačního systému číslování pro identifikaci cenných papírů (ISIN) přiděleným v členském státě Evropské unie, pokud se
+>
+> - a) s akciemi obchoduje v systému obdobném obchodnímu systému státu, který není členským státem Evropské unie,
+>
+> - b) s akciemi obchoduje v místní měně státu, který není členským státem Evropské unie, nebo v jiné měně, než je měna členského státu Evropské unie, a
+>
+> - c) systém obdobný obchodnímu systému, který je pro danou akcii nejvýznamnějším trhem z hlediska likvidity, nachází ve státě, který není členským státem Evropské unie.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- akt EU 2014/65 (výslovně uvedeno v místním znění)
+- akt EU 2017/588 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=acc6892f0e3b7aed5654 -->
+
 ### § 50g — Tvorba trhu na regulovaném trhu
 
 > **§ 50g**
@@ -1517,6 +2779,62 @@ Podrobnosti strategie tvorby trhu, včetně definice situací, kdy tvůrce trhu 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f8956538d614d0008cff generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 50g
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Obchodník s cennými papíry, který na regulovaném trhu provozuje strategii tvorby trhu, musí mít písemnou smlouvu s organizátorem regulovaného trhu.
+>
+> (2) Organizátor regulovaného trhu zavede, udržuje a uplatňuje postupy zajišťující, že uzavře s dostatečným počtem evropských obchodníků s cennými papíry smlouvy, které budou obsahovat povinnost, aby evropský obchodník s cennými papíry poskytoval závazné kotace odpovídající tržním podmínkám, a tak pravidelně a předvídatelně zajišťoval likviditu trhu. Organizátor regulovaného trhu plní tento požadavek přiměřeně povaze a rozsahu obchodování na jím organizovaném regulovaném trhu.
+>
+> (3) Smlouva podle odstavce 1 musí obsahovat alespoň
+>
+> - a) povinnosti evropského obchodníka s cennými papíry vztahující se k poskytování likvidity a případné další povinnosti vyplývající ze smlouvy podle odstavce 2 a
+>
+> - b) odměnu ve formě slevy nebo v jiné podobě, kterou organizátor regulovaného trhu poskytuje evropskému obchodníkovi s cennými papíry za poskytování likvidity a případná další práva vyplývající ze smlouvy podle odstavce 2.
+>
+> (4) Další podrobnosti týkající se strategie tvorby trhu pro účely odstavců 1 až 3 upravují čl. 1 až 7 nařízení Komise v přenesené pravomoci (EU) [[2017/578|2017/578]]87).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 2017/578 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f8956538d614d0008cff -->
+
 ### § 51 — Přístup k vypořádacím systémům
 
 > **§ 51**
@@ -1573,6 +2891,54 @@ Využití nestandardního vypořádacího systému (jiného, než je obvyklý pr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5ab403fd1d0bf0e9e3cb generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 51 — Přístup k vypořádacím systémům
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Organizátor regulovaného trhu umožní účastníkům jím organizovaného regulovaného trhu zvolit pro vypořádání obchodů s investičními nástroji uzavřenými na tomto trhu vypořádací systém, ústřední protistranu, clearingovou instituci a systém zúčtování podle jejich výběru, pokud existuje mezi regulovaným trhem a zvoleným vypořádacím systémem, ústřední protistranou, clearingovou institucí a systémem zúčtování takové spojení, které umožní řádné a včasné vypořádání těchto obchodů bez nepřiměřených nákladů. Tím nejsou dotčena ustanovení hlav III, IV a V nařízení Evropského parlamentu a Rady (EU) č. [[648/2012|648/2012]] o OTC derivátech, ústředních protistranách a registrech obchodních údajů.
+>
+> (2) Využívání jiného vypořádacího systému, než který je obvyklý pro příslušný regulovaný trh podle odstavce 1, vyžaduje předchozí souhlas České národní banky. Česká národní banka udělí souhlas účastníkovi regulovaného trhu v případě, že technické podmínky vypořádání pohledávek a dluhů z obchodů s investičními nástroji v jiném než obvyklém vypořádacím systému nebrání řádnému fungování finančních trhů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5ab403fd1d0bf0e9e3cb -->
+
 ### § 52 — Omezení využívání zahraničního vypořádacího systému
 
 > **§ 52**
@@ -1621,6 +2987,52 @@ Využití nestandardního vypořádacího systému (jiného, než je obvyklý pr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3252cfa480635e881912 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 52
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Česká národní banka může omezit nebo zakázat organizátoru regulovaného trhu využívání vypořádacího systému, ústřední protistrany, zúčtovatele nebo clearingové instituce z jiného členského státu Evropské unie k vypořádání všech nebo jen vybraných obchodů s investičními nástroji uzavřených na jím organizovaném regulovaném trhu, pokud je to nezbytné k řádnému fungování regulovaného trhu; při rozhodování Česká národní banka vezme v úvahu, zda jsou splněny podmínky stanovené v § 51 odst. 1. Tím nejsou dotčena ustanovení hlav III, IV a V nařízení Evropského parlamentu a Rady (EU) č. [[648/2012|648/2012]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 51
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3252cfa480635e881912 -->
+
 ### § 53 — Ochrana označení „regulovaný trh" a „burza cenných papírů"
 
 > **§ 53**
@@ -1668,6 +3080,52 @@ Využití nestandardního vypořádacího systému (jiného, než je obvyklý pr
 **Typicky rozhodné důkazy / podklady:** marketingové materiály a obchodní označení posuzovaného subjektu, doklad o jeho statusu (povolení k regulovanému trhu vs. MTF/OTF), podklady o vnímání označení relevantní veřejností.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=86129ef841020dec7a4e generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 53
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Označení „regulovaný trh“ nebo „burza cenných papírů“ nebo obdobné označení ve spojení s investičními nástroji smí při svém podnikání používat pouze organizátor evropského regulovaného trhu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=86129ef841020dec7a4e -->
 
 ### § 54 — Stálý rozhodčí soud organizátora regulovaného trhu
 
@@ -1720,6 +3178,56 @@ Využití nestandardního vypořádacího systému (jiného, než je obvyklý pr
 **Typicky rozhodné důkazy / podklady:** statut a řád stálého rozhodčího soudu, smlouva a případná rozhodčí doložka, podklady ke kvalifikaci povahy sporné pohledávky (obchod na trhu vs. jiný trh), dokumentace průběhu rozhodčího řízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ec9d4125f71941ad1d17 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 54 — Stálý rozhodčí soud organizátora regulovaného trhu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Organizátor regulovaného trhu může zřídit stálý rozhodčí soud.
+>
+> (2) Stálý rozhodčí soud rozhoduje spory z obchodů na regulovaném trhu organizovaném zřizovatelem a z vypořádání těchto obchodů, jakož i spory z obchodů v mnohostranném obchodním systému provozovaném zřizovatelem a z vypořádání těchto obchodů. Stálý rozhodčí soud rozhoduje i spory z obchodů s komoditami a spory z dalších obchodů na finančním trhu, pokud takové obchody vyplývají z další podnikatelské činnosti zřizovatele registrované Českou národní bankou podle [[#§ 39|§ 39]]. Stálý rozhodčí soud může též rozhodovat spory z ostatních obchodů s investičními nástroji nebo komoditami, spory z podnikání na kapitálovém trhu, peněžním trhu, trhu doplňkového penzijního spoření, pojišťovacím trhu a trhu penzijního připojištění, pokud se na tom strany dohodnou.
+>
+> (3) Na řízení před stálým rozhodčím soudem se vztahuje zákon upravující rozhodčí řízení a výkon rozhodčích nálezů9). Způsob řízení a rozhodování, způsob jmenování rozhodců, jejich počet, organizační uspořádání stálého rozhodčího soudu, sazebník odměn rozhodců, pravidla o nákladech řízení a další otázky související s činností stálého rozhodčího soudu a jejím ekonomickým zajištěním upravuje statut a řád stálého rozhodčího soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 39
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ec9d4125f71941ad1d17 -->
 
 ## Hlava II — Obchodování na regulovaném trhu
 
@@ -1790,6 +3298,56 @@ Tato definice implementuje čl. 4 odst. 1 bod 21 MiFID II. Regulovaný trh se od
 **Typicky rozhodné důkazy / podklady:** povolení ČNB a jeho výrok (regulovaný trh vs. MTF/OTF), pravidla přijímání/obchodování/přístupu, zápis trhu v seznamu regulovaných trhů (ESMA), doklady o pravidelnosti obchodování.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=48caf2584b2f214f6529 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 55
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Regulovaným trhem je trh s investičními nástroji organizovaný organizátorem regulovaného trhu v souladu s povolením České národní banky, na kterém se obchoduje pravidelně a který má stanovena pravidla pro přijímání investičních nástrojů k obchodování na regulovaném trhu, pravidla obchodování na regulovaném trhu a pravidla přístupu na regulovaný trh, která jsou v souladu s tímto zákonem.
+>
+> (2) Evropským regulovaným trhem je regulovaný trh a trh s investičními nástroji obdobný regulovanému trhu, který je uvedený v seznamu regulovaných trhů členského státu Evropské unie.
+>
+> (3) Zahraničním regulovaným trhem je evropský regulovaný trh, který není regulovaným trhem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=48caf2584b2f214f6529 -->
 
 ### § 56 — Podmínky pro přijetí investičního nástroje k obchodování na regulovaném trhu
 
@@ -1864,6 +3422,66 @@ Odst. 5 zakotvuje zásadní pravidlo: regulovaný trh může přijmout investič
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0dc64365392c29ab92b4 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 56 — Podmínky pro přijetí investičního nástroje k obchodování na regulovaném trhu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Podmínky pro přijímání investičních nástrojů k obchodování na regulovaném trhu stanoví tento zákon. Další podmínky nebo informační povinnosti emitenta než stanovené tímto zákonem může organizátor regulovaného trhu stanovit v pravidlech pro přijímání investičních nástrojů k obchodování na regulovaném trhu.
+>
+> (2) Na regulovaný trh může být přijat jen takový investiční nástroj, kterému bylo přiděleno identifikační označení podle mezinárodního systému číslování pro identifikaci cenných papírů (ISIN), a u kterého jsou dány předpoklady pro spravedlivé, řádné a účinné obchodování. Uvedené podmínky musí zajistit organizátor regulovaného trhu v pravidlech pro přijímání investičních nástrojů k obchodování na regulovaném trhu.
+>
+> (3) U investičních cenných papírů organizátor regulovaného trhu v pravidlech pro přijímání investičních nástrojů k obchodování na regulovaném trhu dále zajistí, aby k obchodování na regulovaném trhu byl přijat pouze investiční cenný papír, který je volně obchodovatelný.
+>
+> (4) U investičních nástrojů uvedených v § 3 odst. 1 písm. d) až l) organizátor regulovaného trhu v pravidlech pro přijímání investičních nástrojů k obchodování na regulovaném trhu dále zajistí, aby k obchodování na regulovaném trhu byl přijat pouze investiční nástroj uvedený v § 3 odst. 1 písm. d) až l), který umožňuje řádné stanovení cen a vhodný způsob vypořádání.
+>
+> (5) Investiční nástroj může být přijat k obchodování na regulovaném trhu bez souhlasu emitenta.
+>
+> (6) Organizátor regulovaného trhu informuje bez zbytečného odkladu emitenta investičního nástroje, že emitentem vydaný investiční nástroj přijal k obchodování na jím organizovaném regulovaném trhu podle odstavce 5.
+>
+> (7) Emitent investičního cenného papíru přijatého k obchodování na regulovaném trhu podle odstavce 5 není povinen plnit vůči tomuto regulovanému trhu žádné informační povinnosti.
+>
+> (8) Další podrobnosti přijímání investičních nástrojů k obchodování na regulovaném trhu pro účely odstavců 1 až 7 upravují čl. 1 až 8 nařízení Komise v přenesené pravomoci (EU) [[2017/568|2017/568]]96).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3
+
+##### Souvisící předpisy
+
+- akt EU 2017/568 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0dc64365392c29ab92b4 -->
+
 ### § 58 — Obchod uzavřený na regulovaném trhu
 
 > **§ 58**
@@ -1916,6 +3534,52 @@ Toto pravidlo slouží ochraně protistrany, která splnila svůj závazek v dob
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7a6432d644dc279d6cc6 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 58 — Obchod uzavřený na regulovaném trhu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Obchod uzavřený na regulovaném trhu podle pravidel obchodování na regulovaném trhu nemůže organizátor regulovaného trhu zrušit. Omyl v pokynu při uzavření obchodu na regulovaném trhu nezakládá jeho neplatnost.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7a6432d644dc279d6cc6 -->
+
 ### § 59 — Registrace cenných papírů kolektivního investování na regulovaném trhu
 
 > **§ 59**
@@ -1965,6 +3629,54 @@ Toto pravidlo slouží ochraně protistrany, která splnila svůj závazek v dob
 **Typicky rozhodné důkazy / podklady:** pravidla organizátora pro přijímání nástrojů (podmínky registrace a stanovení hodnoty), statut fondu a způsob vydávání/odkupu podílových listů, doklad o registraci dle § 59, informační materiály pro investory.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=af2e1aa5b697af3072ca generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 59 — Registrace cenných papírů kolektivního investování na regulovaném trhu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Cenný papír kolektivního investování, který není přijatý k obchodování na evropském regulovaném trhu, může být za účelem uveřejňování jeho hodnoty registrován na regulovaném trhu.
+>
+> (2) Podmínky pro registraci cenného papíru kolektivního investování a způsob stanovení jeho hodnoty stanoví organizátor regulovaného trhu v pravidlech pro přijímání investičních nástrojů k obchodování na regulovaném trhu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=af2e1aa5b697af3072ca -->
 
 ### § 60 — Vyřazení cenného papíru z obchodování na regulovaném trhu
 
@@ -2038,6 +3750,66 @@ Odst. 6 pokrývá situace, kdy k vyřazení dochází ex lege (například v dů
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3dc11e0d38830492a848 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 60 — Vyřazení cenného papíru z obchodování na regulovaném trhu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Emitent, který rozhodl o vyřazení účastnických cenných papírů z obchodování na regulovaném trhu tuto skutečnost neprodleně
+>
+> - a) oznámí České národní bance a organizátorovi regulovaného trhu, na kterém je cenný papír přijat k obchodování, a
+>
+> - b) uveřejní na svých internetových stránkách.
+>
+> (2) Emitent uvedený v odstavci 1 zašle organizátorovi regulovaného trhu žádost o vyřazení cenného papíru z obchodování na regulovaném trhu bez zbytečného odkladu po splnění všech povinností vyplývajících ze zákona upravujícího právní poměry obchodních společností a družstev těmto osobám. Při povinném veřejném návrhu smlouvy na odkoupení účastnických cenných papírů podle zákona upravujícího právní poměry obchodních společností a družstev se za splnění povinnosti považuje splnění dluhů vůči akcionářům z veřejného návrhu smlouvy. Přílohu žádosti tvoří rozhodnutí o vyřazení cenného papíru z obchodování na regulovaném trhu v souladu se zákonem upravujícím právní poměry obchodních společností a družstev a doklad, že tato skutečnost byla oznámena České národní bance, a doklad o splnění všech povinností vyplývajících ze zákona upravujícího právní poměry obchodních společností a družstev.
+>
+> (3) Stanoví-li zahraniční právní řád v případě zahraničního emitenta povinnosti obdobné povinnostem stanoveným v odstavci 1, zašle emitent před vyřazením cenného papíru z obchodování na regulovaném trhu organizátorovi regulovaného trhu doklad prokazující splnění těchto povinností.
+>
+> (4) Organizátor regulovaného trhu vyřadí cenný papír z obchodování na regulovaném trhu bez zbytečného odkladu po obdržení žádosti podle odstavce 2 se všemi přílohami.
+>
+> (5) Organizátor regulovaného trhu oznámí neprodleně vyřazení cenného papíru z obchodování na regulovaném trhu centrálnímu depozitáři, zahraničnímu centrálnímu depozitáři nebo zahraničnímu centrálnímu depozitáři, který získal povolení k činnosti nebo byl uznán podle přímo použitelného předpisu Evropské unie upravujícího zlepšení vypořádání obchodů s cennými papíry v Evropské unii a centrální depozitáře cenných papírů51) a který vede příslušnou emisi, a České národní bance.
+>
+> (6) Došlo-li k vyřazení účastnického cenného papíru z obchodování ze zákona, organizátor regulovaného trhu zajistí ukončení obchodování s takovým cenným papírem na regulovaném trhu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3dc11e0d38830492a848 -->
+
 ### § 61 — Pozastavení obchodování, obnovení obchodování a vyloučení z obchodování
 
 > **§ 61**
@@ -2106,6 +3878,64 @@ Každé rozhodnutí o pozastavení, vyloučení i o obnovení obchodování mus�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3a864e88bb1bd41e4806 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 61 — Pozastavení obchodování, obnovení obchodování a vyloučení z obchodování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Neohrozí-li to závažně zájmy investorů nebo řádné fungování trhu, pozastaví organizátor regulovaného trhu obchodování s investičním nástrojem na regulovaném trhu nebo vyloučí investiční nástroj z obchodování na regulovaném trhu, jestliže investiční nástroj nesplňuje podmínky pro přijetí investičního nástroje k obchodování na regulovaném trhu podle tohoto zákona a pravidla pro přijímání investičních nástrojů k obchodování na regulovaném trhu nebo pravidla obchodování na regulovaném trhu nebo nejsou plněny informační povinnosti ohledně tohoto investičního nástroje vyplývající z tohoto zákona a pravidel pro přijímání investičních nástrojů k obchodování na regulovaném trhu.
+>
+> (2) Organizátor regulovaného trhu, který rozhodl podle odstavce 1, postupuje podle odstavce 1 také ve vztahu k derivátům podle § 3 odst. 1 písm. d) až k), jejichž hodnota se vztahuje k investičnímu nástroji, kterého se týká rozhodnutí podle odstavce 1, je-li to nezbytné k dosažení účelu rozhodnutí podle odstavce 1. Organizátor regulovaného trhu postupuje ve vztahu k derivátům obdobně také tehdy, je-li obnoveno obchodování s investičním nástrojem, s nímž bylo obchodování na regulovaném trhu pozastaveno.
+>
+> (3) Organizátor regulovaného trhu rozhodnutí podle odstavce 1 nebo [[#§ 2|2]] uveřejní a sdělí České národní bance. Stejně organizátor regulovaného trhu postupuje, pokud obnoví obchodování s investičním nástrojem, jehož obchodování bylo pozastaveno podle odstavce 1 nebo [[#§ 2|2.]]
+>
+> (4) Seznam okolností, které představují závažné ohrožení zájmů investorů a řádného fungování trhu pro účely odstavce 1, upravuje čl. 80 nařízení Komise v přenesené pravomoci (EU) [[2017/565|2017/565]]78).
+>
+> (5) Další podrobnosti pozastavení obchodování s derivátem pro účely odstavce 2 upravuje čl. 1 nařízení Komise v přenesené pravomoci (EU) [[2017/569|2017/569]]97).
+>
+> (6) Formát a časový rozvrh uveřejnění a sdělení pro účely odstavce 3 upravují čl. 1 až 6 prováděcího nařízení Komise (EU) [[2017/1005|2017/1005]]98).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3, § 2
+
+##### Souvisící předpisy
+
+- akt EU 2017/565 (výslovně uvedeno v místním znění)
+- akt EU 2017/569 (výslovně uvedeno v místním znění)
+- akt EU 2017/1005 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3a864e88bb1bd41e4806 -->
+
 ### § 62 — Pravidla obchodování na regulovaném trhu
 
 > **§ 62**
@@ -2153,6 +3983,52 @@ Každé rozhodnutí o pozastavení, vyloučení i o obnovení obchodování mus�
 **Typicky rozhodné důkazy / podklady:** znění a zveřejnění pravidel obchodování, interní manuály k párování a prioritě pokynů, logy provádění pokynů, srovnání pravidel s požadavky čl. 53 MiFID II.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3f914ae059f2d5fefe87 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 62 — Pravidla obchodování na regulovaném trhu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Organizátor regulovaného trhu stanoví a dodržuje transparentní pravidla obchodování na regulovaném trhu, která stanoví zejména strukturu regulovaného trhu, který organizuje, a pravidla pro uzavírání obchodů s investičními nástroji na regulovaném trhu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3f914ae059f2d5fefe87 -->
 
 ### § 63 — Pravidla přístupu na regulovaný trh
 
@@ -2241,6 +4117,78 @@ Zákon zakotvuje **pasportní právo přístupu**: zahraniční regulovaný trh 
 **Typicky rozhodné důkazy / podklady:** pravidla přístupu a jejich objektivní kritéria, doklady o splnění podmínek žadatelem (důvěryhodnost, odbornost, způsobilost obchodovat, organizační a finanční předpoklady), povolení zahraničního obchodníka, dokumentace notifikací orgánů dohledu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=40b06242f6b5cdbca5bf generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 63 — Pravidla přístupu na regulovaný trh
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Organizátor regulovaného trhu stanoví a dodržuje transparentní pravidla přístupu na regulovaný trh, která stanoví objektivní kritéria pro tento přístup.
+>
+> (2) Pravidla přístupu na regulovaný trh upřesňují povinnosti účastníků regulovaného trhu, vyplývající z řízení a struktury regulovaného trhu, pravidel obchodování na regulovaném trhu a pravidel pro zúčtování a vypořádání obchodů uzavřených na regulovaném trhu.
+>
+> (3) Pravidla přístupu na regulovaný trh dále upraví požadavky na odbornost osob, kterých využívají ke své činnosti na regulovaném trhu obchodníci s cennými papíry a zahraniční osoby s povolením zahraničního orgánu dohledu k poskytování investičních služeb, kteří jsou účastníky tohoto trhu, a pravidla pro přístup osob podle odstavce 4 písm. b).
+>
+> (4) Účastníkem regulovaného trhu může být
+>
+> - a) obchodník s cennými papíry a zahraniční osoba s povolením zahraničního orgánu dohledu k poskytování investičních služeb, nebo
+>
+> - b) jiná osoba, která
+>
+>   - 1. je důvěryhodná a odborně způsobilá,
+>
+>   - 2. má dostatečnou schopnost a způsobilost obchodovat,
+>
+>   - 3. má vhodné organizační předpoklady a
+>
+>   - 4. disponuje dostatečnými finančními zdroji, zejména s ohledem na zajištění vypořádání obchodů.
+>
+> (5) Organizátor regulovaného trhu zasílá pravidelně České národní bance změny v seznamu účastníků jím organizovaného regulovaného trhu. Lhůty, obsah, formu a způsob zasílání stanoví prováděcí právní předpis.
+>
+> (6) Pravidla přístupu na regulovaný trh umožní zahraniční osobě s povolením zahraničního orgánu dohledu k poskytování investičních služeb přístup ze zahraničí.
+>
+> (7) Organizátor zahraničního regulovaného trhu může v České republice zavést technická a organizační opatření, která umožní účastníkům jím organizovaného regulovaného trhu se sídlem nebo bydlištěm v České republice přístup na tento regulovaný trh. Česká národní banka může požádat orgán dohledu nad organizátorem regulovaného trhu o údaje o účastnících tohoto regulovaného trhu se sídlem nebo bydlištěm v České republice.
+>
+> (8) Organizátor regulovaného trhu se sídlem v České republice oznámí České národní bance, ve kterém členském státě Evropské unie má v úmyslu zavést technická a organizační opatření, která umožní účastníkům regulovaného trhu se sídlem nebo bydlištěm v jiném členském státě Evropské unie přístup na jím organizovaný regulovaný trh. Česká národní banka sdělí tuto informaci do jednoho měsíce příslušnému orgánu dohledu tohoto členského státu Evropské unie. Česká národní banka oznámí na žádost orgánu dohledu tohoto členského státu Evropské unie údaje o účastnících regulovaného trhu se sídlem nebo bydlištěm v tomto členském státě Evropské unie.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=40b06242f6b5cdbca5bf -->
 
 ### Díl 2 — Oficiální trh s cennými papíry
 

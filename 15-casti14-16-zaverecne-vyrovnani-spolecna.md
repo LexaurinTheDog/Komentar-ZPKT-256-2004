@@ -123,6 +123,82 @@ Porušení povinností stanovených přímo použitelnými předpisy EU, k jejic
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fa1d5a47889c9148c772 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 192a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka je v České republice
+>
+> - a) odvětvovým příslušným orgánem podle přímo použitelného předpisu Evropské unie upravujícího ratingové agentury49),
+>
+> - b) příslušným orgánem podle přímo použitelného předpisu Evropské unie upravujícího prodej na krátko a některé aspekty swapů úvěrového selhání42),
+>
+> - c) příslušným orgánem v oblasti registru obchodních údajů podle přímo použitelného předpisu Evropské unie upravujícího OTC deriváty, ústřední protistrany a registry obchodních údajů43),
+>
+> - d) příslušným orgánem podle přímo použitelného předpisu Evropské unie upravujícího zlepšení vypořádání obchodů s cennými papíry v Evropské unii a centrální depozitáře cenných papírů51),
+>
+> - e) příslušným orgánem podle přímo použitelného předpisu Evropské unie upravujícího zneužívání trhu52),
+>
+> - f) příslušným orgánem podle přímo použitelného předpisu Evropské unie upravujícího trhy finančních nástrojů53),
+>
+> - g) příslušným orgánem podle přímo použitelného předpisu Evropské unie upravujícího sdělení klíčových informací týkajících se strukturovaných retailových investičních produktů a pojistných produktů s investiční složkou60),
+>
+> - h) příslušným orgánem podle přímo použitelného předpisu Evropské unie upravujícího indexy, které jsou používány jako referenční hodnoty ve finančních nástrojích a finančních smlouvách nebo k měření výkonnosti investičních fondů62),
+>
+> - i) příslušným orgánem podle přímo použitelného předpisu Evropské unie upravujícího obecný rámec pro sekuritizaci a vytvářející zvláštní rámec pro jednoduchou, transparentní a standardizovanou sekuritizaci63),
+>
+> - j) příslušným orgánem podle přímo použitelného předpisu Evropské unie o prospektu, který má být uveřejněn při veřejné nabídce nebo přijetí cenných papírů k obchodování na regulovaném trhu66),
+>
+> - k) příslušným orgánem podle přímo použitelného předpisu Evropské unie o obezřetnostních požadavcích na investiční podniky72),
+>
+> - l) příslušným orgánem podle přímo použitelného předpisu Evropské unie upravujícího evropské poskytovatele služeb skupinového financování pro podniky75),
+>
+> - m) příslušným orgánem k řešení krize podle přímo použitelného předpisu Evropské unie upravujícího rámec pro ozdravné postupy a řešení krize ústředních protistran76),
+>
+> - n) příslušným orgánem podle přímo použitelného předpisu Evropské unie upravujícího pilotní režim pro tržní infrastruktury založené na technologii distribuovaného registru109).
+>
+> (2) Ve vztahu ke státním dluhopisům vydaným Českou republikou a swapům úvěrového selhání na tyto dluhopisy se k uplatnění pravomocí České národní banky podle čl. 13 odst. 3, čl. 14 odst. 2 a čl. 20 až 24 nařízení Evropského parlamentu a Rady (EU) č. [[236/2012|236/2012]] vyžaduje předchozí souhlas ministerstva.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fa1d5a47889c9148c772 -->
+
 ### § 192b — Ministerstvo financí jako příslušné ministerstvo pro ozdravné postupy ústředních protistran
 
 > **§ 192b**
@@ -178,6 +254,52 @@ Praktická relevance § 192b je dosud omezená — Česká republika zatím nepr
 **Typicky rozhodné důkazy / podklady:** text CCPRRR (čl. 8); kvantifikace fiskálního dopadu nástroje; doklad o udělení souhlasu MF; rezoluční plán CCP.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c9010f2dffbd589be239 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 192b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Ministerstvo financí je v České republice příslušným ministerstvem podle přímo použitelného předpisu Evropské unie upravujícího rámec pro ozdravné postupy a řešení krize ústředních protistran76).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c9010f2dffbd589be239 -->
 
 ## Část patnáctá — Závěrečné vyrovnání
 
@@ -305,6 +427,64 @@ Závěrečné vyrovnání je smluvní nástroj snižování kreditního rizika p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2bd73ed41d34fd84fcd8 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 193
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Závěrečné vyrovnání je ujednání smlouvy sjednané podle českého nebo zahraničního práva,
+>
+> - a) které lze doložit písemně, popřípadě záznamem, který umožňuje reprodukci v nezměněné podobě,
+>
+> - b) které se vztahuje na pohledávky smluvních stran, včetně příslušenství těchto pohledávek, které lze zajistit finančním zajištěním podle zákona upravujícího finanční zajištění26), a na pohledávky, včetně příslušenství těchto pohledávek, z finančního zajištění nebo z obdobného právního vztahu podle zahraniční právní úpravy a
+>
+> - c) podle kterého v případě, že nastane dohodnutá skutečnost, dojde k zániku a nahrazení dluhů, které odpovídají pohledávkám uvedeným v písmenu b), nebo k započtení dosud nesplatných, popřípadě i splatných, pohledávek podle písmene b) tak, že výsledkem bude jediná pohledávka jedné smluvní strany a jí odpovídající dluh druhé smluvní strany uhradit výslednou částku.
+>
+> (2) Způsob ocenění pohledávek podle odstavce 1 písm. b), okamžik, ke kterému musí být toto ocenění provedeno, a způsob a doba plnění výsledné jediné pohledávky musí být obsahem závěrečného vyrovnání a nesmí být v rozporu se zvyklostmi na příslušném finančním trhu.
+>
+> (3) Rozhodnutí nebo jiný úkon soudu nebo správního orgánu, které se dotýká práv třetích osob a bylo přijato za účelem udržení nebo ozdravení finanční situace některé ze smluvních stran, popřípadě zákazu nebo omezení provedení určitých obchodů nebo převodu finančních prostředků některou ze smluvních stran27), nemá vliv na závěrečné vyrovnání, jestliže závěrečné vyrovnání bylo uzavřeno před přijetím rozhodnutí nebo provedením jiného úkonu.
+>
+> (4) Odstavec 3 se neuplatní pro účinky úkonů spojených se zahájením insolvenčního řízení, vstupem do likvidace nebo zavedením nucené správy nebo s uplatněním opatření k řešení krize nebo odpisu a konverze odepisovatelných kapitálových nástrojů podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu nebo srovnatelného zahraničního právního předpisu; vyloučení těchto účinků upravují jiné zákony. Odstavec 3 se dále neuplatní pro účinky úkonů spojených s uplatněním opatření podle hlavy V kapitoly III oddílu 3 nebo hlavy V kapitoly IV nařízení Evropského parlamentu a Rady (EU) 2021/2376).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 2021/2376 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2bd73ed41d34fd84fcd8 -->
+
 ## Část šestnáctá — Ustanovení společná, přechodná a závěrečná
 
 ---
@@ -360,6 +540,52 @@ Zaknihované cenné papíry jsou definovány v § 92 ZPKT a obecně v OZ (§ 525
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ac248d1ec8ce91b6cdfb generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 194
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Ustanovení tohoto zákona o cenných papírech se použijí i na zaknihované cenné papíry, ledaže to vylučuje jejich povaha nebo tento zákon.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ac248d1ec8ce91b6cdfb -->
+
 ### § 194a — Rozšíření klíčových pravidel na strukturované vklady
 
 > **§ 194a**
@@ -414,6 +640,52 @@ Tím je zajištěno, že zákazník, kterému je nabízen strukturovaný vklad m
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=cba08af735a266b65e25 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 194a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Ustanovení § 10 odst. 3 písm. e), § 12 až 12bb, 15 až 15k, 15o až 15r, § 17 odst. 1 a § 128 až 192 se použijí i tehdy, pokud obchodník s cennými papíry, banka nebo spořitelní nebo úvěrové družstvo prodává strukturované vklady, nebo ohledně nich poskytuje poradenství.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10, § 12, § 17, § 128
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cba08af735a266b65e25 -->
+
 ### § 195 — Definice členského státu EU
 
 > **§ 195**
@@ -464,6 +736,52 @@ Praktický dopad: obchodníci s cennými papíry, burzy a jiné subjekty z Norsk
 **Typicky rozhodné důkazy / podklady:** povolení domovského orgánu; notifikace přeshraniční činnosti; doklad o členství státu v EHP; relevantní část přílohy IX Dohody o EHP.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a87d2259b452c48f143e generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 195
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Pokud tento zákon hovoří o členském státě Evropské unie, rozumí se jimi i další státy tvořící Evropský hospodářský prostor.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a87d2259b452c48f143e -->
 
 ### § 195a — Zvláštní přechodná ustanovení k emitentům a použití OZ
 
@@ -533,6 +851,56 @@ Výjimka platí jen dispozitivně: strany si mohou použití vyloučených ustan
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=63534b206a0a484f4772 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 195a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Ustanovení § 119c odst. 1 písm. b), § 120c odst. 2 a § 127c odst. 4 se vztahují také na emitenta investičního cenného papíru, jehož jmenovitá hodnota odpovídá k datu emise částce alespoň 50 000 EUR, pokud se jedná o cenné papíry, které byly přijaty k obchodování na evropském regulovaném trhu nejpozději 31. prosince 2010. Pokud se jedná o cenné papíry, které byly přijaty k obchodování na evropském regulovaném trhu po 31. prosinci 2010, avšak nejpozději 14. července 2011, vztahují se na jejich emitenta tato ustanovení pouze do 30. června 2012.
+>
+> (2) Stanoví-li tento zákon nebo právní předpis jej provádějící něco jiného než vyplývá z ustanovení [[občanského zákoníku|občanského zákoníku]] upravujících správu cizího majetku, použije se tento zákon nebo právní předpis jej provádějící.
+>
+> (3) Ustanovení [[§ 1401|§ 1401]], [[§ 1415 odst. 1|§ 1415 odst. 1]] a [[§ 1432 až 1437|§ 1432 až 1437]] [[občanského zákoníku|občanského zákoníku]] se pro jednotlivé činnosti, které zahrnuje investiční služba, nepoužijí, ledaže si strany ujednaly něco jiného.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 119c, § 120c, § 127c, § 1401, § 1415, § 1432
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=63534b206a0a484f4772 -->
+
 ### § 195b — Výjimka z clearingové povinnosti pro deriváty z uhlí a ropy
 
 > **§ 195b**
@@ -589,6 +957,58 @@ Zákonná maximální platnost výjimky byla stanovena do **3. ledna 2021** — 
 **Typicky rozhodné důkazy / podklady:** žádost a rozhodnutí o výjimce (je-li z období do 3. 1. 2021); doklad o povaze derivátů dle § 3 odst. 1 písm. h); notifikace ESMA; platné znění EMIR.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cdb9bc9ca2b51d9d9462 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 195b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka udělí nefinanční smluvní straně, která splňuje podmínky podle čl. 10 odst. 1 nařízení Evropského parlamentu a Rady (EU) č. [[648/2012|648/2012]] nebo se stala obchodníkem s cennými papíry po 2. lednu 2018, výjimku z povinnosti clearingu stanovené v čl. 4 nařízení Evropského parlamentu a Rady (EU) č. [[648/2012|648/2012]] a z uplatnění technik zmírňování rizika stanovených v čl. 11 odst. 3 nařízení Evropského parlamentu a Rady (EU) č. [[648/2012|648/2012]] ve vztahu k derivátům uvedeným v § 3 odst. 1 písm. h), které se týkají uhlí nebo ropy, se kterými se obchoduje v organizovaném obchodním systému a které se musí vypořádat dodáním podkladového aktiva.
+>
+> (2) Platnost výjimky podle odstavce 1 lze stanovit nejdéle do 3. ledna 2021.
+>
+> (3) Řízení o udělení výjimky podle odstavce 1 se zahájí na žádost nefinanční smluvní strany nebo obchodníka s cennými papíry. Rozhodnutí o udělení výjimky oznámí Česká národní banka Evropskému orgánu pro cenné papíry a trhy.
+>
+> (4) Nefinanční smluvní strana při výpočtu pozic podle čl. 10 nařízení Evropského parlamentu a Rady (EU) č. [[648/2012|648/2012]] nezapočte deriváty uvedené v § 3 odst. 1 písm. h), na které se vztahuje výjimka udělená podle odstavce 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cdb9bc9ca2b51d9d9462 -->
 
 ### § 196 — Jazyková pravidla, uveřejňování, zjednodušení řízení
 
@@ -678,6 +1098,64 @@ V praxi ČNB tuto pravomoc využívá: na svých stránkách průběžně publik
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1b466230cec88b92fcde generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 196
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Pokud tento zákon vyžaduje uveřejňování informací na území České republiky, uveřejňují se tyto informace v českém jazyce, nestanoví-li tento zákon jinak. Česká národní banka může na žádost po posouzení konkrétních okolností povolit, aby byly určité informace uveřejněny v anglickém jazyce.
+>
+> (2) Při uveřejňování informací na internetových stránkách musí být tyto informace takto uveřejněny nejméně po dobu 3 let, pokud tento zákon nestanoví jinak.
+>
+> (3) Pokud tím nebude ohroženo řádné ověření splnění předpokladů pro rozhodnutí, může Česká národní banka v řízení o žádosti podle tohoto zákona
+>
+> - a) umožnit předložení přílohy nahradit čestným prohlášením, nebo
+>
+> - b) nevyžadovat předložení přílohy;
+>
+> prohlášení o takovém případě může správní orgán učinit na své úřední desce i pro neurčitý počet řízení v budoucnu.
+>
+> (4) Písemnosti vyhotovené v cizím jazyce se České národní bance předkládají v originálním znění a současně v úředně ověřeném překladu do jazyka českého. Česká národní banka může umožnit předložení písemnosti vyhotovené v cizím jazyce pouze v originálním znění nebo v anglickém jazyce. Prohlášení o využití možnosti podle předchozí věty může Česká národní banka učinit na své úřední desce i pro neurčitý počet osob nebo řízení v budoucnu. Česká národní banka formou úředního sdělení na svých internetových stránkách stanoví pro neurčitý počet osob nebo řízení, zda a jaké dokumenty lze předkládat v anglickém jazyce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1b466230cec88b92fcde -->
+
 ### § 197 — Standard důvěryhodnosti
 
 > **§ 197**
@@ -735,6 +1213,52 @@ Zákon záměrně nekonkretizuje podmínky taxativně — ČNB rozhoduje v každ
 **Typicky rozhodné důkazy / podklady:** výpis z evidence trestů; doklady o předchozím výkonu a případném odvolání z funkce; rozhodnutí orgánů dohledu (ČNB/ESMA/zahraniční); doklady o disciplinárních řízeních.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4ee87b06eb950ac72097 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 197
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Pro účely tohoto zákona se za důvěryhodnou považuje osoba, jejíž dosavadní činnost dává předpoklad řádného výkonu činnosti podle tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4ee87b06eb950ac72097 -->
 
 ### § 198 — Seznam nucených správců a likvidátorů
 
@@ -834,6 +1358,76 @@ Vyškrtnutí nastane jak na žádost (odst. 7 písm. d), v případě smrti (pí
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0c638eefbe1c38afcdf9 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 198 — Seznam nucených správců a likvidátorů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka vede seznam osob, které mohou být jmenovány nuceným správcem nebo likvidátorem obchodníka s cennými papíry, který není bankou, organizátora regulovaného trhu, provozovatele vypořádacího systému nebo centrálního depozitáře.
+>
+> (2) Do seznamu osob uvedených v odstavci 1 Česká národní banka zapíše osobu, která o to požádá, je plně svéprávná, důvěryhodná a má nezbytné odborné znalosti, dovednosti a zkušenosti a nebyla v posledních 5 letech z tohoto seznamu vyškrtnuta. Zahraniční osobu zapíše pouze za předpokladu, že má oprávnění jiného členského státu Evropské unie působit jako osoba uvedená v odstavci 1.
+>
+> (3) Žádost o zápis do seznamu osob uvedených v odstavci 1 lze podat pouze elektronicky.
+>
+> (4) Žádost podle odstavce 3 obsahuje, vedle náležitostí stanovených správním řádem, údaje a doklady prokazující splnění podmínek podle odstavce 2.
+>
+> (5) Podrobnosti náležitostí žádosti prokazující splnění podmínek podle odstavce 2, její formát a další technické náležitosti stanoví prováděcí právní předpis.
+>
+> (6) Oprávnění k výkonu činnosti podle odstavce 1 vzniká též marným uplynutím lhůty a způsobem podle [[§ 28 až 30|§ 28 až 30]] zákona [[o volném pohybu služeb|o volném pohybu služeb]].
+>
+> (7) Česká národní banka vyškrtne ze seznamu osob uvedených v odstavci 1 osobu, která
+>
+> - a) se bez závažných důvodů vzdala funkce nuceného správce, do nichž byla Českou národní bankou jmenována,
+>
+> - b) závažně nebo opakovaně porušila povinnosti plynoucí z funkce nuceného správce, do nichž byla Českou národní bankou jmenována,
+>
+> - c) přestala splňovat předpoklady pro zapsání do tohoto seznamu,
+>
+> - d) požádala o vyškrtnutí ze seznamu, nebo
+>
+> - e) zemřela.
+>
+> (8) O nezapsání do seznamu nebo vyškrtnutí ze seznamu se vydává správní rozhodnutí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 28
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0c638eefbe1c38afcdf9 -->
+
 ### § 198a — Informace uveřejňované Českou národní bankou
 
 > **§ 198a**
@@ -901,6 +1495,62 @@ Ad písm. c): Zásada přiměřenosti je klíčová pro dohled nad malými a st�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d3efd4d83e46b7c37e64 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 198a — Informace uveřejňované Českou národní bankou
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka uveřejňuje na svých internetových stránkách
+>
+> - a) aktualizovaná znění zákonů a vyhlášek, které upravují pravidla obezřetného podnikání obchodníků s cennými papíry na individuálním a konsolidovaném základě, a opatření obecné povahy a úředních sdělení České národní banky k nim; tím nejsou dotčena ustanovení zákona upravujícího způsob vyhlašování zákonů a vyhlášek,
+>
+> - b) informace o způsobu využití možností volby nebo uvážení daných členským státům Evropské unie a jejich orgánům dohledu právem Evropské unie v právních předpisech podle písmene a),
+>
+> - c) informace o přístupu a metodách České národní banky, včetně kritérií pro uplatňování zásady přiměřenosti, při výkonu dohledu podle [[#§ 135b|§ 135b]],
+>
+> - d) souhrnné statistické údaje o plnění pravidel obezřetného podnikání obchodníky s cennými papíry v České republice, včetně počtu a povahy opatření k nápravě a jiná opatření nebo pokut přijatých v souladu s tímto zákonem.
+>
+> (2) Informace uvedené v odstavci 1 Česká národní banka uveřejňuje na svých internetových stránkách tak, aby je bylo možné porovnat s informacemi stejného druhu uveřejněnými orgány dohledu nad kapitálovým trhem v jiných členských státech Evropské unie, a pravidelně je aktualizuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 135b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d3efd4d83e46b7c37e64 -->
+
 ### § 198b — Komoditní burza jako organizátor regulovaného trhu
 
 > **§ 198b**
@@ -966,6 +1616,58 @@ Komoditní burzy podléhají dohledu Ministerstva zemědělství (§ 18 zákona 
 **Typicky rozhodné důkazy / podklady:** žádost o povolení ORT; statut komoditní burzy; doklad o vkladech zakladatelů/členů; podklady o splnění předpokladů ZPKT; stanovisko Ministerstva zemědělství.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7f54630305e02042e308 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 198b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Povolení k činnosti organizátora regulovaného trhu ve vztahu k investičním nástrojům uvedeným v § 3 odst. 1 písm. g) až i) udělí Česká národní banka i komoditní burze, která jinak splňuje předpoklady pro udělení povolení; komoditní burza může organizovat regulovaný trh, provozovat mnohostranný obchodní systém nebo organizovaný obchodní systém pouze ve vztahu k těmto investičním nástrojům. Za základní kapitál se pro tyto účely považují u komoditní burzy vklady a další prostředky poskytnuté komoditní burze jejími zakladateli nebo členy, pravidlo pro dozorčí radu organizátora regulovaného trhu, který je společností s ručením omezeným, se použije obdobně.
+>
+> (2) Pravidla obchodování, pravidla pro přijímání, pravidla přístupu a další pravidla týkající se regulovaného trhu a mnohostranného obchodního systému nejsou obsahem statutu komoditní burzy.
+>
+> (3) Činnost komoditní burzy zaregistruje Česká národní banka podle [[#§ 38|§ 38]] bez návrhu ke dni nabytí právní moci rozhodnutí o povolení k činnosti organizátora regulovaného trhu. Další podnikatelskou činnost komoditní burzy lze zaregistrovat jen za podmínek stanovených v [[#§ 39|§ 39]] a v jiném právním předpisu.
+>
+> (4) Česká národní banka a příslušný orgán dohledu nad komoditními burzami spolupracují při licenční činnosti a výkonu dohledu nad komoditní burzou, která vykonává nebo hodlá vykonávat činnost organizátora regulovaného trhu. Povolení vydávají po vzájemné dohodě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3, § 38, § 39
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7f54630305e02042e308 -->
 
 ### § 199 — Zmocňovací ustanovení
 
@@ -1099,6 +1801,62 @@ Odst. 6 zavádí **zrychlenou proceduru** pro konkrétní kategorie OOP (§ 134a
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d80db3b4aae367c3da5d generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 199 — Zmocnění
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo vydá vyhlášku podle § 115 odst. 5 a § 129b odst. 3.
+>
+> (2) Česká národní banka vydá vyhlášku podle § 7 odst. 5, [[#§ 12f|§ 12f]], § 12g odst. 3, § 12h odst. 4, § 12i odst. 3, § 13 odst. 3, [[#§ 14h|§ 14h]], § 15 odst. 7, § 16 odst. 7, § 16a odst. 9, § 16b odst. 2, § 19 odst. 4, § 20 odst. 4, § 28a odst. 4, § 30 odst. 6, § 30a odst. 3, § 32 odst. 7, § 38 odst. 4, § 39 odst. 7, § 45 odst. 4, § 46 odst. 4, § 47 odst. 2, § 47 odst. 5, § 50 odst. 8, § 63 odst. 5, § 71 odst. 5, § 73f odst. 7, § 77 odst. 3, § 90a odst. 5, § 90c odst. 4, § 93 odst. 4, § 94 odst. 7, § 115 odst. 5, § 115a odst. 4, § 122 odst. 8, § 122b odst. 6, § 127 odst. 3, § 127d odst. 1, § 132 odst. 5, [[#§ 134f|§ 134f]], § 139 odst. 11 a § 198 odst. 5.
+>
+> (3) Má-li Česká národní banka vyhláškou podle odstavce 2 stanovit lhůty nebo periodicitu, stanoví tyto lhůty nebo periodicitu v rozsahu potřebném pro výkon účinného dohledu podle tohoto zákona; to neplatí pro lhůty nebo pro periodicitu, u kterých je jejich délka nebo četnost stanovena právem Evropské unie.
+>
+> (4) Česká národní banka může vydat opatření obecné povahy na základě a v mezích přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky na investiční podniky72) nebo přímo použitelného předpisu Evropské unie upravujícího trhy finančních nástrojů53) tam, kde tento přímo použitelný předpis umožňuje příslušnému orgánu udělit výjimku nebo upravit použití stanovených pravidel obchodníkům s cennými papíry nebo skupině druhově určených obchodníků s cennými papíry nebo jiným druhově určeným osobám uvedeným v tomto přímo použitelném předpisu.
+>
+> (5) Návrh opatření obecné povahy podle tohoto zákona a opatření obecné povahy podle tohoto zákona zveřejní Česká národní banka pouze způsobem umožňujícím dálkový přístup.
+>
+> (6) Opatření obecné povahy podle [[#§ 134a|§ 134a]], [[#§ 134b|134b]], [[#§ 134d|134d]], § 136 odst. 6 a [[#§ 137|§ 137]] vydává Česká národní banka bez řízení o návrhu opatření obecné povahy a může nabýt účinnosti okamžikem zveřejnění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 115, § 129b, § 7, § 12f, § 12g, § 12h, § 12i, § 13, § 14h, § 15, § 16, § 16a, § 16b, § 19, § 20, § 28a, § 30, § 30a, § 32, § 38, § 39, § 45, § 46, § 47, § 50, § 63, § 71, § 73f, § 77, § 90a, § 90c, § 93, § 94, § 115a, § 122, § 122b, § 127, § 127d, § 132, § 134f, § 139, § 198, § 134a, § 134b, § 134d, § 136, § 137
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d80db3b4aae367c3da5d -->
+
 ### Ustanovení přechodná a závěrečná
 
 ---
@@ -1193,6 +1951,102 @@ Zvláštní pozornost si zaslouží odst. 10 (zánik povolení SCP ke dni přech
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2a030b963a631527c8d1 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 200
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Povolení k výkonu činnosti obchodníka s cennými papíry podle [[zákona č. 591/1992 Sb., o cenných papírech|zákona č. 591/1992 Sb., o cenných papírech]], ve znění [[zákona č. 89/1993 Sb|zákona č. 89/1993 Sb.]], [[zákona č. 331/1993 Sb|zákona č. 331/1993 Sb.]], [[zákona č. 259/1994 Sb|zákona č. 259/1994 Sb.]], [[zákona č. 61/1996 Sb|zákona č. 61/1996 Sb.]], [[zákona č. 152/1996 Sb|zákona č. 152/1996 Sb.]], [[zákona č. 15/1998 Sb|zákona č. 15/1998 Sb.]], [[zákona č. 70/2000 Sb|zákona č. 70/2000 Sb.]], [[zákona č. 307/2000 Sb|zákona č. 307/2000 Sb.]], [[zákona č. 362/2000 Sb|zákona č. 362/2000 Sb.]], [[zákona č. 239/2001 Sb|zákona č. 239/2001 Sb.]], [[zákona č. 259/2001 Sb|zákona č. 259/2001 Sb.]], [[zákona č. 501/2001 Sb|zákona č. 501/2001 Sb.]] a [[zákona č. 308/2002 Sb|zákona č. 308/2002 Sb.]], nálezu Ústavního soudu uveřejněného pod č. [[476/2002 Sb|476/2002 Sb.]] a [[zákona č. 88/2003 Sb|zákona č. 88/2003 Sb.]], (dále jen „dosavadní zákon“) se považuje za povolení k činnosti obchodníka s cennými papíry podle tohoto zákona, v rozsahu investičních služeb uvedených v povolení.
+>
+> (2) Garanční fond obchodníků s cennými papíry podle dosavadního zákona je Garančním fondem podle tohoto zákona; nároky na výplatu náhrady z Garančního fondu podle dosavadního zákona zůstávají zachovány. Průměrné hodnoty majetku zákazníků podle [[#§ 129|§ 129]] se začínají počítat od 1. července 2004.
+>
+> (3) Povolení ke zřízení pobočky zahraničního obchodníka s cennými papíry podle dosavadního zákona je povolením k poskytování investičních služeb prostřednictvím organizační složky podle tohoto zákona.
+>
+> (4) Povolení k činnosti makléře podle dosavadního zákona je povolením k výkonu činnosti makléře podle tohoto zákona, v rozsahu odborné specializace makléře uvedené v povolení.
+>
+> (5) Povolení k organizování mimoburzovního trhu podle dosavadního zákona je povolením k organizování mimoburzovního trhu podle tohoto zákona, v rozsahu uvedeném v povolení.
+>
+> (6) Povolení ke vzniku burzy podle dosavadního zákona je povolením k činnosti burzy podle tohoto zákona, v rozsahu uvedeném v povolení.
+>
+> (7) Povolení k vypořádání obchodů s investičními nástroji podle dosavadního zákona je povolením k provozování vypořádacího systému podle tohoto zákona, v rozsahu uvedeném v povolení.
+>
+> (8) Registrace podle [[§ 45a|§ 45a]] [[dosavadního zákona|dosavadního zákona]] je registrací investičního zprostředkovatele podle tohoto zákona.
+>
+> (9) Povolení k tisku listinných cenných papírů podle dosavadního zákona je povolením k tisku listinných cenných papírů podle tohoto zákona.
+>
+> (10) Dnem následujícím po dni, kdy centrální depozitář převezme evidenci zaknihovaných cenných papírů vedenou Střediskem cenných papírů podle dosavadního zákona, zaniká povolení k vedení části evidence Střediska cenných papírů, jakož i výkonu ostatních jeho činností podle dosavadního zákona.
+>
+> (11) Souhlas s volbou nebo jmenováním člena představenstva obchodníka s cennými papíry podle dosavadního zákona je souhlasem s výkonem funkce vedoucí osoby obchodníka s cennými papíry podle tohoto zákona.
+>
+> (12) Vedoucí osoba, které tento zákon nově zakládá povinnost mít k výkonu funkce předchozí souhlas Komise, požádá Komisi o souhlas do 6 měsíců od nabytí účinnosti tohoto zákona; jestliže o souhlas v této lhůtě nepožádá nebo jestliže Komise souhlas neudělí, oprávnění k výkonu funkce zaniká.
+>
+> (13) Souhlas s nabytím účasti na obchodníkovi s cennými papíry podle dosavadního zákona je souhlasem s nabytím účasti na obchodníkovi s cennými papíry podle tohoto zákona.
+>
+> (14) Schválení dražebního řádu obchodníka s cennými papíry podle dosavadního zákona je schválením dražebního řádu podle tohoto zákona.
+>
+> (15) Prospekt cenného papíru schválený podle dosavadního zákona je prospektem cenného papíru schváleným podle tohoto zákona.
+>
+> (16) Užší prospekt cenného papíru schválený podle dosavadního zákona je prospektem cenného papíru schváleným podle tohoto zákona.
+>
+> (17) Nucená správa zavedená podle dosavadního zákona, která nebyla do nabytí účinnosti tohoto zákona ukončena, je nucenou správou podle tohoto zákona.
+>
+> (18) Povolení k uveřejnění pouze účetní závěrky nebo pouze konsolidované účetní závěrky podle dosavadního zákona je povolením k uveřejnění pouze účetní závěrky nebo pouze konsolidované účetní závěrky podle tohoto zákona.
+>
+> (19) Registrované cenné papíry podle dosavadního zákona jsou kótovanými cennými papíry podle tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 129, § 45a
+
+##### Souvisící předpisy
+
+- zákon č. 591/1992 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 89/1993 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 331/1993 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 259/1994 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 61/1996 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 152/1996 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 15/1998 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 70/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 307/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 362/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 239/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 259/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 501/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 308/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 88/2003 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2a030b963a631527c8d1 -->
+
 ### § 201 — Lhůty pro uvedení do souladu s ZPKT
 
 > **§ 201**
@@ -1249,6 +2103,62 @@ Zvláštní pozornost si zaslouží odst. 10 (zánik povolení SCP ke dni přech
 **Typicky rozhodné důkazy / podklady:** doklady o uvedení do souladu k rozhodnému datu; doklad o prvním uveřejnění informací o odměňování za rok 2013.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=89941d191a1b95d11dfa generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 201
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Obchodník s cennými papíry je povinen uvést své postavení do souladu s tímto zákonem do 31. prosince 2004.
+>
+> (2) Burza je povinna uvést své postavení do souladu s tímto zákonem do 31. prosince 2004.
+>
+> (3) Organizátor mimoburzovního trhu je povinen uvést své postavení do souladu s tímto zákonem do 30. června 2005.
+>
+> (4) Provozovatel vypořádacího systému je povinen uvést své postavení do souladu s tímto zákonem do 31. prosince 2004.
+>
+> (5) Osoba, která je povinna dodržovat kapitálovou přiměřenost na konsolidovaném základě, je povinna uvést svou kapitálovou přiměřenost do souladu s tímto zákonem nejpozději do 31. prosince 2006.
+>
+> (6) Údaje uvedené v § 16a odst. 5 písm. a) až c) uveřejní obchodník s cennými papíry poprvé do dne 1. září 2014 za bezprostředně předcházející účetní období, a to za podmínek a způsobem uvedeným v [[#§ 16a|§ 16a]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=89941d191a1b95d11dfa -->
 
 ### § 202 — Přechod evidence SCP na centrální depozitář
 
@@ -1335,6 +2245,80 @@ Klíčové principy přechodu, relevantní pro výklad zápisů provedených v p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=716e8d4bd8bd6de2444a generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 202
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Do doby, než centrální depozitář převezme evidenci zaknihovaných a imobilizovaných cenných papírů vedenou Střediskem cenných papírů,
+>
+> - a) se nepoužijí ustanovení tohoto zákona upravující činnost centrálního depozitáře,
+>
+> - b) Středisko cenných papírů vede evidenci zaknihovaných a imobilizovaných cenných papírů, evidenci rozhodnutí Komise a plní informační povinnosti podle dosavadního zákona,
+>
+> - c) identifikační označení podle mezinárodního systému číslování pro identifikaci cenných papírů přiděluje Komise podle dosavadního zákona,
+>
+> - d) Středisko cenných papírů podléhá dohledu České národní banky.
+>
+> (2) Česká republika jednající prostřednictvím ministerstva převede evidence Střediska cenných papírů na centrální depozitář za úplatu. Výše úplaty se stanoví na základě ocenění jednoho znalce z oboru ekonomika, odvětví ceny a odhady s příslušnou specializací, na základě dohody mezi ministerstvem a centrálním depozitářem.
+>
+> (3) Česká republika jednající prostřednictvím ministerstva převede evidence Střediska cenných papírů, s výjimkou evidence rozhodnutí vydaných Komisí a evidence oznamovacích povinností, na centrální depozitář bez zbytečného odkladu po uzavření smlouvy mezi Českou republikou jednající prostřednictvím ministerstva a centrálním depozitářem o převodu této evidence. Smlouva o převodu evidence musí být uzavřena nejpozději do 2 měsíců ode dne, kdy centrální depozitář obdrží povolení ke své činnosti.
+>
+> (4) Dnem, kdy centrální depozitář převezme evidenci zaknihovaných a imobilizovaných cenných papírů vedenou Střediskem cenných papírů a začne vykonávat svou činnost podle tohoto zákona, přestává Středisko cenných papírů vykonávat svou činnost podle dosavadních právních předpisů. Sdělení o tomto dni vyhlásí ministerstvo ve Sbírce zákonů.
+>
+> (5) Na centrální depozitář nepřecházejí práva, povinnosti ani dluhy Střediska cenných papírů.
+>
+> (6) Chybu v evidenci zaknihovaných a imobilizovaných cenných papírů, kterou centrální depozitář převezme od Střediska cenných papírů, opraví centrální depozitář podle tohoto zákona. Odpovědnost státu za vzniklou škodu tím není dotčena.
+>
+> (7) Emitent zaknihovaných cenných papírů, které jsou vedeny v evidenci Střediska cenných papírů ke dni, kdy tuto evidenci převezme centrální depozitář, je povinen s centrálním depozitářem uzavřít smlouvu podle § 94 odst. 9 pro každou emisi zaknihovaných cenných papírů. Tuto smlouvu je emitent povinen uzavřít nejpozději do 1 měsíce ode dne, kdy začne centrální depozitář vykonávat svou činnost podle tohoto zákona. V případě, že emitent v této lhůtě neuzavře smlouvu, není centrální depozitář povinen emitentovi vydat výpis z evidence emise ani provést na jeho příkaz zápis do evidence emise. Centrální depozitář ve stejné době přidělí ISIN každé emisi investičních nástrojů, kterou převzal do své evidence a které ISIN ještě nebyl přidělen.
+>
+> (8) Centrální depozitář zahájí jednání o uzavření smlouvy podle odstavce 7 nejpozději do 1 měsíce ode dne nabytí právní moci povolení své činnosti. V případě, že centrální depozitář v této lhůtě jednání o uzavření smlouvy nezahájí, prodlužuje se lhůta, do které je emitent podle odstavce 7 povinen uzavřít tuto smlouvu, na 6 měsíců. V tomto případě je centrální depozitář povinen zahájit jednání o uzavření smlouvy podle § 94 odst. 9 bez zbytečného odkladu poté, co začne vykonávat svou činnost podle tohoto zákona.
+>
+> (9) Emitent zaknihovaných podílových listů otevřeného podílového fondu evidovaných v části evidence Střediska cenných papírů vedené na základě povolení Komise jinou právnickou osobou může se souhlasem této právnické osoby oznámit Středisku cenných papírů a Komisi, že tyto podílové listy budou nadále evidovány v samostatné evidenci investičních nástrojů, kterou povede osoba, která dosud vedla příslušnou část evidence Střediska cenných papírů. Dnem doručení oznámení emitenta zaknihovaných podílových listů Středisku cenných papírů nebo pozdějším dnem uvedeným v tomto oznámení se příslušná část evidence Střediska cenných papírů mění na samostatnou evidenci investičních nástrojů vedenou osobou, která dosud vedla příslušnou část evidence Střediska cenných papírů. Emitent může učinit oznámení podle tohoto ustanovení nejpozději do převodu evidence Střediska cenných papírů na centrální depozitář.
+>
+> (10) Emitent zaknihovaných podílových listů otevřeného podílového fondu, které jsou evidovány přímo Střediskem cenných papírů, může Středisku cenných papírů a Komisi oznámit, že tyto podílové listy budou nadále evidovány v samostatné evidenci investičních nástrojů, kterou povede osoba určená emitentem těchto podílových listů, která je podle tohoto zákona oprávněna k vedení samostatné evidence. Středisko cenných papírů předá osobě určené emitentem výpis obdobně podle § 113 odst. 2. Od vyhotovení výpisu nesmí Středisko cenných papírů provést ve své evidenci žádný zápis týkající se podílových listů uvedených v tomto výpisu. Ke dni převzetí výpisu Středisko cenných papírů zruší registraci cenného papíru ve své evidenci a evidence podílových listů se stává samostatnou evidencí podle tohoto zákona. Ke dni následujícímu po převzetí výpisu emise se cenné papíry zapíší na majetkové účty a do evidence emise v samostatné evidenci. Emitent může učinit oznámení podle tohoto ustanovení nejpozději do dne převodu evidence Střediska cenných papírů na centrální depozitář.
+>
+> (11) Postupuje-li Středisko cenných papírů podle odstavce 1 písm. b), neuplatní se ustanovení [[zákona č. 591/1992 Sb., o cenných papírech|zákona č. 591/1992 Sb., o cenných papírech]], ve znění účinném do 30. dubna 2004, o registraci pozastavení výkonu práva k cennému papíru na příkaz emitenta.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 94, § 113
+
+##### Souvisící předpisy
+
+- zákon č. 591/1992 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=716e8d4bd8bd6de2444a -->
+
 ### § 202a — Přechodná správa účtů bez smluvního vztahu s účastníkem CDCP
 
 > **§ 202a**
@@ -1399,6 +2383,68 @@ Klíčové principy přechodu, relevantní pro výklad zápisů provedených v p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=dc979f5a8e28e191221e generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 202a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Pro vlastníky investičních nástrojů, jejichž účty vedené v evidenci Střediska cenných papírů centrální depozitář převzal podle [[#§ 202|§ 202]] a kteří dosud neuzavřeli smlouvu s účastníkem centrálního depozitáře, zabezpečí centrální depozitář tyto služby:
+>
+> - a) vedení evidence investičních nástrojů na majetkovém účtu v rozsahu stanoveném tímto zákonem,
+>
+> - b) vydání výpisu z evidence investičních nástrojů na žádost majitele účtu,
+>
+> - c) zápis změny na majetkovém účtu, jde-li o převod či přechod investičních nástrojů na majetkový účet vedený účastníkem centrálního depozitáře.
+>
+> (2) Centrální depozitář dále ve vztahu k účtům uvedeným v odstavci 1 zabezpečí tyto služby:
+>
+> - a) zápis změny do evidence emise na základě požadavku emitenta,
+>
+> - b) zápis vzniku nebo zániku zástavního práva, které se zřizuje jinak než pouze na základě smlouvy,
+>
+> - c) zápis vzniku nebo zániku pozastavení výkonu práva vlastníka nakládat s investičním nástrojem, kdy příkaz k pozastavení dává osoba podle § 97 odst. 1 písm. a) až d).
+>
+> (3) Služby podle odstavců 1 a [[#§ 2|2]] zabezpečí centrální depozitář za úplatu. Centrální depozitář má k zajištění svých splatných pohledávek vzniklých v souvislosti se zabezpečením těchto služeb zástavní právo k investičním nástrojům evidovaným na předmětném majetkovém účtu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 202, § 97, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dc979f5a8e28e191221e -->
+
 ### § 202b — Správní delikt Střediska cenných papírů
 
 > **§ 202b**
@@ -1449,6 +2495,56 @@ Klíčové principy přechodu, relevantní pro výklad zápisů provedených v p
 **Typicky rozhodné důkazy / podklady:** doklad o porušení povinnosti SCP v přechodném období; podklady o vedení evidence dle dosavadního zákona; doklad o datu zániku činnosti SCP.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b71d7a986fa0c9bbfe52 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 202b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Středisko cenných papírů se dopustí správního deliktu tím, že při vedení evidence zaknihovaných a imobilizovaných cenných papírů, při vedení evidence rozhodnutí Komise a České národní banky nebo při plnění informačních povinností [§ 202 odst. 1 písm. b)] poruší povinnosti stanovené dosavadním zákonem.
+>
+> (2) Za správní delikt podle odstavce 1 se uloží pokuta do 20 000 000 Kč.
+>
+> (3) Na správní delikt podle odstavce 1 se použije § 192 odst. 1 až 4 a [[#§ 6|6]] obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 202, § 192, § 6
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b71d7a986fa0c9bbfe52 -->
 
 ### § 203 — Intertemporální pravidla pro řízení zahájená před účinností ZPKT
 
@@ -1512,6 +2608,58 @@ Klíčové principy přechodu, relevantní pro výklad zápisů provedených v p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2abcf3d220cf7221ef90 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 203
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Řízení o uložení opatření k nápravě nebo sankce, která byla zahájena přede dnem nabytí účinnosti tohoto zákona, se dokončí podle dosavadního zákona. Opatření k nápravě nebo sankce se uloží podle dosavadního zákona.
+>
+> (2) Porušení dosavadního zákona nebo rozhodnutí Komise vydaného podle dosavadního zákona se posuzují podle dosavadního zákona.
+>
+> (3) Řízení o udělení povolení, řízení o registraci nebo řízení o schválení zahájená přede dnem nabytí účinnosti tohoto zákona se dokončí podle tohoto zákona; lhůty, jejichž běh započal podle dosavadního zákona, běží ode dne nabytí účinnosti tohoto zákona znovu.
+>
+> (4) Řízení o souhlasu s udělením koncese hodnocení kvality investičního instrumentu a účastníka kapitálového trhu (rating) zahájená přede dnem nabytí účinnosti tohoto zákona se zastavují dnem nabytí účinnosti tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2abcf3d220cf7221ef90 -->
+
 ### § 204 — Oznámení regulovaných trhů Evropské komisi
 
 > **§ 204**
@@ -1559,6 +2707,52 @@ Klíčové principy přechodu, relevantní pro výklad zápisů provedených v p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=49f2fb16df16c24363f9 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 204
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Komise oznámí Evropské komisi ke dni nabytí účinnosti tohoto zákona seznam regulovaných trhů, které mají povolení Komise. Přílohu oznámení tvoří vnitřní předpisy uznaných regulovaných trhů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=49f2fb16df16c24363f9 -->
+
 ### § 204a — Přechodné pravidlo pro uveřejňování informací globálně systémově významných institucí
 
 > **§ 204a**
@@ -1605,6 +2799,52 @@ Klíčové principy přechodu, relevantní pro výklad zápisů provedených v p
 **Typicky rozhodné důkazy / podklady:** doklad o poskytnutí údajů dle § 16a odst. 5 písm. d)–f) Evropské komisi do 1. 9. 2014; podklady o důvěrném režimu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9812124697abe8e4ab16 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 204a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Údaje uvedené v § 16a odst. 5 písm. d) až f) poskytne mezinárodně určená globální systémově významná instituce poprvé do dne 1. září 2014 za bezprostředně předcházející účetní období Evropské komisi, a to v režimu důvěrných informací a za podmínek a způsobem uvedeným v [[#§ 16a|§ 16a]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9812124697abe8e4ab16 -->
 
 ### § 204b — Přechodné sazby kapitálové rezervy
 
@@ -1661,6 +2901,60 @@ Klíčové principy přechodu, relevantní pro výklad zápisů provedených v p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4558d9fed233d080ee05 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 204b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Pro účely § 9ag odst. 3 a [[#§ 4|4]] se do 31. prosince 2014 namísto sazby 5 % použije sazba 3 %.
+>
+> (2) Pro účely [[#§ 9ar|§ 9ar]] činí kapitálová rezerva pro globální systémově významné instituce pro rok
+>
+> - a) 2016 25 % z kapitálové rezervy stanovené podle [[#§ 9ar|§ 9ar]],
+>
+> - b) 2017 50 % z kapitálové rezervy stanovené podle [[#§ 9ar|§ 9ar]],
+>
+> - c) 2018 75 % z kapitálové rezervy stanovené podle [[#§ 9ar|§ 9ar]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9ag, § 4, § 9ar
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4558d9fed233d080ee05 -->
+
 ### § 204d — Přechodné vyloučení aplikace § 73l
 
 > **§ 204d**
@@ -1711,6 +3005,52 @@ V textu zákona (konsolidace k 11. 1. 2026) absentuje § 204c — zákon přech�
 **Typicky rozhodné důkazy / podklady:** doklad o datu rozhodného jednání; evidence pozic na komoditní deriváty; vyhláška a unijní úprava k limitům pozic.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=be2be3e02d58753dc35b generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 204d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Ustanovení [[#§ 73l|§ 73l]] se do 28. února 2023 nepoužije.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 73l
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=be2be3e02d58753dc35b -->
 
 ### § 205 — Zrušovací ustanovení
 
@@ -1795,6 +3135,93 @@ Derogace je úplná — zákon nenechává žádné zrušované předpisy v pře
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=23cbc502515a7a45039d generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 205
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Zrušuje se:
+>
+> - 1. [[zákon č. 214/1992 Sb., o burze cenných papírů|zákon č. 214/1992 Sb., o burze cenných papírů]],
+>
+> - 2. [[zákon č. 251/2000 Sb., kterým se mění zákon č. 214/1992 Sb., o burze cenných papírů, ve znění pozdějších předpisů|zákon č. 251/2000 Sb., kterým se mění zákon č. 214/1992 Sb., o burze cenných papírů, ve znění pozdějších předpisů]],
+>
+> - 3. [[vyhláška č. 88/1993 Sb., o podrobnostech technického provedení veřejně obchodovatelných listinných cenných papírů|vyhláška č. 88/1993 Sb., o podrobnostech technického provedení veřejně obchodovatelných listinných cenných papírů]],
+>
+> - 4. [[vyhláška č. 82/2001 Sb., kterou se stanoví minimální náležitosti prospektu cenného papíru a užšího prospektu cenného papíru|vyhláška č. 82/2001 Sb., kterou se stanoví minimální náležitosti prospektu cenného papíru a užšího prospektu cenného papíru]],
+>
+> - 5. [[vyhláška č. 105/2001 Sb|vyhláška č. 105/2001 Sb.]], o hlášení obchodů s investičními instrumenty uzavřenými mimo veřejný trh,
+>
+> - 6. [[vyhláška č. 305/2001 Sb., o makléřské zkoušce|vyhláška č. 305/2001 Sb., o makléřské zkoušce]],
+>
+> - 7. [[vyhláška č. 375/2001 Sb|vyhláška č. 375/2001 Sb.]], kterou se mění [[vyhláška č. 88/1993 Sb., o podrobnostech technického provedení veřejně obchodovatelných listinných cenných papírů|vyhláška č. 88/1993 Sb., o podrobnostech technického provedení veřejně obchodovatelných listinných cenných papírů]],
+>
+> - 8. [[vyhláška č. 17/2002 Sb., kterou se stanoví forma, lhůta a způsob uveřejňování kurzů instrumentů kapitálového trhu|vyhláška č. 17/2002 Sb., kterou se stanoví forma, lhůta a způsob uveřejňování kurzů instrumentů kapitálového trhu]],
+>
+> - 9. [[vyhláška č. 178/2002 Sb., o podrobnějších pravidlech pro plnění povinnosti oznámit podíl na hlasovacích právech|vyhláška č. 178/2002 Sb., o podrobnějších pravidlech pro plnění povinnosti oznámit podíl na hlasovacích právech]],
+>
+> - 10. [[vyhláška č. 466/2002 Sb., kterou se stanoví podrobnější pravidla organizace vnitřního provozu obchodníka s cennými papíry a podrobnější pravidla jednání obchodníka s cennými papíry ve vztahu k zákazníkům|vyhláška č. 466/2002 Sb., kterou se stanoví podrobnější pravidla organizace vnitřního provozu obchodníka s cennými papíry a podrobnější pravidla jednání obchodníka s cennými papíry ve vztahu k zákazníkům]],
+>
+> - 11. [[vyhláška č. 467/2002 Sb., o rozsahu odborných obchodních činností obchodníka s cennými papíry vykonávaných pomocí makléře a o druzích odborné specializace makléře|vyhláška č. 467/2002 Sb., o rozsahu odborných obchodních činností obchodníka s cennými papíry vykonávaných pomocí makléře a o druzích odborné specializace makléře]],
+>
+> - 12. [[vyhláška č. 468/2002 Sb., kterou se mění vyhláška č. 305/2001 Sb., o makléřské zkoušce|vyhláška č. 468/2002 Sb., kterou se mění vyhláška č. 305/2001 Sb., o makléřské zkoušce]],
+>
+> - 13. [[vyhláška č. 64/2003 Sb., o kapitálové přiměřenosti obchodníka s cennými papíry, který není bankou nebo pobočkou zahraniční banky, na individuálním základě|vyhláška č. 64/2003 Sb., o kapitálové přiměřenosti obchodníka s cennými papíry, který není bankou nebo pobočkou zahraniční banky, na individuálním základě]],
+>
+> - 14. [[vyhláška č. 73/2003 Sb., o hlášení kapitálové přiměřenosti obchodníka s cennými papíry, který není bankou nebo pobočkou zahraniční banky|vyhláška č. 73/2003 Sb., o hlášení kapitálové přiměřenosti obchodníka s cennými papíry, který není bankou nebo pobočkou zahraniční banky]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- zákon č. 214/1992 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 251/2000 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 88/1993 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 82/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 105/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 305/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 375/2001 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 17/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 178/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 466/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 467/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 468/2002 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 64/2003 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 73/2003 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=23cbc502515a7a45039d -->
+
 ### § 206 — Účinnost
 
 > **§ 206**
@@ -1845,6 +3272,52 @@ Tato technika podmínečné účinnosti nebývá v zákoně o podnikání na kap
 **Typicky rozhodné důkazy / podklady:** úřední doklad o dni vstupu Smlouvy o přistoupení ČR k EU v platnost; doklad o datu posuzovaného úkonu nebo zahájení řízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e4b075e6734716403c46 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 206 — Účinnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Tento zákon nabývá účinnosti dnem vstupu smlouvy o přistoupení České republiky k Evropské unii v platnost.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e4b075e6734716403c46 -->
 
 ## Synoptický přehled — Části XIV až XVI ZPKT
 

@@ -96,6 +96,74 @@ Před uzavřením smlouvy o DIP je nutné ověřit, že druhá strana patří do
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8183d0da651b13cb3131 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 134g — Smlouva o dlouhodobém investičním produktu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Smlouvou o dlouhodobém investičním produktu se poskytovatel dlouhodobého investičního produktu jako podnikatel zavazuje poskytovat své služby jako dlouhodobý investiční produkt podle tohoto zákona pro majitele tohoto produktu.
+>
+> (2) Poskytovat dlouhodobý investiční produkt může jen
+>
+> - a) banka,
+>
+> - b) spořitelní a úvěrní družstvo,
+>
+> - c) obchodník s cennými papíry,
+>
+> - d) investiční společnost,
+>
+> - e) samosprávný investiční fond,
+>
+> - f) zahraniční osoba s obdobnou činností jako některá z osob podle písmen a) až e) oprávněná poskytovat své služby v České republice.
+>
+> (3) Nemá-li poskytovatel dlouhodobého investičního produktu oprávnění přijímat vklady od veřejnosti podle zákona upravujícího činnost bank a bude-li tuto službu nabízet, je povinen uložit peněžní prostředky majitele dlouhodobého investičního produktu v jeho prospěch u osoby oprávněné přijímat vklady od veřejnosti podle zákona upravujícího činnost bank a evidovat výši práv na výplatu peněžních prostředků v rámci jím poskytovaného dlouhodobého investičního produktu.
+>
+> (4) Nemá-li poskytovatel dlouhodobého investičního produktu oprávnění vést evidenci investičních nástrojů vedených v rámci dlouhodobého investičního produktu a bude-li tuto službu nabízet, je povinen pověřit vedením evidence investičních nástrojů majitele dlouhodobého investičního produktu v jeho prospěch osobu oprávněnou vést evidenci příslušných investičních nástrojů a evidovat počet a druh investičních nástrojů v rámci jím poskytovaného dlouhodobého investičního produktu.
+>
+> (5) Každý dlouhodobý investiční produkt může mít jen jednoho poskytovatele; to nebrání tomu, aby poskytovatel využíval při poskytování dlouhodobého investičního produktu služeb jiné osoby.
+>
+> (6) Uzavřením smlouvy o dlouhodobém investičním produktu nejsou dotčeny práva a povinnosti vyplývající ze smluv o účtech nebo o majetkových účtech, na kterých jsou evidovány peněžní prostředky nebo investiční nástroje, které tvoří majetek v rámci dlouhodobého investičního produktu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8183d0da651b13cb3131 -->
+
 ### § 134h — Povinnosti poskytovatele dlouhodobého investičního produktu
 
 > **§ 134h**
@@ -166,6 +234,58 @@ Poskytovatel DIP je „strážcem" daňové podmíněnosti: před každým pokyn
 **Typicky rozhodné důkazy / podklady:** smlouva o DIP, záznamy komunikace na trvalém nosiči dat (e-mail, PDF, datová schránka), pokyn klienta, doklad o informování a prohlášení klienta, daňový výměr / výpočet dodanění, smlouvy s pověřenými osobami.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=8a0b0d7147ce59ba8166 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 134h — Povinnosti poskytovatele dlouhodobého investičního produktu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Poskytovatel dlouhodobého investičního produktu nesmí provést pokyn majitele tohoto produktu, který by měl za následek navrácení daňové podpory tohoto produktu, ledaže jej poskytovatel tohoto produktu předem informuje na trvalém nosiči dat o těchto dopadech a majitel tohoto produktu prohlásí na trvalém nosiči dat, že si je těchto dopadů vědom.
+>
+> (2) Poskytovatel dlouhodobého investičního produktu nebo jím pověřená osoba musí mít v úschově listinné cenné papíry v rámci dlouhodobého investičního produktu.
+>
+> (3) Uložením peněžních prostředků u jiné osoby podle § 134g odst. 3, pověřením jiné osoby vedením evidence podle § 134g odst. 4, využitím služeb jiné osoby podle § 134g odst. 5 nebo pověřením jiné osoby úschovou podle odstavce 2 zůstává ve vztahu k majiteli dlouhodobého investičního produktu nedotčena povinnost poskytovatele dlouhodobého investičního produktu nahradit újmu vzniklou nesplněním jeho povinnosti.
+>
+> (4) Poskytovatel dlouhodobého investičního produktu, který v České republice zahájil nebo ukončil poskytování dlouhodobého investičního produktu, oznámí tuto skutečnost bez zbytečného odkladu České národní bance. Oznámení podle věty první lze učinit pouze elektronicky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 134g
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8a0b0d7147ce59ba8166 -->
 
 ### § 134i — Majetek v rámci dlouhodobého investičního produktu
 
@@ -248,6 +368,66 @@ Majetek DIP smí tvořit pouze aktiva z uzavřeného výčtu § 134i odst. 1; ro
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=53b60edefe7a0e3889e2 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 134i — Majetek v rámci dlouhodobého investičního produktu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Poskytovatel dlouhodobého investičního produktu zajistí, aby majetek v rámci dlouhodobého investičního produktu tvořily pouze
+>
+> - a) peněžní prostředky,
+>
+> - b) investiční cenné papíry nebo nástroje peněžního trhu, které jsou přijaty k obchodování na evropském regulovaném trhu nebo v mnohostranném obchodním systému provozovatele se sídlem v členském státě Evropské unie, nebo na trhu obdobném regulovanému trhu se sídlem ve státě, který není členským státem Evropské unie, nebo se s nimi obchoduje na trhu obdobném regulovanému trhu se sídlem ve státě, který není členským státem Evropské unie, jestliže tyto trhy jsou uvedeny v seznamu zahraničních trhů obdobných regulovanému trhu se sídlem ve státě, který není členským státem Evropské unie, vedeném Českou národní bankou podle [[§ 13 odst. 1 písm. k)|§ 13 odst. 1 písm. k)]] [[zákona o dohledu v oblasti kapitálového trhu|zákona o dohledu v oblasti kapitálového trhu]],
+>
+> - c) dluhopisy nebo obdobné cenné papíry představující právo na splacení dlužné částky, jejichž emitentem je členský stát Evropské unie nebo centrální banka takového státu,
+>
+> - d) kryté dluhopisy nebo obdobné cenné papíry představující právo na splacení dlužné částky, jejichž emitentem je zahraniční banka se sídlem v členském státě Evropské unie,
+>
+> - e) cenné papíry kolektivního investování a
+>
+> - f) deriváty, které nejsou investičním cenným papírem a které jsou sjednány výhradně za účelem zajištění majetku v rámci dlouhodobého investičního produktu, je-li hodnotou, ke které se vztahuje hodnota tohoto nástroje, úroková míra, měnový kurz nebo měna.
+>
+> (2) Dojde-li k prodeji, odkupu nebo splacení investičního nástroje podle odstavce 1 písm. b) až e) nebo je-li poskytnuto vypořádání v penězích z derivátu podle odstavce 1 písm. f), zajistí poskytovatel dlouhodobého investičního produktu, aby získané peněžní prostředky zůstaly součástí majetku v rámci dlouhodobého investičního produktu; to platí i pro peněžní prostředky získané z důvodu zániku emitenta investičního nástroje, investiční nástroje získané výměnou za jiné investiční nástroje v rámci dlouhodobého investičního produktu a pro výnosy z majetku v rámci dlouhodobého investičního produktu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 13
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=53b60edefe7a0e3889e2 -->
+
 ### § 134j — Zákaz ovlivňování zaměstnance při výběru poskytovatele dlouhodobého investičního produktu
 
 > **§ 134j**
@@ -302,6 +482,52 @@ Zaměstnavatel smí na DIP přispívat a o produktu informovat, nesmí však vol
 **Typicky rozhodné důkazy / podklady:** rámcová/kooperační smlouva zaměstnavatel–poskytovatel, vnitřní předpisy a pokyny k zaměstnaneckému příspěvku, mzdové a účetní doklady o bonusech, komunikace se zaměstnanci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3416915a1c86db35c65c generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 134j — Zákaz ovlivňování zaměstnance při výběru poskytovatele dlouhodobého investičního produktu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Zaměstnavatel nesmí ovlivňovat zaměstnance při výběru poskytovatele dlouhodobého investičního produktu ani přijmout pobídku, která může vést k porušení tohoto zákazu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3416915a1c86db35c65c -->
 
 ### § 134k — Seznam poskytovatelů dlouhodobého investičního produktu
 
@@ -362,6 +588,56 @@ Seznam poskytovatelů DIP je veřejný a deklaratorní; pro posouzení postaven�
 **Typicky rozhodné důkazy / podklady:** aktuální i archivní výpis ze seznamu poskytovatelů DIP na webu ČNB, oznámení o zahájení/ukončení poskytování (§ 134h odst. 4), smlouva o DIP a doklady o vkladech, regulatorní oprávnění poskytovatele.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5861c1f404ec8f1f8665 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 134k — Seznam poskytovatelů dlouhodobého investičního produktu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka vede v elektronické podobě seznam poskytovatelů dlouhodobého investičního produktu, kteří České národní bance oznámili zahájení poskytování dlouhodobého investičního produktu v České republice podle § 134h odst. 4.
+>
+> (2) Česká národní banka uveřejňuje seznam podle odstavce 1 na svých internetových stránkách. V případě změn zůstávají trvale uveřejněny i předchozí údaje.
+>
+> (3) Dozví-li se Česká národní banka o změně údajů zapsaných v seznamu podle odstavce 1, tento seznam bez zbytečného odkladu aktualizuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 134h
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5861c1f404ec8f1f8665 -->
 
 ## Část třináctá — Dohled a správní trestání
 
@@ -507,6 +783,120 @@ Okruh dohlížených osob je taxativní (odst. 1), avšak odst. 2 jej rozšiřuj
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b35f84621a1e5b40ed64 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 135 — Osoby podléhající dohledu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Dohled nad dodržováním práv a povinností stanovených tímto zákonem, právními předpisy jej provádějícími, přímo použitelnými předpisy Evropské unie v oblasti činností na finančních trzích2) a podmínek stanovených v rozhodnutí vydaném podle tohoto zákona vykonává Česká národní banka. Dohledu České národní banky podléhá
+>
+> - a) obchodník s cennými papíry,
+>
+> - b) člen vedoucího orgánu osoby podléhající dohledu podle tohoto odstavce,
+>
+> - c) osoba, která byla obchodníkem s cennými papíry pověřena výkonem významné provozní činnosti, a to v rozsahu tohoto pověření,
+>
+> - d) akreditovaná osoba (§ 14c odst. 2),
+>
+> - e) zahraniční osoba s povolením k poskytování investičních služeb, která poskytuje služby v České republice prostřednictvím pobočky, a to ohledně investičních služeb poskytovaných prostřednictvím této pobočky na území České republiky,
+>
+> - f) investiční zprostředkovatel,
+>
+> - g) vázaný zástupce (§ 32a odst. 1),
+>
+> - h) organizátor regulovaného trhu,
+>
+> - i) osoba, které Česká národní banka udělila povolení k činnosti schváleného mechanismu pro hlášení obchodů nebo schváleného systému pro uveřejňování informací podle přímo použitelného předpisu Evropské unie upravujícího trhy finančních nástrojů53),
+>
+> - j) účastník vypořádacího systému s neodvolatelností vypořádání,
+>
+> - k) provozovatel vypořádacího systému s neodvolatelností vypořádání,
+>
+> - l) účastník zahraničního vypořádacího systému s neodvolatelností vypořádání, který má sídlo na území České republiky,
+>
+> - m) osoba, která vede evidenci navazující na centrální evidenci zaknihovaných cenných papírů,
+>
+> - n) osoba, která vede samostatnou evidenci investičních nástrojů,
+>
+> - o) osoba, která vede evidenci navazující na samostatnou evidenci investičních nástrojů,
+>
+> - p) emitent uvedený v § 118 odst. 1 při plnění povinností podle tohoto zákona,
+>
+> - q) nucený správce osob podle § 138 odst. 1 při plnění povinností podle § 139 odst. 7,
+>
+> - r) investiční holdingová osoba,
+>
+> - s) smíšená finanční holdingová osoba,
+>
+> - t) osoba, na kterou se vztahují povinnosti nebo zákazy podle čl. 4 odst. 1, čl. 5a, čl. 8b, čl. 8c a čl. 8d nařízení Evropského parlamentu a Rady (EU) č. [[1060/2009|1060/2009]],
+>
+> - u) osoba, na kterou se vztahují povinnosti nebo zákazy podle přímo použitelného předpisu Evropské unie upravujícího prodej na krátko a některé aspekty swapů úvěrového selhání42),
+>
+> - v) osoba, na kterou se vztahují povinnosti nebo zákazy podle přímo použitelného předpisu Evropské unie upravujícího OTC deriváty, ústřední protistrany a registry obchodních údajů43) s výjimkou registru obchodních údajů,
+>
+> - w) osoba, na kterou se vztahují povinnosti nebo zákazy podle přímo použitelného předpisu Evropské unie upravujícího zlepšení vypořádání obchodů s cennými papíry v Evropské unii a centrální depozitáře cenných papírů51),
+>
+> - x) osoba, na kterou se vztahují povinnosti nebo zákazy podle přímo použitelného předpisu Evropské unie upravujícího zneužívání trhu52),
+>
+> - y) osoba, na kterou se vztahují povinnosti nebo zákazy podle přímo použitelného předpisu Evropské unie upravujícího sdělení klíčových informací týkajících se strukturovaných retailových investičních produktů a pojistných produktů s investiční složkou60),
+>
+> - z) osoba, na kterou se vztahují povinnosti nebo zákazy podle přímo použitelného předpisu Evropské unie upravujícího transparentnost obchodů zajišťujících financování a opětovného použití61),
+>
+> - za) osoba, na kterou se vztahují povinnosti nebo zákazy podle přímo použitelného předpisu Evropské unie upravujícího indexy, které jsou používány jako referenční hodnoty ve finančních nástrojích a finančních smlouvách nebo k měření výkonnosti investičních fondů62),
+>
+> - zb) osoba, na kterou se vztahují povinnosti nebo zákazy podle přímo použitelného předpisu Evropské unie upravujícího obecný rámec pro sekuritizaci a vytvářející zvláštní rámec pro jednoduchou, transparentní a standardizovanou sekuritizaci63),
+>
+> - zc) osoba, na kterou se vztahují povinnosti nebo zákazy podle přímo použitelného předpisu Evropské unie upravujícího prospekt, který má být uveřejněn při veřejné nabídce nebo přijetí cenných papírů k obchodování na regulovaném trhu66),
+>
+> - zd) osoba, na kterou se vztahují povinnosti nebo zákazy podle přímo použitelného předpisu Evropské unie upravujícího evropské poskytovatele služeb skupinového financování pro podniky75),
+>
+> - ze) osoba, na kterou se vztahují povinnosti nebo zákazy podle přímo použitelného předpisu Evropské unie upravujícího rámec pro ozdravné postupy a řešení krize ústředních protistran76),
+>
+> - zf) osoba, na kterou se vztahují povinnosti nebo zákazy podle přímo použitelného předpisu Evropské unie upravujícího pilotní režim pro tržní infrastruktury založené na technologii distribuovaného registru109).
+>
+> (2) Dohledu České národní banky dále podléhá osoba, která neoprávněně vykonává nebo nabízí činnosti podle tohoto zákona.
+>
+> (3) Dohledu nepodléhá vydávání cenných papírů Českou národní bankou, vedení evidence cenných papírů Českou národní bankou, provozování vypořádacího systému Českou národní bankou a obchodování České národní banky s investičními nástroji a cennými papíry, které nejsou investičními cennými papíry.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 14c, § 32a, § 118, § 138, § 139
+
+##### Souvisící předpisy
+
+- akt EU 1060/2009 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b35f84621a1e5b40ed64 -->
+
 ### § 135a — Dohled nad obchodníkem s cennými papíry a hodnocení
 
 > **§ 135a**
@@ -595,6 +985,76 @@ SREP je kontinuální hodnotící proces; rozsah a četnost se řídí proporcio
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7b8fce6221ddc8d7685c generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 135a — Dohled nad obchodníkem s cennými papíry a hodnocení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka s přihlédnutím k velikosti, rizikovému profilu a modelu podnikání obchodníka s cennými papíry přezkoumá v nezbytném a relevantním rozsahu systémy, strategie, postupy a mechanismy, které obchodník s cennými papíry uplatňuje s cílem dodržet tento zákon a nařízení Evropského parlamentu a Rady (EU) 2019/203372), přičemž v zájmu zajištění řádného řízení a pokrytí jeho rizik ve vhodných a relevantních případech vyhodnotí
+>
+> - a) rizika podle § 12ad,
+>
+> - b) zeměpisné umístění jeho expozic,
+>
+> - c) model jeho podnikání,
+>
+> - d) systémové riziko s přihlédnutím ke zjišťování a měření systémového rizika podle čl. 23 nařízení Evropského parlamentu a Rady (EU) č. [[1093/2010|1093/2010]]106) nebo k doporučením Evropské rady pro systémová rizika,
+>
+> - e) rizika ohrožující bezpečnost sítí a informačních systémů obchodníka s cennými papíry s cílem zajistit důvěrnost, celistvost a dostupnost jeho procesů, údajů a aktiv,
+>
+> - f) jeho expozici vůči úrokovému riziku vyplývajícímu z investičního portfolia,
+>
+> - g) systém jeho správy a řízení a schopnost členů vedoucího orgánu plnit své povinnosti a
+>
+> - h) rizika zjištěná testováním digitální provozní odolnosti podle kapitoly IV nařízení Evropského parlamentu a Rady (EU) 2022/2554111).
+>
+> (2) Pro účely odstavce 1 Česká národní banka zohlední, zda je obchodník s cennými papíry pojištěn pro případ povinnosti nahradit újmu.
+>
+> (3) Česká národní banka stanoví frekvenci a intenzitu dohledu a hodnocení podle odstavce 1 s ohledem na velikost, povahu, rozsah a složitost činností dotčeného obchodníka s cennými papíry jeho systémovou důležitost, a zohlední přitom zásadu přiměřenosti a právní předpisy, kterými se řídí oddělení uplatnitelné na držené peníze zákazníků. Česká národní banka na základě individuálního posouzení rozhodne, zda se dohled a hodnocení uskuteční u malého a nepropojeného obchodníka s cennými papíry a v jaké podobě, pouze považuje-li to za nezbytné s ohledem na velikost, povahu, rozsah a složitost činností tohoto obchodníka s cennými papíry.
+>
+> (4) Obchodník s cennými papíry pro účely výkonu dohledu a hodnocení podle odstavce 1 písm. g) poskytne České národní bance na její žádost programy jednání a zápisy z jednání vedoucího orgánu a jeho výborů a související podkladové dokumenty a výsledky interního a externího hodnocení činnosti vedoucího orgánu.
+>
+> (5) Požadavky na systémy, strategie, postupy a mechanismy obchodníka s cennými papíry, které zabezpečují řádné řízení a pokrytí jeho rizik, upravuje přímo použitelný předpis Evropské unie, kterým se doplňuje čl. 36 směrnice Evropského parlamentu a Rady (EU) 2019/203480).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12ad
+
+##### Souvisící předpisy
+
+- akt EU 1093/2010 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7b8fce6221ddc8d7685c -->
+
 ### § 135b — Průběžný přezkum povolení používat interní modely
 
 > **§ 135b**
@@ -644,6 +1104,52 @@ Povolení interního modelu není trvalé bez podmínek — ČNB je nejméně je
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o povolení interního modelu, dokumentace a validační zprávy modelu, přehled změn podnikání a nových produktů, výsledky backtestingu, kapitálové výkazy dle IFR.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=74bddec95ece51642978 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 135b — Průběžný přezkum povolení používat interní modely
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Česká národní banka pravidelně, nejméně jednou za 3 roky, přezkoumá, zda obchodník s cennými papíry dodržuje požadavky na povolení používat interní modely podle čl. 22 nařízení Evropského parlamentu a Rady (EU) 2019/203372), přičemž zohlední změny v jeho podnikání a uplatňování těchto interních modelů u nových produktů a posoudí, zda pro ně obchodník s cennými papíry používá řádně zpracované a aktualizované techniky a postupy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=74bddec95ece51642978 -->
 
 ### § 135c — Spolupráce s útvarem vykonávajícím působnost orgánu pro řešení krize
 
@@ -697,6 +1203,52 @@ Povolení interního modelu není trvalé bez podmínek — ČNB je nejméně je
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=93a7872740b1c24d842d generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 135c — Spolupráce s útvarem vykonávajícím působnost orgánu pro řešení krize
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Česká národní banka zajistí úzkou spolupráci včetně výměny informací mezi útvarem vykonávajícím působnost orgánu dohledu a útvarem vykonávajícím působnost orgánu pro řešení krize ve vztahu k dodatečnému kapitálovému požadavku uloženému podle § 135e odst. 2 písm. a) obchodníkovi s cennými papíry, který spadá do působnosti zákona upravujícího ozdravné postupy a řešení krize na finančním trhu, a očekávání úprav podle § 137b odst. 2, které se týkají tohoto obchodníka s cennými papíry.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 135e, § 137b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=93a7872740b1c24d842d -->
+
 ### § 135e — (Přezkum obchodování OTF párováním pokynů)
 
 > **§ 135e**
@@ -748,6 +1300,52 @@ Povolení interního modelu není trvalé bez podmínek — ČNB je nejméně je
 **Typicky rozhodné důkazy / podklady:** záznamy o párovaných obchodech a vlastních pozicích provozovatele, časové značky obchodů, analýza cenotvorby a marže, souhlasy klientů s párováním, vnitřní předpisy k řízení střetu zájmů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3d2f29edd39e6dcddd02 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 135e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Česká národní banka přezkoumává a vyhodnocuje obchodování provozovatele organizovaného obchodního systému párováním pokynů na vlastní účet, aby se ujistila, že tento způsob obchodování splňuje definiční znaky tohoto způsobu obchodování a nepředstavuje střet zájmů mezi provozovatelem organizovaného obchodního systému a účastníky tohoto systému.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3d2f29edd39e6dcddd02 -->
 
 ### Díl 2 — Opatření k nápravě a jiná opatření
 
@@ -932,6 +1530,163 @@ Odst. 7 je průlomovým ustanovením: ČNB může zasáhnout i vůči osobám, k
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7c1c52a7f918de9f54bc generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 136 — Základní ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka může uložit osobě podléhající dohledu, která porušila tento zákon, rozhodnutí vydané podle tohoto zákona nebo přímo použitelný předpis Evropské unie v oblasti činností na finančních trzích2), opatření k nápravě zjištěného nedostatku odpovídající povaze porušení a jeho závažnosti. Česká národní banka může dále
+>
+> - a) nařídit mimořádné provedení auditu,
+>
+> - b) nařídit změnu auditora,
+>
+> - c) pozastavit nejdéle na dobu 5 let některou činnost podléhající dohledu,
+>
+> - d) zakázat činnost podléhající dohledu,
+>
+> - e) pozastavit obchodování s investičními nástroji podle [[#§ 137|§ 137]],
+>
+> - f) zavést nucenou správu podle § 138 až 143,
+>
+> - g) změnit rozsah povolení uděleného podle tohoto zákona podle [[#§ 144|§ 144]],
+>
+> - h) odejmout povolení, souhlas nebo zrušit registraci podle [[#§ 145|§ 145]] nebo odejmout oprávnění k činnosti vázaného zástupce podle § 32i odst. 1,
+>
+> - i) zakázat nebo pozastavit nejdéle na dobu 10 pracovních dnů veřejné nabízení investičních cenných papírů, obchodování s investičním cenným papírem na regulovaném trhu nebo v mnohostranném obchodním systému nebo přijetí investičního cenného papíru k obchodování na regulovaném trhu nebo v mnohostranném obchodním systému,
+>
+> - j) zakázat nebo pozastavit propagaci nebo oznámení týkající se veřejné nabídky nebo přijetí investičního cenného papíru k obchodování na regulovaném trhu,
+>
+> - k) nařídit výměnu člena vedoucího orgánu osob podléhajících dohledu podle § 135 odst. 1,
+>
+> - l) nařídit uveřejnění povinně uveřejňované informace nebo ji sama uveřejnit,
+>
+> - m) uložit opatření
+>
+>   - 1. podle čl. 63 odst. 2 písm. a) až c) nařízení Evropského parlamentu a Rady (EU) č. [[909/2014|909/2014]],
+>
+>   - 2. podle čl. 22 odst. 4 písm. a) až c) nařízení Evropského parlamentu a Rady (EU) [[2015/2365|2015/2365]],
+>
+>   - 3. podle čl. 24 odst. 2 písm. a), b) nebo d) nařízení Evropského parlamentu a Rady (EU) č. [[1286/2014|1286/2014]],
+>
+>   - 4. podle čl. 42 odst. 2 písm. a) až e) nařízení Evropského parlamentu a Rady (EU) [[2016/1011|2016/1011]],
+>
+>   - 5. podle čl. 32 odst. 2 písm. d) nařízení Evropského parlamentu a Rady (EU) [[2017/2402|2017/2402]],
+>
+>   - 6. podle čl. 32 odst. 1 písm. a), d) až h) a j) až m) nařízení Evropského parlamentu a Rady (EU) [[2017/1129|2017/1129]], nebo
+>
+>   - 7. podle čl. 30 odst. 2 písm. a) až e) a g) až i) nebo čl. 39 odst. 2 písm. a) až c) nařízení Evropského parlamentu a Rady (EU) 2020/150375),
+>
+>   - 8. podle čl. 82 odst. 2 písm. a) až c) nařízení Evropského parlamentu a Rady (EU) 2021/2376),
+>
+> - n) uveřejnit informaci o tom, jaká je povaha protiprávního jednání a identifikaci osoby, která takto jednala, včetně identifikace osoby, která jednala za právnickou osobu,
+>
+> - o) nařídit stažení investičního nástroje z obchodování na regulovaném trhu, v mnohostranném obchodním systému nebo v organizovaném obchodním systému,
+>
+> - p) nařídit omezení pozice nebo expozice,
+>
+> - q) omezit možnost sjednat komoditní derivát zavedením limitů na velikost pozice, kterou může kterákoli osoba v kterémkoli okamžiku držet,
+>
+> - r) pozastavit uvádění na trh nebo prodej investičních nástrojů nebo strukturovaných vkladů, pokud jsou splněny podmínky stanovené v čl. 40 až 42 nařízení Evropského parlamentu a Rady (EU) č. [[600/2014|600/2014]], nebo
+>
+> - s) pozastavit uvádění na trh nebo prodej investičních nástrojů, pokud obchodník s cennými papíry nedodržel postup stanovený v § 12a odst. 3, [[#§ 12ba|§ 12ba]] nebo [[#§ 12bb|12bb]].
+>
+> (2) Česká národní banka může obchodníkovi s cennými papíry pro účely nařízení Evropského parlamentu a Rady (EU) 2019/203372) a [[#§ 135a|§ 135a]] nebo [[#§ 135b|135b]] nebo který porušil tento zákon, právní předpis jej provádějící, rozhodnutí vydané podle tohoto zákona, opatření obecné povahy vydané podle tohoto zákona, přímo použitelný předpis Evropské unie upravující obezřetnostní požadavky na investiční podniky72) také
+>
+> - a) nařídit, aby měl kapitál nad rámec požadavků podle čl. 11 nařízení Evropského parlamentu a Rady (EU) 2019/203372) za podmínek podle [[#§ 137a|§ 137a]], nebo nařídit, aby upravil kapitál a likvidní aktiva požadované v případě významných změn v podnikání tohoto obchodníka s cennými papíry,
+>
+> - b) nařídit posílení jeho systémů, postupů, mechanismů a strategií prováděných podle [[#§ 9a|§ 9a]] a 12ab,
+>
+> - c) nařídit, aby do 1 roku předložil plán na obnovení souladu s požadavky dohledu podle tohoto zákona a podle nařízení Evropského parlamentu a Rady (EU) 2019/203372),
+>
+> - d) nařídit, aby používal specifický systém tvorby opravných položek a rezerv nebo zacházení s aktivy z hlediska kapitálových požadavků,
+>
+> - e) zakázat nebo omezit jeho obchody, operace nebo jeho síť nebo požadovat upuštění od činností, které znamenají nadměrné riziko pro jeho finanční spolehlivost,
+>
+> - f) nařídit, aby snížil riziko obsažené v činnostech a produktech, včetně činností vykonávaných prostřednictvím jiné osoby podle [[#§ 12d|§ 12d]],
+>
+> - g) nařídit, aby omezil pohyblivou složku odměny stanovením její výše jako procentního podílu z čistých výnosů v případě, že je tato složka odměny neslučitelná s udržováním spolehlivého kapitálového základu,
+>
+> - h) nařídit, aby použil čistý zisk k posílení kapitálu,
+>
+> - i) omezit nebo zakázat rozdělení výnosů nebo vyplácení úroků akcionářům, společníkům nebo držitelům nástrojů vedlejšího kapitálu tier 1, pokud takové omezení nebo zákaz nepředstavuje nesplnění jeho závazků,
+>
+> - j) uložit dodatečné nebo častější požadavky na podávání zpráv, než jsou požadavky stanovené v tomto zákoně a v nařízení Evropského parlamentu a Rady (EU) 2019/203372), včetně podávání zpráv o kapitálové a likviditní pozici,
+>
+> - k) uložit zvláštní požadavky na likviditu podle [[#§ 137c|§ 137c]],
+>
+> - l) nařídit zpřístupnění doplňujících informací, nebo
+>
+> - m) nařídit, aby snížil rizika spojená s bezpečností jeho sítí a informačních systémů s cílem zajistit důvěrnost, celistvost a dostupnost jeho procesů, údajů a aktiv.
+>
+> (3) Osoba, které Česká národní banka uložila opatření k nápravě podle odstavce 1 nebo [[#§ 2|2]], informuje Českou národní banku o odstranění nedostatku a způsobu zjednání nápravy.
+>
+> (4) Česká národní banka zakáže osobě nebo osobám jednajícím ve shodě, kterým udělila souhlas k nabytí kvalifikované účasti nebo ke zvýšení kvalifikované účasti na obchodníkovi s cennými papíry, organizátorovi regulovaného trhu anebo k tomu, aby se staly osobami ovládajícími obchodníka s cennými papíry, organizátora regulovaného trhu, a které přestaly splňovat podmínky pro udělení souhlasu, vykonávat tato hlasovací práva nebo jinak uplatňovat významný vliv na jejich řízení.
+>
+> (5) Česká národní banka může dále
+>
+> - a) nařídit, aby velký nebo propojený obchodník s cennými papíry nebo obchodník s cennými papíry podle čl. 46 odst. 2 nařízení Evropského parlamentu a Rady (EU) 2019/203372)
+>
+>   - 1. uveřejňoval informace podle čl. 46 nařízení Evropského parlamentu a Rady (EU) 2019/203372) častěji než jednou ročně, a stanovit lhůty tohoto uveřejňování, nebo
+>
+>   - 2. využíval specifická místa a nosiče, zejména své internetové stránky, k uveřejnění jiných informací, než jsou účetní závěrky, a
+>
+> - b) nařídit, aby kontrolující osoba ve skupině obchodníka s cennými papíry každoročně uveřejňovala ve formě úplných informací nebo odpovídajících odkazů na ně popis své právní struktury, struktury systému správy a řízení a organizační struktury dané skupiny obchodníka s cennými papíry podle § 12ab odst. 1 a § 10b až 10e.
+>
+> (6) Česká národní banka může opatřením obecné povahy zastavit nebo omezit obchodování na regulovaném trhu, pokud organizátor regulovaného trhu navzdory nastalé mimořádné situaci nebo výraznému pohybu cen investičního nástroje nebo souvisejících investičních nástrojů, které vedly k narušení řádného fungování tohoto trhu, nezastavil nebo neomezil obchodování podle § 50b odst. 1.
+>
+> (7) Česká národní banka může uložit fyzické osobě nebo právnické osobě nepodléhající jejímu dohledu, která neplní povinnost uloženou tímto zákonem, právním předpisem jej provádějícím rozhodnutím vydaným podle tohoto zákona, přímo použitelným předpisem Evropské unie upravujícím obezřetnostní požadavky na úvěrové instituce a investiční podniky50) nebo nařízením nebo rozhodnutím Evropské komise, aby upustila od tohoto protiprávního jednání a zdržela se jeho opakování; Česká národní banka může dále
+>
+> - a) pozastavit výkon hlasovacích práv akcionáři nebo akcionářům odpovědným za protiprávní jednání,
+>
+> - b) dočasně zakázat členu statutárního orgánu, správní rady nebo dozorčí rady obchodníka s cennými papíry nebo jiné odpovědné fyzické osobě výkon funkce v obchodníkovi s cennými papíry nebo výkon funkce v zahraničním obchodníkovi s cennými papíry,
+>
+> - c) uveřejnit informaci o tom, která osoba je odpovědná za protiprávní jednání a jaká je jeho povaha.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 137, § 138, § 144, § 145, § 32i, § 135, § 12a, § 12ba, § 12bb, § 135a, § 135b, § 137a, § 9a, § 12d, § 137c, § 2, § 12ab, § 10b, § 50b
+
+##### Souvisící předpisy
+
+- akt EU 2015/2365 (výslovně uvedeno v místním znění)
+- akt EU 1286/2014 (výslovně uvedeno v místním znění)
+- akt EU 2016/1011 (výslovně uvedeno v místním znění)
+- akt EU 2017/2402 (výslovně uvedeno v místním znění)
+- akt EU 2017/1129 (výslovně uvedeno v místním znění)
+- akt EU 2021/2376 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7c1c52a7f918de9f54bc -->
+
 ### § 136a — Preventivní opatření k nápravě
 
 > **§ 136a**
@@ -981,6 +1736,52 @@ Odst. 7 je průlomovým ustanovením: ČNB může zasáhnout i vůči osobám, k
 **Typicky rozhodné důkazy / podklady:** výstupy SREP, trendové a projekční analýzy kapitálu a expozic, interní reporty obchodníka, dokumentace systémů řízení rizik, odůvodnění předpokládaného vývoje.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d3b7a278af2ba6206deb generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 136a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Česká národní banka může uložit opatření k nápravě podle [[#§ 136|§ 136]] také, jestliže má důvodné podezření, že nedostatek v činnosti může v průběhu následujících 12 měsíců nastat.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 136
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d3b7a278af2ba6206deb -->
 
 ### § 136b — Donucovací pokuta
 
@@ -1039,6 +1840,56 @@ Donucovací pokuta (astreinte) slouží k vynucení splnění opatření k nápr
 **Typicky rozhodné důkazy / podklady:** pravomocné rozhodnutí o opatření k nápravě, doklad o jeho (ne)splnění a o vykonatelnosti, rozhodnutí o donucovacích pokutách, evidence jejich výše a souhrnu, podklady celního úřadu o vymáhání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=bba1c8731dc9e3f88fa9 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 136b — Donucovací pokuta
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Splnění opatření k nápravě nebo jiného opatření podle tohoto zákona vymáhá Česká národní banka postupným ukládáním donucovacích pokut.
+>
+> (2) Výše jednotlivé donucovací pokuty nesmí převýšit 5 000 000 Kč. Souhrnná výše donucovacích pokut nesmí převýšit 20 000 000 Kč.
+>
+> (3) Donucovací pokuty vybírá a vymáhá celní úřad. Příjem z donucovacích pokut je příjmem státního rozpočtu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bba1c8731dc9e3f88fa9 -->
 
 ### § 137 — Pozastavení a vyloučení obchodování (opatření obecné povahy)
 
@@ -1130,6 +1981,85 @@ Donucovací pokuta (astreinte) slouží k vynucení splnění opatření k nápr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9566edc19bda4f273279 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 137
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Neohrozí-li to závažně zájmy investorů nebo řádné fungování trhu, Česká národní banka opatřením obecné povahy pozastaví obchodování
+>
+> - a) se všemi investičními nástroji v obchodním systému,
+>
+> - b) se všemi investičními nástroji v části obchodního systému, nebo
+>
+> - c) s určitým investičním nástrojem v obchodním systému.
+>
+> (2) Neohrozí-li to závažně zájmy investorů nebo řádné fungování trhu, Česká národní banka opatřením obecné povahy vyloučí z obchodování na trhu
+>
+> - a) všechny investiční nástroje v obchodním systému,
+>
+> - b) všechny investiční nástroje v části obchodního systému, nebo
+>
+> - c) určité investiční nástroje v obchodním systému.
+>
+> (3) Česká národní banka vydá opatření obecné povahy podle odstavce 1 nebo [[#§ 2|2]], jestliže
+>
+> - a) hrozí velké hospodářské ztráty nebo závažné ohrožení zájmů investorů,
+>
+> - b) nastaly velké hospodářské ztráty nebo byly závažně ohroženy zájmy investorů,
+>
+> - c) o to požádal orgán dohledu jiného členského státu Evropské unie nebo orgán příslušný k řešení krize podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu,
+>
+> - d) byla informována o přijetí srovnatelného rozhodnutí provozovatelem obchodního systému, zejména bylo-li důvodem pro přijetí tohoto rozhodnutí podezření na zneužití trhu, nabídka převzetí nebo porušení povinnosti zveřejnit vnitřní informaci podle čl. 7 a 17 nařízení Evropského parlamentu a Rady (EU) č. [[596/2014|596/2014]], nebo
+>
+> - e) byla informována o přijetí srovnatelného opatření orgánem dohledu jiného členského státu Evropské unie, které se přímo nebo nepřímo týká investičního nástroje nebo investičních nástrojů podle odstavce 1 nebo [[#§ 2|2]], zejména bylo-li důvodem pro přijetí tohoto opatření podezření na zneužití trhu, nabídka převzetí nebo porušení povinnosti zveřejnit vnitřní informaci podle čl. 7 a 17 nařízení Evropského parlamentu a Rady (EU) č. [[596/2014|596/2014]].
+>
+> (4) Česká národní banka vydá opatření obecné povahy, jsou-li naplněny podmínky stanovené v čl. 458 nařízení Evropského parlamentu a Rady (EU) č. [[575/2013|575/2013]], čl. 42 nařízení Evropského parlamentu a Rady (EU) č. 600/2014 nebo v čl. 17 nařízení Evropského parlamentu a Rady (EU) č. [[1286/2014|1286/2014]].
+>
+> (5) Česká národní banka může v souvislosti s vydáním opatření obecné povahy podle odstavce 1 nebo [[#§ 2|2]] uložit provozovateli obchodního systému, aby ve stanovené lhůtě přezkoumal, zda jsou splněny podmínky pro vyloučení tohoto investičního nástroje z obchodování v obchodním systému, a aby o výsledku informoval Českou národní banku.
+>
+> (6) Nižší mezní hodnoty, než jsou hodnoty stanovené podle čl. 3 odst. 1 a 2 nařízení Evropského parlamentu a Rady (EU) [[2022/858|2022/858]], může stanovit Česká národní banka podle čl. 3 odst. 6 tohoto nařízení vůči blíže neurčenému okruhu osob opatřením obecné povahy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- akt EU 1286/2014 (výslovně uvedeno v místním znění)
+- akt EU 2022/858 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9566edc19bda4f273279 -->
+
 ### § 137a — Nařízení dodatečného kapitálového požadavku
 
 > **§ 137a**
@@ -1210,6 +2140,78 @@ P2R se ukládá při nekrytých významných rizicích (a dalších důvodech od
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=eb2c7b8cc60afb9f53bd generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 137a — Nařízení dodatečného kapitálového požadavku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka uloží obchodníkovi s cennými papíry dodatečný kapitálový požadavek podle § 136 odst. 2 písm. a), zjistí-li na základě přezkumů provedených podle [[#§ 135b|§ 135b]] a [[#§ 135c|135c]], že
+>
+> - a) obchodník s cennými papíry je vystaven rizikům nebo prvkům rizika nebo představuje riziko pro jiné, přičemž tato rizika jsou významná a nejsou kryta kapitálovým požadavkem nebo jím nejsou kryta dostatečně, zejména požadavkem podle K-faktorů podle části třetí nebo čtvrté nařízení Evropského parlamentu a Rady (EU) 2019/203372),
+>
+> - b) obchodník s cennými papíry nesplňuje požadavky podle [[#§ 9a|§ 9a]] a 12a a je nepravděpodobné, že by jiná opatření v oblasti dohledu dostatečně zlepšila systémy, postupy, mechanismy a strategie v přiměřeném časovém rámci,
+>
+> - c) úpravy v obezřetném oceňování obchodního portfolia jsou nedostatečné k tomu, aby obchodníkovi s cennými papíry umožnily v krátké době prodat nebo zajistit své pozice za běžných tržních podmínek bez významných ztrát,
+>
+> - d) přezkum provedený podle [[#§ 135c|§ 135c]] naznačuje, že nedodržení požadavků na uplatňování povolených interních modelů pravděpodobně povede k nedostatečné úrovni kapitálu, nebo
+>
+> - e) obchodník s cennými papíry opakovaně nestanovuje nebo neudržuje přiměřenou výši dodatečného kapitálu podle [[#§ 137b|§ 137b]].
+>
+> (2) Pro účely odstavce 1 písm. a) se rizika nebo prvky rizik považují za nekrytá nebo nedostatečně krytá kapitálovými požadavky podle částí třetí a čtvrté nařízení Evropského parlamentu a Rady (EU) 2019/203372) pouze tehdy, je-li výše, druhy a rozdělení kapitálu, které jsou přiměřené po přezkumu posouzení provedeného obchodníkem s cennými papíry v rámci dohledu podle § 9a odst. 1, vyšší než kapitálový požadavek týkající se obchodníka s cennými papíry podle části třetí nebo čtvrté nařízení Evropského parlamentu a Rady (EU) 2019/203372). Kapitál, jenž je považován za přiměřený, může krýt rizika nebo prvky rizik, které jsou výslovně vyloučeny z kapitálového požadavku podle částí třetí nebo čtvrté nařízení Evropského parlamentu a Rady (EU) 2019/203372).
+>
+> (3) Česká národní banka určí výši dodatečného kapitálu požadovaného podle § 136 odst. 2 písm. a) jako rozdíl mezi kapitálem, který se považuje za přiměřený podle odstavce 2, a kapitálovým požadavkem podle části třetí nebo čtvrté nařízení Evropského parlamentu a Rady (EU) 2019/203372).
+>
+> (4) Česká národní banka uloží obchodníkovi s cennými papíry dodatečný kapitálový požadavek podle § 136 odst. 2 písm. a) prostřednictvím kapitálu, pokud
+>
+> - a) nejméně tři čtvrtiny dodatečného kapitálového požadavku tvoří kapitál tier 1,
+>
+> - b) nejméně tři čtvrtiny kapitálu tier 1 tvoří kmenový kapitál tier 1 a
+>
+> - c) tento kapitál se nepoužije ke splnění žádného z kapitálových požadavků podle čl. 11 odst. 1 písm. a), b) a c) nařízení Evropského parlamentu a Rady (EU) 2019/203372).
+>
+> (5) Upřesnění způsobu měření rizik a prvků rizik podle odstavce 2, včetně rizik nebo prvků rizik, které jsou z kapitálových požadavků stanovených v části třetí nebo čtvrté nařízení Evropského parlamentu a Rady (EU) 2019/203372) výslovně vyloučeny, upravuje přímo použitelný předpis Evropské unie, kterým se doplňuje čl. 40 směrnice Evropského parlamentu a Rady (EU) 2019/203480).
+>
+> (6) Česká národní banka může uložit dodatečný kapitálový požadavek podle odstavců 1 až 4 i malému a nepropojenému obchodníkovi s cennými papíry.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 136, § 135b, § 135c, § 9a, § 137b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eb2c7b8cc60afb9f53bd -->
+
 ### § 137b — Pokyny k držení dodatečného kapitálu (P2G)
 
 > **§ 137b**
@@ -1263,6 +2265,54 @@ P2G je dohledové očekávání (soft-law) adresované velkým/propojeným obcho
 **Typicky rozhodné důkazy / podklady:** sdělení P2G s uvedeným datem úpravy, kapitálové výkazy v čase, výstupy SREP, korespondence ČNB–obchodník, doklady o opakovaném nedodržení očekávané výše kapitálu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d94691f5a617451a417e generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 137b — Pokyny k držení dodatečného kapitálu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka může, s ohledem na zásadu proporcionality a úměrně velikosti, systémové důležitosti, povaze, rozsahu a složitosti činností velkého nebo propojeného obchodníka s cennými papíry, uložit, aby tento obchodník s cennými papíry měl výši kapitálu, která podle [[#§ 9a|§ 9a]] dostatečně překračuje požadavky podle části třetí nařízení Evropského parlamentu a Rady (EU) 2019/203372) a podle tohoto zákona, a to včetně dodatečných kapitálových požadavků podle § 136 odst. 2 písm. a), aby bylo zajištěno, že cyklické ekonomické výkyvy nepovedou k porušení těchto požadavků nebo neohrozí schopnost obchodníka s cennými papíry ukončit svou činnost řádným způsobem.
+>
+> (2) Česká národní banka ve vhodných případech přezkoumá výši kapitálu, která byla podle odstavce 1 stanovena velkým nebo propojeným obchodníkem s cennými papíry, a sdělí závěry tohoto přezkumu obchodníkovi s cennými papíry, včetně očekávání úprav výše kapitálu stanoveného podle odstavce 1. Česká národní banka v takovém sdělení uvede datum, k němuž požaduje, aby byla úprava dokončena.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9a, § 136
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d94691f5a617451a417e -->
 
 ### § 137c — Zvláštní požadavky na likviditu
 
@@ -1325,6 +2375,64 @@ P2G je dohledové očekávání (soft-law) adresované velkým/propojeným obcho
 **Typicky rozhodné důkazy / podklady:** výstupy SREP a ILAAP, struktura aktiv a závazků a jejich splatnosti, výpočet likviditního požadavku dle IFR, likviditní výkazy, odůvodnění nekrytí rizika.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c7468c00fa9c3f44b676 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 137c — Zvláštní požadavky na likviditu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka uloží obchodníkovi s cennými papíry zvláštní požadavky na likviditu podle § 136 odst. 2 písm. k) pouze tehdy, dospěje-li na základě přezkumů provedených podle [[#§ 135b|§ 135b]] a [[#§ 135c|135c]] k závěru, že velký nebo propojený obchodník s cennými papíry, nebo malý a nepropojený obchodník s cennými papíry, který nebyl vyňat z požadavku na likviditu podle čl. 43 odst. 1 nařízení Evropského parlamentu a Rady (EU) 2019/203372),
+>
+> - a) je vystaven riziku likvidity nebo prvkům rizika likvidity, které jsou významné a nejsou kryty nebo nejsou dostatečně kryty požadavkem na likviditu podle části páté nařízení Evropského parlamentu a Rady (EU) 2019/203372), nebo
+>
+> - b) nesplňuje některý z požadavků podle [[#§ 9a|§ 9a]] a 12a a je nepravděpodobné, že by opatření k nápravě nebo jiné opatření dostatečně zlepšilo systémy, postupy, mechanismy a strategie v přiměřeném časovém rámci.
+>
+> (2) Pro účely odstavce 1 písm. a) se riziko likvidity nebo prvky rizika likvidity považují za nekrytá nebo nedostatečně krytá požadavkem na likviditu stanoveným v části páté nařízení Evropského parlamentu a Rady (EU) 2019/203372) pouze v případě, že výše a druhy likvidity, které Česká národní banka považuje za přiměřené po přezkumu posouzení provedeného obchodníkem s cennými papíry v rámci dohledu podle § 9a odst. 1, jsou vyšší než požadavek na likviditu týkající se obchodníka s cennými papíry stanovený v části páté nařízení Evropského parlamentu a Rady (EU) 2019/203372).
+>
+> (3) Česká národní banka určí zvláštní výši likvidity požadovanou podle § 136 odst. 2 písm. k) jako rozdíl mezi likviditou, která se považuje za přiměřenou podle odstavce 2, a požadavkem na likviditu stanoveným v části páté nařízení Evropského parlamentu a Rady (EU) 2019/203372).
+>
+> (4) Česká národní banka nařídí, aby obchodník s cennými papíry splnil zvláštní požadavek na likviditu podle § 136 odst. 2 písm. k) prostřednictvím likvidních aktiv podle čl. 43 nařízení Evropského parlamentu a Rady (EU) 2019/203372).
+>
+> (5) Upřesnění způsobu měření rizika likvidity a prvků rizika likvidity podle odstavce 2 způsobem, který odpovídá velikosti, struktuře a vnitřní organizaci evropských obchodníků s cennými papíry a povaze, rozsahu a složitosti jejich činností, upravuje přímo použitelný předpis Evropské unie, kterým se doplňuje čl. 42 směrnice Evropského parlamentu a Rady (EU) 2019/203480).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 136, § 135b, § 135c, § 9a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c7468c00fa9c3f44b676 -->
 
 ### Nucená správa
 
@@ -1391,6 +2499,60 @@ Nucená správa je nejzávažnější strukturální dohledové opatření; u ob
 **Typicky rozhodné důkazy / podklady:** protokoly o kontrole a dohledová zjištění, evidence a stav zákaznického majetku, indicie ohrožení klientů a nebezpečí z prodlení, smlouvy o finančním zajištění a o závěrečném vyrovnání, odůvodnění subsidiarity opatření.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a7a2db4e2baeca324fe2 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 138
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka může zavést nucenou správu obchodníka s cennými papíry, který není obchodníkem s cennými papíry podle § 8a odst. 1 a který není bankou nebo provozovatele vypořádacího systému s neodvolatelností vypořádání se sídlem v České republice, který není bankou, a dále nucenou správu organizátora regulovaného trhu nebo centrálního depozitáře, jestliže
+>
+> - a) tato osoba opakovaně nebo závažně porušila povinnost stanovenou tímto zákonem nebo přímo použitelnými předpisy Evropské unie2) nebo porušila podmínku nebo povinnost stanovenou ve vykonatelném rozhodnutí vydaném podle tohoto zákona, nebo
+>
+> - b) jsou ohroženy zájmy osob, kterým tato osoba poskytuje své služby, a hrozí nebezpečí z prodlení.
+>
+> (2) Česká národní banka může zavést nucenou správu obchodníka s cennými papíry podle § 8a odst. 1, který není bankou, jestliže jsou ohroženy zájmy osob, kterým tato osoba poskytuje své služby, a hrozí nebezpečí z prodlení.
+>
+> (3) Ustanovení tohoto zákona upravující zavedení nucené správy obchodníka s cennými papíry, který není bankou, nemají vliv na výkon práv a splnění povinností vyplývajících z ujednání o finančním zajištění za podmínek stanovených zákonem upravujícím finanční zajištění25) nebo srovnatelných podmínek zahraničního právního předpisu, jestliže finanční zajištění bylo sjednáno a vzniklo před zavedením nucené správy. To platí i v případě, že finanční zajištění bylo sjednáno nebo vzniklo v den zavedení nucené správy, avšak až poté, co tato skutečnost nastala, ledaže příjemce finančního kolaterálu o takové skutečnosti věděl nebo vědět měl a mohl. Ustanovení tohoto zákona upravující zavedení nucené správy obchodníka s cennými papíry, který není bankou, nemají vliv také na splnění závěrečného vyrovnání ([[#§ 193|§ 193]]), jestliže závěrečné vyrovnání bylo uzavřeno před zavedením nucené správy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8a, § 193
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a7a2db4e2baeca324fe2 -->
 
 ### § 139 — Rozhodnutí o zavedení nucené správy a povinnosti nuceného správce
 
@@ -1496,6 +2658,96 @@ Rozhodnutí o nucené správě se zahajuje jeho vydáním (odst. 2) a je vykonat
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d7c6b74f06b025594205 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 139
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Rozhodnutí o zavedení nucené správy obsahuje
+>
+> - a) důvod zavedení nucené správy,
+>
+> - b) jmenování nuceného správce a údaje o něm,
+>
+> - c) výši odměny nuceného správce nebo způsob jejího stanovení a termín její splatnosti,
+>
+> - d) případné omezení činnosti osoby, u které se zavádí nucená správa,
+>
+> - e) případné povinnosti nuceného správce s uvedením termínu jejich splnění.
+>
+> (2) Řízení o zavedení nucené správy lze zahájit vydáním rozhodnutí o zavedení nucené správy.
+>
+> (3) Rozhodnutí o zavedení nucené správy se doručuje společnosti, u které se nucená správa zavádí, a nucenému správci. Rozhodnutí je vykonatelné doručením nucenému správci. Rozklad podaný proti tomuto rozhodnutí nemá odkladný účinek.
+>
+> (4) Rozhodnutí o zavedení nucené správy Česká národní banka uveřejní na svých internetových stránkách.
+>
+> (5) Zavedením nucené správy
+>
+> - a) se pozastavuje výkon funkcí členů statutárního orgánu společnosti; tím není dotčeno právo členů statutárního orgánu podat žalobu proti rozhodnutí o zavedení nucené správy podle zákona upravujícího správní soudnictví,
+>
+> - b) přechází působnost statutárního orgánu na nuceného správce, s výjimkou práva podat žalobu proti rozhodnutí o zavedení nucené správy; správce předloží tomu, kdo je oprávněn podat opravný prostředek proti zavedení nucené správy, na jeho písemnou žádost v potřebném rozsahu kopie z dostupné dokumentace obchodníka s cennými papíry, který není bankou, provozovatele vypořádacího systému, organizátora regulovaného trhu nebo centrálního depozitáře, a umožní pořizovat si z ní opisy a výpisy.
+>
+> (6) Na nuceného správce se vztahují jen ta omezení působnosti statutárního orgánu, která stanoví zákon.
+>
+> (7) Nucený správce
+>
+> - a) přijme neprodleně opatření ke zjednání nápravy zjištěných nedostatků v činnosti osoby, u které je zavedena nucená správa,
+>
+> - b) zajistí ochranu práv osob, které využívají služeb osoby, u které je zavedena nucená správa,
+>
+> - c) svolá valnou hromadu osoby, u které je zavedena nucená správa, tak, aby se konala do 6 měsíců od zavedení nucené správy, a
+>
+>   - 1. předloží jí návrh na odvolání dosavadních a volbu nových osob do těch orgánů, které volí valná hromada, a návrh opatření k nápravě zjištěných nedostatků v činnosti osoby, u které je zavedena nucená správa, nebo
+>
+>   - 2. navrhne zrušení společnosti.
+>
+> (8) Lhůtu pro svolání valné hromady podle odstavce 7 písm. c) může Česká národní banka na návrh nuceného správce prodloužit z důvodů hodných zřetele až na 1 rok.
+>
+> (9) Náklady spojené s výkonem nucené správy, odměna nuceného správce a hotové výdaje nuceného správce jsou placeny z majetku společnosti, u které je zavedena nucená správa.
+>
+> (10) Nepostačuje-li majetek společnosti na vyplacení odměny nuceného správce a náhrady jeho hotových výdajů, vyplatí je stát.
+>
+> (11) Způsob stanovení náhrady hotových výdajů a odměny nuceného správce, jejich maximální výši hrazenou státem a způsob výplaty stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d7c6b74f06b025594205 -->
+
 ### § 140 — Zánik funkce nuceného správce
 
 > **§ 140**
@@ -1564,6 +2816,70 @@ Funkce nuceného správce zaniká pěti taxativními způsoby (odst. 1); odstoup
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=69bca87e437c55a667f7 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 140
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Výkon funkce nuceného správce zaniká
+>
+> - a) odstoupením nuceného správce,
+>
+> - b) odvoláním nuceného správce,
+>
+> - c) ukončením nucené správy,
+>
+> - d) vyškrtnutím ze seznamu likvidátorů a nucených správců, nebo
+>
+> - e) úmrtím nuceného správce.
+>
+> (2) Nucený správce oznámí České národní bance odstoupení z funkce nuceného správce nejméně 30 dnů předem.
+>
+> (3) Česká národní banka odvolá nuceného správce, zejména jestliže závažně nebo opakovaně porušil svou povinnost nebo přestal splňovat předpoklady pro výkon této funkce.
+>
+> (4) Opravný prostředek proti rozhodnutí o odvolání nuceného správce nemá odkladný účinek.
+>
+> (5) Jestliže výkon nuceného správce zaniká podle odstavce 1 písm. a), b), d) a e), jmenuje Česká národní banka bez zbytečného odkladu jiného nuceného správce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=69bca87e437c55a667f7 -->
+
 ### § 141 — Ukončení nucené správy
 
 > **§ 141**
@@ -1622,6 +2938,58 @@ V praxi je § 141 určující pro okamžik, kdy přestávají platit omezení nu
 **Typicky rozhodné důkazy / podklady:** rozhodnutí ČNB o ukončení nucené správy; rozhodnutí o úpadku; doklad o jmenování likvidátora; výpis z obchodního rejstříku; závěrečná zpráva nuceného správce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2b60a9d9095964c14e0f generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 141
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Nucená správa končí
+>
+> - a) dnem uvedeným v rozhodnutí České národní banky o ukončení nucené správy,
+>
+> - b) vydáním rozhodnutí o úpadku společnosti, u níž je zavedena nucená správa, nebo
+>
+> - c) dnem, ke kterému je jmenován likvidátor společnosti, u níž je zavedena nucená správa.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2b60a9d9095964c14e0f -->
 
 ### § 142 — Zápis do obchodního rejstříku
 
@@ -1687,6 +3055,66 @@ V praxi je § 141 určující pro okamžik, kdy přestávají platit omezení nu
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6e065bb81d7e676af908 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 142
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Do obchodního rejstříku se zapisuje
+>
+> - a) den zavedení nucené správy,
+>
+> - b) údaje o nuceném správci,
+>
+> - c) omezení činnosti osoby, u které je zavedena nucená správa,
+>
+> - d) den ukončení nucené správy.
+>
+> (2) Návrh na povolení zápisu o zavedení nucené správy, jmenování nuceného správce nebo omezení činnosti osoby, u které se zavádí nucená správa, do obchodního rejstříku podává nucený správce bez zbytečného odkladu po zavedení nucené správy.
+>
+> (3) Návrh na povolení zápisu o ukončení nucené správy do obchodního rejstříku podává nucený správce neprodleně po ukončení nucené správy; neučiní-li tak nucený správce, podá návrh na povolení zápisu statutární orgán společnosti, jejíž nucená správa končí.
+>
+> (4) Návrh na povolení zápisu o výmazu stávajícího nuceného správce a zápisu nového nuceného správce do obchodního rejstříku podává nově jmenovaný nucený správce neprodleně po doručení rozhodnutí o svém jmenování.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6e065bb81d7e676af908 -->
+
 ### § 143 — Způsobilost nuceného správce
 
 > **§ 143**
@@ -1748,6 +3176,58 @@ Způsobilý uchazeč musí být zapsán do **seznamu likvidátorů a nucených s
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6b5e082ad380c387569d generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 143
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Nuceným správcem může být pouze fyzická osoba zapsaná do seznamu likvidátorů a nucených správců vedeného Českou národní bankou,
+>
+> - a) jejíž zájmy nejsou v rozporu se zájmy osoby, u které se zavádí nucená správa, nebo osob, které využívají jejích služeb,
+>
+> - b) která nemá kvalifikovanou účast na osobě, u které se zavádí nucená správa, nebo není s touto osobou úzce propojená,
+>
+> - c) která v posledních 3 letech neprováděla audit nebo se nepodílela na provedení auditu osoby, u které se zavádí nucená správa.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6b5e082ad380c387569d -->
+
 ### § 144 — Změna rozsahu povolení
 
 > **§ 144**
@@ -1805,6 +3285,58 @@ Technicky se změna rozsahu provádí vydáním **nového rozhodnutí, které zr
 **Typicky rozhodné důkazy / podklady:** protokol o kontrole a zjištěná porušení; doklady o dřívějších porušeních (opakovanost); platné rozhodnutí o povolení a jeho rozsah; žádost o změnu rozsahu; podklady k posouzení přiměřenosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5957d19e2d15b99fd2b5 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 144 — Změna rozsahu povolení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka může odejmout povolení k jednotlivé činnosti uvedené v povolení uděleném podle tohoto zákona, jestliže zjistí
+>
+> - a) závažné nebo opakované porušení povinnosti stanovené tímto zákonem nebo přímo použitelnými předpisy Evropské unie2) nebo porušení podmínky nebo povinnosti stanovené ve vykonatelném rozhodnutí vydaném podle tohoto zákona, nebo
+>
+> - b) závažné nebo opakované nedodržování předpokladů, za kterých bylo povolení uděleno.
+>
+> (2) Česká národní banka změní rozsah povolení podle odstavce 1 nebo změní rozsah povolení na žádost tím, že vydá nové rozhodnutí, kterým zruší dosavadní povolení a ve kterém uvede nový rozsah povolených činností.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5957d19e2d15b99fd2b5 -->
 
 ### § 145 — Odnětí povolení nebo souhlasu a zrušení registrace
 
@@ -1927,6 +3459,104 @@ Technicky se změna rozsahu provádí vydáním **nového rozhodnutí, které zr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2c685fbbee7fe6a7d95e generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 145 — Odnětí povolení nebo souhlasu a zrušení registrace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka odejme povolení udělené podle tohoto zákona osobě,
+>
+> - a) vůči které bylo vydáno rozhodnutí o úpadku, nebo byl insolvenční návrh zamítnut proto, že majetek takové osoby nebude postačovat k úhradě nákladů insolvenčního řízení,
+>
+> - b) které soud nebo správní úřad zakázal činnost,
+>
+> - c) která o to požádá, nebo
+>
+> - d) která je povinnou osobou podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu, a která splňuje podmínky pro uplatnění opatření k řešení krize podle zákona upravujícího ozdravné postupy a řešení krize na finančním trhu vyjma existence veřejného zájmu na řešení krize povinné osoby.
+>
+> (2) Česká národní banka může odejmout povolení udělené podle tohoto zákona, jestliže
+>
+> - a) osoba, které bylo uděleno, nezačala do 12 měsíců od udělení povolení vykonávat povolenou činnost,
+>
+> - b) osoba, které bylo uděleno, nevykonává déle než 6 měsíců činnost, ke které bylo uděleno povolení,
+>
+> - c) povolení bylo uděleno na základě nepravdivých, zavádějících nebo neúplných údajů,
+>
+> - d) osoba, které bylo uděleno, opakovaně nebo závažně porušila povinnost stanovenou tímto zákonem nebo přímo použitelnými předpisy Evropské unie2) nebo porušila podmínku nebo povinnost stanovenou ve vykonatelném rozhodnutí vydaném podle tohoto zákona, nebo
+>
+> - e) došlo ke změně skutečností, na jejichž základě bylo povolení uděleno, nebo
+>
+> - f) dalším trváním nucené správy nelze dosáhnout jejího účelu.
+>
+> (3) Ode dne vykonatelnosti rozhodnutí o odnětí povolení k činnosti obchodníka s cennými papíry nesmí osoba, které bylo povolení odňato, poskytovat investiční služby a je povinna vydat zákazníkům zákaznický majetek. Není-li osoba, které bylo odňato povolení, bankou, může pouze vypořádávat své pohledávky a dluhy vyplývající z poskytnutých investičních služeb. Do vypořádání těchto pohledávek a dluhů se osoba, které bylo odňato povolení, považuje za obchodníka s cennými papíry.
+>
+> (4) Ten, komu bylo odňato povolení k provozování vypořádacího systému s neodvolatelností vypořádání, to bez zbytečného odkladu oznámí účastníkům tohoto vypořádacího systému s neodvolatelností vypořádání. Do dokončení vypořádání na základě příkazů k vypořádání přijatých přede dnem odnětí povolení se i nadále považuje za provozovatele vypořádacího systému s neodvolatelností vypořádání.
+>
+> (5) Osoba, které bylo odňato povolení udělené podle tohoto zákona, může požádat o nové povolení téhož druhu nejdříve po uplynutí 10 let ode dne nabytí právní moci rozhodnutí, kterým bylo předchozí povolení odňato. Ustanovení věty první se nevztahuje na odnětí povolení na vlastní žádost nebo na odnětí povolení z důvodu uvedeného v odstavci 2 písm. a) nebo b).
+>
+> (6) Česká národní banka může odejmout souhlas udělený podle tohoto zákona, jestliže došlo k závažné změně ve skutečnosti, na jejímž základě byl souhlas udělen.
+>
+> (7) Česká národní banka zruší registraci provedenou podle tohoto zákona osobě,
+>
+> - a) ohledně které bylo vydáno rozhodnutí o úpadku nebo soud zamítl insolvenční návrh proto, že její majetek nebude postačovat k úhradě nákladů insolvenčního řízení, nebo
+>
+> - b) které soud nebo správní úřad zakázal činnost,
+>
+> - c) o které se dozví, že jí zaniklo oprávnění podle jiného právního předpisu k výkonu činnosti, která byla zaregistrována podle [[#§ 6a|§ 6a]] nebo [[#§ 39|§ 39]], nebo
+>
+> - d) která o to požádá.
+>
+> (8) Česká národní banka může zrušit registraci provedenou podle tohoto zákona, jestliže
+>
+> - a) osoba, která byla registrována, nezačala do 12 měsíců ode dne provedení registrace vykonávat činnost, pro kterou byla registrována,
+>
+> - b) osoba, která byla registrována, nevykonává déle než 6 měsíců činnost, pro kterou byla registrována,
+>
+> - c) registrace byla provedena na základě nepravdivých nebo neúplných údajů,
+>
+> - d) osoba, která byla registrována, opakovaně nebo závažným způsobem porušuje povinnosti stanovené tímto zákonem, nebo
+>
+> - e) došlo ke změně ve skutečnosti, na jejímž základě byla provedena registrace.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6a, § 39
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2c685fbbee7fe6a7d95e -->
+
 ### Díl 3 — Dohled České národní banky v případech dohledu s prvky zahraničního práva
 
 ### § 146 — Dohled nad zahraniční osobou poskytující investiční služby v České republice
@@ -1998,6 +3628,64 @@ Tato třístupňová struktura reflektuje čl. 35–36 MiFID II a zajišťuje, a
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e432fef642ec4e00b9f4 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 146 — Dohled nad zahraniční osobou poskytující hlavní investiční služby v České republice
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Dohled nad zahraniční osobou, která má sídlo v jiném členském státě Evropské unie, má povolení orgánu dohledu tohoto státu k poskytování investičních služeb a poskytuje investiční služby v České republice prostřednictvím pobočky nebo bez umístění pobočky, vykonává orgán dohledu domovského státu.
+>
+> (2) V případě, že zahraniční osoba, která má sídlo v jiném členském státě Evropské unie a povolení orgánu dohledu tohoto státu k poskytování investičních služeb a poskytuje investiční služby v České republice bez umístění pobočky, nedodržuje povinnosti uložené tímto zákonem na základě práva Evropské unie obchodníkovi s cennými papíry, Česká národní banka na tuto skutečnost upozorní orgán dohledu domovského státu.
+>
+> (3) V případě, že zahraniční osoba, která má sídlo v jiném členském státě Evropské unie a povolení orgánu dohledu tohoto státu k poskytování investičních služeb a která poskytuje investiční služby v České republice prostřednictvím pobočky, nedodržuje povinnosti uložené tímto zákonem na základě práva Evropské unie obchodníkovi s cennými papíry, jiné než které je povinna dodržovat podle [[#§ 24|§ 24]], Česká národní banka na tuto skutečnost upozorní orgán dohledu domovského státu.
+>
+> (4) V případě, že zahraniční osoba podle odstavce 2 nebo [[#§ 3|3]] i přes opatření přijatá orgánem dohledu domovského státu poškozuje nebo ohrožuje svým jednáním zájmy investorů nebo řádné fungování kapitálového trhu, Česká národní banka na tuto skutečnost upozorní orgán dohledu domovského státu a poté uloží opatření k nápravě nebo jiné opatření.
+>
+> (5) V případě, že zahraniční osoba, která poskytuje investiční služby v České republice na základě povolení domovského státu prostřednictvím pobočky, nedodržuje povinnosti obchodníka s cennými papíry, které musí dodržovat podle [[#§ 24|§ 24]], Česká národní banka ji na tuto skutečnost upozorní a požádá o zjednání nápravy.
+>
+> (6) Nezjedná-li osoba podle odstavce 5 nápravu, může jí Česká národní banka uložit opatření k nápravě nebo jiné opatření. O uložených opatřeních k nápravě informuje Česká národní banka orgán dohledu domovského státu.
+>
+> (7) Jestliže opatření k nápravě přijatá podle odstavce 6 nevedla k nápravě, Česká národní banka po informování orgánu dohledu domovského státu může uložit další opatření k nápravě nebo jiné opatření, nebo správní trest.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e432fef642ec4e00b9f4 -->
+
 ### § 147 — Dohled nad tuzemským obchodníkem poskytujícím investiční služby v jiném členském státě EU
 
 > **§ 147**
@@ -2047,6 +3735,54 @@ Tato třístupňová struktura reflektuje čl. 35–36 MiFID II a zajišťuje, a
 **Typicky rozhodné důkazy / podklady:** oznámení hostitelského orgánu; kontrolní zjištění ČNB u tuzemského obchodníka; klasifikace porušené povinnosti (harmonizovaná vs. lokální); doklad o informování hostitelského orgánu o přijatém opatření.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=56d9ca839e7c18bd2397 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 147 — Dohled nad obchodníkem s cennými papíry poskytujícím hlavní investiční služby v jiném členském státě Evropské unie
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Obchodníkovi s cennými papíry, který poskytuje investiční služby v hostitelském státě, může Česká národní banka uložit správní trest, opatření k nápravě nebo jiné opatření za porušení povinností vyplývajících z práva Evropské unie v oblasti poskytování investičních služeb, jejichž plnění podléhá dohledu České národní banky, na základě oznámení orgánu dohledu hostitelského státu, nebo i bez tohoto oznámení. O správním trestu, opatření k nápravě nebo jiném opatření, které Česká národní banka uloží na základě oznámení orgánu dohledu hostitelského státu, bez zbytečného odkladu informuje tento orgán dohledu.
+>
+> (2) Česká národní banka dohlíží nad činností obchodníka s cennými papíry, který poskytuje investiční služby v hostitelském státě, na území hostitelského státu podle tohoto zákona. Pokud jde o poskytování služeb prostřednictvím pobočky, nepodléhá dohledu České národní banky plnění povinností uvedených v § 24 odst. 5; nad plněním těchto povinností dohlíží orgán dohledu hostitelského státu podle práva tohoto státu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=56d9ca839e7c18bd2397 -->
 
 ### § 148 — Dohled nad zahraničním provozovatelem obchodního systému
 
@@ -2098,6 +3834,54 @@ Tato třístupňová struktura reflektuje čl. 35–36 MiFID II a zajišťuje, a
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7adf0f7fae35ce59c820 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 148 — Dohled nad zahraničním provozovatelem obchodního systému
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) V případě, že zahraniční osoba, která v České republice působí jako provozovatel obchodního systému na základě povolení orgánu dohledu jiného členského státu Evropské unie, nedodržuje povinnosti provozovatele obchodního systému vyplývající z práva Evropské unie, Česká národní banka na tuto skutečnost upozorní orgán dohledu domovského státu.
+>
+> (2) V případě, že osoba podle odstavce 1 i přes opatření přijatá orgánem dohledu domovského státu, poškozuje nebo ohrožuje svým jednáním zájmy investorů nebo řádné fungování kapitálového trhu, Česká národní banka na tuto skutečnost upozorní orgán dohledu domovského státu a poté uloží opatření k nápravě nebo jiné opatření.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7adf0f7fae35ce59c820 -->
+
 ### § 149a — Dohled nad tuzemským provozovatelem obchodního systému působícím v jiném členském státě EU
 
 > **§ 149a**
@@ -2145,6 +3929,52 @@ Tato třístupňová struktura reflektuje čl. 35–36 MiFID II a zajišťuje, a
 **Typicky rozhodné důkazy / podklady:** oznámení hostitelského orgánu; vlastní kontrolní zjištění ČNB; doklady o porušení povinností provozovatele plynoucích z práva EU; doklad o informování hostitelského orgánu o přijatém opatření.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=60514a16517c2960b069 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 149a — Dohled nad provozovatelem obchodního systému se sídlem v České republice provozujícím obchodní systém v jiném členském státě Evropské unie
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Provozovateli obchodního systému se sídlem v České republice, který provozuje obchodní systém v jiném členském státě Evropské unie, může Česká národní banka uložit správní trest, opatření k nápravě nebo jiné opatření za porušení povinností provozovatele obchodního systému vyplývajících z práva Evropské unie, na základě oznámení orgánu dohledu tohoto jiného členského státu Evropské unie, nebo i bez tohoto oznámení. O správním trestu, opatření k nápravě nebo jiném opatření, které Česká národní banka uloží na základě oznámení orgánu dohledu jiného členského státu Evropské unie, bez zbytečného odkladu informuje tento orgán dohledu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=60514a16517c2960b069 -->
 
 ### § 149b — Odpovědnost za škodu při přenosu pravomocí v oblasti prospektu
 
@@ -2196,6 +4026,52 @@ Tato třístupňová struktura reflektuje čl. 35–36 MiFID II a zajišťuje, a
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=546084af591a7edcd8dc generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 149b — Přenos pravomocí podle nařízení Evropské unie o prospektu, který má být uveřejněn při veřejné nabídce nebo přijetí cenných papírů k obchodování na regulovaném trhu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Odpovědnost za škodu způsobenou rozhodnutím nebo nesprávným úředním postupem orgánu dohledu jiného členského státu Evropské unie při výkonu dohledu namísto České národní banky v oblasti upravené v přímo použitelném předpise Evropské unie upravujícím prospekt, který má být uveřejněn při veřejné nabídce nebo přijetí cenných papírů k obchodování na regulovaném trhu66), se posuzuje jako odpovědnost státu podle zákona upravujícího odpovědnost za škodu způsobenou při výkonu veřejné moci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=546084af591a7edcd8dc -->
+
 ### § 149e — Porušení povinností v oblasti veřejné nabídky nebo prospektu osobou nepodléhající dohledu ČNB
 
 > **§ 149e**
@@ -2246,6 +4122,54 @@ Tato třístupňová struktura reflektuje čl. 35–36 MiFID II a zajišťuje, a
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7c763022a80cafac2d53 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 149e — Porušení povinnosti týkající se veřejné nabídky nebo prospektu osobou nepodléhající dohledu České národní banky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) V případě, že emitent, který žádá o přijetí cenných papírů k obchodování na regulovaném trhu nebo činí veřejnou nabídku v České republice, anebo obchodník s cennými papíry nebo osoba podle § 24 odst. 5 nebo § 28 odst. 6, pokud cenné papíry umísťuje nebo prodává, porušuje povinnosti vyplývající z práva Evropské unie týkající se veřejné nabídky a prospektu, jejichž plnění nepodléhá dohledu České národní banky, Česká národní banka na tuto skutečnost upozorní orgán dohledu jiného členského státu Evropské unie, který vykonává dohled nad plněním těchto povinností, a Evropský orgán pro cenné papíry a trhy.
+>
+> (2) Jestliže opatření k nápravě přijatá orgánem dohledu podle odstavce 1 nevedla k nápravě, Česká národní banka uloží emitentovi nebo osobě podle odstavce 1 opatření k nápravě nebo jiné opatření, nezbytné k ochraně zájmů investorů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24, § 28
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7c763022a80cafac2d53 -->
+
 ### § 149f — Porušení informační nebo oznamovací povinnosti osobou nepodléhající dohledu ČNB
 
 > **§ 149f**
@@ -2295,6 +4219,54 @@ Tato třístupňová struktura reflektuje čl. 35–36 MiFID II a zajišťuje, a
 **Typicky rozhodné důkazy / podklady:** doklady o prodlení/porušení informačních povinností emitenta; evidence hlasovacích práv a překročení prahů; komunikace s domovským orgánem; doklady o (ne)reakci zahraničního orgánu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c9307b42d881f7caff7e generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 149f — Porušení informační nebo oznamovací povinnosti osobou nepodléhající dohledu České národní banky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) V případě, že emitent akcie nebo obdobného cenného papíru představujícího podíl na emitentovi přijatého k obchodování na regulovaném trhu, dluhopisu, obdobného cenného papíru představujícího právo na splacení dlužné částky nebo investičního cenného papíru, jehož hodnota je určena splacením dlužné částky, přijatého k obchodování na regulovaném trhu, nebo v případě, kdy osoba, která dosáhne, překročí nebo sníží svůj podíl na všech hlasovacích právech takového emitenta způsobem podle § 122 odst. 1 a [[#§ 2|2]], porušuje informační nebo oznamovací povinnosti vyplývající z práva Evropské unie, jejichž plnění nepodléhá dohledu České národní banky, Česká národní banka na tuto skutečnost upozorní orgán dohledu jiného členského státu Evropské unie, jehož dohledu plnění těchto povinností podléhá.
+>
+> (2) Jestliže opatření k nápravě přijatá orgánem dohledu podle odstavce 1 nevedla k nápravě, Česká národní banka uloží emitentovi nebo osobě podle odstavce 1 opatření k nápravě nebo jiné opatření, nezbytné k ochraně zájmů investorů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 122, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c9307b42d881f7caff7e -->
 
 ### Díl 4 — Spolupráce orgánů dohledu
 
@@ -2364,6 +4336,64 @@ Zvláštní spolupráce pro **komoditní deriváty** (odst. 6): ČNB koordinuje 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f3f9ec6aa20f3d8148e2 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 149g
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) V rámci výkonu dohledu podle tohoto zákona Česká národní banka spolupracuje s orgány dohledu jiných členských států Evropské unie.
+>
+> (2) Česká národní banka poskytuje asistenci orgánům dohledu jiných členských států Evropské unie nebo jím pověřeným osobám, zejména v oblasti výkonu dohledu nebo poskytování informací. Česká národní banka zavede, udržuje a uplatňuje vhodná administrativní a organizační opatření za účelem usnadnění asistence podle věty první.
+>
+> (3) V případě, že zahraniční regulovaný trh působí v České republice a jeho činnost nabyla podstatného významu pro fungování trhů s investičními nástroji a ochranu investorů v České republice, dohodne Česká národní banka bez zbytečného odkladu přiměřený způsob spolupráce s orgánem dohledu domovského státu organizátora regulovaného trhu.
+>
+> (4) Česká národní banka může využít svých pravomocí pro účely spolupráce i v případech podle odstavce 5, kdy vyšetřované jednání nezakládá porušení českého práva.
+>
+> (5) Obdrží-li Česká národní banka oznámení od orgánu dohledu jiného členského státu Evropské unie o důvodném podezření na porušení povinnosti vyplývající z práva Evropské unie v oblasti činností na finančních trzích1),2) na území České republiky, nebo spáchané osobou, která podléhá dohledu České národní banky, přijme vhodná opatření.
+>
+> (6) Česká národní banka spolupracuje s orgány dohledu jiných členských států Evropské unie, které dohlížejí na obchodní systémy, ve kterých jsou deriváty zemědělských komodit uvedené v § 134b odst. 1 písm. a) obchodovány ve významném množství nebo ve kterých jsou obchodovány zásadní nebo významné komoditní deriváty uvedené v § 134b odst. 1 písm. b), mimo jiné prostřednictvím výměny příslušných údajů, aby bylo umožněno sledování a vymáhání dodržování limitu podle § 134b odst. 1.
+>
+> (7) Kritéria, podle nichž je možné považovat činnost zahraničního regulovaného trhu působícího v České republice za činnost podstatného významu pro fungování trhů s investičními nástroji a ochranu investorů v České republice pro účely odstavce 3, upravuje čl. 90 nařízení Komise v přenesené pravomoci (EU) [[2017/565|2017/565]]78).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 134b
+
+##### Souvisící předpisy
+
+- akt EU 2017/565 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f3f9ec6aa20f3d8148e2 -->
+
 ### § 149ga — Výměna informací a opatření při přeshraničních rizicích
 
 > **§ 149ga**
@@ -2431,6 +4461,62 @@ Odst. 6 umožňuje ČNB jako orgánu hodnotícímu maržové požadavky obchodn�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b2164a60791115ff08c7 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 149ga
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka poskytne orgánu dohledu hostitelského státu bez zbytečného odkladu veškeré informace a zjištění o jakýchkoli potenciálních problémech a rizicích, které obchodník s cennými papíry představuje pro ochranu zákazníků nebo pro stabilitu finančního systému v hostitelském státě, které zjistila při dohledu nad činnostmi obchodníka s cennými papíry.
+>
+> (2) Česká národní banka jedná podle informací poskytnutých orgánem dohledu hostitelského státu tak, že přijme veškerá opatření nezbytná k odvrácení nebo napravení potenciálních problémů a rizik, které obchodník s cennými papíry představuje pro ochranu zákazníků nebo pro stabilitu finančního systému v hostitelském státě. Česká národní banka na žádost podrobně vysvětlí orgánu dohledu hostitelského státu, jak zohlednila informace a zjištění poskytnutá tímto orgánem dohledu.
+>
+> (3) Poskytne-li Česká národní banka informace podle odstavce 2 orgánu dohledu domovského státu a domnívá-li se, že orgán dohledu domovského státu nepřijal nezbytná opatření k odvrácení nebo napravení potenciálních problémů a rizik, které obchodník s cennými papíry představuje, může Česká národní banka poté, co informovala tento orgán dohledu domovského státu, Evropský orgán pro bankovnictví a Evropský orgán pro cenné papíry a trhy, přijmout k ochraně zákazníků, jimž jsou poskytovány služby, nebo k ochraně stability finančního systému vhodná opatření.
+>
+> (4) Česká národní banka může upozornit Evropský orgán pro bankovnictví na případy, v nichž byla žádost o spolupráci, zejména žádost o výměnu informací, zamítnuta nebo jí nebylo v přiměřené lhůtě vyhověno.
+>
+> (5) Pokud Česká národní banka nesouhlasí s opatřeními orgánu dohledu hostitelského státu, může postoupit záležitost Evropskému orgánu pro bankovnictví k postupu podle čl. 19 nařízení Evropského parlamentu a Rady (EU) č. [[1093/2010|1093/2010]]106).
+>
+> (6) Pro účely posouzení splnění podmínky podle čl. 23 odst. 1 prvního pododstavce písm. c) nařízení Evropského parlamentu a Rady (EU) 2019/203372) může Česká národní banka požádat orgán dohledu domovského státu člena clearingového systému, aby jí poskytl informace týkající se modelu marží a parametrů použitých pro výpočet maržového požadavku dotčeného obchodníka s cennými papíry.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 1093/2010 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b2164a60791115ff08c7 -->
+
 ### § 149gb — Sbližování nástrojů a postupů dohledu; SREP kolegium
 
 > **§ 149gb**
@@ -2480,6 +4566,54 @@ Odst. 6 umožňuje ČNB jako orgánu hodnotícímu maržové požadavky obchodn�
 **Typicky rozhodné důkazy / podklady:** struktura a vlastnické vztahy skupiny; doklad o ustavení kolegia a koordinační ujednání; výstupy EBA (RTS/ITS, obecné pokyny); záznamy o společných rozhodnutích kolegia.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a1df0c36186d1a3eda1a generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 149gb
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka při výkonu své působnosti při uplatňování tohoto zákona a přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky na investiční podniky72) vezme v úvahu sbližování v oblasti nástrojů a postupů dohledu.
+>
+> (2) Česká národní banka se účastní činností Evropského orgánu pro bankovnictví a případně kolegií orgánů dohledu podle [[#§ 152|§ 152]], čl. 48 směrnice Evropského parlamentu a Rady (EU) 2019/203480) a čl. 116 směrnice Evropského parlamentu a Rady [[2013/36/EU|2013/36/EU]]81).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 152
+
+##### Souvisící předpisy
+
+- akt EU 2013/36 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a1df0c36186d1a3eda1a -->
 
 ### § 149h — Spolupráce při dohledu nad komoditními deriváty a emisními povolenkami
 
@@ -2537,6 +4671,57 @@ Odst. 3 definuje legislativní zkratku „derivát týkající se zemědělskýc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e9c99a9af18950a681d7 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 149h
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Při výkonu dohledu nad spotovými a dražebními trhy v souvislosti s povolenkami na emise skleníkových plynů Česká národní banka spolupracuje s Ministerstvem životního prostředí, s Českou inspekcí životního prostředí a s operátorem trhu podle energetického zákona, za účelem zajištění získání konsolidovaného přehledu o trzích s povolenkami na emise.
+>
+> (2) Česká národní banka v souvislosti s deriváty týkajícími se zemědělských komodit spolupracuje s veřejnými orgány, které jsou příslušné k dohledu nad fyzickými zemědělskými trhy podle nařízení Evropského parlamentu a Rady (EU) č. [[1308/2013|1308/2013]]58) a k jejich správě a regulaci, a poskytuje těmto orgánům zprávy.
+>
+> (3) Derivátem týkajícím se zemědělských komodit se v tomto zákoně rozumí derivát, který se týká některého z produktů uvedeného v čl. 1 a v částech I až XX a XXIV/1 přílohy I k nařízení Evropského parlamentu a Rady (EU) č. [[1308/2013|1308/2013]] nebo některého z produktů uvedeného v příloze I nařízení Evropského parlamentu a Rady (EU) č. [[1379/2013|1379/2013]]107).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 1308/2013 (výslovně uvedeno v místním znění)
+- akt EU 1379/2013 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e9c99a9af18950a681d7 -->
+
 ### § 149i — Žádost o spolupráci zahraničního orgánu dohledu; kontroly na místě
 
 > **§ 149i**
@@ -2590,6 +4775,58 @@ Odst. 3 definuje legislativní zkratku „derivát týkající se zemědělskýc
 **Typicky rozhodné důkazy / podklady:** indicie o ohrožení finanční stability (podklad pro odst. 3); doklad o předchozí informaci domovskému orgánu; plán a protokol kontroly na místě; korespondence o notifikaci domovského orgánu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=afa4b63eb4ffe5b448c2 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 149i
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka může požádat orgán dohledu jiného členského státu Evropské unie o spolupráci při výkonu dohledu nebo kontrole na místě u osoby podléhající jeho dohledu.
+>
+> (2) Česká národní banka může vyžadovat informace a podklady od zahraničních účastníků regulovaného trhu; o tomto postupu informuje orgán dohledu jejich domovského členského státu.
+>
+> (3) Česká národní banka může provádět kontroly na místě a vyžadovat informace o činnostech, které zahraniční obchodník s cennými papíry vykonává na území České republiky prostřednictvím pobočky, pokud to považuje za důležité z hlediska finanční stability v České republice.
+>
+> (4) Česká národní banka před zahájením kontroly na místě podle odstavce 3 informuje orgán dohledu dotčeného státu o účelu kontroly a po jejím ukončení poskytne orgánu dohledu veškeré informace, které jsou významné pro hodnocení rizikovosti obchodníka s cennými papíry nebo pro finanční stabilitu v České republice.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=afa4b63eb4ffe5b448c2 -->
 
 ### § 149j — Plnění žádostí zahraničních orgánů dohledu
 
@@ -2648,6 +4885,60 @@ Odst. 3 definuje legislativní zkratku „derivát týkající se zemědělskýc
 **Typicky rozhodné důkazy / podklady:** žádost zahraničního orgánu o spolupráci/informace; doklad o probíhajícím soudním řízení nebo pravomocném rozsudku v téže věci a vůči týmž osobám; podklady o obchodování dohlížené osoby; ujednání o podmínkách dalšího nakládání s informacemi.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=eb820da3f579057cc7bd generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 149j
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka na základě žádosti orgánu dohledu jiného členského státu Evropské unie o spolupráci při výkonu dohledu nebo kontrole na místě provede požadovanou činnost sama nebo poskytne součinnost při jejím provedení tomuto orgánu dohledu nebo jím pověřeným expertům a auditorům.
+>
+> (2) Česká národní banka bez zbytečného odkladu poskytne na žádost orgánu dohledu jiného členského státu Evropské unie tomuto orgánu veškeré požadované informace související s výkonem dohledu nad kapitálovým trhem; Česká národní banka může podmínit poskytnutí informací tím, že poskytnuté informace nesmějí být dále poskytnuty bez jejího předchozího souhlasu.
+>
+> (3) Česká národní banka může odmítnout žádost o poskytnutí spolupráce při výkonu dohledu podle odstavce 1 nebo o poskytnutí informací podle odstavce 2, pokud
+>
+> - a) bylo v České republice zahájeno soudní řízení v téže věci proti osobám, kterých se žádost týká, nebo
+>
+> - b) nabyl právní moci rozsudek týkající se téže věci a osob, kterých se týká i žádost.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eb820da3f579057cc7bd -->
 
 ### § 149k — Povinné konzultace s orgánem dohledu jiného členského státu EU
 
@@ -2722,6 +5013,70 @@ Stanovisko zahraničního orgánu není pro ČNB závazné, avšak ČNB je povin
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=360482fafb6166e1d38a generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 149k
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka požádá o stanovisko orgán dohledu jiného členského státu Evropské unie
+>
+> - a) před udělením souhlasu podle § 10b odst. 1, jestliže je žadatel o souhlas zahraniční bankou, zahraniční pojišťovnou, zahraničním obchodníkem s cennými papíry, zahraniční investiční společností nebo osobou ovládající takovéto osoby,
+>
+> - b) před stanovením jednotných limitů podle [[#§ 134b|§ 134b]] a
+>
+> - c) před udělením povolení k činnosti obchodníka s cennými papíry, jestliže je žadatel o povolení ovládán zahraničním obchodníkem s cennými papíry, zahraničním organizátorem regulovaného trhu nebo zahraniční bankou nebo osobou, která ovládá zahraničního obchodníka s cennými papíry nebo zahraniční banku.
+>
+> (2) Česká národní banka požádá o stanovisko orgán dohledu jiného členského státu Evropské unie, který vykonává dohled nad zahraničními bankami nebo zahraničními pojišťovnami, před udělením povolení k činnosti obchodníka s cennými papíry nebo povolení k činnosti organizátora regulovaného trhu, jestliže je žadatel o povolení ovládán
+>
+> - a) zahraniční bankou nebo zahraniční pojišťovnou, nebo
+>
+> - b) osobou, která ovládá zahraniční banku nebo zahraniční pojišťovnu.
+>
+> (3) Při žádosti o stanovisko podle odstavce 1 písm. c) a podle odstavce 2 Česká národní banka požádá zejména o stanovisko k
+>
+> - a) vhodnosti společníků a účastníků a
+>
+> - b) důvěryhodnosti a zkušenosti osob, které skutečně řídí danou činnost a které se podílejí na vedení jiného subjektu ve stejné skupině.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10b, § 134b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=360482fafb6166e1d38a -->
+
 ### § 149l — Postoupení sporu ESMA
 
 > **§ 149l**
@@ -2777,6 +5132,58 @@ Stanovisko zahraničního orgánu není pro ČNB závazné, avšak ČNB je povin
 **Typicky rozhodné důkazy / podklady:** žádosti o spolupráci/výměnu informací a doklad o jejich zamítnutí/prodlení; korespondence o stanovení limitů dle § 134b; oznámení důvodného podezření z porušení práva EU a doklad o (ne)reakci; časový přehled bilaterální komunikace.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=10b16e5bb3dca07ad7e5 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 149l
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> Česká národní banka se může obrátit na Evropský orgán pro cenné papíry a trhy se žádostí o řešení sporu mezi ní a orgánem dohledu jiného členského státu Evropské unie v souladu s čl. 19 nařízení Evropského parlamentu a Rady (EU) č. [[1095/2010|1095/2010]], jestliže
+>
+> - a) se s tímto orgánem dohledu neshodne na stanovení jednotných limitů podle [[#§ 134b|§ 134b]] nebo podle srovnatelného ustanovení zahraničního práva,
+>
+> - b) tento orgán dohledu v přiměřené době nevyhověl její žádosti o spolupráci nebo o výměnu informací, nebo tuto žádost zamítl, nebo
+>
+> - c) tento orgán dohledu v přiměřené době nereagoval na její oznámení důvodného podezření porušení povinnosti vyplývající z práva Evropské unie v oblasti činností na finančních trzích1),2).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 134b
+
+##### Souvisící předpisy
+
+- akt EU 1095/2010 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=10b16e5bb3dca07ad7e5 -->
 
 ### Díl 5 — Informační povinnosti České národní banky
 
@@ -2837,3 +5244,50 @@ Zákon odkazuje na směrnice bez čísla — je třeba vykládat je jako MiFID I
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=94c7b8200aee36128be7 generator=2026-07-17.4 source_sha256=e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3 -->
+#### Revizní doplnění k § 149m
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2004/256-2004 Zákon o podnikání na kapitálovém trhu.md`; identifikátor verze: `SB-2004-00256_2026-01-11`; SHA-256: `e34f7573db182c1408700454c1100c29f321f48738b3f6215b65f5073c75b9e3`.
+
+##### Znění ustanovení
+
+> (1) Česká národní banka plní prostřednictvím ministerstva ve vztahu k Evropské komisi informační povinnosti, které pro ni vyplývají ze směrnice Evropského parlamentu a Rady o trzích finančních nástrojů nebo ze směrnice Evropského parlamentu a Rady o obezřetnostním dohledu nad investičními podniky.
+>
+> (2) Česká národní banka dále plní ve vztahu k Evropskému orgánu pro cenné papíry a trhy, Evropskému orgánu pro bankovnictví, Agentuře Evropské unie pro spolupráci energetických regulačních orgánů59) a orgánům dohledu jiných členských států Evropské unie informační povinnosti, které pro ni vyplývají ze směrnice Evropského parlamentu a Rady o trzích finančních nástrojů a ze směrnice Evropského parlamentu a Rady o obezřetnostním dohledu nad investičními podniky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=94c7b8200aee36128be7 -->
